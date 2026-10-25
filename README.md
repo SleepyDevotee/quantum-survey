@@ -77,7 +77,7 @@ Paper 3 is the source of the risk score below.
 | OpenSSL | 4.0.3 | [Source code](https://github.com/openssl/openssl) · [s_client manual](https://docs.openssl.org/master/man1/openssl-s_client/) |
 | Python | 3.15.1 | |
 | OS | macOS | |
-| Network | Home internet, Los Angeles area, VPN off during all probes | |
+| Network | Direct connection, no VPN or proxy | |
 
 ML-KEM support was confirmed with `openssl list -kem-algorithms`.
 
