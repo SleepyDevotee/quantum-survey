@@ -78,9 +78,6 @@ Paper 3 is the source of the risk score below.
 | Python | 3.15.1 | |
 | OS | macOS | |
 | Network | Home internet, Los Angeles area, VPN off during all probes | |
-| Network | Home internet, Los Angeles area, VPN off during all probes | |
-| Network | Home internet, Los Angeles area, VPN off during all probes | |
-| Network | Home internet, Los Angeles area, VPN off during all probes | |
 
 ML-KEM support was confirmed with `openssl list -kem-algorithms`.
 
