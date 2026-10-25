@@ -1,0 +1,93 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=Connecticut, O=The Cigna Group, CN=www.cigna.com
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jan 21 00:00:00 2026 GMT; NotAfter: Jan 21 23:59:59 2027 GMT
+ 1 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Mar 21 23:59:59 2036 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Mar 21 23:59:59 2046 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHZjCCBc6gAwIBAgIRAMg94BNtyR8uOIl5jYcBkpEwDQYJKoZIhvcNAQELBQAw
+YDELMAkGA1UEBhMCR0IxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBQdWJsaWMgU2VydmVyIEF1dGhlbnRpY2F0aW9uIENBIE9WIFIz
+NjAeFw0yNjAxMjEwMDAwMDBaFw0yNzAxMjEyMzU5NTlaMFUxCzAJBgNVBAYTAlVT
+MRQwEgYDVQQIEwtDb25uZWN0aWN1dDEYMBYGA1UEChMPVGhlIENpZ25hIEdyb3Vw
+MRYwFAYDVQQDEw13d3cuY2lnbmEuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAqse5G4jo00cIU0LWMc/mm0MPaaF/LAA2/Roj9GH5XIEjoN/n80II
+BO7LNmSpMnk+C3SOrDu5pYTeRriGk7MTvYOKFMLF1VmqvmulGgXg/Ir1mr3vbxHH
+0jlD2FW0Q5J2cRr/NTlK2N2skmIrhrVKxFANlWXZ7f5J0XjVvNnOIWuPg71e3tr6
+27OgCltR9G+qjQUnt/5iKrqQPvgwra7CU6R6tjdFLz5QRUWtS3q1VvGg6SE7qsW8
+AJcVpZPCaRcCccb9vFHZ6gQDGrzJgT2Nb5KtmrDsqQRaxvlf8+/Gvi2uwkADONZf
+WPwGRMCOg0p1os8ROjPn0sydkgpIM0K0jQIDAQABo4IDpDCCA6AwHwYDVR0jBBgw
+FoAU42Z0u3BojSxdTg6mSo+bNyKcgpIwHQYDVR0OBBYEFMbik4rJ+G1OxUbZeFYy
+Ux2QozZoMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMBMGA1UdJQQMMAoG
+CCsGAQUFBwMBMEoGA1UdIARDMEEwNQYMKwYBBAGyMQECAQMEMCUwIwYIKwYBBQUH
+AgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECAjBUBgNVHR8ETTBL
+MEmgR6BFhkNodHRwOi8vY3JsLnNlY3RpZ28uY29tL1NlY3RpZ29QdWJsaWNTZXJ2
+ZXJBdXRoZW50aWNhdGlvbkNBT1ZSMzYuY3JsMIGEBggrBgEFBQcBAQR4MHYwTwYI
+KwYBBQUHMAKGQ2h0dHA6Ly9jcnQuc2VjdGlnby5jb20vU2VjdGlnb1B1YmxpY1Nl
+cnZlckF1dGhlbnRpY2F0aW9uQ0FPVlIzNi5jcnQwIwYIKwYBBQUHMAGGF2h0dHA6
+Ly9vY3NwLnNlY3RpZ28uY29tMIIBjAYKKwYBBAHWeQIEAgSCAXwEggF4AXYAdgAc
+n2gs6frwRWlQ+BuWiofd2zIQ2EzmyLLjglJKxM9ZnwAAAZve9X/UAAAEAwBHMEUC
+IELVQFpjfCdF/BkKLmTI6IcPKpIDXGJLwgrERZHLwnboAiEA7TZSwib5UBVK6zfx
+Aw5AyS0WC4LvHBL0cJJ5798RUYYAfQCOykcLrN5q86IGsKR6hLdG/h/Gv5U+Jeab
+TuQCSPPG6AAAAZve9YHqAAgAAAUAAaptUgQDAEYwRAIgSSRjIPxrQJTDk57G5orv
+JIC/XsZ/3YGJ44IOEe6psH4CIBbIA7DB1l4XuTA3qthqHFSp0JhW2jdYSPn4h9Ih
+1CsmAH0AWW5sM4aUsllyolbIoOjdkEp26Ag92oc7AQg4KBQ87lkAAAGb3vWAigAI
+AAAFAAASnA8EAwBGMEQCIC93UE339UxKCShmre2esQ5J1xwCkAN4rjz5oTAVZsgd
+AiBD/MwBktgwqmR1B2YgP+usxiXDFJrQPiW3/+wQUHGp9zByBgNVHREEazBpgg13
+d3cuY2lnbmEuY29tggljaWduYS5jb22CEnNlYXJjaC5jaWduYS5jby51a4IWc2Vh
+cmNoLmNpZ25hZ2xvYmFsLmNvbYIhd3d3LWNpZ25hLWNvbS5leHR3aWRlaXAuY2ln
+bmEuY29tMA0GCSqGSIb3DQEBCwUAA4IBgQBnk1lKM42ELuuzsIlFZfi6sLysOnmK
+WqcZuvLsNCyPOPn9d6YYMB1A6o7m38zROwZCeo2DgLiD2wbU7TT7atI5kdKSQY4n
+RVJpkSBt7x+jbzIFS71XPdwgW7vBfAQDpCFEWwU3XsBY5p4Hy5x755Xc0HWj2Kvk
+85tbPoHTpEs8bm89N3DYJRPkz+d5Mx9nJ9tkGYpGnlVckewNbGvtqs5ekwCurIED
+SD+MolJw2lZv70uJPlRQQrN6nkpaav2Zh+hqZAUpsdFTWJRzty3wD8Uv1PuGAaNq
+L2P9VTRUHdBlXyMbIn2yzJSwqpHqIbX3rtRWZD1qAG6i8I7IGTc4j1ETL0pHmYxE
+r5VHFJMOQB4e7Ycki1ZQdQbT7c4l4DBvASvf9ixtBkYF981do0TDxP4m49ObiM/1
+sr3APFpBCm+ExT7oK+HSBKlnlrLU7D7T69jvqylv4o11c/lBr6gErjrQNwOHiEU+
+GpR7wv+CfvjFzwcXKcqr9zEFIwmFQYLD3wI=
+-----END CERTIFICATE-----
+subject=C=US, ST=Connecticut, O=The Cigna Group, CN=www.cigna.com
+issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pkcs1_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 5443 bytes and written 1616 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 9A30DC8B6EF5D0EE82F9976ED43D7C76A8EE4372FCA863161F5789C9A6CDC887
+    Session-ID-ctx: 
+    Master-Key: 9705CEEA6E3188E5F0394658C318CB0E816327CA4602F74667DED12487CA245504E2E70F4868E8CF308E1213CEBBFE42
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1792921660
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

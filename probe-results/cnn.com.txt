@@ -1,0 +1,102 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=New York, L=New York, O=Warner Bros. Discovery, Inc., CN=cnn.com
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas E46 OV TLS CA 2026 Q3
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Sep  3 10:00:43 2026 GMT; NotAfter: Mar 21 10:00:42 2027 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas E46 OV TLS CA 2026 Q3
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Root E46
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Apr 22 03:01:09 2026 GMT; NotAfter: Apr 22 00:00:00 2028 GMT
+ 2 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Root E46
+   i:OU=GlobalSign ECC Root CA - R5, O=GlobalSign, CN=GlobalSign
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Nov 20 00:00:00 2019 GMT; NotAfter: Jan 19 00:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFaDCCBO+gAwIBAgIQASuq2T7W70Hj4s23+nfBaDAKBggqhkjOPQQDAzBZMQsw
+CQYDVQQGEwJCRTEZMBcGA1UEChMQR2xvYmFsU2lnbiBudi1zYTEvMC0GA1UEAxMm
+R2xvYmFsU2lnbiBBdGxhcyBFNDYgT1YgVExTIENBIDIwMjYgUTMwHhcNMjYwOTAz
+MTAwMDQzWhcNMjcwMzIxMTAwMDQyWjBsMQswCQYDVQQGEwJVUzERMA8GA1UECAwI
+TmV3IFlvcmsxETAPBgNVBAcMCE5ldyBZb3JrMSUwIwYDVQQKDBxXYXJuZXIgQnJv
+cy4gRGlzY292ZXJ5LCBJbmMuMRAwDgYDVQQDDAdjbm4uY29tMHYwEAYHKoZIzj0C
+AQYFK4EEACIDYgAEQGug5UjDAVp/KmLMlsTQLUj51zVdVIJhQK88UIYRdcLHJdVn
+04I08lEyyNUtMWty1BhIVdOgk8yZIomTOCLmNNCQVESWt90Lcx12L0QserISAB3R
+v/PdqEwuNBAY6JJ8o4IDZzCCA2MwHQYDVR0RBBYwFIIHY25uLmNvbYIJKi5jbm4u
+Y29tMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEFBQcDATAdBgNVHQ4E
+FgQU7qMd2vmmdIJ4fFaIdJjGhoXmweYwVwYDVR0gBFAwTjAIBgZngQwBAgIwQgYK
+KwYBBAGgMgoBAjA0MDIGCCsGAQUFBwIBFiZodHRwczovL3d3dy5nbG9iYWxzaWdu
+LmNvbS9yZXBvc2l0b3J5LzAMBgNVHRMBAf8EAjAAMIGgBggrBgEFBQcBAQSBkzCB
+kDBBBggrBgEFBQcwAYY1aHR0cDovL29jc3AuZ2xvYmFsc2lnbi5jb20vY2EvZ3Nh
+dGxhc2U0Nm92dGxzY2EyMDI2cTMwSwYIKwYBBQUHMAKGP2h0dHA6Ly9zZWN1cmUu
+Z2xvYmFsc2lnbi5jb20vY2FjZXJ0L2dzYXRsYXNlNDZvdnRsc2NhMjAyNnEzLmNy
+dDAfBgNVHSMEGDAWgBR8diqiBjWYAyFqZJcnoiZqbgqaUjBJBgNVHR8EQjBAMD6g
+PKA6hjhodHRwOi8vY3JsLmdsb2JhbHNpZ24uY29tL2NhL2dzYXRsYXNlNDZvdnRs
+c2NhMjAyNnEzLmNybDCCAYYGCisGAQQB1nkCBAIEggF2BIIBcgFwAHcAYEyar3p/
+d18B1Ab8kg3ImesLHH34yVIb+voXdzuXi8kAAAGgZraz9QAABAMASDBGAiEAma6X
+9DLuo+wVY2uNAkTztsTRkqcwtZW1qctXomvnKbQCIQDGF3VUbXhC+EXWJtmnpGzu
+E5KgGaCgBeHlyyEm7jMCwgB+AI7KRwus3mrzogawpHqEt0b+H8a/lT4l5ptO5AJI
+88boAAABoGa2tfMACAAABQAMTAohBAMARzBFAiAf7wBiqK8T7LZmcEv2Hl27PUUf
+11F315uGCN3hRWadNwIhAM4uHrTI020tDcDISvtZ8jsL37z7xoSXDoOI2Air0bya
+AHUATGPcmOWcHauI9h6KPd6uj6tEozd7X5uUw/uhnPzBviYAAAGgZra24wAABAMA
+RjBEAiBPCQCeMoBtX278sIX0lhP9UU1hfJ9oYI2nMP9jbYIcaAIgP6M+DqpjLdNH
+R0d9b1XUR6b2BwWbw1P17ttWZpaa+CEwCgYIKoZIzj0EAwMDZwAwZAIwEc1tUnz4
+mMPSvCn/4U1Z4hlRVqIXPcnnn7JqQM6siGrgm09Yb5gAi1Qba3GPrLqSAjB3O56t
+Zycnplz3jaF9tNfkAwrQxApFVVC5cL3SOQG3R+0hTbpA0QZdJb66BdVVW8A=
+-----END CERTIFICATE-----
+subject=C=US, ST=New York, L=New York, O=Warner Bros. Discovery, Inc., CN=cnn.com
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas E46 OV TLS CA 2026 Q3
+---
+No client certificate CA names sent
+Peer signing digest: SHA384
+Peer signature type: ecdsa_secp384r1_sha384
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 4464 bytes and written 1560 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 384 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: E8BE15B2273F29D187981FDB1452E6D4F73734CE44C662E278500E50735B86A4
+    Session-ID-ctx: 
+    Resumption PSK: AB9F3338C51AD528BC82ADDFFDDF379D8D7CF4B7251D29259A2D003A66C06F2D
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
+    0010 - 2a 12 e5 09 96 a6 59 5f-f1 63 3e 8c 2a cc 03 48   *.....Y_.c>.*..H
+    0020 - cb ef 2b 66 60 db 23 e5-a0 20 ac 89 d7 43 6e 01   ..+f`.#.. ...Cn.
+    0030 - 88 37 c1 25 34 96 91 65-90 6b 2c 1f 17 91 1f 6c   .7.%4..e.k,....l
+    0040 - 0d 97 37 49 3e 6d 78 6f-ee 2d 4e d9 29 36 13 fc   ..7I>mxo.-N.)6..
+    0050 - 4e fc 32 fc aa f4 ec 9d-f7 5f 5d ac a9 5d 1f f9   N.2......_]..]..
+    0060 - c4 17 2f 0c c0 9b 2b ea-5a 82 18 4c 8a 34 34 1c   ../...+.Z..L.44.
+    0070 - e1 e1 c5 5e ad 2b 19 11-ea ae e9 b7 29 43 5b af   ...^.+......)C[.
+    0080 - e5 2f 63 60 b6 5a b5 1f-82 dd 6f b2 f7 c5 02 62   ./c`.Z....o....b
+    0090 - 9e fc 5c 26 95 d2 2b a0-64 41 b5 95 e7 bd a3 1e   ..\&..+.dA......
+
+    Start Time: 1792921698
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

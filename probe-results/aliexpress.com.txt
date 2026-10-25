@@ -1,0 +1,145 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=CN, ST=ZheJiang, L=HangZhou, O=Alibaba (China) Technology Co., Ltd., CN=*.aliexpress.com
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R3 OV TLS CA 2024
+   a:PKEY: EC, (prime256v1); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 18 11:22:02 2026 GMT; NotAfter: Dec  3 11:16:15 2026 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R3 OV TLS CA 2024
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep 18 03:14:38 2024 GMT; NotAfter: Mar 18 00:00:00 2029 GMT
+ 2 s:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep 19 00:00:00 2018 GMT; NotAfter: Jan 28 12:00:00 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIOXDCCDUSgAwIBAgIMKReckes7iPfFZI33MA0GCSqGSIb3DQEBCwUAMFMxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSkwJwYDVQQDEyBH
+bG9iYWxTaWduIEdDQyBSMyBPViBUTFMgQ0EgMjAyNDAeFw0yNjA1MTgxMTIyMDJa
+Fw0yNjEyMDMxMTE2MTVaMH0xCzAJBgNVBAYTAkNOMREwDwYDVQQIEwhaaGVKaWFu
+ZzERMA8GA1UEBxMISGFuZ1pob3UxLTArBgNVBAoTJEFsaWJhYmEgKENoaW5hKSBU
+ZWNobm9sb2d5IENvLiwgTHRkLjEZMBcGA1UEAwwQKi5hbGlleHByZXNzLmNvbTBZ
+MBMGByqGSM49AgEGCCqGSM49AwEHA0IABJ/Vg5+TDMjiYv2YL/17u1np0UzwKqpD
+wiNgT45Ih627tJEagc1ayr/WtFmx/LH7Zt/as69WCUzTYYVR86d6W5yjggvPMIIL
+yzAOBgNVHQ8BAf8EBAMCB4AwDAYDVR0TAQH/BAIwADCBkwYIKwYBBQUHAQEEgYYw
+gYMwRgYIKwYBBQUHMAKGOmh0dHA6Ly9zZWN1cmUuZ2xvYmFsc2lnbi5jb20vY2Fj
+ZXJ0L2dzZ2NjcjNvdnRsc2NhMjAyNC5jcnQwOQYIKwYBBQUHMAGGLWh0dHA6Ly9v
+Y3NwLmdsb2JhbHNpZ24uY29tL2dzZ2NjcjNvdnRsc2NhMjAyNDBXBgNVHSAEUDBO
+MAgGBmeBDAECAjBCBgorBgEEAaAyCgECMDQwMgYIKwYBBQUHAgEWJmh0dHBzOi8v
+d3d3Lmdsb2JhbHNpZ24uY29tL3JlcG9zaXRvcnkvMEEGA1UdHwQ6MDgwNqA0oDKG
+MGh0dHA6Ly9jcmwuZ2xvYmFsc2lnbi5jb20vZ3NnY2NyM292dGxzY2EyMDI0LmNy
+bDCCCJUGA1UdEQSCCIwwggiIghAqLmFsaWV4cHJlc3MuY29tghQqLmFjcy5hbGll
+eHByZXNzLmNvbYITKi5hY3MuYWxpZXhwcmVzcy5ydYIQKi5hZS5hbGliYWJhLmNv
+bYITKi5hZS5hbGlleHByZXNzLmNvbYIgKi5hZWNhdGVnb3J5YWRtaW4uYWxpZXhw
+cmVzcy5jb22CFiouYWxpZXhwcmVzcy1tZWRpYS5jb22CGiouYWxpZXhwcmVzcy10
+ZWNoLW9wZW4uY29tgg8qLmFsaWV4cHJlc3MuZ2WCDyouYWxpZXhwcmVzcy5ydYIP
+Ki5hbGlleHByZXNzLnVzghkqLmFsaW1lYm90LmFsaWV4cHJlc3MuY29tghkqLmFs
+bGlub25lLmFsaWV4cHJlc3MuY29tghMqLmFyLmFsaWV4cHJlc3MuY29tghUqLmFz
+Y3AuYWxpZXhwcmVzcy5jb22CFCouYXNjcC5hbGlleHByZXNzLnJ1ghQqLmJvcHMu
+YWxpZXhwcmVzcy5ydYIcKi5ici1sZWFybmluZy5hbGlleHByZXNzLmNvbYITKi5i
+ci5hbGlleHByZXNzLmNvbYIYKi5jYWluaWFvLmFsaWV4cHJlc3MuY29tghoqLmNk
+bi5hbGlleHByZXNzLW1lZGlhLmNvbYIZKi5jaHVhbmd5aS5hbGlleHByZXNzLmNv
+bYIWKi5jbGljay5hbGlleHByZXNzLmNvbYIVKi5jbGljay5hbGlleHByZXNzLnJ1
+ghUqLmNsaWNrLmFsaWV4cHJlc3MudXOCFiouY29icmEuYWxpZXhwcmVzcy5jb22C
+HiouY29tcG9uZW50bGlicy5hbGlleHByZXNzLmNvbYIYKi5jb25uZWN0LmFsaWV4
+cHJlc3MuY29tghQqLmNybS5hbGlleHByZXNzLmNvbYIUKi5jc3AuYWxpZXhwcmVz
+cy5jb22CGyouZGF0YW1hdHJpeC5hbGlleHByZXNzLmNvbYITKi5kZS5hbGlleHBy
+ZXNzLmNvbYITKi5kZXYuYWxpZXhwcmVzcy5ydYIYKi5kaXNwdXRlLmFsaWV4cHJl
+c3MuY29tghQqLmRvcy5hbGlleHByZXNzLmNvbYIeKi5lcy11bml2ZXJzaXR5LmFs
+aWV4cHJlc3MuY29tghMqLmVzLmFsaWV4cHJlc3MuY29tghcqLmZpbm5ldC5hbGll
+eHByZXNzLmNvbYIYKi5mb3J0cmVzcy5hbGlleHByZXNzLnJ1ghwqLmZyLWxlYXJu
+aW5nLmFsaWV4cHJlc3MuY29tghMqLmZyLmFsaWV4cHJlc3MuY29tghUqLmZ1d3Uu
+YWxpZXhwcmVzcy5jb22CFCouZ2RzLmFsaWV4cHJlc3MuY29tghgqLmdlYXJib3gu
+YWxpZXhwcmVzcy5jb22CFyouZ2xvYmFsLmFsaWV4cHJlc3MuY29tghMqLmhlLmFs
+aWV4cHJlc3MuY29tghMqLmlkLmFsaWV4cHJlc3MuY29tghwqLmludGVyYWN0aXZl
+LmFsaWV4cHJlc3MuY29tgh4qLml0LXVuaXZlcnNpdHkuYWxpZXhwcmVzcy5jb22C
+EyouaXQuYWxpZXhwcmVzcy5jb22CEyouamEuYWxpZXhwcmVzcy5jb22CEyoua28u
+YWxpZXhwcmVzcy5jb22CEioubS5hbGlleHByZXNzLmNvbYIWKi5tZWRpYS5hbGll
+eHByZXNzLmNvbYIXKi5tZW1iZXIuYWxpZXhwcmVzcy5jb22CGSoubWl4ZXItcHJl
+LmFsaWV4cHJlc3MucnWCEyoubmwuYWxpZXhwcmVzcy5jb22CFyoub3JpZ2luLmFs
+aWV4cHJlc3MuY29tghgqLnBheW1lbnQuYWxpZXhwcmVzcy5jb22CEyoucGwuYWxp
+ZXhwcmVzcy5jb22CGCoucG9zdGluZy5hbGlleHByZXNzLmNvbYIfKi5wcmUtZGF0
+YW1hdHJpeC5hbGlleHByZXNzLmNvbYIZKi5wcmUtc3ljbS5hbGlleHByZXNzLmNv
+bYIXKi5wcmVwdWIuYWxpZXhwcmVzcy5jb22CEyoucHQuYWxpZXhwcmVzcy5jb22C
+HioucnUtdW5pdmVyc2l0eS5hbGlleHByZXNzLmNvbYITKi5ydS5hbGlleHByZXNz
+LmNvbYIiKi5ydXNzaWEtdW5pdmVyc2l0eS5hbGlleHByZXNzLmNvbYIXKi5ydXNz
+aWEuYWxpZXhwcmVzcy5jb22CFyouc2VsbGVyLmFsaWV4cHJlc3MuY29tghMqLnNl
+by5hbGlleHByZXNzLnJ1ghoqLnNpdGVhZG1pbi5hbGlleHByZXNzLmNvbYIaKi5z
+cmMuYWxpZXhwcmVzcy1tZWRpYS5jb22CFSouc3ljbS5hbGlleHByZXNzLmNvbYIT
+Ki50aC5hbGlleHByZXNzLmNvbYIKKi50bWFsbC5ydYIeKi50ci11bml2ZXJzaXR5
+LmFsaWV4cHJlc3MuY29tghMqLnRyLmFsaWV4cHJlc3MuY29tgiQqLnRyZW5keW9s
+LXVuaXZlcnNpdHkuYWxpZXhwcmVzcy5jb22CGSoudHJlbmR5b2wuYWxpZXhwcmVz
+cy5jb22CGyoudW5pdmVyc2l0eS5hbGlleHByZXNzLmNvbYITKi51cy5hbGlleHBy
+ZXNzLmNvbYITKi52aS5hbGlleHByZXNzLmNvbYIVKi53YXBhLmFsaWV4cHJlc3Mu
+Y29tghwqLndvcmtzdGF0aW9uLmFsaWV4cHJlc3MuY29tgg1hbGlleHByZXNzLmZy
+gg1hbGlleHByZXNzLmdlgg1hbGlleHByZXNzLnJ1gg1hbGlleHByZXNzLnVzggh0
+bWFsbC5ydYIRd3d3LmFsaWV4cHJlc3MuZnKCDmFsaWV4cHJlc3MuY29tMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAfBgNVHSMEGDAWgBTa06gISAw0N1ju
+5ad1Lln81tw8ODAdBgNVHQ4EFgQUZFafMlkNCy11ysGNAyAJjbZLD7MwggF/Bgor
+BgEEAdZ5AgQCBIIBbwSCAWsBaQB1AMs49xWJfIShRF9bwd37yW7ymlnNRwppBYWw
+yxTDFFjnAAABnjrSe2cAAAQDAEYwRAIgCqVVRo1A//g8SfJmFIusxiLXitXA5z1y
+Ku+x52jvU5gCIEEm6VT2w+c/QtYhqqC+7MJoz/Ux7HSi08OpsrT33boUAHcAr2eI
+O1ewTt2Pptl+9i6o64EKx3Fg8CReVdYML+eFhzoAAAGeOtJ7XgAABAMASDBGAiEA
+7ukWwPnrCtq/TDt7DQpMNaCsDiXk1oSMe7uRsmvF4HcCIQCNLaWr4B2iJUvlxFmP
+h+hWNEF2505IgDWTy3E2g8R+TAB3AMIxfldFGaNF7n843rKQQevHwiFaIr9/1bWt
+dprZDlLNAAABnjrSe2MAAAQDAEgwRgIhANlChG3hzp5epvNqx+fl0LOW7edUL7o8
+NLfmlW6n7YoQAiEA951hSghxLksUuUE4TXoyXGofNhtSMigI20FdYx1MRz8wDQYJ
+KoZIhvcNAQELBQADggEBAGV+PFiSBzDM51T+DnTVSWAD7FodJMxhK8SPp66JCucb
+VNtw7hRVajVKpUGHnDqJPA6yyyg4yZuSfM6jhMouzHrp9BGHqnv27i97knHaCwv8
++44vGibf8qAPjjX2lDPL3F3QOqqqzc4oGB74DuWSt5NvrAkt0Nq7TdlHcTQYmBFP
+FsKwTJNKNtDchW8lxxRc47Le3pfGeemazUPcnCBGF4DN73ExdUOCAgeR4rELygln
+CMkyZPNvetmprhlOv8LptP/hpd7Ok7rBeKmKYZNoTBWc6JaqYDbb3H+yt+jKrXz/
+eohrxqZe2LQxqG7r8uz5nx5NAyLrSW827DYc02wphtY=
+-----END CERTIFICATE-----
+subject=C=CN, ST=ZheJiang, L=HangZhou, O=Alibaba (China) Technology Co., Ltd., CN=*.aliexpress.com
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R3 OV TLS CA 2024
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 6448 bytes and written 1596 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-ECDSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 256 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-ECDSA-AES128-GCM-SHA256
+    Session-ID: 338C0778C55DE63AFCFDBADC798B3D369C7F61408437C3D150939F27BECE9E65
+    Session-ID-ctx: 
+    Master-Key: 1F04E870211E8AB343FC795B5220B906FC6EB09C0155C39F3CA7EDD4F5E4EDA6E983BD2367C73B1BB935D1666745793F
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 28800 (seconds)
+    TLS session ticket:
+    0000 - b6 93 10 8b ff a7 0b 8a-45 24 ff f1 bb 48 00 c7   ........E$...H..
+    0010 - da 7b 9e 4d d3 c9 a8 9c-cc 43 4b 25 8a 2f 78 79   .{.M.....CK%./xy
+    0020 - 3d cd 5d 04 66 62 25 ce-17 b6 e2 37 25 90 77 e4   =.].fb%....7%.w.
+    0030 - 38 f7 c9 c8 04 23 7e 8c-c1 6f 19 02 2b cf dc c1   8....#~..o..+...
+    0040 - 14 bc 01 ad c7 40 69 d1-64 c8 b8 45 cb 62 77 e8   .....@i.d..E.bw.
+    0050 - a2 19 5f 1e a6 03 a4 a5-56 cc 46 f1 f8 d2 fd 56   .._.....V.F....V
+    0060 - bf 67 6b 1e bf bd 38 77-6a 74 4b f1 7d 10 6c 76   .gk...8wjtK.}.lv
+    0070 - a3 d1 06 22 40 d0 b9 59-d0 ca 9d 13 f0 a1 b8 e4   ..."@..Y........
+    0080 - 70 a4 cf 08 aa 9c c0 a9-3b 11 04 ef f6 57 20 7e   p.......;....W ~
+    0090 - 63 fb 23 5b b0 c8 17 f9-84 8b ae b3 ef 69 e2 ec   c.#[.........i..
+    00a0 - 50 3f 38 6f c1 64 b9 ae-2b 79 d8 12 80 62 4d 58   P?8o.d..+y...bMX
+    00b0 - 40 d2 6b c0 42 3b 9f e0-1f e8 83 9b 99 cb f3 bd   @.k.B;..........
+
+    Start Time: 1792921684
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

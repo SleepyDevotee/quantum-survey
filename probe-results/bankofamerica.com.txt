@@ -1,0 +1,80 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:jurisdictionC=US, jurisdictionST=Delaware, businessCategory=Private Organization, serialNumber=2927442, C=US, ST=North Carolina, L=Charlotte, O=Bank of America Corporation, CN=bankofamerica.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug 28 00:00:00 2026 GMT; NotAfter: Feb 10 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jul  2 12:42:50 2020 GMT; NotAfter: Jul  2 12:42:50 2030 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHBjCCBe6gAwIBAgIQDaAEWIRCjfmq7aeSmdoiizANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMR4wHAYDVQQDExVE
+aWdpQ2VydCBFViBSU0EgQ0EgRzIwHhcNMjYwODI4MDAwMDAwWhcNMjcwMjEwMjM1
+OTU5WjCB3TETMBEGCysGAQQBgjc8AgEDEwJVUzEZMBcGCysGAQQBgjc8AgECEwhE
+ZWxhd2FyZTEdMBsGA1UEDwwUUHJpdmF0ZSBPcmdhbml6YXRpb24xEDAOBgNVBAUT
+BzI5Mjc0NDIxCzAJBgNVBAYTAlVTMRcwFQYDVQQIEw5Ob3J0aCBDYXJvbGluYTES
+MBAGA1UEBxMJQ2hhcmxvdHRlMSQwIgYDVQQKExtCYW5rIG9mIEFtZXJpY2EgQ29y
+cG9yYXRpb24xGjAYBgNVBAMTEWJhbmtvZmFtZXJpY2EuY29tMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtHe7fP1hVR+rtZSzc3Yt7CtZ2E9nBmh9WF+E
+kYyhykD6q/I7DWTBHZaRnAQRtPBaTFabvzoti/K8am7+DEMLPmFMC6pzd0G35WSW
+r7qPt6xY5BqUm1YFKWWgvT3dQWf1OxBZOP8YfQUVROIcAcyDAaslny9cEgUfFp2t
+r3+46iwsOcu0grhxlE9bCJcPDhUAFhWQr0XzjEGuwKTwWlfl/pHKt6vkMoxN0tx+
+KQacn+izQBufdfrVkR9PsqIcBji2NZxoS8mFEhzKno0NldFb7LBhHU+QAMXYHRo0
+jYndljeaWCnZsJ/eq30DGqBhC4TLW2GqxbSleqQR+hoKw+gbRwIDAQABo4IDWDCC
+A1QwHwYDVR0jBBgwFoAUak5Qv5honVt7IHXUWQF5SGaSMgYwHQYDVR0OBBYEFJtQ
+Tk1x0vozHM8xcFHQ8BkBKKP+MBwGA1UdEQQVMBOCEWJhbmtvZmFtZXJpY2EuY29t
+MEoGA1UdIARDMEEwCwYJYIZIAYb9bAIBMDIGBWeBDAEBMCkwJwYIKwYBBQUHAgEW
+G2h0dHA6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMHUGA1UdHwRuMGwwNKAyoDCGLmh0
+dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEVWUlNBQ0FHMi5jcmwwNKAy
+oDCGLmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEVWUlNBQ0FHMi5j
+cmwwcwYIKwYBBQUHAQEEZzBlMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdp
+Y2VydC5jb20wPQYIKwYBBQUHMAKGMWh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNv
+bS9EaWdpQ2VydEVWUlNBQ0FHMi5jcnQwDAYDVR0TAQH/BAIwADCCAX0GCisGAQQB
+1nkCBAIEggFtBIIBaQFnAHYATGPcmOWcHauI9h6KPd6uj6tEozd7X5uUw/uhnPzB
+viYAAAGgSa8j8QAABAMARzBFAiBN9qAh2EbDLmWubAjvDYxRWn06omiTY3fzHuA0
+29w2tQIhAIcbDpOBvl9jTNmmfmh22P5s6P8NJstD+H2lB6yYK6BWAHUA1tWNqdAX
+U/NqSqDHV0kCr+vH3CzTjNn3ZMgMiRkenwIAAAGgSa8jwAAABAMARjBEAiByfYOG
+EggsYV3moSgte4ORPKwrgvz9Crm+0Mzww2+32gIgEXlhmFRMqa2mbNlyQyc20Gcf
+/AqtAeRB2dxkELapreEAdgAcn2gs6frwRWlQ+BuWiofd2zIQ2EzmyLLjglJKxM9Z
+nwAAAaBJryRzAAAEAwBHMEUCIQCtQeN1rMUcDrnKGvpreT8S34cT35rmH6+eoiVy
+HLPiLgIgK1qef4rwFu3i8sBJ+pu4mXC0GqY+sq0/FaRs0ThGOOgwDQYJKoZIhvcN
+AQELBQADggEBAEascnxPtbrp5NeeNYSkEAd3NiyjApDMPgZ/Y4dZe3lvM0wvpn75
+BAMwA+mONr2TW9jt3AoRDLD6VWOPK+QH1RuZhA6oz0Q0GAyoCpfuKCOHs4fqCqfD
+fniiVjJySZwyqagPSpIMWzwE0LrGYW7isVX2SABqEWkGbnkq2TSdxAbZdfLUWiUf
+0PIcC0QHraw0tiiwR4929iKR9mioG0nE0AvVRsqOrMZyxR+A2pbGQ4Dfx9ci1vh1
+4BRKP/2SCtAbloccgehf3LWvbESORLoBDZkP0DOhZGJRkhasj3fdiSJTY0+ILTZH
+fdlNkl4y18lM8B9kuBtnrZN04sfNiu2XOjI=
+-----END CERTIFICATE-----
+subject=jurisdictionC=US, jurisdictionST=Delaware, businessCategory=Private Organization, serialNumber=2927442, C=US, ST=North Carolina, L=Charlotte, O=Bank of America Corporation, CN=bankofamerica.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 5702 bytes and written 1570 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

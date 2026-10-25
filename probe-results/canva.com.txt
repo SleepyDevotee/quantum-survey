@@ -1,0 +1,73 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=canva.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M01
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct 19 00:00:00 2026 GMT; NotAfter: May  4 23:59:59 2027 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M01
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug 23 22:21:28 2022 GMT; NotAfter: Aug 23 22:21:28 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFtDCCBJygAwIBAgIQBS6O+aULkO6A86DTWe5TEzANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAxMB4XDTI2MTAxOTAwMDAwMFoXDTI3MDUwNDIzNTk1OVowFDES
+MBAGA1UEAxMJY2FudmEuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAuddjGGGRiiOhFuep40xh4GOrQDEb10gUUdguPWy0PV/WFLOOnjDRA/YI9xBz
+m3OZxZ7Bl6b3C6GhLu5SvlnJv6ItNTQIOKFmGYc1iaMh7hU2Acl77g57MM5h3hvw
+jT3043R+95UM01ar1XyYKppWSX5bodTHmiLpwpwUV3Z1Swy19wIpS4xi+OWh0PBl
+HRZqXJzc+nNFoI4nP0wjFfNcFx1KsLvsAPRUHbSRu4Oegfyh3mLaD21Sac/nfGJe
+nrPAmUJY4SD17ELZ5f81S5Op+yVdiLc/jSjnvovIXAbr2+l2YCaC/BSCA/2u6tTt
+esED9fjDJESh0NduZca1LLRPmQIDAQABo4IC2DCCAtQwHwYDVR0jBBgwFoAUgbgO
+Y4qJEhjl+js7UJWf5uWQE4UwHQYDVR0OBBYEFFwFavzElqoQpRNH8Y10R5yTwT1B
+MBQGA1UdEQQNMAuCCWNhbnZhLmNvbTATBgNVHSAEDDAKMAgGBmeBDAECATAOBgNV
+HQ8BAf8EBAMCBaAwEwYDVR0lBAwwCgYIKwYBBQUHAwEwOwYDVR0fBDQwMjAwoC6g
+LIYqaHR0cDovL2NybC5yMm0wMS5hbWF6b250cnVzdC5jb20vcjJtMDEuY3JsMHUG
+CCsGAQUFBwEBBGkwZzAtBggrBgEFBQcwAYYhaHR0cDovL29jc3AucjJtMDEuYW1h
+em9udHJ1c3QuY29tMDYGCCsGAQUFBzAChipodHRwOi8vY3J0LnIybTAxLmFtYXpv
+bnRydXN0LmNvbS9yMm0wMS5jZXIwDAYDVR0TAQH/BAIwADCCAX4GCisGAQQB1nkC
+BAIEggFuBIIBagFoAHYATGPcmOWcHauI9h6KPd6uj6tEozd7X5uUw/uhnPzBviYA
+AAGhU8OZOwAABAMARzBFAiEAtPFX9N1m98oGZ8jeeAyUmQzvO9hClik1D3PDWsJd
+f9ACIF2x3KKk6f6Gt4C0agzYzGPjY/PMB0/M2BJ5hAsySjgLAHcA1tWNqdAXU/Nq
+SqDHV0kCr+vH3CzTjNn3ZMgMiRkenwIAAAGhU8OZPQAABAMASDBGAiEA+u6cWmwK
+tEXvPdKFJud3brGWW6h1cYMFAWUFbFMsSSICIQCj3ebhZyKRlvXwM6cDBTAwTTmX
+L2+yTS8uiskvp5k4ZwB1AETCvQzpFA5kpclKAZMKWqG7NZcOAO4RFoloKhxE17Vm
+AAABoVPDmbcAAAQDAEYwRAIgbnEnib8c68sS9c41fFdjoxhK3K4aonIAT6BbS9Dq
+uSQCIDtxV/7bqUH1jnPghYm7kLk6T++vY6V/e99rMaO1AoUlMA0GCSqGSIb3DQEB
+CwUAA4IBAQAAEyLgWXTwriHkVZBLzibi5YYPfCVw62rgEKHd0yo9XtiU1iTeO8Sg
+WKWa8bq/LuXg6Go4Cl6UZ3++UJ+ljWjKc4f/DkrkRfBbik8qYnFIsHE1DsgSJJT/
+jK91mHcr0WPoGcHwf8vSSvvcWzi8E5SzrWMFYVTU+oUv7MvIN6K0XNAVGKlMqwRW
+B8zYkhkqW+EIk9+ARFU7z1Tcvr83nxItnHpxylq6agm8FFPbDI6SEUjuY9KY7/WY
+SLcZ6aBiizaUmw2q+T+KFOL5vM8XJav7kXS4pCsrpPTscMkcU6jwJz2h7VwtcjLq
+J1xdPpDFTYQl0bPjhoxcPXqhFfNwrSOO
+-----END CERTIFICATE-----
+subject=CN=canva.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M01
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 5402 bytes and written 1562 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

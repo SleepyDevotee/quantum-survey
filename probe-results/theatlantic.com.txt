@@ -1,0 +1,101 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=www.theatlantic.com
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2026 Q2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jul 20 18:19:02 2026 GMT; NotAfter: Feb  4 17:19:02 2027 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2026 Q2
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jan 21 02:59:53 2026 GMT; NotAfter: Jan 21 00:00:00 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGvTCCBaWgAwIBAgIQASzsnorCbLt4NAruVzMd1DANBgkqhkiG9w0BAQsFADBY
+MQswCQYDVQQGEwJCRTEZMBcGA1UEChMQR2xvYmFsU2lnbiBudi1zYTEuMCwGA1UE
+AxMlR2xvYmFsU2lnbiBBdGxhcyBSMyBEViBUTFMgQ0EgMjAyNiBRMjAeFw0yNjA3
+MjAxODE5MDJaFw0yNzAyMDQxNzE5MDJaMB4xHDAaBgNVBAMME3d3dy50aGVhdGxh
+bnRpYy5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCW+2WYAtjJ
+WH2IMOnspV8pG2Ijz56jYK/7ybORoG479xII2DwJ071src76vBcRDmbSQWvxsWdF
+mOb+z3E9c3dyuM66uw/P727aLX8uu01PiRd/ARNPtapPPwmrsvY0zAdoIZ/F2KPM
+oT6udQbLT0hZH4LM6kNOD2kYs9wE4+ieuixK7slX6GrFQeMzaBvMZdG5TwLoZdEx
+Jb+0W/WpHqazRNt9XvuOacuyCAJYVaIfUoBVl217wKe2oWPIOQbZmB/PrBG701Kt
+l2jo5EV7Y2SGuHoVzaXXFdrvXFxuH0nMfDAmWuK94HbDlqFhoSJpgas5gN8ZTdvs
+uFn9LwZTI0RRAgMBAAGjggO7MIIDtzBsBgNVHREEZTBjghN3d3cudGhlYXRsYW50
+aWMuY29tghEqLnRoZWF0bGFudGljLmNvbYIPdGhlYXRsYW50aWMuY29tggp0aGVh
+dGxuLnRjggt0aGV3aXJlLmNvbYIPd3d3LnRoZXdpcmUuY29tMA4GA1UdDwEB/wQE
+AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHQYDVR0OBBYEFA8R
+4QESwg3UJsuDwixWuZ/G0ajaMFcGA1UdIARQME4wCAYGZ4EMAQIBMEIGCisGAQQB
+oDIKAQMwNDAyBggrBgEFBQcCARYmaHR0cHM6Ly93d3cuZ2xvYmFsc2lnbi5jb20v
+cmVwb3NpdG9yeS8wDAYDVR0TAQH/BAIwADCBngYIKwYBBQUHAQEEgZEwgY4wQAYI
+KwYBBQUHMAGGNGh0dHA6Ly9vY3NwLmdsb2JhbHNpZ24uY29tL2NhL2dzYXRsYXNy
+M2R2dGxzY2EyMDI2cTIwSgYIKwYBBQUHMAKGPmh0dHA6Ly9zZWN1cmUuZ2xvYmFs
+c2lnbi5jb20vY2FjZXJ0L2dzYXRsYXNyM2R2dGxzY2EyMDI2cTIuY3J0MB8GA1Ud
+IwQYMBaAFNRmC58CcE73RAgn+unzvcjrV3FwMEgGA1UdHwRBMD8wPaA7oDmGN2h0
+dHA6Ly9jcmwuZ2xvYmFsc2lnbi5jb20vY2EvZ3NhdGxhc3IzZHZ0bHNjYTIwMjZx
+Mi5jcmwwggGEBgorBgEEAdZ5AgQCBIIBdASCAXABbgB2AExj3JjlnB2riPYeij3e
+ro+rRKM3e1+blMP7oZz8wb4mAAABn4DAxLUAAAQDAEcwRQIhAJNOOhBd3aJem6bg
+nEn9fZHhPxcYrLX3yidRMKkDeD6+AiBC2GoNeqb2aGd/7v2+CSmXb+a3lK65qYf1
+7YiHJE2EnAB1AByfaCzp+vBFaVD4G5aKh93bMhDYTObIsuOCUkrEz1mfAAABn4DA
+xZIAAAQDAEYwRAIgedn43hSFF413AcQ7HC1DfyamM76azR4nPbXIK1T56vgCIBl7
+yejLIUXBgZMMryD9DwfaaWzndrMgpsctUzNk7FwoAH0AjspHC6zeavOiBrCkeoS3
+Rv4fxr+VPiXmm07kAkjzxugAAAGfgMDKjwAIAAAFAAaMsxIEAwBGMEQCIE0c1R7q
+E1Ohb7viDzpSf866pmaphI+jm+CjWoC/ERuyAiBcN+gFOB4MIZ8eDYHn1cln7vIP
+wuGwf9tsnJ0796/06jANBgkqhkiG9w0BAQsFAAOCAQEANTNeZC9KaVxGrJQ8TUP2
+cBelH82S0iAfTOUGQDLWWcxfUmmFL3eiI2VcHDRJdS4H45FqEgJLaL81eOQRfw+3
+oAVYoJsj7rUmzsdMLWUmxPu3zmU/VlvRRf5z8d4ewkI4BM75vkC0DIzDtWPyvofg
+Z7VIE8uo4WqdPg0dC45G5Vcsq8Y7TCKFOFv8txVqp/6Is+YO+gE8yyppLPi2/Tzk
+q6YtGfIhVriQxGeMSI4T45DIo3rytxCoaCCGSNNaJ+ubLcdwDLPCezS6voO5GNn0
+8BXKVdr28OSrKTNaC9is/yCPF1FDLmSOTx20sebOMFpBEVQTEopk0JWeW0PbBApz
+0Q==
+-----END CERTIFICATE-----
+subject=CN=www.theatlantic.com
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2026 Q2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3555 bytes and written 1589 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 911A95AF44811FE0F044368ADEFB790B7A0E73CC658A7C3A8F25B24E4275E6B1
+    Session-ID-ctx: 
+    Master-Key: 54BC04EC2344367F11FC969D84DCEAF55A5A9F4422B0BDE9B71C4D88BEB2BA10909494A6435D9A30E3E03ED1DCBA737F
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
+    0010 - 2c de 17 fa 72 84 c6 a8-57 3a 68 c1 94 bf 6e 49   ,...r...W:h...nI
+    0020 - 82 85 0c f1 17 12 84 54-38 c6 5d d9 fd 3e db fd   .......T8.]..>..
+    0030 - 54 c6 cc 1e 57 31 9d 57-9e ca 5d 3f 0e 19 93 76   T...W1.W..]?...v
+    0040 - b0 0c bf de 06 e7 ca 60-3f f5 d8 38 da 91 be aa   .......`?..8....
+    0050 - e9 0d 84 74 c7 16 49 78-df dc ee 1f d6 de 7f cf   ...t..Ix........
+    0060 - 80 09 27 c7 24 e7 50 24-f2 30 fa f5 e2 6c ec 8b   ..'.$.P$.0...l..
+    0070 - 16 83 f2 98 fa 4a 63 e0-d7 53 28 7b 57 78 51 6a   .....Jc..S({WxQj
+    0080 - d1 ec 4b e9 1d 96 db 0b-29 9b 02 de 25 2e 60 d8   ..K.....)...%.`.
+    0090 - 1d 91 f3 2d 1c 7c aa 42-58 c4 06 31 8c fb 3e 5d   ...-.|.BX..1..>]
+    00a0 - 3f 03 0d 9d 83 73 ee a3-bc ca 4b 2c e1 a8 67 c1   ?....s....K,..g.
+    00b0 - b2 f7 bf 8a fb b5 cc 8a-32 63 bf f1 f3 40 6a 5e   ........2c...@j^
+
+    Start Time: 1792921708
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

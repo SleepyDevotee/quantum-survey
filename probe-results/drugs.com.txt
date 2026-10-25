@@ -1,0 +1,89 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=www.drugs.com
+   i:C=US, O=Let's Encrypt, CN=YR1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct  7 19:28:03 2026 GMT; NotAfter: Jan  5 19:28:02 2027 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=YR1
+   i:C=US, O=ISRG, CN=Root YR
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
+ 2 s:C=US, O=ISRG, CN=Root YR
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: RSA, 4096 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIIrjCCB5agAwIBAgISBot4AEFHiPusOIUzgxviAlqjMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNZUjEwHhcNMjYxMDA3MTkyODAzWhcNMjcwMTA1MTkyODAyWjAYMRYwFAYDVQQD
+Ew13d3cuZHJ1Z3MuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+5ApyiW9qtsVUxqEn88cAJDg1XE0vEiBXj9KAFNO5tD5Z1IDTxp1el2ZMxjkQn3Uv
+BroyVIP4zdggCXlC7NgYU/wn8VA4mPyUzT6uoaAM3xvEGJN0UFSjsHwXp54V0Zkj
+Lt2V46QMSkX+s+MOzLhh5l53zImnXGHaf/J+ynirscaok0MW1FvTEYVf2VbgxMPU
+WzdnMHu0kUwxXQLrAo58VT0Hm1/yq28xS1yCl4s1wEzh+7AWttYqdlgsmccAdMKZ
+K1DxkSRyBW/S5qZ167jxHcvvL0AwKeccXdMuIE1zb1ocC5Vj8/LIml1GATnp4kKW
+lEdPwg9suNtxjMxMBzjO7QIDAQABo4IF1TCCBdEwDgYDVR0PAQH/BAQDAgWgMBMG
+A1UdJQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFBnOy76p
+7LiY4eMqbQe4snIac1r5MB8GA1UdIwQYMBaAFB8vNb5GFILNQLGueSxVePr31Gj7
+MDMGCCsGAQUFBwEBBCcwJTAjBggrBgEFBQcwAoYXaHR0cDovL3lyMS5pLmxlbmNy
+Lm9yZy8wggPQBgNVHREEggPHMIIDw4ISYWRkZXJhbGwuZHJ1Z3MuY29tghRhbHBy
+YXpvbGFtLmRydWdzLmNvbYIQYW1iaWVuLmRydWdzLmNvbYIXYW1pdHJpcHR5bGlu
+ZS5kcnVncy5jb22CFWFtb3hpY2lsbGluLmRydWdzLmNvbYIRYXNwaXJpbi5kcnVn
+cy5jb22CEWJlbmljYXIuZHJ1Z3MuY29tgg5ibG9nLmRydWdzLmNvbYIWY2FyaXNv
+cHJvZG9sLmRydWdzLmNvbYIVZG94eWN5Y2xpbmUuZHJ1Z3MuY29tgglkcnVncy5j
+b22CEWVmZmV4b3IuZHJ1Z3MuY29tghFlbmRvY2V0LmRydWdzLmNvbYIPZmVlZHMu
+ZHJ1Z3MuY29tghJmaW9yaWNldC5kcnVncy5jb22CD2ZvcnVtLmRydWdzLmNvbYIT
+aWJ1cHJvZmVuLmRydWdzLmNvbYIQaW5zcHJhLmRydWdzLmNvbYIWbGFuc29wcmF6
+b2xlLmRydWdzLmNvbYIRbGV4YXByby5kcnVncy5jb22CD21lZGlhLmRydWdzLmNv
+bYISbWV0YWdsaXAuZHJ1Z3MuY29tghdtZXRob2NhcmJhbW9sLmRydWdzLmNvbYIZ
+bmV3c2xldHRlcnMtZGV2LmRydWdzLmNvbYIZbmV3c2xldHRlcnMtdWF0LmRydWdz
+LmNvbYIVbmV3c2xldHRlcnMuZHJ1Z3MuY29tghNveHljb2RvbmUuZHJ1Z3MuY29t
+gg9wYXhpbC5kcnVncy5jb22CFXBoZW50ZXJtaW5lLmRydWdzLmNvbYITcGhlbnl0
+b2luLmRydWdzLmNvbYITcHJlbXBoYXNlLmRydWdzLmNvbYIUcHJvbWV0cml1bS5k
+cnVncy5jb22CEnByb3BlY2lhLmRydWdzLmNvbYIQcHJvemFjLmRydWdzLmNvbYIR
+cmVtaW55bC5kcnVncy5jb22CEHNlYXJjaC5kcnVncy5jb22CDnNvbWEuZHJ1Z3Mu
+Y29tghFzdHJpYW50LmRydWdzLmNvbYIRc3VkYWZlZC5kcnVncy5jb22CE3RlbWF6
+ZXBhbS5kcnVncy5jb22CFHRpemFuaWRpbmUuZHJ1Z3MuY29tghJ0cmFtYWRvbC5k
+cnVncy5jb22CE3RyYXpvZG9uZS5kcnVncy5jb22CEHVsdHJhbS5kcnVncy5jb22C
+EHZhbGl1bS5kcnVncy5jb22CFHdlbGxidXRyaW4uZHJ1Z3MuY29tgg13d3cuZHJ1
+Z3MuY29tghF4ZW5pY2FsLmRydWdzLmNvbTATBgNVHSAEDDAKMAgGBmeBDAECATAu
+BgNVHR8EJzAlMCOgIaAfhh1odHRwOi8veXIxLmMubGVuY3Iub3JnLzM2LmNybDCC
+AQwGCisGAQQB1nkCBAIEgf0EgfoA+AB1AByfaCzp+vBFaVD4G5aKh93bMhDYTObI
+suOCUkrEz1mfAAABoRgL3oYAAAQDAEYwRAIgVW/GTVoSqHR4vpcz+1UGqq9gRU7r
+3rD/JR0I/2wzsDICIGhv1seesw+Jyjvc7ZcwsgLAQSfiCjlLKBeKEC1eJaGcAH8A
+ooEAGHNOF24dR+CVQPOBulRml81jqENQcW64CU7a8Q0AAAGhGAvfNgAIAAAFAB7P
+ljEEAwBIMEYCIQC64oIWKZxzmny48+ix9VsOjPThllUIwBZZsfQrG5EPzAIhAL5t
+5siBep0ttYXSyoswBu7rZQJoE3Dj9yTvWVmzfPxrMA0GCSqGSIb3DQEBCwUAA4IB
+AQAiY32XayuK68+5N0ARE2XyoMstHcuf/CxVF95gQHKQPdeZdrQts4VowZt5l5zL
+KpXTBSqnYWQW3DObFgXKwBBSOP6TBx3IJsEXOOgFbdvZCDBJDb3FksUHL3upIh3n
+K0++V8yLMNQInwG5igEisu7UMK16LpBGvc+ncfO49dkBHQczWTUPJbUFyRej3lV5
+edrtt7qZ33ovju6rpduWVHaZrGChLJORbzGNuo72W9FC3mvTJpwq3B9knyCnIgU9
+FVFCmU/E+X7ib2uoGpEE/Bunr/LQIGj7JRt1agZEw6hYbDFs+dD4r6yse3N6XnCe
+Wh0zTu5M8wtvUjrDkXvhsVOm
+-----END CERTIFICATE-----
+subject=CN=www.drugs.com
+issuer=C=US, O=Let's Encrypt, CN=YR1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 6659 bytes and written 1578 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

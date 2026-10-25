@@ -1,0 +1,97 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=North Carolina, O=Lowes Companies Inc, CN=www1.lowes.com
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV E36
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Feb  2 00:00:00 2026 GMT; NotAfter: Mar  5 23:59:59 2027 GMT
+ 1 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV E36
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root E46
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Mar 21 23:59:59 2036 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root E46
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust ECC Certification Authority
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+ 3 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust ECC Certification Authority
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust ECC Certification Authority
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Feb  1 00:00:00 2010 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIJczCCCRqgAwIBAgIQbyhs+owIRnvHjMiVcbGDKzAKBggqhkjOPQQDAjBgMQsw
+CQYDVQQGEwJHQjEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQDEy5T
+ZWN0aWdvIFB1YmxpYyBTZXJ2ZXIgQXV0aGVudGljYXRpb24gQ0EgT1YgRTM2MB4X
+DTI2MDIwMjAwMDAwMFoXDTI3MDMwNTIzNTk1OVowXTELMAkGA1UEBhMCVVMxFzAV
+BgNVBAgTDk5vcnRoIENhcm9saW5hMRwwGgYDVQQKExNMb3dlcyBDb21wYW5pZXMg
+SW5jMRcwFQYDVQQDEw53d3cxLmxvd2VzLmNvbTBZMBMGByqGSM49AgEGCCqGSM49
+AwEHA0IABCEYCH55NoAmWJMFDWlfopl6okMohNKEQ+xasjSZrC/QyTrhiYJ14p3G
+e15I5YYp7HZJM0ijwml30c/D1SJhauyjgge3MIIHszAfBgNVHSMEGDAWgBRMOHol
+NGv9+Y8aYByScapn+YI36zAdBgNVHQ4EFgQUmNAz9gfKUU4yKmx4ugQKFNO2EQQw
+DgYDVR0PAQH/BAQDAgeAMAwGA1UdEwEB/wQCMAAwEwYDVR0lBAwwCgYIKwYBBQUH
+AwEwSgYDVR0gBEMwQTA1BgwrBgEEAbIxAQIBAwQwJTAjBggrBgEFBQcCARYXaHR0
+cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQICMFQGA1UdHwRNMEswSaBHoEWG
+Q2h0dHA6Ly9jcmwuc2VjdGlnby5jb20vU2VjdGlnb1B1YmxpY1NlcnZlckF1dGhl
+bnRpY2F0aW9uQ0FPVkUzNi5jcmwwgYQGCCsGAQUFBwEBBHgwdjBPBggrBgEFBQcw
+AoZDaHR0cDovL2NydC5zZWN0aWdvLmNvbS9TZWN0aWdvUHVibGljU2VydmVyQXV0
+aGVudGljYXRpb25DQU9WRTM2LmNydDAjBggrBgEFBQcwAYYXaHR0cDovL29jc3Au
+c2VjdGlnby5jb20wggGOBgorBgEEAdZ5AgQCBIIBfgSCAXoBeAB2AByfaCzp+vBF
+aVD4G5aKh93bMhDYTObIsuOCUkrEz1mfAAABnCBBsdkAAAQDAEcwRQIga0g5JLUj
+eX8wle56g1snfrJLLQi6TRkrSYLlPxbxyCICIQDOaeB4jTPUpp83rzICVFWAVGSQ
+dlKyxbABzFFKY2tP8AB+AI7KRwus3mrzogawpHqEt0b+H8a/lT4l5ptO5AJI88bo
+AAABnCBBtZIACAAABQACOzt1BAMARzBFAiB5NB5eIpEzn4XHsvZTn9s/P8pzsL+2
+5z7Tv91kYrLvMAIhAIjVbMV6WKeb7Fd7EDp52fQeACD1TIbXW0NUnbyNDeORAH4A
+WW5sM4aUsllyolbIoOjdkEp26Ag92oc7AQg4KBQ87lkAAAGcIEGyogAIAAAFAAAg
+V4gEAwBHMEUCIQC6Sg41iz7RB4aiHZK+n3h1BxhSW3SG/cAqGtOwurU0YQIgKNHF
+1JKMiZ8CvmE6Gs8REqsh8JQ8MU6DP9ous6tQj9IwggSBBgNVHREEggR4MIIEdIIO
+d3d3MS5sb3dlcy5jb22CIWFkdmVydGlzaW5nLmxvd2VzbWVkaWFuZXR3b3JrLmNv
+bYISYXBpLXByb2QubG93ZXMuY29tgg1hcGkubG93ZXMuY29tgg5hcGltLmxvd2Vz
+LmNvbYISYXBpcy1iMmIubG93ZXMuY29tgg5hcGlzLmxvd2VzLmNvbYIPYXBwbHku
+bG93ZXMuY29tghBibGluZHMubG93ZXMuY29tgixjYW1wYWlnbm1hbmFnZXIubG93
+ZXNvbmVyb29mbWVkaWFuZXR3b3JrLmNvbYISY29tbWVyY2UubG93ZXMuY29tghBj
+cmVkaXQubG93ZXMuY29tgg9jc2x3cy5sb3dlcy5jb22CE2RldmVsb3Blci5sb3dl
+cy5jb22CFGRldmVsb3BlcnMubG93ZXMuY29tghJkcG1iYXBwcy5sb3dlcy5jb22C
+H2VuaGFuY2V5b3VyaG9tZS5zdGFpbm1hc3Rlci5jb22CDGhjLmxvd2VzLmNvbYIQ
+aW1hZ2VzLmxvd2VzLmNvbYINbGRhLmxvd2VzLmNvbYIRbGRhYXV0aC5sb3dlcy5j
+b22CCWxvd2VzLmNvbYIQbG93ZXNmb3Jwcm9zLmNvbYILbG93ZXNocS5jb22CFWxv
+d2VzbWVkaWFuZXR3b3JrLmNvbYIcbG93ZXNvbmVyb29mbWVkaWFuZXR3b3JrLmNv
+bYIQbG93ZXN2aXAtcHJvLmNvbYIRbHdzc3Zjcy5sb3dlcy5jb22CC20ubG93ZXMu
+Y29tghJtLmxvd2VzZm9ycHJvcy5jb22CFm1vYmlsZWltYWdlcy5sb3dlcy5jb22C
+HW9ubGluZW1lcmNoYW5kaXNpbmcubG93ZXMuY29tgg1wZGYubG93ZXMuY29tghBw
+aWVmZXMubG93ZXMuY29tghhwcG1vYmlsZWltYWdlcy5sb3dlcy5jb22CEXByZXZp
+ZXcubG93ZXMuY29tghRzYWRjbHdzY29tLmxvd2VzLmNvbYISc2NhZmZvbGQubG93
+ZXMuY29tghBzZWxsZXIubG93ZXMuY29tggxzZy5sb3dlcy5jb22CD3N0YWlubWFz
+dGVyLmNvbYIXdmVuZG9yZ2F0ZXdheS5sb3dlcy5jb22CFndpbmRvd3Nkb29ycy5s
+b3dlcy5jb22CI3d3dy5lbmhhbmNleW91cmhvbWUuc3RhaW5tYXN0ZXIuY29tgg13
+d3cubG93ZXMuY29tghB3d3cubG93ZXNjZG4uY29tghN3d3cubG93ZXNjcmVkaXQu
+Y29tghl3d3cubG93ZXNjcmVkaXRjZW50ZXIuY29tghR3d3cubG93ZXNmb3Jwcm9z
+LmNvbYIZd3d3Lmxvd2VzZm9ycHJvc2Zvcm1zLmNvbYIZd3d3Lmxvd2VzbWVkaWFu
+ZXR3b3JrLmNvbYIgd3d3Lmxvd2Vzb25lcm9vZm1lZGlhbmV0d29yay5jb22CD3d3
+dy5teWxvd2VzLmNvbYITd3d3LnN0YWlubWFzdGVyLmNvbTAKBggqhkjOPQQDAgNH
+ADBEAiAVz2gqtohc59XbymEYs3Rk9GAfLYX3Vm3w4Li8Lld0jwIgAPr9IoRS/7oi
+B1gswbteohFNmZ3XorzoLs/zJlG6LAM=
+-----END CERTIFICATE-----
+subject=C=US, ST=North Carolina, O=Lowes Companies Inc, CN=www1.lowes.com
+issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV E36
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 6271 bytes and written 1578 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

@@ -1,0 +1,92 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=colorado.edu
+   i:C=US, O=Certainly, CN=Certainly Intermediate R1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct 13 02:49:02 2026 GMT; NotAfter: Nov 12 02:49:01 2026 GMT
+ 1 s:C=US, O=Certainly, CN=Certainly Intermediate R1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Root Certificate Authority - G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jun 22 00:00:00 2022 GMT; NotAfter: Jun 21 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFEjCCA/qgAwIBAgISeOpfFyz8gkk+WVCBFeRTRlnSMA0GCSqGSIb3DQEBCwUA
+MEUxCzAJBgNVBAYTAlVTMRIwEAYDVQQKEwlDZXJ0YWlubHkxIjAgBgNVBAMTGUNl
+cnRhaW5seSBJbnRlcm1lZGlhdGUgUjEwHhcNMjYxMDEzMDI0OTAyWhcNMjYxMTEy
+MDI0OTAxWjAXMRUwEwYDVQQDEwxjb2xvcmFkby5lZHUwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQCkD2gXqvnUCsI6RJAq+7Q8zCFuB8O4SIB+k3qhDkcl
+9TZC7rDDqtGlCA/03NCBNb3m/V7I8DE42AKUKv9OD9woV/KUXpNt/P1XcxHDJVXU
+8CYEgxUv9pAePUu6HnNmmavUzmPWjacnzQ4011loc92cHGz2gx43Fq2W3QI+EPzY
+b8MZRmprPElOwOf9xWdED3GBoiUbSMJueth/5BVq3EzGU3Pwn5VODvFfSuqz4oov
+mKh9kVu/EWw+gNhC1gGtOy9UhPrkwzsyyUihmOaCUh3FszZRXlW9MUvB5dvDG2/z
+ol1U+d6/xiCw9U8kwbay0EE1mT0MIAVrQlJ97cXwttURAgMBAAGjggIoMIICJDAO
+BgNVHQ8BAf8EBAMCBaAwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIw
+ADAdBgNVHQ4EFgQU5DzZfGQyb31PE8OP0bd1la/m/Z0wHwYDVR0jBBgwFoAUvZed
+36HYGyWZ4wwEBolkEtdlJMcwNwYIKwYBBQUHAQEEKzApMCcGCCsGAQUFBzAChhto
+dHRwOi8vaW50LXIxLmNlcnRhaW5seS5jb20wFwYDVR0RBBAwDoIMY29sb3JhZG8u
+ZWR1MBMGA1UdIAQMMAowCAYGZ4EMAQIBMEIGA1UdHwQ7MDkwN6A1oDOGMWh0dHA6
+Ly9jcmxzLmNlcnRhaW5seS5jb20vMTcxODIyNjI0NTMwMDI1MTQvMy5jcmwwggEC
+BgorBgEEAdZ5AgQCBIHzBIHwAO4AdQCUTkOH+uzB74HzGSQmqBhlAcfTXzgCAT9y
+Z31VNy4Z2AAAAaEzX2WpAAAEAwBGMEQCIFwqkZixaxe7lplKtUI3nUGbL1FUXL2Z
+BDDmN/qnmlTeAiBRvzsvB427owcclmuqhGWsVuZ6YWt9/uR3S4qFKsPQ4AB1ANgJ
+VTuUT3r/yBYZb5RPhauw+Pxeh1UmDxXRLnK7RUsUAAABoTNfZ9kAAAQDAEYwRAIg
+XsdBHRE0uWyPCCVDMdVRIADZJ+kfnWtKxzPvMdRWheMCIB4zq2g5+lN4fSYE2Pdu
+VTvP3WiIprviJ5EVw/OvIuYvMA0GCSqGSIb3DQEBCwUAA4IBAQBBYzxgQUN5Z51o
+twwtfp2AkjhvnH+Cyu6YOl5ps6qmnOvXk6MZuern/BvMCR6CmSmH1dPLlwuf4sPZ
+iS5S28LiY2egJDva/4qHM9seU+WwwWcaDupkrURChJd6TAe0smwI907eAyhadmhd
+Y+RdDkwg3YzuQnQlK/R46z46F8chbCFZ3HkOAIiXtJrMaohe5pm6guEu8UjYGtJu
+GLgJbG/LZ4cOGr3wN3T7BzV+lSwFKI3Ox3B+kDhEquB9qovO8d4uHZSqt5RFyGRV
+OKDTJXf9rJbYKLDeIVwssqt/kh8HupUdJOcp/VFK7UXsJDSQV8YvVQUEdb1fQhhR
+aaq1lwWb
+-----END CERTIFICATE-----
+subject=CN=colorado.edu
+issuer=C=US, O=Certainly, CN=Certainly Intermediate R1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3144 bytes and written 1586 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 42773964D2B4CCFA6E3246EF19BD36836090A84DD0819671EEA41ECA84EDDC8D
+    Session-ID-ctx: 
+    Master-Key: 6F0866F35649ABC15DBFBED20E61AF03F38F53FEC06B4C7F45D0356C81E848DAEAA35229025B252494042B0517610EB9
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
+    0010 - 94 e4 26 ac 0f 5d 4f 94-6d 7d 36 c7 3b f5 24 a9   ..&..]O.m}6.;.$.
+    0020 - 41 74 b7 3d 71 5e ba 26-dc 80 c8 7a d7 b6 8d 4b   At.=q^.&...z...K
+    0030 - ae 39 3a 1c d9 9d 82 98-30 7a 55 eb c9 39 68 41   .9:.....0zU..9hA
+    0040 - d6 1a 13 3d 58 f7 86 a1-d5 7f 93 1a ed a5 91 4c   ...=X..........L
+    0050 - 1f 46 66 ee 59 20 5f 54-f2 d3 95 de 5d 90 8b 84   .Ff.Y _T....]...
+    0060 - 49 4a 43 ed d6 49 ae db-14 98 a8 33 23 28 a3 4f   IJC..I.....3#(.O
+    0070 - 65 ea 8e 1d 61 5c 7a 44-52 11 e9 e8 3c e8 2b fe   e...a\zDR...<.+.
+    0080 - 6c 76 1c da d9 ff 44 67-4a af d5 f3 c4 cf d2 76   lv....DgJ......v
+    0090 - 7f a4 96 a7 26 82 71 3a-fd d6 d7 71 e4 1b 1d a3   ....&.q:...q....
+    00a0 - f5 5f 61 7c fb 99 c4 89-59 93 9e aa 64 64 2a 5f   ._a|....Y...dd*_
+    00b0 - ba d2 db 31 f5 04 f1 9b-81 e4 ac 6b 8b 26 57 9c   ...1.......k.&W.
+
+    Start Time: 1792921608
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

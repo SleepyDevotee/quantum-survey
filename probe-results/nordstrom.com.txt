@@ -1,0 +1,132 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=Washington, O=Nordstrom, Inc., CN=nordstrom.com
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+   a:PKEY: RSA, 4096 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep  1 00:00:00 2026 GMT; NotAfter: Mar 18 23:59:59 2027 GMT
+ 1 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Mar 21 23:59:59 2036 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIK3zCCCUegAwIBAgIQXyPT7hqwPumWm3Mm9mV3kjANBgkqhkiG9w0BAQsFADBg
+MQswCQYDVQQGEwJHQjEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFB1YmxpYyBTZXJ2ZXIgQXV0aGVudGljYXRpb24gQ0EgT1YgUjM2
+MB4XDTI2MDkwMTAwMDAwMFoXDTI3MDMxODIzNTk1OVowVDELMAkGA1UEBhMCVVMx
+EzARBgNVBAgTCldhc2hpbmd0b24xGDAWBgNVBAoTD05vcmRzdHJvbSwgSW5jLjEW
+MBQGA1UEAxMNbm9yZHN0cm9tLmNvbTCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCC
+AgoCggIBANkGTql9dEzovziZ75vEvfHWDst/S8CzR9GyiiL1SZaWj120yo/9xMIr
+oB3YfhXdrYFAf/RxzohTZpASB0/zGQnX6DALH0WRPIllPYgY/U/u/E2u3av4UMfd
+MFdajoO6m2nsi+iRw2EGpc7AQRiDuR79+Nq8DB0IBiHQLdkzv2ZZdeZ/kD6MWc2Y
+PnFtCf1xaL97An1IBuFcBUfrnXZ5TM0ccQoUWZYzB3b9zCcdY6Y2FxbWk33FgKJh
+IkZjMWWucel7B8KvIbLUJb+zEuPYPKTet/QzeadazGZQOtYtgplE0PUn7qguJWum
+fYW3OS1MfOtW4ePHP4WBVZiIP2OZ+LcptelUEc6KGBVY/FJEdq0SD6N4KuKK4Pcq
+BXkLG6Yi2KmmIJ1HxNUGmX6EeQffQWY77jEfj3WJ3rp+EJN5KEZx9CXGIccKAN3k
+gVEz8Gysdqh5s63MX1OWlB9z9Zgt7Zs28/1eFW3qhH6l4KTt44uh9rf2Uq6R3JPg
+ZGbsGOtiIsVRx3PaMdyI9O5u7X609B5w0cY7FpguwTa78XHlesT+MdcdX7Xy4eHM
+vDebcKL5ReYzvtPqyxrgtj8YqCBL9czsoC1oQmEpfQTvAWi6N4MPIRBChEjhAa90
+6F7RPD8H4u10qzXPpkqIFjVWCV/6G4ZlYwexHpHmaZZ2L07kVqnjAgMBAAGjggYf
+MIIGGzAfBgNVHSMEGDAWgBTjZnS7cGiNLF1ODqZKj5s3IpyCkjAdBgNVHQ4EFgQU
+33RovMehIzkkvWb/QVxyxbpHDqwwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQC
+MAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEoGA1UdIARDMEEwNQYM
+KwYBBAGyMQECAQMEMCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20v
+Q1BTMAgGBmeBDAECAjBUBgNVHR8ETTBLMEmgR6BFhkNodHRwOi8vY3JsLnNlY3Rp
+Z28uY29tL1NlY3RpZ29QdWJsaWNTZXJ2ZXJBdXRoZW50aWNhdGlvbkNBT1ZSMzYu
+Y3JsMIGEBggrBgEFBQcBAQR4MHYwTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuc2Vj
+dGlnby5jb20vU2VjdGlnb1B1YmxpY1NlcnZlckF1dGhlbnRpY2F0aW9uQ0FPVlIz
+Ni5jcnQwIwYIKwYBBQUHMAGGF2h0dHA6Ly9vY3NwLnNlY3RpZ28uY29tMIIBjgYK
+KwYBBAHWeQIEAgSCAX4EggF6AXgAfgBZbmwzhpSyWXKiVsig6N2QSnboCD3ahzsB
+CDgoFDzuWQAAAaBe5j40AAgAAAUAAu6wfwQDAEcwRQIgS9u2kBpkCmBelHS05Sut
+0h2SpsRByzXxx2TAxsWlNK4CIQC2GHTcLr9z2W1ryjL7HIb+RxARjUzz/lGAMKfC
+zJEcywB2AByfaCzp+vBFaVD4G5aKh93bMhDYTObIsuOCUkrEz1mfAAABoF7mPccA
+AAQDAEcwRQIgAv7fp87AGFKqFKD3rt/4NIcm/i6OtLZOxS/qiRJPJ+kCIQCzAvnk
+Nq9ei6s++7iIpiyOIelTNuffmOy/gxMfx6noHwB+AKKBABhzThduHUfglUDzgbpU
+ZpfNY6hDUHFuuAlO2vENAAABoF7mPfMACAAABQALeWAEBAMARzBFAiBItF9caZjQ
+pKf+axd9Z0fvmW9NNZpPyaH+a1+yj7skcAIhANn4heP7xK6BkoU0RSpjX2JtR/fg
+194vvsYYc6adtIvDMIIC3wYDVR0RBIIC1jCCAtKCDW5vcmRzdHJvbS5jb22CFSou
+YWJvdXQubm9yZHN0cm9tLmNvbYITKi5hcGktbm9yZHN0cm9tLmNvbYITKi5hcGku
+bm9yZHN0cm9tLmNvbYIYKi5jaGVja291dC5ub3Jkc3Ryb20uY29tgh0qLmVjb21t
+ZXJjZS5hcGkubm9yZHN0cm9tLmNvbYITKi5lZ2Mubm9yZHN0cm9tLmNvbYIPKi5o
+YXV0ZWxvb2suY29tghIqLmhhdXRlbG9va2Nkbi5jb22CFSoubmF1dGgubm9yZHN0
+cm9tLmNvbYITKi5ub3Jkc3Ryb20tYXBpLmNvbYIOKi5ub3Jkc3Ryb20uY2GCDyou
+bm9yZHN0cm9tLmNvbYITKi5ub3Jkc3Ryb21kYXRhLmNvbYIUKi5ub3Jkc3Ryb21p
+bWFnZS5jb22CFCoubm9yZHN0cm9tbWVkaWEuY29tghMqLm5vcmRzdHJvbXJhY2su
+Y29tghcqLnJld2FyZHMubm9yZHN0cm9tLmNvbYIWKi5zZWN1cmUubm9yZHN0cm9t
+LmNvbYIUKi5zaG9wLm5vcmRzdHJvbS5jb22CGiouc2l0ZWNsb3NlZC5ub3Jkc3Ry
+b20uY29tgg0qLnRoZXJhY2suY29tghFhcGktbm9yZHN0cm9tLmNvbYIRYXBpLm5v
+cmRzdHJvbS5jb22CDWhhdXRlbG9vay5jb22CEW5vcmRzdHJvbS1hcGkuY29tggxu
+b3Jkc3Ryb20uY2GCEW5vcmRzdHJvbWRhdGEuY29tghJub3Jkc3Ryb21pbWFnZS5j
+b22CEm5vcmRzdHJvbW1lZGlhLmNvbYIQbm9yZHN0cm9tcmFjay5jYYIRbm9yZHN0
+cm9tcmFjay5jb22CE3N0b3JlLm5vcmRzdHJvbS5jb22CFHd3dy5ub3Jkc3Ryb21y
+YWNrLmNhghd3d3cuc3RvcmUubm9yZHN0cm9tLmNvbTANBgkqhkiG9w0BAQsFAAOC
+AYEAFYFvoviWFptCFoJ5MSx2oVDdqUqDIvClV/XhFE7qgpT8YHby2hwq2YtvHPhU
+pI2JX5R5vdV064pg7QaWqY0r9+tYTKnK1u3XXDmIFGIEo+IgdNF5QWcwiBIv0vaV
+gXDZICwQFKJWpjC+K3RdePcB5kqyaLtEaf7zMSF92caL4Q5cthJzq1P1UxY3xHxz
+LoDHAbqtyHZKoP7gHfR1ohx9OjLZPHpnbAN8FMnxAj5KeP3G8FCGxDTRC5mRt+Vd
+7G3zFxq96RLG4OKXK21LHw82m/3Lxsb9aBRlo4O+05ZCmB64S8aqyvxhB0EQxs8U
+epsUP+tkD82K5Ws2o6OJUF0j4J/6Bxu/X27FqaEmKFtHwg3Ow79f9T46UafeCY8d
+ZUw26kRIRosGI2e+V4E4enjUlEFC8v9AfXJER6SJWdeIv9SbDgfoZlbllA41WfEO
+/TP6NokRKtXPgSlTdWoveSTTSRVgu5mvveDkLQgiK/rbRz9pq6RIqlev7ZQMG1pi
+S5oO
+-----END CERTIFICATE-----
+subject=C=US, ST=Washington, O=Nordstrom, Inc., CN=nordstrom.com
+issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 7990 bytes and written 1566 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 4096 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 8380F2DC15946B2E326E571C6FD91C83E5D3A46E9CAF0BFDB879A9A2ED3DF6B0
+    Session-ID-ctx: 
+    Resumption PSK: 1C8045F6FA18BA9F4AD8E1FFB6F587D107028DD369845A76BD15A93B30645B2F
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
+    0010 - a6 49 33 c4 44 e0 12 99-d2 57 54 68 d4 2d e2 42   .I3.D....WTh.-.B
+    0020 - 53 c0 bc 27 48 23 06 45-eb a1 9e e8 37 24 2c ac   S..'H#.E....7$,.
+    0030 - 70 f9 1b f2 2c 40 88 c3-a5 4d d6 03 a6 d6 c7 bf   p...,@...M......
+    0040 - 45 30 be 5f 88 bb 22 8f-65 8d fb 59 ed 59 b0 fa   E0._..".e..Y.Y..
+    0050 - bb 59 34 3e 1b 7a f4 8b-bd 61 49 07 9b ff 67 b0   .Y4>.z...aI...g.
+    0060 - 80 38 55 43 bf 6a 49 3a-be c5 64 f4 b7 72 b2 d0   .8UC.jI:..d..r..
+    0070 - 1c 69 e0 80 d1 b2 e1 0b-28 be d8 07 bf bd 81 9c   .i......(.......
+    0080 - 0a ff cf 97 75 ec c9 92-7a 42 a2 dd 53 a0 15 8d   ....u...zB..S...
+    0090 - 23 6c 64 48 af 95 fc f8-8b fa 69 b2 bf ea bc 2d   #ldH......i....-
+
+    Start Time: 1792921695
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

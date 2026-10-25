@@ -1,0 +1,61 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=mskcc.org
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct 11 13:37:43 2026 GMT; NotAfter: Jan  9 14:37:34 2027 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: EC, (secp384r1); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDaTCCAw+gAwIBAgIRAIPEBqUBSZtqE9+J7zEQmUEwCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI2MTAxMTEzMzc0M1oXDTI3MDEwOTE0MzczNFowFDESMBAG
+A1UEAxMJbXNrY2Mub3JnMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEOp/oHMpP
+CNVAO3dzTKQggd8DuSS+yFUKWDCciuCoSf803pRrfGrkw/hGK+ZxO7/v3zYkLEzd
+q68JfeXX92jOLaOCAhkwggIVMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggr
+BgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSTMDP3GmAn5r5/fvHtQJj9
+JXYDfjAfBgNVHSMEGDAWgBSQd5I1Z8T/qMyp5nvZgHl7zJP5ODA1BggrBgEFBQcB
+AQQpMCcwJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQwFAYD
+VR0RBA0wC4IJbXNrY2Mub3JnMBMGA1UdIAQMMAowCAYGZ4EMAQIBMDYGA1UdHwQv
+MC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29nL3dlMS9lTjdub2VuV19GRS5jcmww
+ggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgBGojlnxg22RofGbz35mZR2k6amESCE
+V9VV5+PQodm2RgAAAaErZfHgAAAEAwBHMEUCICH6P4dGoyQU2mrgvwjcgn99XFto
+pfZw2akq7GCZxRRkAiEAsdn6wr4sW/KAFHuKSmas96D2UuJluRvzfRXIbv5B4V0A
+dgBEwr0M6RQOZKXJSgGTClqhuzWXDgDuERaJaCocRNe1ZgAAAaErZfIOAAAEAwBH
+MEUCIQCnSVuDTRilVZvqO8Uauzkt/rBVYS1oJNB/En6Ny1MOPgIgb/546sO5wLgS
+INi5TXC3LvFKkhJL+nu9/xRpayqjoZUwCgYIKoZIzj0EAwIDSAAwRQIgYjtZk8eR
+LNVk2IzLTk3YrSp+cIl8gGDtzb9ByE+6WloCIQCFXpWWtxIQUgUk4/6GTBM5w9cd
+wEVyTWkCFFONarmkNg==
+-----END CERTIFICATE-----
+subject=CN=mskcc.org
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 3854 bytes and written 1578 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

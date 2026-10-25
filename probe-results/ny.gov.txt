@@ -1,0 +1,113 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=New York, L=Albany, O=New York State Office of Information Technology Services, CN=*.ny.gov
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R46 OV TLS CA 2025
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug  6 18:30:02 2026 GMT; NotAfter: Feb 13 18:01:23 2027 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R46 OV TLS CA 2025
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Root R46
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep 17 02:55:56 2025 GMT; NotAfter: Jun 23 00:00:00 2029 GMT
+ 2 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Root R46
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Root R46
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 20 00:00:00 2019 GMT; NotAfter: Mar 20 00:00:00 2046 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIINJzCCDA+gAwIBAgIMNNxbeogPv/4eFPCLMA0GCSqGSIb3DQEBCwUAMFQxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSowKAYDVQQDEyFH
+bG9iYWxTaWduIEdDQyBSNDYgT1YgVExTIENBIDIwMjUwHhcNMjYwODA2MTgzMDAy
+WhcNMjcwMjEzMTgwMTIzWjCBhzELMAkGA1UEBhMCVVMxETAPBgNVBAgTCE5ldyBZ
+b3JrMQ8wDQYDVQQHEwZBbGJhbnkxQTA/BgNVBAoTOE5ldyBZb3JrIFN0YXRlIE9m
+ZmljZSBvZiBJbmZvcm1hdGlvbiBUZWNobm9sb2d5IFNlcnZpY2VzMREwDwYDVQQD
+DAgqLm55LmdvdjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKDXu2md
+cpUtmZXCHm5NaEukamgMSXmO1ZAgupbmJo98OV80s6wQkDSlVFRDwPD1XxZiN2Zc
+16c6Xs18rA7XhXAETk9fF8TKqNYgmZ8oi9aGS3Uqp8YhkZ6UbWN6oKi7mMHIx+kY
+oxpEXDPx20nfvCVSz/8RoxVGaikvu82rEW+bfP50giAvRAz0rhoLQltLq/OZWlVQ
++KK+7icpqn4ZzhLJFT50c34HJHpRnEyh/unNx77tABKamHLvmqcrm4pmq6gtVCVk
+My6r6ajugYYX+dyKbi/2hOYQWFI+Uoewms+Skr6dvOxeQ6N9I7Ryvu5CXgb1dwFS
+u/ay9Snesk2oTqcCAwEAAaOCCcMwggm/MA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMB
+Af8EAjAAMIGVBggrBgEFBQcBAQSBiDCBhTBHBggrBgEFBQcwAoY7aHR0cDovL3Nl
+Y3VyZS5nbG9iYWxzaWduLmNvbS9jYWNlcnQvZ3NnY2NyNDZvdnRsc2NhMjAyNS5j
+cnQwOgYIKwYBBQUHMAGGLmh0dHA6Ly9vY3NwLmdsb2JhbHNpZ24uY29tL2dzZ2Nj
+cjQ2b3Z0bHNjYTIwMjUwEwYDVR0gBAwwCjAIBgZngQwBAgIwQgYDVR0fBDswOTA3
+oDWgM4YxaHR0cDovL2NybC5nbG9iYWxzaWduLmNvbS9nc2djY3I0Nm92dGxzY2Ey
+MDI1LmNybDCCBtQGA1UdEQSCBsswggbHgggqLm55LmdvdoIdYm9hcmRzLmNyaW1p
+bmFsanVzdGljZS5ueS5nb3aCDmJzYy5vZ3MubnkuZ292ghljb3JvbmF2aXJ1cy5o
+ZWFsdGgubnkuZ292ghVjb3ZpZDE5LmhlYWx0aC5ueS5nb3aCHGNvdmlkMTl2YWNj
+aW5lLmhlYWx0aC5ueS5nb3aCEWRhdGEubGFib3IubnkuZ292ghVlZGl0Lm55bG90
+dGVyeS5ueS5nb3aCJGtub3dsZWRnZWJhbmsuY3JpbWluYWxqdXN0aWNlLm55Lmdv
+doIUbG9jYWxsYXdzLmRvcy5ueS5nb3aCDXFhLmRvdC5ueS5nb3aCEndlYmFwcHMu
+ZG90Lm55LmdvdoIQd3d3LmFsZXJ0Lm55LmdvdoIQd3d3LmFtYmVyLm55LmdvdoIP
+d3d3LmFydHMubnkuZ292gg93d3cuYmZzYS5ueS5nb3aCEnd3dy5ic2Mub2dzLm55
+LmdvdoIgd3d3LmNhbXBhaWduZmluYW5jZXJlZm9ybS5ueS5nb3aCFnd3dy5jb2xs
+ZWdlZ29hbC5ueS5nb3aCHXd3dy5jb3JvbmF2aXJ1cy5oZWFsdGgubnkuZ292giB3
+d3cuY292aWQxOXZhY2NpbmUuaGVhbHRoLm55LmdvdoIad3d3LmNyaW1pbmFsanVz
+dGljZS5ueS5nb3aCDnd3dy5kZWMubnkuZ292ghx3d3cuZGVmZXJyZWRjb21wYm9h
+cmQubnkuZ292gg53d3cuZGZzLm55LmdvdoIOd3d3LmRoci5ueS5nb3aCEHd3dy5k
+aHNlcy5ueS5nb3aCDnd3dy5kbXYubnkuZ292ghB3d3cuZG9jY3MubnkuZ292gg53
+d3cuZG9zLm55LmdvdoIOd3d3LmRwcy5ueS5nb3aCEHd3dy5lY2ZzYS5ueS5nb3aC
+Dnd3dy5lZmMubnkuZ292ght3d3cuZW1waXJlc3RhdGVwbGF6YS5ueS5nb3aCDnd3
+dy5lc2QubnkuZ292ghF3d3cuZ2FtaW5nLm55LmdvdoIRd3d3LmdlYXJ1cC5ueS5n
+b3aCE3d3dy5nb3Zlcm5vci5ueS5nb3aCG3d3dy5ncmFudHNtYW5hZ2VtZW50Lm55
+LmdvdoIOd3d3Lmhjci5ueS5nb3aCD3d3dy5oZXNjLm55LmdvdoIZd3d3Lmh1ZHNv
+bmdyZWVud2F5Lm55LmdvdoINd3d3LmlnLm55LmdvdoIcd3d3LmluZHVzdHJpYWxh
+cHBlYWxzLm55LmdvdoIOd3d3Lml0cy5ueS5nb3aCGnd3dy5qb2luc3RhdGVwb2xp
+Y2UubnkuZ292ghh3d3cuanVzdGljZWNlbnRlci5ueS5nb3aCKHd3dy5rbm93bGVk
+Z2ViYW5rLmNyaW1pbmFsanVzdGljZS5ueS5nb3aCEHd3dy5sYWJvci5ueS5nb3aC
+D3d3dy5sZ3BjLm55LmdvdoIYd3d3LmxvY2FsbGF3cy5kb3MubnkuZ292ghx3d3cu
+bWFyaW9tY3VvbW9icmlkZ2UubnkuZ292gh53d3cubmV3eW9ya2Vyc3ZvbHVudGVl
+ci5ueS5nb3aCD3d3dy5uaWNzLm55LmdvdoIQd3d3Lm55ZXNzLm55LmdvdoIQd3d3
+Lm9hc2FzLm55LmdvdoIOd3d3Lm9ncy5ueS5nb3aCD3d3dy5vbWlnLm55LmdvdoIP
+d3d3Lm9wZHYubnkuZ292ghB3d3cub3B3ZGQubnkuZ292gg93d3cub3Jlcy5ueS5n
+b3aCDnd3dy5vdnMubnkuZ292ghp3d3cucGFpZGZhbWlseWxlYXZlLm55LmdvdoIP
+d3d3LnBlcmIubnkuZ292ghd3d3cucG9saWNlcmVmb3JtLm55LmdvdoIbd3d3LnJl
+Z2lvbmFsY291bmNpbHMubnkuZ292gg93d3cuc2NvYy5ueS5nb3aCDnd3dy5zbGEu
+bnkuZ292ghx3d3cuc3RhcnRoZXJlZ2V0dGhlcmUubnkuZ292ghB3d3cudGFzdGUu
+bnkuZ292ghN3d3cudHJvb3BlcnMubnkuZ292ghR3d3cudWlhcHBlYWxzLm55Lmdv
+doITd3d3LnZldGVyYW5zLm55LmdvdoIXd3d3Lndvb2Rwcm9kdWN0cy5ueS5nb3aC
+Fnd3dy55b3V0aGluY2FyZS5ueS5nb3aCDnd3dy5hYm8ubnkuZ292ghB3d3cucGFy
+a3MubnkuZ292ghJ3d3cudGhydXdheS5ueS5nb3aCEHd3dy5hZ2luZy5ueS5nb3aC
+Fnd3dy5hZ3JpY3VsdHVyZS5ueS5nb3aCBm55LmdvdjAfBgNVHSMEGDAWgBRpdD6v
+w1sBlUnuFEFak/qxMJjaojATBgNVHSUEDDAKBggrBgEFBQcDATAdBgNVHQ4EFgQU
+OIFsC4/gdrzKHW0KCY+b5LKrENUwggF/BgorBgEEAdZ5AgQCBIIBbwSCAWsBaQB2
+AByfaCzp+vBFaVD4G5aKh93bMhDYTObIsuOCUkrEz1mfAAABn9hXC54AAAQDAEcw
+RQIhAP0YD1YwLhmKhKiVnPZ1vdpoHolEbvTJaGnlEL/jVb/DAiAcLN9hpCs/UVAq
+ucpBqbsxpmMihHY7hc83NG0/9i2zDwB3AExj3JjlnB2riPYeij3ero+rRKM3e1+b
+lMP7oZz8wb4mAAABn9hXCaYAAAQDAEgwRgIhAK1aSNIf2ydd+KsvYyqXmRcnleun
+KjzvnA+c1qxAaUuhAiEA7OaFCaYq5ej9/BP6/wAI14YA9/fN61jhP8HTE6Wy+lUA
+dgBgTJqven93XwHUBvySDciZ6wscffjJUhv6+hd3O5eLyQAAAZ/YVwrgAAAEAwBH
+MEUCIQC9yPYCSMWbzQpwFDBIOtI2b61wMglYZxDdINmfoiKJUgIgDZ3c/5Jlm5GE
+tEGG53GljuDX5+SnvTJrXdMFjYTFGJ8wDQYJKoZIhvcNAQELBQADggEBAEUEEzIf
+etx3mmBUnwfQoA/6VzQ/yZnWMg41pAlexX+LEdqdk5Mot1GmH0FabUsLBTmZISSY
++ugCpJmhvb4kl1Wvylr4bC+/wLUNgeGnByZb85cF2lu/lkns9BdTntFnVzx4FLb4
+eiHvrDKuqd04tpgkHkfiHK6sBveEt2dWoS6gelRaNsGZqWxkgVuRI2BaNUdyCINv
+bcWeyWo898kJqJCXLpU8EMyKdqvzSQSVMp7U6NQSsxNgyQSqPRyn3cI6XE5HcyEK
+vsgzd3Cax0mubWgEeml4xSV4cVh9QXyGZwxwYNwtrqSnIKcVhKiN+A2PfbDo1n7+
+ycdhBRyEkcE0uc4=
+-----END CERTIFICATE-----
+subject=C=US, ST=New York, L=Albany, O=New York State Office of Information Technology Services, CN=*.ny.gov
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R46 OV TLS CA 2025
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 6816 bytes and written 1886 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

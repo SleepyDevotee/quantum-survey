@@ -1,0 +1,83 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=New York, L=New York, O=American Express Company, CN=www.americanexpress.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep  7 00:00:00 2026 GMT; NotAfter: Mar 24 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHfjCCBmagAwIBAgIQDUtPS/UGLT9/uuXSruJfpDANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjYw
+OTA3MDAwMDAwWhcNMjcwMzI0MjM1OTU5WjB4MQswCQYDVQQGEwJVUzERMA8GA1UE
+CBMITmV3IFlvcmsxETAPBgNVBAcTCE5ldyBZb3JrMSEwHwYDVQQKExhBbWVyaWNh
+biBFeHByZXNzIENvbXBhbnkxIDAeBgNVBAMTF3d3dy5hbWVyaWNhbmV4cHJlc3Mu
+Y29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyqY2R0bYoecXAtX+
+oWWaEetwI2YHWyuY+ByICqwgBBhz/I1z7+4jGpH9O6cl+PgbhAYvk+HNxvW0eZDd
++Fl0WakWDHY+FRqy6JJdlK1e9cuYGuUl5zeXlNBcTaI1xkLhpDQ2GvFIMk0VAj9Z
+LLBO3ymhhTeZwyzAJrCIpbLUwW+nrOvY7ot19hupqpjlreAgHc3ZGPi+Pvu6Dcq2
+s87/hTdljIdrcoedWlLIpG4sVvQHhW6i21iV5VvJALJa8Yj2bQ+RBX9pon5hdXSP
+JgTV868G2Yzdckz9CAfi+Kg1/xL92Ih74686P0g8MXZr6OW5EH9zz6w03akvuNzE
+XLBF1QIDAQABo4IEITCCBB0wHwYDVR0jBBgwFoAUdIWAwGbH3zfez70pN6oDHb7t
+zRcwHQYDVR0OBBYEFArvjTEXdFUecvPgDTOVQZnBYb18MIGxBgNVHREEgakwgaaC
+F3d3dy5hbWVyaWNhbmV4cHJlc3MuY29tghNhbWVyaWNhbmV4cHJlc3MuY29tgg5h
+bWV4bW9iaWxlLmNvbYIPYW1leHNhdmluZ3MuY29tghNwZXJzb25hbHNhdmluZ3Mu
+Y29tgid3d3cucGVyc29uYWxzYXZpbmdzLmFtZXJpY2FuZXhwcmVzcy5jb22CF3d3
+dy5wZXJzb25hbHNhdmluZ3MuY29tMD4GA1UdIAQ3MDUwMwYGZ4EMAQICMCkwJwYI
+KwYBBQUHAgEWG2h0dHA6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAOBgNVHQ8BAf8E
+BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMIGfBgNVHR8EgZcw
+gZQwSKBGoESGQmh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2Jh
+bEcyVExTUlNBU0hBMjU2MjAyMENBMS0xLmNybDBIoEagRIZCaHR0cDovL2NybDQu
+ZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzJUTFNSU0FTSEEyNTYyMDIwQ0Ex
+LTEuY3JsMIGHBggrBgEFBQcBAQR7MHkwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3Nw
+LmRpZ2ljZXJ0LmNvbTBRBggrBgEFBQcwAoZFaHR0cDovL2NhY2VydHMuZGlnaWNl
+cnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzJUTFNSU0FTSEEyNTYyMDIwQ0ExLTEuY3J0
+MAwGA1UdEwEB/wQCMAAwggF8BgorBgEEAdZ5AgQCBIIBbASCAWgBZgB1AExj3Jjl
+nB2riPYeij3ero+rRKM3e1+blMP7oZz8wb4mAAABoHqiOawAAAQDAEYwRAIgYw18
+AkWblCUUjI/LsxqCFx+klvyGM1jV28ZsrU330MgCIEQXL+OtM6JELAdUZUpIXoJQ
+GZe2Is1cWKbaii58/g9kAHYARMK9DOkUDmSlyUoBkwpaobs1lw4A7hEWiWgqHETX
+tWYAAAGgeqI53wAABAMARzBFAiEAgQZUvGBLTc9MzyEDcd+FMB41UuxlL3BfxBw1
+LitigeECIBPRm9ZACMOxxJ3gbtRH0MhSUeRCSA70/RCvI43ZIrFaAHUAHJ9oLOn6
+8EVpUPgbloqH3dsyENhM5siy44JSSsTPWZ8AAAGgeqI6YwAABAMARjBEAiB3ELZ+
+UytcIFiIiug0PB++3f4OKURrMaMpPL6KEUG0+QIgKT302L2iMkIb91XDMAxM1TFZ
+ecLq7Zv8tFdbWTp2+Z4wDQYJKoZIhvcNAQELBQADggEBAHrmCENe5aJWPhXCuw39
+HI2aybqufZotdx/X+Z0R3I93/qRQjCwQ34WfNghjbExDKEdZ6ZWNqNrMo72z6BVU
+4vThmOaBtajYfeIgpUO2WuNz9Rm7Qb/m5rTkFg8hFhRxtMz39kRbIIALGDN98AFB
+Pd1Jv7tmRQVLoMFJe/9kpA+h4aDhDUfhIbMXtzU4Otkg6ZyKqH0AVeXXAR9IjT/l
+TpreKi8uul7w1Rpz9STpUzg5q+bPbgsEELM/CN8urw3pkl82CAtASUkrUhHQR2l1
+agJ62uNTDJ5esFNFekKJ/W7wT74C7MBHBQvG6ZWQkMK/MJTjZ0z878H2biGvoNaS
+enU=
+-----END CERTIFICATE-----
+subject=C=US, ST=New York, L=New York, O=American Express Company, CN=www.americanexpress.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 5722 bytes and written 1588 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

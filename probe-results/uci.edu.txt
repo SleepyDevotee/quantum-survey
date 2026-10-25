@@ -1,0 +1,133 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=scpa-p-web.aws.uci.edu
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M01
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jun 29 00:00:00 2026 GMT; NotAfter: Jan 12 23:59:59 2027 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M01
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug 23 22:21:28 2022 GMT; NotAfter: Aug 23 22:21:28 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIMojCCC4qgAwIBAgIQDuVxKQcbNeKWGsFuo8IJKDANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAxMB4XDTI2MDYyOTAwMDAwMFoXDTI3MDExMjIzNTk1OVowITEf
+MB0GA1UEAxMWc2NwYS1wLXdlYi5hd3MudWNpLmVkdTCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAM3pvEJKayRSMeoMmSh1+sjc/ONjTlxHrdhduVx+NrCL
+kEJ89tOeORi0Edah2t4sm9OzAh9BlcD6WD1mq9MKfww47tAorBcDbFiMohXfgnyY
+S9cIC0efwCbIKUvvF3Dd5DCaYD0Gpr/09OJ/aShgtDxO460Wv0pmM4C6vw96jBE0
+l+70JjVhdgxP4UkikH00HpJn/uhrDkqEO5j1Ekr4GF+gJzk6b3SwT8vGZ3i2cCGP
+3L0xqvffGTABR6Mc+IQ1NWZyt12PtKSR8R6wS4aBXXq6MewwepaWGg7pr/AYpdCF
+QYk8hVeq7U7mkTvRMej7u1w9i0EEbAxYRp6quxncck8CAwEAAaOCCbkwggm1MB8G
+A1UdIwQYMBaAFIG4DmOKiRIY5fo7O1CVn+blkBOFMB0GA1UdDgQWBBTqQgUhtgN2
+pVEtCeJ4rnKZKhPaJjCCBvQGA1UdEQSCBuswggbnghZzY3BhLXAtd2ViLmF3cy51
+Y2kuZWR1gh5leHBlcnRzLmNvbW11bmljYXRpb25zLnVjaS5lZHWCEWRldi5zaGlu
+ZS51Y2kuZWR1ghZ3d3cuY2hhbmNlbGxvci51Y2kuZWR1ghp3ZWIuY29tbXVuaWNh
+dGlvbnMudWNpLmVkdYIQd3d3LjUwdGgudWNpLmVkdYIfZGV2LnNwZWNpYWxyZXBv
+cnRzLm5ld3MudWNpLmVkdYISdGVzdC51Y29tbS51Y2kuZWR1ghpzdGFnaW5nLmNo
+YW5jZWxsb3IudWNpLmVkdYIQd3d3LnVjaXJ2aW5lLmVkdYIRd3d3LnRvZGF5LnVj
+aS5lZHWCGnN0YWdpbmcudHJhZGVtYXJrcy51Y2kuZWR1giNzdGFnaW5nLnNwZWNp
+YWxyZXBvcnRzLm5ld3MudWNpLmVkdYIad3d3LmNvbW11bmljYXRpb25zLnVjaS5l
+ZHWCG3NwZWNpYWxyZXBvcnRzLm5ld3MudWNpLmVkdYIcYnVzaW5lc3NwYXJ0bmVy
+c2hpcHMudWNpLmVkdYIeZGV2LndlYi5jb21tdW5pY2F0aW9ucy51Y2kuZWR1ghN3
+d3cuY2FzY2FkZS51Y2kuZWR1gh53d3cud2ViLmNvbW11bmljYXRpb25zLnVjaS5l
+ZHWCEmNoYW5jZWxsb3IudWNpLmVkdYIid3d3LmV4cGVydHMuY29tbXVuaWNhdGlv
+bnMudWNpLmVkdYIRd3d3LmJyYW5kLnVjaS5lZHWCF3N0YWdpbmcuY2FzY2FkZS51
+Y2kuZWR1gh1zY3BhLXdlYi1hd3MtcHJvZC5hd3MudWNpLmVkdYILd3d3LnVjaS5l
+ZHWCFmRldi50cmFkZW1hcmtzLnVjaS5lZHWCFHN0YWdpbmcuNTB0aC51Y2kuZWR1
+gh93d3cuYXBwcy5jb21tdW5pY2F0aW9ucy51Y2kuZWR1ghNkZXYuY2FzY2FkZS51
+Y2kuZWR1ghF3d3cuc2hpbmUudWNpLmVkdYIOc2VhcmNoLnVjaS5lZHWCFnd3dy50
+cmFkZW1hcmtzLnVjaS5lZHWCImRldi5leHBlcnRzLmNvbW11bmljYXRpb25zLnVj
+aS5lZHWCFHd3dy5hZHZvY2FjeS51Y2kuZWR1gg1zaGluZS51Y2kuZWR1ghJkZXYu
+c2VhcmNoLnVjaS5lZHWCE3N0YWdpbmcuY2dyLnVjaS5lZHWCFXN0YWdpbmcuc2hp
+bmUudWNpLmVkdYINYnJhbmQudWNpLmVkdYIUZGV2LmFkdm9jYWN5LnVjaS5lZHWC
+EnRyYWRlbWFya3MudWNpLmVkdYIPZGV2LmNnci51Y2kuZWR1gg10b2RheS51Y2ku
+ZWR1giJzdGFnaW5nLndlYi5jb21tdW5pY2F0aW9ucy51Y2kuZWR1ghFkZXYudG9k
+YXkudWNpLmVkdYIRZGV2LnVjb21tLnVjaS5lZHWCG2FwcHMuY29tbXVuaWNhdGlv
+bnMudWNpLmVkdYIgd3d3LmJ1c2luZXNzcGFydG5lcnNoaXBzLnVjaS5lZHWCFmNv
+bW11bmljYXRpb25zLnVjaS5lZHWCB3VjaS5lZHWCDHVjaXJ2aW5lLmVkdYIfd3d3
+LnNwZWNpYWxyZXBvcnRzLm5ld3MudWNpLmVkdYIVc3RhZ2luZy51Y29tbS51Y2ku
+ZWR1giRzdGFnaW5nLmJ1c2luZXNzcGFydG5lcnNoaXBzLnVjaS5lZHWCGmRldi5j
+b21tdW5pY2F0aW9ucy51Y2kuZWR1ghZzdGFnaW5nLnNlYXJjaC51Y2kuZWR1gg9j
+YXNjYWRlLnVjaS5lZHWCFXN0YWdpbmcudG9kYXkudWNpLmVkdYIPd3d3LmNnci51
+Y2kuZWR1ghZkZXYuY2hhbmNlbGxvci51Y2kuZWR1ghVzdGFnaW5nLmJyYW5kLnVj
+aS5lZHWCEWRldi5icmFuZC51Y2kuZWR1gh5zdGFnaW5nLmNvbW11bmljYXRpb25z
+LnVjaS5lZHWCJnN0YWdpbmcuZXhwZXJ0cy5jb21tdW5pY2F0aW9ucy51Y2kuZWR1
+giBkZXYuYnVzaW5lc3NwYXJ0bmVyc2hpcHMudWNpLmVkdYIQZGV2LjUwdGgudWNp
+LmVkdYIYc3RhZ2luZy5hZHZvY2FjeS51Y2kuZWR1ggtjZ3IudWNpLmVkdYISd3d3
+LnNlYXJjaC51Y2kuZWR1giNzdGFnaW5nLmFwcHMuY29tbXVuaWNhdGlvbnMudWNp
+LmVkdYIQYWR2b2NhY3kudWNpLmVkdYIfZGV2LmFwcHMuY29tbXVuaWNhdGlvbnMu
+dWNpLmVkdYIMNTB0aC51Y2kuZWR1MBMGA1UdIAQMMAowCAYGZ4EMAQIBMA4GA1Ud
+DwEB/wQEAwIFoDATBgNVHSUEDDAKBggrBgEFBQcDATA7BgNVHR8ENDAyMDCgLqAs
+hipodHRwOi8vY3JsLnIybTAxLmFtYXpvbnRydXN0LmNvbS9yMm0wMS5jcmwwdQYI
+KwYBBQUHAQEEaTBnMC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcC5yMm0wMS5hbWF6
+b250cnVzdC5jb20wNgYIKwYBBQUHMAKGKmh0dHA6Ly9jcnQucjJtMDEuYW1hem9u
+dHJ1c3QuY29tL3IybTAxLmNlcjAMBgNVHRMBAf8EAjAAMIIBfQYKKwYBBAHWeQIE
+AgSCAW0EggFpAWcAdgBMY9yY5Zwdq4j2Hoo93q6Pq0SjN3tfm5TD+6Gc/MG+JgAA
+AZ8USQsFAAAEAwBHMEUCIHHXHqGmX3wppc7ykagaVFxEClumuofGPYc1kHSl8O+V
+AiEA5a/RTLPljpUqoCz/igCO4qayG77U1QFB1sUAcYOyskUAdQDW1Y2p0BdT82pK
+oMdXSQKv68fcLNOM2fdkyAyJGR6fAgAAAZ8USQr0AAAEAwBGMEQCIBVoti/7YEwN
+VzCgCF5k1rRRcIj9EjPud7ZiUHSs/Bp9AiBY4ifcvd1S2Enpl6Tm6ryv54mAhoIS
+4HP2FHWCJF0U6gB2AByfaCzp+vBFaVD4G5aKh93bMhDYTObIsuOCUkrEz1mfAAAB
+nxRJC8IAAAQDAEcwRQIhANqOKjj+i4jRZDAiklrKvIOrM4p+ApHLANHvXxbwbDxa
+AiAbiCyV6A2wCnYOd0C+3VSQcnDHtTDPNEA5bYwOt6w6UjANBgkqhkiG9w0BAQsF
+AAOCAQEAh5s08eRXAt2hLfav8qVmH7VBv4qL8Y5/mLy+I4czjV3Eeh9ulHCDW2Y2
+V2858N2tSIi5Yzv1mIajiRwlQasr/Igufud3EiVDc1oSGDAgdRjA+XhHNczGaXez
+zIlDfmyKVjZpBVR/MZnlBNjVR9YZjXvqWLdolsAIDoTtwRGV7ep7z91a+tpZ1wBG
+qF9/X0n51uj1Ih6cLyM8Dp9SVaz2WJ+APKbYdEXnn+TDcBIqwh+Ntb/GmYZTKqpo
+9yDb1mDFWAqJRga30Osw9Ynu21c40L0LXMJ9sf9al9PB9YirvXEgfbA9C2V9P/Tc
+AEVxFD2dV973v7yv8mSK5ECvWXsrLA==
+-----END CERTIFICATE-----
+subject=CN=scpa-p-web.aws.uci.edu
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M01
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pkcs1_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 6210 bytes and written 1622 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 9EE4AEA2A7B4091D963282D65BC2EAE7CA16FBA1FA4DD6D603A9DE4CB30AC9C9
+    Session-ID-ctx: 
+    Master-Key: 1BD6B50C6260E43F75421D843C46912FE3517C71113150EC638F99367181DB7D31BD25D1499D521E123113BF602934E7
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 79698 (seconds)
+    TLS session ticket:
+    0000 - 01 a9 38 ff ec a4 fa 18-e5 67 34 61 fe 7f 1b 63   ..8......g4a...c
+    0010 - c0 11 40 8a eb 81 3c 16-c5 19 d5 dd d5 eb 13 eb   ..@...<.........
+    0020 - bf c0 73 02 b9 b1 e5 0b-04 70 7f aa ee 0d 6f 44   ..s......p....oD
+    0030 - 51 1b c9 a7 83 a2 27 04-6f e6 40 46 db a6 d8 60   Q.....'.o.@F...`
+    0040 - 70 b9 84 e7 39 ef 00 bc-95 b2 77 23 57 0d 34 11   p...9.....w#W.4.
+    0050 - 28 25 21 81 8f 1b a8 a4-3f 6f 44 95 91 8c 9e c7   (%!.....?oD.....
+    0060 - 04 ec 4e da b4 5f 25 43-1d dd a5 b6 a7 3f 1f f9   ..N.._%C.....?..
+    0070 - 22 f3 62 62 73 5a ef a9-76 15 3f 6e 7c ea 0e a6   ".bbsZ..v.?n|...
+    0080 - 29 e5 45 a7 01 ee e2 70-4a 06                     ).E....pJ.
+
+    Start Time: 1792921601
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

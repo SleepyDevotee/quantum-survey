@@ -1,0 +1,61 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=congress.gov
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Sep 15 23:06:36 2026 GMT; NotAfter: Dec 15 00:06:32 2026 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: EC, (secp384r1); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDfjCCAyWgAwIBAgIRAI1g9VTmLcVBE+jEqxNqIUMwCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI2MDkxNTIzMDYzNloXDTI2MTIxNTAwMDYzMlowFzEVMBMG
+A1UEAxMMY29uZ3Jlc3MuZ292MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAECJ8/
+xX/Bijc4WIM6YFhARG+CxbTfZZd26svgD5EhWObF6xpFjAofFhniHuBP7wsKrUrn
+gxLcAs5X8vELclZLaKOCAiwwggIoMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAK
+BggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQY0JZT0Mh7RPDRU8G1
+Woij5sDUfjAfBgNVHSMEGDAWgBSQd5I1Z8T/qMyp5nvZgHl7zJP5ODA1BggrBgEF
+BQcBAQQpMCcwJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQw
+JwYDVR0RBCAwHoIMY29uZ3Jlc3MuZ292gg4qLmNvbmdyZXNzLmdvdjATBgNVHSAE
+DDAKMAgGBmeBDAECATA2BgNVHR8ELzAtMCugKaAnhiVodHRwOi8vYy5wa2kuZ29v
+Zy93ZTEvX3V0T2hjYzktV2suY3JsMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHcA
+lE5Dh/rswe+B8xkkJqgYZQHH0184AgE/cmd9VTcuGdgAAAGgp4luwQAABAMASDBG
+AiEAluIA1sdhKUrsVbtVm5HdTuZWVux7P59InkP3tSIL5mwCIQDXCSc4amvzt1uo
+BDRr1IyBxJMMXjGHBKh+BJO+noXNxgB1ANdtfRDRp/V3wsfpX9cAv/mCyTNaZeHQ
+swFzF8DIxWl3AAABoKeJbrIAAAQDAEYwRAIgBwb+vdWZd4A8kd5HrIQ5E7RkF9LX
+jZCjnxa1/egF/CsCIFuiwfYTFmv9j2jIp/2HJ10OftVHaLmSbwLBBco6m0yrMAoG
+CCqGSM49BAMCA0cAMEQCIBC22xiy8usHT9yvu/S+COU2n1KromUTPUANAArA6+fH
+AiAI5fFvGfaxNAlOoDVd3Yhx/2aAzMZA7u+jywN25uRBFw==
+-----END CERTIFICATE-----
+subject=CN=congress.gov
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 3874 bytes and written 1581 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

@@ -1,0 +1,118 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=Colorado, L=Fort Collins, O=U.S. Department of Agriculture, CN=www.usda.gov
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jun  5 00:00:00 2026 GMT; NotAfter: Dec 20 23:59:59 2026 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIMFzCCCv+gAwIBAgIQDOqZGEzH1dOh31NhnB3j4DANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjYw
+NjA1MDAwMDAwWhcNMjYxMjIwMjM1OTU5WjB3MQswCQYDVQQGEwJVUzERMA8GA1UE
+CBMIQ29sb3JhZG8xFTATBgNVBAcTDEZvcnQgQ29sbGluczEnMCUGA1UEChMeVS5T
+LiBEZXBhcnRtZW50IG9mIEFncmljdWx0dXJlMRUwEwYDVQQDEwx3d3cudXNkYS5n
+b3YwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCXPjY4TTXIev0YtJ3w
+QyNPdTmpX8gbhei5+kN4Fy0iKrkJgLXsvH0dteZqK59RFL8cRTRqFrqZco5TogrC
+rdEpbBqF1NNLlwFbDbHcFOyUuQDHRqsj20c7Id6kdNS4Mm6ubZFQlASaggnWo/Qr
+7SGo+4yJjEwU8XX23nzLASKFZOFxQlQPOhnQ/ivGQw6Ullhum2ppTYy89FPFrsYv
+UabMsBXQoR2giJx91UhGa7D4kETgPplT7jG0vf6q4BqfnFQJr1GvWDe+3WnmDDdY
+frMZfHiEwnq64mwrK+jQpSoSG24xChzSdHx+n9j+YwrBv5JoXi+ugI0Yd/dIOp0t
+PcAnAgMBAAGjggi7MIIItzAfBgNVHSMEGDAWgBR0hYDAZsffN97PvSk3qgMdvu3N
+FzAdBgNVHQ4EFgQUaLs2AzBMVKX3PtsNevFrcLGGlzIwggVHBgNVHREEggU+MIIF
+OoIMd3d3LnVzZGEuZ292ggh1c2RhLmdvdoIOYmxvZ3MudXNkYS5nb3aCDGZucy51
+c2RhLmdvdoILZXhlY3NlYy5nb3aCDWNucHAudXNkYS5nb3aCEXd3dy5vY2lvLnVz
+ZGEuZ292ghlhdWRpb2FyY2hpdmVzLm9jLnVzZGEuZ292ghBkaWdpdGFsLnVzZGEu
+Z292ghh3d3cuY2xpbWF0ZWh1YnMudXNkYS5nb3aCFGNsaW1hdGVodWJzLnVzZGEu
+Z292ghhjbGltYXRlaHVicy5vY2UudXNkYS5nb3aCHHd3dy5jbGltYXRlaHVicy5v
+Y2UudXNkYS5nb3aCEHd3dy5mbnMudXNkYS5nb3aCEW9hbGoub2hhLnVzZGEuZ292
+ggxvaGEudXNkYS5nb3aCDG5hZC51c2RhLmdvdoIQd3d3Lm5hZC51c2RhLmdvdoIN
+d3d3LnJ1cmFsLmdvdoIcd3d3LnRhcmdldGNlbnRlci5kbS51c2RhLmdvdoIYdGFy
+Z2V0Y2VudGVyLmRtLnVzZGEuZ292gglydXJhbC5nb3aCEnJlY29ubmVjdC51c2Rh
+LmdvdoIMb25lLnVzZGEuZ292ghB3d3cub25lLnVzZGEuZ292ggtkcm91Z2h0Lmdv
+doIPd3d3LmRyb3VnaHQuZ292gg1lLmRyb3VnaHQuZ292gg93d3cuZXhlY3NlYy5n
+b3aCEXd3dy5uaWZhLnVzZGEuZ292gg1uaWZhLnVzZGEuZ292ghN3d3cuZXRoaWNz
+LnVzZGEuZ292gg9ldGhpY3MudXNkYS5nb3aCEXd3dy5ucmNzLnVzZGEuZ292gg1u
+cmNzLnVzZGEuZ292ghB3d3cuYnNjLnVzZGEuZ292ggxic2MudXNkYS5nb3aCEnd3
+dy5hcGhpcy51c2RhLmdvdoIRd3d3Lm5hc3MudXNkYS5nb3aCDW5hc3MudXNkYS5n
+b3aCEHd3dy5mYXMudXNkYS5nb3aCDGZhcy51c2RhLmdvdoIQd3d3LnJtYS51c2Rh
+LmdvdoIMcm1hLnVzZGEuZ292ght3d3cuY2xlYW5lbmVyZ3kucmQudXNkYS5nb3aC
+F2NsZWFuZW5lcmd5LnJkLnVzZGEuZ292ghV3d3cuY2lnLm5yY3MudXNkYS5nb3aC
+FGNpZy5zYy5lZ292LnVzZGEuZ292ghFjaWcubnJjcy51c2RhLmdvdoIWd3d3LnBv
+ZHMubnJjcy51c2RhLmdvdoIVcG9kcy5zYy5lZ292LnVzZGEuZ292ghJwb2RzLm5y
+Y3MudXNkYS5nb3aCHHd3dy5kaXJlY3RpdmVzLm5yY3MudXNkYS5nb3aCGGRpcmVj
+dGl2ZXMubnJjcy51c2RhLmdvdoIVZGlldGFyeWd1aWRlbGluZXMuZ292ghl3d3cu
+ZGlldGFyeWd1aWRlbGluZXMuZ292ghN3d3cuZnBhY2JjLnVzZGEuZ292gg9mcGFj
+YmMudXNkYS5nb3aCGnByb2R1Y3RkYXRhLmFwaGlzLnVzZGEuZ292ghtoZWFsdGh5
+YmlyZHMuYXBoaXMudXNkYS5nb3aCFWRpcmVjdC5hcGhpcy51c2RhLmdvdoImdXNi
+aW90ZWNobm9sb2d5cmVndWxhdGlvbi5tcnAudXNkYS5nb3aCEG15YXBoaXMudXNk
+YS5nb3aCEHd3dy5vaWcudXNkYS5nb3aCDG9pZy51c2RhLmdvdoIUd2Vic2l0ZS5v
+aWcudXNkYS5nb3aCDGZuYS51c2RhLmdvdoIQd3d3LmZuYS51c2RhLmdvdjA+BgNV
+HSAENzA1MDMGBmeBDAECAjApMCcGCCsGAQUFBwIBFhtodHRwOi8vd3d3LmRpZ2lj
+ZXJ0LmNvbS9DUFMwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMB
+BggrBgEFBQcDAjCBnwYDVR0fBIGXMIGUMEigRqBEhkJodHRwOi8vY3JsMy5kaWdp
+Y2VydC5jb20vRGlnaUNlcnRHbG9iYWxHMlRMU1JTQVNIQTI1NjIwMjBDQTEtMS5j
+cmwwSKBGoESGQmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2Jh
+bEcyVExTUlNBU0hBMjU2MjAyMENBMS0xLmNybDCBhwYIKwYBBQUHAQEEezB5MCQG
+CCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wUQYIKwYBBQUHMAKG
+RWh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2JhbEcyVExT
+UlNBU0hBMjU2MjAyMENBMS0xLmNydDAMBgNVHRMBAf8EAjAAMIIBfwYKKwYBBAHW
+eQIEAgSCAW8EggFrAWkAdwDCMX5XRRmjRe5/ON6ykEHrx8IhWiK/f9W1rXaa2Q5S
+zQAAAZ6ZW1hcAAAEAwBIMEYCIQDJNMGwC5aBXQ2gVjpae/v+A7OY4YQ5zr/Sh6lp
+bSqaMQIhAKFRSzpIcZ19uwhlr+R+Tudn4xhUV8ARrBanC19AzVp5AHYA1219ENGn
+9XfCx+lf1wC/+YLJM1pl4dCzAXMXwMjFaXcAAAGemVtYLwAABAMARzBFAiEAuz3x
+jvy8bVOQ4XpF8imGMUV/Ctu/lDmE+gUqCcFqL94CIGtfX8ypk0a0AoNp8dWJtjaL
+PuJDw9pFcTMNeSQQXcqhAHYAlE5Dh/rswe+B8xkkJqgYZQHH0184AgE/cmd9VTcu
+GdgAAAGemVtYegAABAMARzBFAiEA02FrJ6+daI8Scd/VZ59pjJYrL/iBzly8+0+1
+G8ubcyMCIHZO6yyB1OHPBTEGBLNIPj2HMk3Sgj8FaGEd3YcQvbrbMA0GCSqGSIb3
+DQEBCwUAA4IBAQAeNluqhG5uYJ57NgQLrInGI634grL4JNsqO1JArOMDuFuY42OV
+pRNdlMXsldHVDLuyAzJO/aA/zVCSM0EclSdnf/Mg5iEkiJuZkOAKBtlf9wDOFAmX
+PoA0fcDAYbOrdcIwRKvOtN41r5mawuyVhPX4aUTjjLStXTfLaJatM25tURJqy5gL
+X5EbVhIudQEtQ7dgAf+G00dAPOukXWlXkE98EhxuZD755Gwygrluyv4R+8ySPi+D
+uBBI4MEylSUQNmETvD2AbuGKgXr20bM495dKk51jJRZUfRndeSuEVjDjBNrMSUYY
+RCnx+z7yrVLwJryd3s0ycTct56P7wDRBhcV0
+-----END CERTIFICATE-----
+subject=C=US, ST=Colorado, L=Fort Collins, O=U.S. Department of Agriculture, CN=www.usda.gov
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pkcs1_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 5760 bytes and written 1623 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: D74A210DFB1EE4015E33992C01862DAD0A642E090DC1270471DCA4EE1356BDF8
+    Session-ID-ctx: 
+    Master-Key: B95865A0BBB8520FF3794674F98F760D89FA025E95254E671DE9F49A407BFCC6FB0FA87F0EAF97730FD6C0B0245F39EF
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1792921614
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

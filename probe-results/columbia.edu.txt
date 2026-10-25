@@ -1,0 +1,79 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=columbia.edu
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct 10 08:42:08 2026 GMT; NotAfter: Jan  8 09:41:25 2027 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: EC, (secp384r1); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG6TCCBo+gAwIBAgIRAOi5xYFpqmzIDl717viW4OowCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI2MTAxMDA4NDIwOFoXDTI3MDEwODA5NDEyNVowFzEVMBMG
+A1UEAxMMY29sdW1iaWEuZWR1MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEjCdj
+EgfjstfTVVI0EMRBBHx1SQDDqUzUQ8iwC95rpV1c5dAD8o75kew++SMFMgpZVLxn
+tdRHGvotIwBHRz//oaOCBZYwggWSMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAK
+BggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBT3V/G6pAv3B/IOsdwZ
+nJcOcPlfbTAfBgNVHSMEGDAWgBSQd5I1Z8T/qMyp5nvZgHl7zJP5ODA1BggrBgEF
+BQcBAQQpMCcwJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQw
+ggOOBgNVHREEggOFMIIDgYIMY29sdW1iaWEuZWR1ghEqLnppLmNvbHVtYmlhLmVk
+dYIeKi5kcnVwYWw3LXRlc3QuY2MuY29sdW1iaWEuZWR1gh8qLnJlb3BlbmN1LmNv
+dmlkMTkuY29sdW1iaWEuZWR1giMqLmRydXBhbC10ZXN0LmJ1c2luZXNzLmNvbHVt
+YmlhLmVkdYIhKi5zaXRlLmRydXBhbDhkZXYuY2MuY29sdW1iaWEuZWR1giUqLmlh
+cy1kZXByZWNhdGVkLXRlc3QuY2MuY29sdW1iaWEuZWR1ghcqLndvcmtsaWZlLmNv
+bHVtYmlhLmVkdYIWKi5jbGltYXRlLmNvbHVtYmlhLmVkdYITKi5jdXJwLmNvbHVt
+YmlhLmVkdYIYKi5zb2Npb2xvZ3kuY29sdW1iaWEuZWR1giIqLmRydXBhbC1kZXYu
+YnVzaW5lc3MuY29sdW1iaWEuZWR1giIqLmRydXBhbGN1c3RvbS1kZXYuY2MuY29s
+dW1iaWEuZWR1ghUqLmFsdW1uaS5jb2x1bWJpYS5lZHWCEyouYXJjaC5jb2x1bWJp
+YS5lZHWCFSouZ2xvYmFsLmNvbHVtYmlhLmVkdYIhKi5pYXMtZHJ1cGFsNy1kZXYu
+Y2MuY29sdW1iaWEuZWR1gh0qLmNhbmNlcmR5bmFtaWNzLmNvbHVtYmlhLmVkdYId
+Ki5kcnVwYWw3LWRldi5jYy5jb2x1bWJpYS5lZHWCFyouYmxvZy5jdXAuY29sdW1i
+aWEuZWR1ghYqLmNhcmVlcnMuY29sdW1iaWEuZWR1ghIqLmN1cC5jb2x1bWJpYS5l
+ZHWCIiouc2l0ZS5kcnVwYWw4dGVzdC5jYy5jb2x1bWJpYS5lZHWCJCouc2l0ZS5k
+cnVwYWxkaXN0ZGV2LmNjLmNvbHVtYmlhLmVkdYIjKi5kcnVwYWxjdXN0b20tdGVz
+dC5jYy5jb2x1bWJpYS5lZHWCIyoudWRldi5kZWdyZWVhdWRpdC5zaXMuY29sdW1i
+aWEuZWR1gg4qLmNvbHVtYmlhLmVkdYIhKi5pYXMtZHJ1cGFsNi1kZXYuY2MuY29s
+dW1iaWEuZWR1giQqLmlhcy1kZXByZWNhdGVkLWRldi5jYy5jb2x1bWJpYS5lZHWC
+FyouYnVzaW5lc3MuY29sdW1iaWEuZWR1ghcqLmxhbXB0ZXN0LmNvbHVtYmlhLmVk
+dTATBgNVHSAEDDAKMAgGBmeBDAECATA2BgNVHR8ELzAtMCugKaAnhiVodHRwOi8v
+Yy5wa2kuZ29vZy93ZTEvMzNEZVIxbmstYlkuY3JsMIIBBQYKKwYBBAHWeQIEAgSB
+9gSB8wDxAHYA1tWNqdAXU/NqSqDHV0kCr+vH3CzTjNn3ZMgMiRkenwIAAAGhJTD8
+ewAABAMARzBFAiEA1naeBgLLQMQymvHtIqezoJRIHBNCBKyfdx8dDSV7UHgCIGR1
+e+IKtMFZkYU1IvAAEA2QNzWmRyF2L9T9xI/KmOPXAHcAYEyar3p/d18B1Ab8kg3I
+mesLHH34yVIb+voXdzuXi8kAAAGhJTD9rwAABAMASDBGAiEA21+KLj3zBNTUDwAG
+Yf/MhPq2nklEDX2Fp2B7bf/cu/YCIQCp7jZiJYMs1Ddb+DRD+FB6+2t8pEO430Eg
+liFem3AJajAKBggqhkjOPQQDAgNIADBFAiEAuDWGOmqecQYU9EE0q2iq1laFuQTG
++54Fq/lfpqQQfTECIBUKlD5T1G6pI29Sqg9OX35Myg/km0hcrJdx+DYKq+Oy
+-----END CERTIFICATE-----
+subject=CN=columbia.edu
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 4750 bytes and written 1581 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

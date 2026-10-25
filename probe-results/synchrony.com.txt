@@ -1,0 +1,79 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=Connecticut, L=Stamford, O=Synchrony Financial, CN=synchrony.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jan  8 00:00:00 2026 GMT; NotAfter: Feb  1 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHozCCBougAwIBAgIQB9ZtbzB9f/PVNb5zvkbqPjANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjYw
+MTA4MDAwMDAwWhcNMjcwMjAxMjM1OTU5WjBsMQswCQYDVQQGEwJVUzEUMBIGA1UE
+CBMLQ29ubmVjdGljdXQxETAPBgNVBAcTCFN0YW1mb3JkMRwwGgYDVQQKExNTeW5j
+aHJvbnkgRmluYW5jaWFsMRYwFAYDVQQDEw1zeW5jaHJvbnkuY29tMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzFanJGiXMFSc9D1Q2lZDm4tByNzRczh3
+3CuA/ELdmEqFMxnWIut/iL2k3CL6DP3aCdchF8NvdJ6sKcQ8fjUjO+Xg1DQ4z5jk
+j9nUbr5REuTddr6nmYPuLgV6+XRqgCJk2U1qQbP1FLlRjkhEocUXLXNmnXbHrWB5
+mSH9JdCtqlj3l3c8GA2jL6nTgvDef6qRnT8Qki19y7jPmzjThxt7x+qgJfrdzwBB
+6PuBP2YXeNGFxqka9xT7SWkJQa67EN/z/gFJ1M4LznE8ovj4lf7ahm0zCzGrlB7p
+AYgtYLeeT8kBiHCRn2Akbg7SKapIfK+JYCE2YzesNZ80/VcAQUIqaQIDAQABo4IE
+UjCCBE4wHwYDVR0jBBgwFoAUdIWAwGbH3zfez70pN6oDHb7tzRcwHQYDVR0OBBYE
+FPRlca6iGYtX9Ls2RzVax5FJ0N/fMIHjBgNVHREEgdswgdiCDXN5bmNocm9ueS5j
+b22CB3N5Zi5jb22CFHN5ZnNraWxsc2FjYWRlbXkuY29tghZzeW5jaHJvbnlmaW5h
+bmNpYWwuY29tghpzeW5jaHJvbnlza2lsbHNhY2FkZW15LmNvbYILd3d3LnN5Zi5j
+b22CGHd3dy5zeWZza2lsbHNhY2FkZW15LmNvbYIRd3d3LnN5bmNocm9ueS5jb22C
+Gnd3dy5zeW5jaHJvbnlmaW5hbmNpYWwuY29tgh53d3cuc3luY2hyb255c2tpbGxz
+YWNhZGVteS5jb20wPgYDVR0gBDcwNTAzBgZngQwBAgIwKTAnBggrBgEFBQcCARYb
+aHR0cDovL3d3dy5kaWdpY2VydC5jb20vQ1BTMA4GA1UdDwEB/wQEAwIFoDATBgNV
+HSUEDDAKBggrBgEFBQcDATCBnwYDVR0fBIGXMIGUMEigRqBEhkJodHRwOi8vY3Js
+My5kaWdpY2VydC5jb20vRGlnaUNlcnRHbG9iYWxHMlRMU1JTQVNIQTI1NjIwMjBD
+QTEtMS5jcmwwSKBGoESGQmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9EaWdpQ2Vy
+dEdsb2JhbEcyVExTUlNBU0hBMjU2MjAyMENBMS0xLmNybDCBhwYIKwYBBQUHAQEE
+ezB5MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wUQYIKwYB
+BQUHMAKGRWh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2Jh
+bEcyVExTUlNBU0hBMjU2MjAyMENBMS0xLmNydDAMBgNVHRMBAf8EAjAAMIIBhQYK
+KwYBBAHWeQIEAgSCAXUEggFxAW8AdgBMY9yY5Zwdq4j2Hoo93q6Pq0SjN3tfm5TD
++6Gc/MG+JgAAAZud8CfoAAAEAwBHMEUCIQDFbBalDmPaV2vjFwWOh0MrOLBaHieF
+AqKONKGP5DLNCgIgbQy5P6yhZOuyDhR959c14TFWCPxjksqBXwWfyF2CDcEAdgAc
+n2gs6frwRWlQ+BuWiofd2zIQ2EzmyLLjglJKxM9ZnwAAAZud8CgbAAAEAwBHMEUC
+IQDFDErhsYd1qiymEAFpZNsSxRf+BMiO9WzmH7CTGOrbwgIgCMZUx+Eu9jXG+zwR
+bOnA16Y5wdnkBcJylqaFPnAElIgAfQCigQAYc04Xbh1H4JVA84G6VGaXzWOoQ1Bx
+brgJTtrxDQAAAZud8ChmAAgAAAUAASacDgQDAEYwRAIgFLAUfHj6MoGk785pc7km
+ZyBHUwIaaVqWtBcIQ78aBZsCIFW4qWfuVA41Hx73GugIo4QBG2AWzqMFp17Y5jKK
+U1DwMA0GCSqGSIb3DQEBCwUAA4IBAQCPthdBziVUKIN3D3cU7YcfxSMQ0nKalRii
+RQuxt9CeRmOhbxvNe0BOg/ybowbcg00/pNih5+nMFEuHorB9CDrTWFLq6q30JtGP
+gwO/gkpbT/jq1Tfr+DdUCbBksEt+D5BqrF8jXhH8wFaqAqGaVtaXm/peiuvuKYud
+vHOAJhO2ue+GKXjs31Azmct+Z7tfDZBHT+yLlwqWMay7iUBHDePYeP2ACqJarar7
+LLZ8XXKaJRfLQ/fJiJkGQTjA+JxdQIDi1K6I5Inm+PKhegwKPnYDHcI5gNCqlBbb
+Z2vxG8DmIacl1XNeOaDAT9QJqbVQtNRiWK5QAGA/uxEn+ttPXfRZ
+-----END CERTIFICATE-----
+subject=C=US, ST=Connecticut, L=Stamford, O=Synchrony Financial, CN=synchrony.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 4840 bytes and written 1582 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

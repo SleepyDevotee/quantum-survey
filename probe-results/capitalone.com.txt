@@ -1,0 +1,75 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:jurisdictionC=US, jurisdictionST=Delaware, businessCategory=Private Organization, serialNumber=2419959, C=US, ST=Virginia, L=McLean, postalCode=22102, street=1680 Capital One Dr, O=Capital One Financial Corporation, CN=capitalone.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+   a:PKEY: EC, (prime256v1); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jun  9 00:00:00 2026 GMT; NotAfter: Dec 24 23:59:59 2026 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jul  2 12:42:50 2020 GMT; NotAfter: Jul  2 12:42:50 2030 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG2DCCBcCgAwIBAgIQDeWcsT1IKfm1OrMn9zl6RzANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMR4wHAYDVQQDExVE
+aWdpQ2VydCBFViBSU0EgQ0EgRzIwHhcNMjYwNjA5MDAwMDAwWhcNMjYxMjI0MjM1
+OTU5WjCCAQUxEzARBgsrBgEEAYI3PAIBAxMCVVMxGTAXBgsrBgEEAYI3PAIBAhMI
+RGVsYXdhcmUxHTAbBgNVBA8MFFByaXZhdGUgT3JnYW5pemF0aW9uMRAwDgYDVQQF
+EwcyNDE5OTU5MQswCQYDVQQGEwJVUzERMA8GA1UECBMIVmlyZ2luaWExDzANBgNV
+BAcTBk1jTGVhbjEOMAwGA1UEERMFMjIxMDIxHDAaBgNVBAkTEzE2ODAgQ2FwaXRh
+bCBPbmUgRHIxKjAoBgNVBAoTIUNhcGl0YWwgT25lIEZpbmFuY2lhbCBDb3Jwb3Jh
+dGlvbjEXMBUGA1UEAxMOY2FwaXRhbG9uZS5jb20wWTATBgcqhkjOPQIBBggqhkjO
+PQMBBwNCAARa7BHpvblMxxUmz+FWNChzf157gaY3lANaOtmpIi4/bWEkEMuQ7blm
+QKUgaJOjXXv/U1L5/VFEBEYS38/idGsVo4IDzDCCA8gwHwYDVR0jBBgwFoAUak5Q
+v5honVt7IHXUWQF5SGaSMgYwHQYDVR0OBBYEFIFHrcwt/4iLQO93w0EM3XiKS35f
+MIGYBgNVHREEgZAwgY2CDmNhcGl0YWxvbmUuY29tgg1jYXBpdGFsb25lLmNhghFj
+YXBpdGFsb25lMzYwLmNvbYIUY2FwaXRhbG9uZWF1dG9wYXkuY2GCEmNhcGl0YWxv
+bmViYW5rLmNvbYIZb3JsYW5kb2NhcGl0YWxvbmVib3dsLmNvbYIUdHJhdmVsY2Fw
+aXRhbG9uZS5jb20wSgYDVR0gBEMwQTALBglghkgBhv1sAgEwMgYFZ4EMAQEwKTAn
+BggrBgEFBQcCARYbaHR0cDovL3d3dy5kaWdpY2VydC5jb20vQ1BTMA4GA1UdDwEB
+/wQEAwIDiDATBgNVHSUEDDAKBggrBgEFBQcDATB1BgNVHR8EbjBsMDSgMqAwhi5o
+dHRwOi8vY3JsMy5kaWdpY2VydC5jb20vRGlnaUNlcnRFVlJTQUNBRzIuY3JsMDSg
+MqAwhi5odHRwOi8vY3JsNC5kaWdpY2VydC5jb20vRGlnaUNlcnRFVlJTQUNBRzIu
+Y3JsMHMGCCsGAQUFBwEBBGcwZTAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGln
+aWNlcnQuY29tMD0GCCsGAQUFBzAChjFodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5j
+b20vRGlnaUNlcnRFVlJTQUNBRzIuY3J0MAwGA1UdEwEB/wQCMAAwggF+BgorBgEE
+AdZ5AgQCBIIBbgSCAWoBaAB2AMIxfldFGaNF7n843rKQQevHwiFaIr9/1bWtdprZ
+DlLNAAABnq3LDSwAAAQDAEcwRQIgMk6gBQ2r2VKOp5LByUDd4sLKh9Teq+d4kajR
+SDcYi64CIQCU5tKBRkwFeUFw9SoE9Drlvjn1MOLLPHG/XWsn/5NRQwB2ANgJVTuU
+T3r/yBYZb5RPhauw+Pxeh1UmDxXRLnK7RUsUAAABnq3LDTgAAAQDAEcwRQIgAzpT
+w5uCRKCEIngZ3CD9JX5SLK1p/uYDGRCdILiDbZYCIQD9Y/eEuSN7Qfm+nSWMQvwh
+ntFlhhncBtAi7qD8jLn/1QB2AJROQ4f67MHvgfMZJCaoGGUBx9NfOAIBP3JnfVU3
+LhnYAAABnq3LDRoAAAQDAEcwRQIgclH1Pb3yuP0QfrnmHvoeknqpnWCTTIzxw6x2
+D9Q0Rh8CIQCvlXyzJAq/vkEBlBnLfc7CdKivK3vxFXhPIfS0+4BZHzANBgkqhkiG
+9w0BAQsFAAOCAQEARzikpONL7v+B4xC7yTR2V55f8s6V4gTnyB9uSrVEqqBL70zf
+Ps5QOSiLH4Cjmefgv4TK1lXcwGkK3BkXoGglSD39btG/O6IAO7BZH7ddQeHhrloC
+U89EcjrS0icLrTjdqvy9b1oGd2VpXtSZcdVbnIhDJ/2oBmtbia+DedZnTPoQo0QI
+MsWxgJO7WB4uRp5duB1LQAmWyvRi5M9/oFmfBsY4B6inBJ38nji7KckXZRKpZV3u
+/c1K8Z2YTSFSy0ewq8okqt06xRc86cAqjK6+o9vggEoBFtmRZko4RtyN8JZfW2Hx
+m6gZ/PPav3ee3HorAWeFcrABVqQGrnUa/xldWA==
+-----END CERTIFICATE-----
+subject=jurisdictionC=US, jurisdictionST=Delaware, businessCategory=Private Organization, serialNumber=2419959, C=US, ST=Virginia, L=McLean, postalCode=22102, street=1680 Capital One Dr, O=Capital One Financial Corporation, CN=capitalone.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 4569 bytes and written 1583 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

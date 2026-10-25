@@ -1,0 +1,66 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=nypost.com
+   i:C=US, O=Let's Encrypt, CN=YE1
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Oct 11 23:43:22 2026 GMT; NotAfter: Jan  9 23:43:21 2027 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=YE1
+   i:C=US, O=ISRG, CN=Root YE
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
+ 2 s:C=US, O=ISRG, CN=Root YE
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X2
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+ 3 s:C=US, O=Internet Security Research Group, CN=ISRG Root X2
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: EC, (secp384r1); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDkTCCAxegAwIBAgISBo8X+STOiW1tgV4Io6LdFtp7MAoGCCqGSM49BAMDMDMx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNZ
+RTEwHhcNMjYxMDExMjM0MzIyWhcNMjcwMTA5MjM0MzIxWjAVMRMwEQYDVQQDEwpu
+eXBvc3QuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEAwJrtFRqsm8SWM0A
+RUDHFo1O0/xrtjLH32W7CDMt79XwvrY2H0x0HEHdQH+AkYsuywZr+aiy0XtsI9RR
+ZY6yVaOCAicwggIjMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEFBQcD
+ATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBT4ScFOpykwiJ6miAHJFI4VhnA+RTAf
+BgNVHSMEGDAWgBS7IMpHC/7X5Zz5jwkqo4w3RbG82DAzBggrBgEFBQcBAQQnMCUw
+IwYIKwYBBQUHMAKGF2h0dHA6Ly95ZTEuaS5sZW5jci5vcmcvMCUGA1UdEQQeMByC
+Cm55cG9zdC5jb22CDnd3dy5ueXBvc3QuY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIB
+MC8GA1UdHwQoMCYwJKAioCCGHmh0dHA6Ly95ZTEuYy5sZW5jci5vcmcvMTI0LmNy
+bDCCAQoGCisGAQQB1nkCBAIEgfsEgfgA9gB9AFlubDOGlLJZcqJWyKDo3ZBKdugI
+PdqHOwEIOCgUPO5ZAAABoS2PDqkACAAABQALZ4kEBAMARjBEAiArEOXXa5OqK9gI
+QEN/SDsuakzUAahVlffegMHTpPqGIAIgZsNrIuVEcZJqI9p4TKFy1VgCFv0d4HYj
+M6lrFkgC9o0AdQDW1Y2p0BdT82pKoMdXSQKv68fcLNOM2fdkyAyJGR6fAgAAAaEt
+jw43AAAEAwBGMEQCID5W+bnSh24Tjz7x03+fWE7XR4v4v9pkqqU0q8Gc0gmJAiBx
+FSzEHZXQuXpHNl0Muf17HFSS2gwBZNp+q5aRnIoKxDAKBggqhkjOPQQDAwNoADBl
+AjAXKwvUiSSiSnG0674Jq4Ysxu+iZK7cB4SI5sgMlKcjiOaocnqlF55lrvvoysdE
+sEgCMQDxnuEu5Soik7FAKjPDG0dEgTX1Q2+lfbVvjENMmvnBaCuGbzj6vgV714V5
+UXgFlek=
+-----END CERTIFICATE-----
+subject=CN=nypost.com
+issuer=C=US, O=Let's Encrypt, CN=YE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3861 bytes and written 1878 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

@@ -1,0 +1,96 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=psu.edu
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M01
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jul  9 00:00:00 2026 GMT; NotAfter: Jan 22 23:59:59 2027 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M01
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug 23 22:21:28 2022 GMT; NotAfter: Aug 23 22:21:28 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFsTCCBJmgAwIBAgIQC2WdoLpsM1rdFw0ayx5KSzANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAxMB4XDTI2MDcwOTAwMDAwMFoXDTI3MDEyMjIzNTk1OVowEjEQ
+MA4GA1UEAxMHcHN1LmVkdTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AJa+BIDMkLZEIqV0h9zUWyAvaBTj39j1XDnrGKiIKocE56VFR777zGL+RruTCzfW
+Vs69Tfm9uHRIwaGU5vl2RYkOjBtFRaN5rYF+c1U7mm90jc7fb0FAb+Uhw1nmGCLw
+N9M/pzOqQ0zXulXqc4ZQ6jurCbsSJUYJN6N8M8ZZyo7KlMgRfQrCzwuUPcd/t2tl
+Dz07LyXaa+nUdCu41hdU+WvSEcnQp8xEv5sxvTYN7/UqfAxkR+gGTuI/cQb6j4mW
+WYWMU4QjStRUE4U4DmUPJmr75vJrkA0OrlbfSEuUq6CPtaKA64NRRoqzfQXAIpzS
+JzYmYauZtxUIZP66e1IwR7UCAwEAAaOCAtcwggLTMB8GA1UdIwQYMBaAFIG4DmOK
+iRIY5fo7O1CVn+blkBOFMB0GA1UdDgQWBBQDcDXvQHSsbYXEAZAcDymi3mo/cTAS
+BgNVHREECzAJggdwc3UuZWR1MBMGA1UdIAQMMAowCAYGZ4EMAQIBMA4GA1UdDwEB
+/wQEAwIFoDATBgNVHSUEDDAKBggrBgEFBQcDATA7BgNVHR8ENDAyMDCgLqAshipo
+dHRwOi8vY3JsLnIybTAxLmFtYXpvbnRydXN0LmNvbS9yMm0wMS5jcmwwdQYIKwYB
+BQUHAQEEaTBnMC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcC5yMm0wMS5hbWF6b250
+cnVzdC5jb20wNgYIKwYBBQUHMAKGKmh0dHA6Ly9jcnQucjJtMDEuYW1hem9udHJ1
+c3QuY29tL3IybTAxLmNlcjAMBgNVHRMBAf8EAjAAMIIBfwYKKwYBBAHWeQIEAgSC
+AW8EggFrAWkAdgBMY9yY5Zwdq4j2Hoo93q6Pq0SjN3tfm5TD+6Gc/MG+JgAAAZ9E
+yIM3AAAEAwBHMEUCIQD9GAVK7wJDyOoSnqCbJbczlupQ5YDeF+svbeatMcqpTwIg
+Rj/SYQ3P8rnSpwqmzuBK67qQf+Vss5qPeSCI3JwhUfoAdwBEwr0M6RQOZKXJSgGT
+ClqhuzWXDgDuERaJaCocRNe1ZgAAAZ9EyIN5AAAEAwBIMEYCIQDaU4RiFOPKcJ+H
+7MQiXzH+xlK46GmmpjlNOu3nlepaUgIhAIe5BIb0J2wQvuZeCbciwh28NxASs+KY
+4sOOeeDU8ddCAHYAHJ9oLOn68EVpUPgbloqH3dsyENhM5siy44JSSsTPWZ8AAAGf
+RMiDigAABAMARzBFAiB0JJsYOydXZ0JghKEEsT+rjLEExoF/YdVkb0+LMobOgQIh
+AI7ggGaRW0aWy6474PVEqLaheMLRmaDM33DKptO/rnJbMA0GCSqGSIb3DQEBCwUA
+A4IBAQDjDeVHxxNpyR8a3UnVBU44Le/fAcS4Y+pVW9LA4MBT9VQyEu55c4UyVD/I
+m8B9ij2h4KQJqecJ+T4Gx9JprmGoKIF08P8A4qCkNEsIiT3BRt+grEojzd8HVUJC
+riBDcSUuBdBqd89gT3vH/z8geV08FCzM62JayOLEkfpPFoFus5coZu8ouqcp9tU9
++b3gCcUrQplzcrnIVEXOVinnWyaVEXTqjzbATvOzFRDOh/ItMy6PODgN8392HIBr
+IvVpZBKKTKhu/TYNM9SCdj9q+FoBkQ7GBpLerJhfoEuBHTN8/Hg+k+GcXQwPnOEq
+97M8Y8L48Pnfvh8oaFSj2xPv3gNu
+-----END CERTIFICATE-----
+subject=CN=psu.edu
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M01
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pkcs1_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 4433 bytes and written 1622 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 2C00C60B85726ECAAA56D9D91F1A980A058E55B84E56223964EBC69F5DB6DDEF
+    Session-ID-ctx: 
+    Master-Key: 73C6F8DF32809650C9F56DB9B3F0BCB283F925319A8ED6CB64F619A94C4380929E2A87ED8AF161D100E02D0ED09B1022
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 63113 (seconds)
+    TLS session ticket:
+    0000 - 01 fa 86 29 6b 18 74 a0-a9 67 58 e7 46 04 03 98   ...)k.t..gX.F...
+    0010 - 60 ee 51 35 b1 a2 ce ad-2a f9 47 50 ff 74 a5 31   `.Q5....*.GP.t.1
+    0020 - 86 de df 15 f0 24 4f a7-6c ed d9 6d 64 01 cf cf   .....$O.l..md...
+    0030 - 8d ce 89 da 27 88 bb 98-28 20 63 2f 44 c6 57 8d   ....'...( c/D.W.
+    0040 - 90 08 be 87 40 76 5c f9-0c 8c 37 c0 04 05 25 d3   ....@v\...7...%.
+    0050 - c5 e7 83 6c c9 38 37 22-31 63 9d 9d 0d e8 2d f0   ...l.87"1c....-.
+    0060 - 3a 85 59 78 4e 98 75 bd-27 91 1e 79 c7 bc 4c f6   :.YxN.u.'..y..L.
+    0070 - 85 db f3 3c e3 85 40 8c-88 ad 70 72 67 61 ab 0f   ...<..@...prga..
+    0080 - 37 10 24 e2 7d 51 45 00-f8 fb                     7.$.}QE...
+
+    Start Time: 1792921600
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

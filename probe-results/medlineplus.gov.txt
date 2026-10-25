@@ -1,0 +1,77 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=medlineplus.gov
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M01
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jan  2 00:00:00 2026 GMT; NotAfter: Jan 30 23:59:59 2027 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M01
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug 23 22:21:28 2022 GMT; NotAfter: Aug 23 22:21:28 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGhDCCBWygAwIBAgIQAtCdfIBRm3S01oz5xa2DFjANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAxMB4XDTI2MDEwMjAwMDAwMFoXDTI3MDEzMDIzNTk1OVowGjEY
+MBYGA1UEAxMPbWVkbGluZXBsdXMuZ292MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEApAs75XxIoESL2UA6G7Bh1qBmtl0dSv+mAqrR0eftKVVirhQNmR10
+nMoUSn8UanioSDs6UIJewAGoQZnAqD8vniGdlvg2GcKVnBcfP8pk8DM85pvHB+F4
+l+9+AkB+rU+1kFEeyYssmZkZBATxJYEOe7e5uGY8oZ9noXf8QCB+YdyUMFLJ0VoY
+dr00MFxpoEyAgzlN0NmM9JoUCZKlx9IV07LqB4stmGIWZJD1k6ydTMv2tX+ecFe6
+512hNZcy9s18b4RSdC4fxpGC9HL0I/a8CYDRmnGJW3EMjyz4PZGlZPhoFNO+9P0g
+WGMz5LXzfDTDJ2+Tb+3QHmzbfj3KBDAC2QIDAQABo4IDojCCA54wHwYDVR0jBBgw
+FoAUgbgOY4qJEhjl+js7UJWf5uWQE4UwHQYDVR0OBBYEFNtvJXbTX/okSU2QWXGl
+DjZfk+BAMIHdBgNVHREEgdUwgdKCD21lZGxpbmVwbHVzLmdvdoIPbWVkbGluZXBs
+dXMuY29tgh9tZWRsaW5lcGx1cy5hd3Nwcm9kLm5sbS5uaWguZ292gg9tZWRsaW5l
+cGx1cy5uZXSCE3d3dy5tZWRsaW5lcGx1cy5vcmeCE3d3dy5tZWRsaW5lcGx1cy5j
+b22CE3d3dy5tZWRsaW5lcGx1cy5nb3aCE3d3dy5tZWRsaW5lcGx1cy5uZXSCF21l
+ZGxpbmVwbHVzLm5sbS5uaWguZ292gg9tZWRsaW5lcGx1cy5vcmcwEwYDVR0gBAww
+CjAIBgZngQwBAgEwDgYDVR0PAQH/BAQDAgWgMBMGA1UdJQQMMAoGCCsGAQUFBwMB
+MDsGA1UdHwQ0MDIwMKAuoCyGKmh0dHA6Ly9jcmwucjJtMDEuYW1hem9udHJ1c3Qu
+Y29tL3IybTAxLmNybDB1BggrBgEFBQcBAQRpMGcwLQYIKwYBBQUHMAGGIWh0dHA6
+Ly9vY3NwLnIybTAxLmFtYXpvbnRydXN0LmNvbTA2BggrBgEFBQcwAoYqaHR0cDov
+L2NydC5yMm0wMS5hbWF6b250cnVzdC5jb20vcjJtMDEuY2VyMAwGA1UdEwEB/wQC
+MAAwggF+BgorBgEEAdZ5AgQCBIIBbgSCAWoBaAB2AExj3JjlnB2riPYeij3ero+r
+RKM3e1+blMP7oZz8wb4mAAABm34v6v0AAAQDAEcwRQIgBgHGX7p3Xr6RC7ht0tTM
+ndrZvdzkNt5c30PT3g6+hikCIQCo3Biwok9C4oCBbXKU0ZMdE1CCH6+NXdh04Zzy
+NoeZ3QB2AByfaCzp+vBFaVD4G5aKh93bMhDYTObIsuOCUkrEz1mfAAABm34v6wIA
+AAQDAEcwRQIhAIXzGr7tQ/p6pBavtgJC8Kqz6SmLYINhIuz0IsFsUx/rAiAt8nad
+3eN9IppzOVB3XseA3xKNACuxHXiij9pt9huMmAB2AGBMmq96f3dfAdQG/JINyJnr
+Cxx9+MlSG/r6F3c7l4vJAAABm34v678AAAQDAEcwRQIgM1zF6jM/4jN2H9LUEQpk
+HsbYg9TzktWelgs6HiLTVPQCIQCd+HHAQJ510f9ZRuHEA7b4t8gxtnTnEOEUo+pe
+MKq4GjANBgkqhkiG9w0BAQsFAAOCAQEAHpgnoe23aDJMewJJZlNFBHQcsuiAAED9
+e/3zJ1kubudSdJs2A4+6hpeo69ODoiD0ty/kiR4dnUKuORdTAYW72DK8nxy+lkaW
+vCD0YBrp6N7HO3RnnV8ZU82H8nGVFVoLikwwtpMUJfGV7IrjPHXAo/Ugh2hc95s3
+9+7IpX6Psmx/3NcSZTCKtGnH0fhEkOLuaZEzLMyY2gHD24h4ck/x3MJaK2R3JExh
+BdDg9Ag8A/mDLUhGHfEFu/OMUWHFpU2VnqIIigRoUc/Y/EESwXrpMJ0XNYFZu1/w
+AGKOH45OgZTe2nWi2TNaWb49N41JjBVvvclTEF1sbCIeAP6LvKTyIg==
+-----END CERTIFICATE-----
+subject=CN=medlineplus.gov
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M01
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 5610 bytes and written 1568 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

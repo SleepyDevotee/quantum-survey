@@ -1,0 +1,79 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:jurisdictionC=US, jurisdictionST=Minnesota, businessCategory=Private Organization, serialNumber=1K-1056, C=US, ST=Minnesota, L=Richfield, O=Best Buy Co., Inc., CN=www.bestbuy.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Feb 11 00:00:00 2026 GMT; NotAfter: Feb 11 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G3
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Apr 14 00:00:00 2021 GMT; NotAfter: Apr 13 23:59:59 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHqzCCBzKgAwIBAgIQD4v9yJ+6722PEG4ujdQuITAKBggqhkjOPQQDAzBZMQsw
+CQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypEaWdp
+Q2VydCBHbG9iYWwgRzMgVExTIEVDQyBTSEEzODQgMjAyMCBDQTEwHhcNMjYwMjEx
+MDAwMDAwWhcNMjcwMjExMjM1OTU5WjCBzjETMBEGCysGAQQBgjc8AgEDEwJVUzEa
+MBgGCysGAQQBgjc8AgECEwlNaW5uZXNvdGExHTAbBgNVBA8MFFByaXZhdGUgT3Jn
+YW5pemF0aW9uMRAwDgYDVQQFEwcxSy0xMDU2MQswCQYDVQQGEwJVUzESMBAGA1UE
+CBMJTWlubmVzb3RhMRIwEAYDVQQHEwlSaWNoZmllbGQxGzAZBgNVBAoTEkJlc3Qg
+QnV5IENvLiwgSW5jLjEYMBYGA1UEAxMPd3d3LmJlc3RidXkuY29tMFkwEwYHKoZI
+zj0CAQYIKoZIzj0DAQcDQgAEKxoS4+w8k20rG1o2NcujXE/H2/6qNWD9Jq5WHnwL
+oLsT2j9O0nOttucYuwoaSPuZZFZpVgAYwVP3pZzJUdimSaOCBWQwggVgMB8GA1Ud
+IwQYMBaAFIoj655r1/k3XfltITl2mqFn3hCoMB0GA1UdDgQWBBSt6JloQI96lSQK
+Hj+UAwE2GNqn3DCCAe4GA1UdEQSCAeUwggHhgg93d3cuYmVzdGJ1eS5jb22CFWFj
+Y2Vzcy51cy5iZXN0YnV5LmNvbYITYXBwLXNzbC5iZXN0YnV5LmNvbYIPYXBwLmJl
+c3RidXkuY29tghRhc3NldHMuYmJ5c3RhdGljLmNvbYILYmVzdGJ1eS5jb22CE2Nv
+bnRleHQuYmVzdGJ1eS5jb22CFWNzcy1zc2wuYmJ5c3RhdGljLmNvbYIRZGVhbHMu
+YmVzdGJ1eS5jb22CEGdsdG0uYmVzdGJ1eS5jb22CFmhlYWx0aGNhcmUuYmVzdGJ1
+eS5jb22CD2h1Yi5iZXN0YnV5LmNvbYIYaW1hZ2VzLXNzbC5iYnlzdGF0aWMuY29t
+ghJpbWFnZXMuYmVzdGJ1eS5jb22CEWltZy5iYnlzdGF0aWMuY29tghRqcy1zc2wu
+YmJ5c3RhdGljLmNvbYIUbWV4aWNvLmJieXN0YXRpYy5jb22CFm1pc2Mtc3NsLmJi
+eXN0YXRpYy5jb22CGHBpc2Nlcy1zc2wuYmJ5c3RhdGljLmNvbYIUcGlzY2VzLmJi
+eXN0YXRpYy5jb22CE3N0cmVhbXMuYmVzdGJ1eS5jb22CFXdvcmtmb3JjZS5iZXN0
+YnV5LmNvbYITd3d3LXNzbC5iZXN0YnV5LmNvbTBKBgNVHSAEQzBBMAsGCWCGSAGG
+/WwCATAyBgVngQwBATApMCcGCCsGAQUFBwIBFhtodHRwOi8vd3d3LmRpZ2ljZXJ0
+LmNvbS9DUFMwDgYDVR0PAQH/BAQDAgOIMBMGA1UdJQQMMAoGCCsGAQUFBwMBMIGf
+BgNVHR8EgZcwgZQwSKBGoESGQmh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9EaWdp
+Q2VydEdsb2JhbEczVExTRUNDU0hBMzg0MjAyMENBMS0yLmNybDBIoEagRIZCaHR0
+cDovL2NybDQuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzNUTFNFQ0NTSEEz
+ODQyMDIwQ0ExLTIuY3JsMIGHBggrBgEFBQcBAQR7MHkwJAYIKwYBBQUHMAGGGGh0
+dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBRBggrBgEFBQcwAoZFaHR0cDovL2NhY2Vy
+dHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzNUTFNFQ0NTSEEzODQyMDIw
+Q0ExLTIuY3J0MAwGA1UdEwEB/wQCMAAwggF/BgorBgEEAdZ5AgQCBIIBbwSCAWsB
+aQB3AExj3JjlnB2riPYeij3ero+rRKM3e1+blMP7oZz8wb4mAAABnE3lwbsAAAQD
+AEgwRgIhAKhL7LG9FGnA7uSqza/6LeQ60U7TUn3ENQh3fveuiJP4AiEA8DWN5o5D
+h9O6ACZVnGDncN1v4wfUd06D64VKOWCwlaAAdgAcn2gs6frwRWlQ+BuWiofd2zIQ
+2EzmyLLjglJKxM9ZnwAAAZxN5cG5AAAEAwBHMEUCIQCcnXU/VmQAnSKLe5LPxvqo
+UeJaOlZIpbocwnac2pKBvwIgXG0R5Ejvn83MG1Nz7ubpPvNX50Uz5wlNn7hhc2+u
+dJ0AdgBgTJqven93XwHUBvySDciZ6wscffjJUhv6+hd3O5eLyQAAAZxN5cK3AAAE
+AwBHMEUCIQDgpg+jBeIwhHmXow139IMP3Dysrma+hvffQjPz3xU9LwIgDPxicknC
+WVVYObBjT1G9pXeBkjazO8Vgdu7BbNsia2kwCgYIKoZIzj0EAwMDZwAwZAIwNKIQ
+wZgewT2LlbBE8PnXpiBeBRfHtsa78JxpQDFnngte5TdE28uOTga7qEcXUB1yAjAV
+Ro7dhw+yVa9uBRg48B+GJGlUWOsJodDSAxvzRQsAGMtaftO9lJ5XpBejYwKP0X4=
+-----END CERTIFICATE-----
+subject=jurisdictionC=US, jurisdictionST=Minnesota, businessCategory=Private Organization, serialNumber=1K-1056, C=US, ST=Minnesota, L=Richfield, O=Best Buy Co., Inc., CN=www.bestbuy.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 4328 bytes and written 1580 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

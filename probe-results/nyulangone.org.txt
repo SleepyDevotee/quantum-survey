@@ -1,0 +1,101 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=New York, L=New York, O=NYU Langone Hospitals, CN=*.nyulangone.org
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Dec 17 00:00:00 2025 GMT; NotAfter: Jan  7 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG5jCCBc6gAwIBAgIQCTAxbMY/F4cagfGBlK9xWzANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjUx
+MjE3MDAwMDAwWhcNMjcwMTA3MjM1OTU5WjBuMQswCQYDVQQGEwJVUzERMA8GA1UE
+CBMITmV3IFlvcmsxETAPBgNVBAcTCE5ldyBZb3JrMR4wHAYDVQQKExVOWVUgTGFu
+Z29uZSBIb3NwaXRhbHMxGTAXBgNVBAMMECoubnl1bGFuZ29uZS5vcmcwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCpkoO6fTkEziRlW5K8D2s8+SRQTE6v
+K1C9m5dTSWaAoLJ866AaY9NP0fsR9caktRwqmn0HdhqjxQPwWARbrTzpOOHMul7m
+1Ui6cQ/xDxiOPGKDOr4JpYC2NYsklISbnBR1c+twPrBYuSjDCbp2bqnDNPPOQkEb
+PoAC3CPggQ0iqxHPrZ5tydsJqQM21SGyHhQ4P9tyqXEb6gYXZlSvcT5KvLzMX261
++YYKUfD/nAwojNaoiyIKfRPr3aLKqbnzX7SVQLf+maosLoyKOxFuCmVbnQb69RiB
+29Chf3PI1NKV+wqKc9iLn1oyPIU5hezrfhPyJtg3owyD/BaaRKss6Z0ZAgMBAAGj
+ggOTMIIDjzAfBgNVHSMEGDAWgBR0hYDAZsffN97PvSk3qgMdvu3NFzAdBgNVHQ4E
+FgQUfq0gUYbUtIdMNGE7JP6i8M9OVKIwKwYDVR0RBCQwIoIQKi5ueXVsYW5nb25l
+Lm9yZ4IObnl1bGFuZ29uZS5vcmcwPgYDVR0gBDcwNTAzBgZngQwBAgIwKTAnBggr
+BgEFBQcCARYbaHR0cDovL3d3dy5kaWdpY2VydC5jb20vQ1BTMA4GA1UdDwEB/wQE
+AwIFoDATBgNVHSUEDDAKBggrBgEFBQcDATCBnwYDVR0fBIGXMIGUMEigRqBEhkJo
+dHRwOi8vY3JsMy5kaWdpY2VydC5jb20vRGlnaUNlcnRHbG9iYWxHMlRMU1JTQVNI
+QTI1NjIwMjBDQTEtMS5jcmwwSKBGoESGQmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNv
+bS9EaWdpQ2VydEdsb2JhbEcyVExTUlNBU0hBMjU2MjAyMENBMS0xLmNybDCBhwYI
+KwYBBQUHAQEEezB5MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5j
+b20wUQYIKwYBBQUHMAKGRWh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdp
+Q2VydEdsb2JhbEcyVExTUlNBU0hBMjU2MjAyMENBMS0xLmNydDAMBgNVHRMBAf8E
+AjAAMIIBfwYKKwYBBAHWeQIEAgSCAW8EggFrAWkAdgBMY9yY5Zwdq4j2Hoo93q6P
+q0SjN3tfm5TD+6Gc/MG+JgAAAZsssbZhAAAEAwBHMEUCIByTt7WZKeBr+I+TLiHa
+uZoR2cyYj5QDwpsgxEIFuUCsAiEAzIa/d5NzLGMOxS/4gi8sYOkL/Elas6yp76UE
+q4blDroAdwAcn2gs6frwRWlQ+BuWiofd2zIQ2EzmyLLjglJKxM9ZnwAAAZsssbZ1
+AAAEAwBIMEYCIQDbjzMPse5Im2BwRzBmAKpHB7vzqW0L0XmLCWn9GUH/kAIhAIBl
+ynZi4q/c7iJsAgJYGkkdufe8ixrbk6FlotSeLZarAHYAYEyar3p/d18B1Ab8kg3I
+mesLHH34yVIb+voXdzuXi8kAAAGbLLG3FAAABAMARzBFAiEAlsKObwrl79HOP7qz
+AMlGYO1bCvJaUJtpv6X6FifTniYCIDreFrKw5O1p9rYM67RQL13SbXlBcsnkCCzN
+mevcXmk4MA0GCSqGSIb3DQEBCwUAA4IBAQC0DO6PsoG1lbcpjot7vBcRbWuzgqTi
+q+r3sPz9fOFwca59YNFLaViDVQ8BxA32JhoEzJjnnpjx2MP8GRIt0BJnW5KbWlfq
+aXpfiIHvbz9Rg7I9qud2z8ql+ReSHVcD/Mrmkm6Q2ZgLxn+o9Jpd3GGSwXcTHkmA
+c/71OcbSSnxFBmZn6zjdWI/v4HROMq5O3ycj5K5lPNgFvV+3N2Njd8a3cs1hFuox
+YQG1aPIVBMo0JMJpgRYiaRie1cluGTJIxSMvwrsN6y7pl74zaLux2tfyzSGGZiXO
+tAwQnKolGKqB8Q1FKmljvhRj1jLtaBA4l1zVc2G+hY7HQQwRPn8JhnvJ
+-----END CERTIFICATE-----
+subject=C=US, ST=New York, L=New York, O=NYU Langone Hospitals, CN=*.nyulangone.org
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3656 bytes and written 1596 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: B6F83ECCCEDC04902025C257145E0EE24F2B46C4868344F6094DB7BE5D1A9860
+    Session-ID-ctx: 
+    Master-Key: 28F1F6EAEB1507CC1355C9C4E0573B3864F656FDD7F0239B8B78C1F9C0C0648D838BD336F27502390BA1ACD86A61A746
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 58 3f f0 b4 ac 29 93 ec-79 20 57 f4 57 4b 01 e1   X?...)..y W.WK..
+    0010 - 80 9d ac 39 34 17 4f 08-06 ee 65 59 46 cd 55 88   ...94.O...eYF.U.
+    0020 - 7a 30 57 d1 23 a9 98 9f-dd 4a 4e 15 d7 f8 72 5c   z0W.#....JN...r\
+    0030 - f1 76 41 b0 61 18 6e 3e-55 e7 2c 3e a7 71 97 2f   .vA.a.n>U.,>.q./
+    0040 - ef c4 f7 f2 85 7c b0 67-71 9c f5 d0 7d 16 1d 28   .....|.gq...}..(
+    0050 - b5 a4 8d bb 7c 00 7c bd-89 6c b7 cf ce ea 6a 5b   ....|.|..l....j[
+    0060 - 22 60 12 30 ca 8e 08 c0-42 ce 6b ec 54 1a df e2   "`.0....B.k.T...
+    0070 - af b6 ba ce 0c b2 85 81-c0 34 6b 39 95 03 6f f0   .........4k9..o.
+    0080 - bf bf 2c 28 83 24 75 db-cc 1a 3a 2f 4b 60 75 db   ..,(.$u...:/K`u.
+    0090 - ff 32 5b b0 72 5e d0 ec-35 12 73 a6 3e a2 27 eb   .2[.r^..5.s.>.'.
+    00a0 - 37 e3 7a c3 fd f7 b0 7c-17 15 17 69 e5 db d1 34   7.z....|...i...4
+    00b0 - e4 e3 db 89 b9 0e fe e3-2e 47 0f 10 b9 64 d5 bb   .........G...d..
+
+    Start Time: 1792921667
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

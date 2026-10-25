@@ -1,0 +1,87 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=weather.gov
+   i:C=US, O=Let's Encrypt, CN=YR2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep  9 11:09:48 2026 GMT; NotAfter: Dec  8 11:09:47 2026 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=YR2
+   i:C=US, O=ISRG, CN=Root YR
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
+ 2 s:C=US, O=ISRG, CN=Root YR
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: RSA, 4096 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIIPjCCByagAwIBAgISBv9FaCMiK3ifpnunkAvXxysdMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNZUjIwHhcNMjYwOTA5MTEwOTQ4WhcNMjYxMjA4MTEwOTQ3WjAWMRQwEgYDVQQD
+Ewt3ZWF0aGVyLmdvdjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALNB
+a6HeabAc+d2YCZKB77KbFJhCd55DJetohvnxTL8gEKJsL5qLnECCQacy9nesfq9R
+mXamUDJYP76aakDHlhQX39St3fOEZysAwd8kv7mMRhy82itS5R5DQb46LUIZ9B/y
+QBaf83TR4utVJm2mxMgpRspUF5ABHHrKhSvKKtqvPtMWXWJYDCayDE5XpmIUeJUb
+OU+wgQ7yfKfk0CScidm/YRUFYiK6/mC+BPr1wBnqQ2Vbq6nMpIvjznoNWam9uTwH
+YZgt8mdWZI9B6qP6VLEg/+IViZc7b/RF2jiR4H23nv0TLWwD6r8+ggwOi0Ys6KQA
+bbF2a587xdnm5B7fqh0CAwEAAaOCBWcwggVjMA4GA1UdDwEB/wQEAwIFoDATBgNV
+HSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSmU+dwzRXs
+H5227Uw+0eIqTyqjVjAfBgNVHSMEGDAWgBRAFS0mee0yIJ7fmnId1jIfgQyBDDAz
+BggrBgEFBQcBAQQnMCUwIwYIKwYBBQUHMAKGF2h0dHA6Ly95cjIuaS5sZW5jci5v
+cmcvMIIDYQYDVR0RBIIDWDCCA1SCE2FtZGFyLm5jZXAubm9hYS5nb3aCDmFtZGFy
+Lm5vYWEuZ292ghVhbWRhcnFhLm5jZXAubm9hYS5nb3aCD2FwaS53ZWF0aGVyLmdv
+doIUZm9yZWNhc3Qud2VhdGhlci5nb3aCEmhhZHMubmNlcC5ub2FhLmdvdoIUaGFk
+c3FhLm5jZXAubm9hYS5nb3aCEmlud3MubmNlcC5ub2FhLmdvdoIUaW53c3FhLm5j
+ZXAubm9hYS5nb3aCEmlyaXMubmNlcC5ub2FhLmdvdoIUaXJpc3FhLm5jZXAubm9h
+YS5nb3aCGG1hZGlzLWRhdGEubmNlcC5ub2FhLmdvdoITbWFkaXMubmNlcC5ub2Fh
+LmdvdoIabWFkaXNxYS1kYXRhLm5jZXAubm9hYS5nb3aCFW1hZGlzcWEubmNlcC5u
+b2FhLmdvdoISbWFyaW5lLndlYXRoZXIuZ292ghFudHdjLmFyaC5ub2FhLmdvdoIS
+bnR3Yy5uY2VwLm5vYWEuZ292ghVvcGVuZ2VvLm5jZXAubm9hYS5nb3aCF3ByZXZp
+ZXctYXBpLndlYXRoZXIuZ292ghxwcmV2aWV3LWZvcmVjYXN0LndlYXRoZXIuZ292
+ghpwcmV2aWV3LW1hcmluZS53ZWF0aGVyLmdvdoIdcHJldmlldy1vcGVuZ2VvLm5j
+ZXAubm9hYS5nb3aCHHByZXZpZXctcmE0LWdpZnMud2VhdGhlci5nb3aCGXByZXZp
+ZXctcmFkYXIud2VhdGhlci5nb3aCGHByZXZpZXctc3BvdC53ZWF0aGVyLmdvdoIT
+cHJldmlldy53ZWF0aGVyLmdvdoIYcmE0LWdpZnMtaWRwLndlYXRoZXIuZ292ghRy
+YTQtZ2lmcy53ZWF0aGVyLmdvdoIRcmFkYXIud2VhdGhlci5nb3aCFHJpcGN1cnJl
+bnRzLm5vYWEuZ292ghBzcG90LndlYXRoZXIuZ292ggt0c3VuYW1pLmdvdoILd2Vh
+dGhlci5nb3aCEHd3dy5ud3Mubm9hYS5nb3aCGHd3dy5yaXBjdXJyZW50cy5ub2Fh
+LmdvdoIPd3d3LnRzdW5hbWkuZ292gg93d3cud2VhdGhlci5nb3aCEHd3dy53cmgu
+bm9hYS5nb3YwEwYDVR0gBAwwCjAIBgZngQwBAgEwLgYDVR0fBCcwJTAjoCGgH4Yd
+aHR0cDovL3lyMi5jLmxlbmNyLm9yZy8zMC5jcmwwggENBgorBgEEAdZ5AgQCBIH+
+BIH7APkAdwCvZ4g7V7BO3Y+m2X72LqjrgQrHcWDwJF5V1gwv54WHOgAAAaCGEaeV
+AAAEAwBIMEYCIQCDZo3wKBw6v4+NlsGGadacpMdp4dNWD1vmZABdHurlugIhAPi0
+80euvIxlWK82RNejd6pkn/uOpNJC1Wnf52rfLGwpAH4AbP5QGUOoXqkWvFLRM+Tc
+yR7xQRx9JYQg0XOAnhgY6zoAAAGghhGpzgAIAAAFADEPIl0EAwBHMEUCICHRTUqm
+1ywYaikCtIw0zC1rdmaWnx9NVl7L+wI1pZ72AiEA+J+7oMkfWzJfUal2XGlX7Eap
+5EMvaTzTou50ZGxr9y4wDQYJKoZIhvcNAQELBQADggEBAJa1EUE+ISQ25u9F5O1N
+bSY+CHpLvH2K/YqIoRWq3wqVZmVLBGP+NEjahNZbDnMknhpZxxOECNWsSrRzjIKT
+ItF1hGFevqrZ5QoCGeWr0cmtWtk2h8vAM0Fus1hcY7F+qzqJwm0G0ThEZ3FjzPwj
+LJU2Clf9WRAKi3FgLA4eh12P0ePxS5NvVNfVLZ+hSo0FE9OsvRMNAJENRYMPbWnx
+Y9pHUgz2z3dgxEL2CXUUmB9+9+TkIVZLDcc57z1MaD/rk+UYl6w373jY6uXou13I
+5FnqIzYIeSLZhwrWZh7LoyXYwHr880kv1z4/AjeZRBZFdHnvuOBw991CjuK4eL3U
+AM8=
+-----END CERTIFICATE-----
+subject=CN=weather.gov
+issuer=C=US, O=Let's Encrypt, CN=YR2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 6546 bytes and written 1580 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

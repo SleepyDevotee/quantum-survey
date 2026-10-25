@@ -1,0 +1,103 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=home.www.upenn.edu
+   i:C=US, O=Let's Encrypt, CN=YR1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct  7 18:28:37 2026 GMT; NotAfter: Jan  5 18:28:36 2027 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=YR1
+   i:C=US, O=ISRG, CN=Root YR
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
+ 2 s:C=US, O=ISRG, CN=Root YR
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: RSA, 4096 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFdjCCBF6gAwIBAgISBoHVh8k3qKMMqleDY19ktHrEMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNZUjEwHhcNMjYxMDA3MTgyODM3WhcNMjcwMTA1MTgyODM2WjAdMRswGQYDVQQD
+ExJob21lLnd3dy51cGVubi5lZHUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQDUyKIbULTD0t817Nhl8WebrALthBZY9LXg1APTDiCDB5QP/fNZVf/Nx2hB
+Url+GF+5XUofS5MlcZ5d67jfKuj1XKH2yBpoowhd7g8D3zTcBngB1BXu0ALbnc71
+T0tWWLj+onbzPLYY7qAT7b4dj+mt5zyCypc+3pWvq4w8p2FSQjvGO+0tY9XNUFQ5
+TNEt82TK4f33+QuIM5UeNXjSKiBcTFluFuAFEWB/ajnDMU6cokpwHpqqCAxLezSM
+aEKdcJ7mOXLzJy4apZUXAYW6WwuATRo0g5HuHm5OuYFuxYmA5zohRZU8th6HOX68
+2WEm48xKvl+kD9nsUNDVa03iEUPrAgMBAAGjggKYMIIClDAOBgNVHQ8BAf8EBAMC
+BaAwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU
+gqJvPVZMc5Y12CJb7n/rhTfGongwHwYDVR0jBBgwFoAUHy81vkYUgs1Asa55LFV4
++vfUaPswMwYIKwYBBQUHAQEEJzAlMCMGCCsGAQUFBzAChhdodHRwOi8veXIxLmku
+bGVuY3Iub3JnLzCBlQYDVR0RBIGNMIGKghJob21lLnd3dy51cGVubi5lZHWCGnBh
+bnRoZW9udGVzdC53d3cudXBlbm4uZWR1ghx0cmFuc2Zvcm1hdGlvbi5ldnAudXBl
+bm4uZWR1ggl1cGVubi5lZHWCIHd3dy50cmFuc2Zvcm1hdGlvbi5ldnAudXBlbm4u
+ZWR1gg13d3cudXBlbm4uZWR1MBMGA1UdIAQMMAowCAYGZ4EMAQIBMC4GA1UdHwQn
+MCUwI6AhoB+GHWh0dHA6Ly95cjEuYy5sZW5jci5vcmcvNjkuY3JsMIIBCwYKKwYB
+BAHWeQIEAgSB/ASB+QD3AHUATGPcmOWcHauI9h6KPd6uj6tEozd7X5uUw/uhnPzB
+viYAAAGhF9VzygAABAMARjBEAiAuVc+5S9/YKAKpfUs1oNTcic30T0GpFdyBSgxI
+h4/f1QIgHQ2OqsrM/5rpFiG2GfR9A2/s4/qe3zadnEySz7j/VQwAfgBE6CL8K6sO
+ku7Q6frWlmRgJ3bQF2DgiQUJySOhsD/DfwAAAaEX1WjKAAgAAAUAB9GWoAQDAEcw
+RQIhAMGf93kfgTXKNVG/nXWdq4UZQT2l2eM2PJnsBwyHYQD5AiAcYpR7N6j0gy5k
+y9CvRj4eBo2wvs26vHq/768HmV56nzANBgkqhkiG9w0BAQsFAAOCAQEAW/HRmSKv
+pIKdoJTrmdqjInUjkwcP8l+ggAJ1Hj5Cv0cDWVUdPnuVrVQNjwRYHB6G6YjbNUO2
+XfdJRIQJbegqyg+Lm2I1FQc4rAkrOV4ShEh2bn/CSc3L9+ZybHLzSdCbLp+wA+Ks
+fJMbiWv71tZxMvE0IG1vjT+2j+yxt63s7rWJlgcq1MaUzMiyo8g/WeuAuLCdqYsu
+xfN7eRFswepdO5SOYIF7WsdSOOrkd15j+uAKqlK5Es7eWh8xxMIN1J0Lpmb8ss78
+Ui3atVoyIJ/ksc8TDZkbk/YK5i86Ieke2bgI21B/pIPhncp9edS3ybgY9KSwOOxE
+3EJiroOuqg+opA==
+-----END CERTIFICATE-----
+subject=CN=home.www.upenn.edu
+issuer=C=US, O=Let's Encrypt, CN=YR1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 5819 bytes and written 1562 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 4A3BA63F0ED5DB1606DAD981975517AA3F449200E53B7BDD586F8CECD4AB1DC8
+    Session-ID-ctx: 
+    Resumption PSK: 9733263633940BD3C4EAD592954F5354E2EAF05CFFD479FADC80187FEE80BC29
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
+    0010 - a6 69 69 df 34 e2 4e 70-a7 ba 66 a9 3b 94 e5 9c   .ii.4.Np..f.;...
+    0020 - f9 67 a0 0d ac bf e5 03-d1 75 09 3d 6f 15 70 f8   .g.......u.=o.p.
+    0030 - 2f f4 b1 fd b2 64 ff c1-2a e1 20 cf 2b 36 0c 37   /....d..*. .+6.7
+    0040 - 09 df 97 42 e9 52 5a 21-6e 3b dc f2 da b0 f4 d6   ...B.RZ!n;......
+    0050 - 37 7c 7b 2f c6 2b 95 4b-a1 c3 27 ef 43 4a 37 bd   7|{/.+.K..'.CJ7.
+    0060 - be e0 85 a5 ff cd 04 2a-29 46 5b 93 cc fd 82 eb   .......*)F[.....
+    0070 - 8e 7a 30 83 8c 00 8f 2b-13 d1 b3 a4 69 97 c3 ab   .z0....+....i...
+    0080 - a2 a8 13 69 46 09 82 c4-9f 47 d7 77 d5 77 16 62   ...iF....G.w.w.b
+    0090 - 2a 24 cf f0 ad e0 5c 87-22 14 a4 f4 ea c3 31 56   *$....\.".....1V
+
+    Start Time: 1792921600
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 8192
+---
+read R BLOCK

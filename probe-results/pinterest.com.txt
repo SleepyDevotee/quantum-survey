@@ -1,0 +1,138 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=California, L=San Francisco, O=Pinterest, Inc., CN=*.pinterest.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug 13 00:00:00 2026 GMT; NotAfter: Feb 26 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIM6jCCC9KgAwIBAgIQDzhhNPAhDWYTeGvNcQDaETANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjYw
+ODEzMDAwMDAwWhcNMjcwMjI2MjM1OTU5WjBuMQswCQYDVQQGEwJVUzETMBEGA1UE
+CBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNU2FuIEZyYW5jaXNjbzEYMBYGA1UEChMP
+UGludGVyZXN0LCBJbmMuMRgwFgYDVQQDDA8qLnBpbnRlcmVzdC5jb20wggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDLyIW+GDMY0VvDOnEpUcLfHpU3dwr+
+HPoZoLJqPm5zvfNx94e7ZF2zHHTmZphDd77MOEZw8EMGZIWjqYUnz5Jgzbquz/80
+vV0cJcGq1r3tDAIEo1IZVbvZ4/in1K6uSxtSzoT34phdTmvV9mbqEd25bpYoxwpI
+qJl2a7x4rn5MvIbNftTeAybXXPZtuzs5h56KeG+hFnjqzUsUGyW0hM6DYkJEq7Yr
+ttr3u4DPD8LgIwtTKNcQRAFMnsdUIN43woIUVWJ8sKLCWCyCQDf8AQpzoeFQ/3Fc
+GsXHetAvqgFxvVLr6ku6FHHedw4MU+P6m7pxIm/oDKSz9djs1eM3Iw0VAgMBAAGj
+ggmXMIIJkzAfBgNVHSMEGDAWgBR0hYDAZsffN97PvSk3qgMdvu3NFzAdBgNVHQ4E
+FgQUxkplb4dFwiyDBlTuptp3mk1k65UwggYsBgNVHREEggYjMIIGH4IPKi5waW50
+ZXJlc3QuY29tggwqLnBpbmltZy5jb22CECoucGludGVyZXN0LmluZm+CFyoucGlu
+dGVyZXN0LmVuZ2luZWVyaW5nghMqLnBpbnRlcmVzdG1haWwuY29tgg4qLnBpbnRl
+cmVzdC5hdIIOKi5waW50ZXJlc3QuY2iCDioucGludGVyZXN0LmRlgg4qLnBpbnRl
+cmVzdC5ka4IOKi5waW50ZXJlc3QuaWWCDioucGludGVyZXN0Lmpwgg4qLnBpbnRl
+cmVzdC5rcoIOKi5waW50ZXJlc3QubXiCDioucGludGVyZXN0LnB0gg4qLnBpbnRl
+cmVzdC5zZYIRKi5waW50ZXJlc3QuY28uYXSCESoucGludGVyZXN0LmNvLmtyghEq
+LnBpbnRlcmVzdC5jby51a4ISKi5waW50ZXJlc3QuY29tLm14ggZwaW4uaXSCDXBp
+bnRlcmVzdC5jb22CCnBpbmltZy5jb22CDnBpbnRlcmVzdC5pbmZvghVwaW50ZXJl
+c3QuZW5naW5lZXJpbmeCEXBpbnRlcmVzdG1haWwuY29tggxwaW50ZXJlc3QuYXSC
+DHBpbnRlcmVzdC5jaIIMcGludGVyZXN0LmRlggxwaW50ZXJlc3QuZGuCDHBpbnRl
+cmVzdC5pZYIMcGludGVyZXN0LmpwggxwaW50ZXJlc3Qua3KCDHBpbnRlcmVzdC5t
+eIIMcGludGVyZXN0LnB0ggxwaW50ZXJlc3Quc2WCD3BpbnRlcmVzdC5jby5hdIIP
+cGludGVyZXN0LmNvLmtygg9waW50ZXJlc3QuY28udWuCEHBpbnRlcmVzdC5jb20u
+bXiCDioucGludGVyZXN0LmNhgg4qLnBpbnRlcmVzdC5mcoIMcGludGVyZXN0LmNh
+ggxwaW50ZXJlc3QuZnKCEHBpbnRlcmVzdC5jb20uYXWCEioucGludGVyZXN0LmNv
+bS5hdYIMcGludGVyZXN0Lm56gg4qLnBpbnRlcmVzdC5ueoIMcGludGVyZXN0LmVz
+gg4qLnBpbnRlcmVzdC5lc4IMcGludGVyZXN0LmNsgg4qLnBpbnRlcmVzdC5jbIIM
+cGludGVyZXN0LnBogg4qLnBpbnRlcmVzdC5waIIMcGludGVyZXN0Lmlugg4qLnBp
+bnRlcmVzdC5pboIPcGludGVyZXN0LmNvLmlughEqLnBpbnRlcmVzdC5jby5pboIM
+cGludGVyZXN0LmJlgg4qLnBpbnRlcmVzdC5iZYIMcGludGVyZXN0LnBlgg4qLnBp
+bnRlcmVzdC5wZYIMcGludGVyZXN0LmNvgg4qLnBpbnRlcmVzdC5jb4IQcGludGVy
+ZXN0LmNvbS5weYISKi5waW50ZXJlc3QuY29tLnB5ghBwaW50ZXJlc3QuY29tLmJv
+ghIqLnBpbnRlcmVzdC5jb20uYm+CEHBpbnRlcmVzdC5jb20uZWOCEioucGludGVy
+ZXN0LmNvbS5lY4IMcGludGVyZXN0LmVjgg4qLnBpbnRlcmVzdC5lY4IMcGludGVy
+ZXN0Lmh1gg4qLnBpbnRlcmVzdC5odYIQcGludGVyZXN0LmNvbS52boISKi5waW50
+ZXJlc3QuY29tLnZuggxwaW50ZXJlc3QuaXSCDioucGludGVyZXN0Lml0ghBwaW50
+ZXJlc3QuY29tLnBlghIqLnBpbnRlcmVzdC5jb20ucGWCEHBpbnRlcmVzdC5jb20u
+dXmCEioucGludGVyZXN0LmNvbS51eYIPcGludGVyZXN0LmNvLm56ghEqLnBpbnRl
+cmVzdC5jby5ueoIMcGludGVyZXN0LnVrgg4qLnBpbnRlcmVzdC51a4IMcGludGVy
+ZXN0LnZugg4qLnBpbnRlcmVzdC52boIMcGludGVyZXN0Lmlkgg4qLnBpbnRlcmVz
+dC5pZIIMcGludGVyZXN0LnRogg4qLnBpbnRlcmVzdC50aIIMcGludGVyZXN0LnR3
+gg4qLnBpbnRlcmVzdC50d4IMcGludGVyZXN0Lm5sgg4qLnBpbnRlcmVzdC5ubIIX
+Ki50ZXN0aW5nLnBpbnRlcmVzdC5jb20wPgYDVR0gBDcwNTAzBgZngQwBAgIwKTAn
+BggrBgEFBQcCARYbaHR0cDovL3d3dy5kaWdpY2VydC5jb20vQ1BTMA4GA1UdDwEB
+/wQEAwIFoDATBgNVHSUEDDAKBggrBgEFBQcDATCBnwYDVR0fBIGXMIGUMEigRqBE
+hkJodHRwOi8vY3JsMy5kaWdpY2VydC5jb20vRGlnaUNlcnRHbG9iYWxHMlRMU1JT
+QVNIQTI1NjIwMjBDQTEtMS5jcmwwSKBGoESGQmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0
+LmNvbS9EaWdpQ2VydEdsb2JhbEcyVExTUlNBU0hBMjU2MjAyMENBMS0xLmNybDCB
+hwYIKwYBBQUHAQEEezB5MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2Vy
+dC5jb20wUQYIKwYBBQUHMAKGRWh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9E
+aWdpQ2VydEdsb2JhbEcyVExTUlNBU0hBMjU2MjAyMENBMS0xLmNydDAMBgNVHRMB
+Af8EAjAAMIIBgAYKKwYBBAHWeQIEAgSCAXAEggFsAWoAdgBMY9yY5Zwdq4j2Hoo9
+3q6Pq0SjN3tfm5TD+6Gc/MG+JgAAAZ/8fW9BAAAEAwBHMEUCIQD0QFGEz196k6ss
+XiJlfOzH/fIMuGTCSzv4/GLCxOCXYQIgUORBSHQlSSMpLjMiJgoFuI2s+y4XUCKZ
+uCbRYOAt7KwAdwDW1Y2p0BdT82pKoMdXSQKv68fcLNOM2fdkyAyJGR6fAgAAAZ/8
+fW9MAAAEAwBIMEYCIQCLIPrtwsts7VxHnTvJp8aBrL7gORlYFpLBQeqUJFuLawIh
+AOUF9N6Q8YsKN7zhUA/WVGFLbe5WWgc364tq/9fioCMGAHcARMK9DOkUDmSlyUoB
+kwpaobs1lw4A7hEWiWgqHETXtWYAAAGf/H1vdAAABAMASDBGAiEAlqqXoaCOr30X
+Y83R5tzA1sub8AwevHY9tpFHRWLJL14CIQDVumt2XJWUhPwa0UCA/dK52t7ShShC
+qndeD3oagbVaTDANBgkqhkiG9w0BAQsFAAOCAQEAwDXmPG/kdUHfiMwafsxbZnAw
+Hn4wF4mr1etFZu3Ec0efTUSUjybIIW07NDEPyo222uFC4tZ5UiFpbJABKc1B/Z4+
+iIHPZXrLxIcKdgJIXNlZ02FGghleadx72MW7GUl0e9Vkg135troEd/3pkq8Ely4j
+nwGW6+Nzfi6o/Ppen29cooPLuS9B2I+aBTBqOYnY1g0p/xrRwjMMrjtNfHm1uG4x
+yn7jXA1uZ8w/6qxr9d+Pn8t57YHXUf+UAwES95Xi6CSAn47fgtuq6HxMc3l6muKS
+7JuGjHZJzeDocdxOswYN4JIPmMIIiUVPkfO+V+srYEh1GMVQgBL+iK48pNLIPw==
+-----END CERTIFICATE-----
+subject=C=US, ST=California, L=San Francisco, O=Pinterest, Inc., CN=*.pinterest.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 6175 bytes and written 1566 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 70517E086C05F21C53629842BDC37A2B86D22E89729A33C48AF6D15E4760B7AD
+    Session-ID-ctx: 
+    Resumption PSK: DBB54A976FDC6FECBD9B372FED49C8AF07207E715215F1FBFC19537D3046A9FD
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
+    0010 - 66 3c 0a d5 7c b6 b0 f4-34 99 9e 54 74 35 fe f8   f<..|...4..Tt5..
+    0020 - 04 ba 4f 92 82 20 62 04-5f 69 97 61 49 00 fa 29   ..O.. b._i.aI..)
+    0030 - de 43 8d 46 43 eb f4 79-6b 96 6d 8f c0 f7 09 f6   .C.FC..yk.m.....
+    0040 - a1 c9 16 14 c8 eb 3b 1f-da a4 7b bf 97 7c 42 aa   ......;...{..|B.
+    0050 - d0 66 7b 72 a1 24 9d db-98 eb be 84 e6 c6 58 1a   .f{r.$........X.
+    0060 - d2 96 d6 d9 02 66 94 be-f5 80 75 f5 df 10 64 95   .....f....u...d.
+    0070 - 64 dd 86 3b 24 42 76 3c-10 2f 28 88 c8 cf 86 3f   d..;$Bv<./(....?
+    0080 - 79 b7 b0 20 fc 7b 5b eb-12 a9 6c 10 75 96 46 d5   y.. .{[...l.u.F.
+    0090 - f2 72 37 80 29 09 44 cd-de 5a ff 61 62 5e 8f a2   .r7.).D..Z.ab^..
+
+    Start Time: 1792921672
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

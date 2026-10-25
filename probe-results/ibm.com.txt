@@ -1,0 +1,68 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=New York, L=Armonk, O=International Business Machines Corporation, CN=ibm.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Oct  9 00:00:00 2026 GMT; NotAfter: Apr 25 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G3
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Apr 14 00:00:00 2021 GMT; NotAfter: Apr 13 23:59:59 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFdjCCBPygAwIBAgIQCuka2Jb85lT/RWQcR045FzAKBggqhkjOPQQDAzBZMQsw
+CQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypEaWdp
+Q2VydCBHbG9iYWwgRzMgVExTIEVDQyBTSEEzODQgMjAyMCBDQTEwHhcNMjYxMDA5
+MDAwMDAwWhcNMjcwNDI1MjM1OTU5WjB5MQswCQYDVQQGEwJVUzERMA8GA1UECBMI
+TmV3IFlvcmsxDzANBgNVBAcTBkFybW9uazE0MDIGA1UEChMrSW50ZXJuYXRpb25h
+bCBCdXNpbmVzcyBNYWNoaW5lcyBDb3Jwb3JhdGlvbjEQMA4GA1UEAxMHaWJtLmNv
+bTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABBs9TGvWhaGJZ4I8b5EABfh7XQy4
+E/Mp9kroxYFGC0h7PePSVlq4VyyOPz3UzJ8x0LVD8ahb6sUMQ+ylfQNhN0mjggOE
+MIIDgDAfBgNVHSMEGDAWgBSKI+uea9f5N135bSE5dpqhZ94QqDAdBgNVHQ4EFgQU
+m+opOIUqZNwWTBcNCNrzAr153gQwHwYDVR0RBBgwFoIHaWJtLmNvbYILd3d3Lmli
+bS5jb20wPgYDVR0gBDcwNTAzBgZngQwBAgIwKTAnBggrBgEFBQcCARYbaHR0cDov
+L3d3dy5kaWdpY2VydC5jb20vQ1BTMA4GA1UdDwEB/wQEAwIDiDATBgNVHSUEDDAK
+BggrBgEFBQcDATCBnwYDVR0fBIGXMIGUMEigRqBEhkJodHRwOi8vY3JsMy5kaWdp
+Y2VydC5jb20vRGlnaUNlcnRHbG9iYWxHM1RMU0VDQ1NIQTM4NDIwMjBDQTEtMi5j
+cmwwSKBGoESGQmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2Jh
+bEczVExTRUNDU0hBMzg0MjAyMENBMS0yLmNybDCBhwYIKwYBBQUHAQEEezB5MCQG
+CCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wUQYIKwYBBQUHMAKG
+RWh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2JhbEczVExT
+RUNDU0hBMzg0MjAyMENBMS0yLmNydDAMBgNVHRMBAf8EAjAAMIIBfAYKKwYBBAHW
+eQIEAgSCAWwEggFoAWYAdQBMY9yY5Zwdq4j2Hoo93q6Pq0SjN3tfm5TD+6Gc/MG+
+JgAAAaEhMKMIAAAEAwBGMEQCIGTpgchGhI3P61yCoOGTxkBw6oWGQEXyhW2fDrCY
+ezzUAiBWrMyNFg2INhIf9Za1AM5K2/HWfqYQoHfZhdO7hc/nSQB2AETCvQzpFA5k
+pclKAZMKWqG7NZcOAO4RFoloKhxE17VmAAABoSEwo1UAAAQDAEcwRQIgJREVf/Yy
+b2O3rPSY/fTnjZGfgb5DuDgMwaWjQJyRki0CIQCQxCEcmPYcfX+lFxeB1am++No5
+zlv5ZzjGpfyQ8TG51AB1AByfaCzp+vBFaVD4G5aKh93bMhDYTObIsuOCUkrEz1mf
+AAABoSEwo+QAAAQDAEYwRAIgNFelLiiHHdCrxoC8O7Po4QLZNczYrylpRfuweIEe
+vCECIG17Lmr0ajvMJxEJtAAFlamjactFv1XhFTRXtI1pjiAtMAoGCCqGSM49BAMD
+A2gAMGUCMQDRz5c5VVv1G3tMVTqLUFEaVVnQr709xJ9Bve4uytZDUhhVR4gWXVgn
+hnXTrDyK22ECMGJe2jxUgTdw0PSyAN3kOo9F5YARzKrLvDAKBuIEqA2OMSJyQLAI
+bdMc2yPrpSRYLg==
+-----END CERTIFICATE-----
+subject=C=US, ST=New York, L=Armonk, O=International Business Machines Corporation, CN=ibm.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 3764 bytes and written 1576 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

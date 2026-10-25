@@ -1,0 +1,61 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=nist.gov
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct 25 00:16:21 2026 GMT; NotAfter: Jan 23 01:16:19 2027 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: EC, (secp384r1); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDjDCCAzOgAwIBAgIRAM5ervH93+VxDtxMfy7pqzYwCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI2MTAyNTAwMTYyMVoXDTI3MDEyMzAxMTYxOVowEzERMA8G
+A1UEAxMIbmlzdC5nb3YwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASdir3B8IpV
+GOzwfNtoLG4fBU4qbqvQ79LCBpuGlcS/HB7u/QpMQuBTlwBVx2jOfV7Tm093uZ7j
+fJNkf3l6aANio4ICPjCCAjowDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQMMAoGCCsG
+AQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFGB9ZfGvqbJcW0wxO0JPnY26
+MPFaMB8GA1UdIwQYMBaAFJB3kjVnxP+ozKnme9mAeXvMk/k4MDUGCCsGAQUFBwEB
+BCkwJzAlBggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd2UxLmNydDAxBgNV
+HREEKjAogghuaXN0LmdvdoIMb2FrLm5pc3QuZ292gg4qLm9hay5uaXN0LmdvdjAT
+BgNVHSAEDDAKMAgGBmeBDAECATA2BgNVHR8ELzAtMCugKaAnhiVodHRwOi8vYy5w
+a2kuZ29vZy93ZTEvRlBHdHNXRlRjaFUuY3JsMIIBDAYKKwYBBAHWeQIEAgSB/QSB
++gD4AHYARMK9DOkUDmSlyUoBkwpaobs1lw4A7hEWiWgqHETXtWYAAAGhcKFQ1AAA
+BAMARzBFAiBPy1vK1p8kUD/79aD9ef2QVf6mNcwmsnxLIofqd7QZrwIhAKv1O9pE
+7JIO3Oc/IPd6eIFlB+B3M382dFV6NO1OcX1AAH4AROgi/CurDpLu0On61pZkYCd2
+0Bdg4IkFCckjobA/w38AAAGhcKFEQgAIAAAFAA9id5oEAwBHMEUCIGjyzZE8aA1x
+gIOpRXoz9zbGwIA0r/h2wc2V3BZhheRHAiEAr+L6ybM53XVYcp1tnHtc+XgM6XGH
+LpMPgA7lSiT4mnIwCgYIKoZIzj0EAwIDRwAwRAIgVV6fb3rRXqdKSUooCOtWcHWd
+rFtQ8seflUHlhYfXjvQCIFdYZmWQuUj73sCizgtdTukkLXOVRnhd7cR6pqbLO2e4
+-----END CERTIFICATE-----
+subject=CN=nist.gov
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 3887 bytes and written 1577 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

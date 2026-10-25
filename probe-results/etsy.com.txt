@@ -1,0 +1,110 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=*.etsystatic.com
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R46 DV TLS CA 2026 Q4
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct 21 15:14:06 2026 GMT; NotAfter: May  8 14:14:06 2027 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R46 DV TLS CA 2026 Q4
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Root R46
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Jul 22 03:27:05 2026 GMT; NotAfter: Jul 21 12:00:00 2028 GMT
+ 2 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Root R46
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Nov 20 00:00:00 2019 GMT; NotAfter: Mar 18 00:00:00 2029 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIH3DCCBcSgAwIBAgIQARX28f0ksQmW+VeWBfwMXzANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJCRTEZMBcGA1UEChMQR2xvYmFsU2lnbiBudi1zYTEvMC0GA1UE
+AxMmR2xvYmFsU2lnbiBBdGxhcyBSNDYgRFYgVExTIENBIDIwMjYgUTQwHhcNMjYx
+MDIxMTUxNDA2WhcNMjcwNTA4MTQxNDA2WjAbMRkwFwYDVQQDDBAqLmV0c3lzdGF0
+aWMuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzDxOj/9pAWNP
+LFqkDo0QGLGZFpx9kDGJDdt6HVJ7wuPRlT1YMXd72ur4xDPxzNLYQBC8bVbWgz9c
+iRmiMeHOINSktJ8sxg/tjcwVgw8pC1o8UnFvivkYvmi2AOkyTffxCZ5ROn457VrU
+gJbthq5k8Xsfq6QvsmLqYUgJd2qRB+B2Mn/RbKlcP6XzgeH7NnHdH6gYtJa8vX2v
+BjKEetUePu4a5KoLygPu+HopbVCDWmtyyl2R84SqDS/lhT8fNR8sjaLE3+A3l/PP
+emxIx5PXIAURZKIcMemxmwOtetSpp6z3xic4v4PioGs9HY9Cm1mHWuTloyFrh4pB
+R6KQRKCkFQIDAQABo4ID3DCCA9gwgZAGA1UdEQSBiDCBhYIQKi5ldHN5c3RhdGlj
+LmNvbYITYXBpLW9yaWdpbi5ldHN5LmNvbYIMYXBpLmV0c3kuY29tggptLmV0c3ku
+Y29tghBvcGVuYXBpLmV0c3kuY29tggx3d3cuZXRzeS5jb22CCGV0c3kuY29tghhv
+cGVuYXBpLXN0YWdpbmcuZXRzeS5jb20wDgYDVR0PAQH/BAQDAgWgMBMGA1UdJQQM
+MAoGCCsGAQUFBwMBMB0GA1UdDgQWBBQW17Px56zOO6dT7Esdxy873qmAuTBXBgNV
+HSAEUDBOMAgGBmeBDAECATBCBgorBgEEAaAyCgEDMDQwMgYIKwYBBQUHAgEWJmh0
+dHBzOi8vd3d3Lmdsb2JhbHNpZ24uY29tL3JlcG9zaXRvcnkvMAwGA1UdEwEB/wQC
+MAAwgaAGCCsGAQUFBwEBBIGTMIGQMEEGCCsGAQUFBzABhjVodHRwOi8vb2NzcC5n
+bG9iYWxzaWduLmNvbS9jYS9nc2F0bGFzcjQ2ZHZ0bHNjYTIwMjZxNDBLBggrBgEF
+BQcwAoY/aHR0cDovL3NlY3VyZS5nbG9iYWxzaWduLmNvbS9jYWNlcnQvZ3NhdGxh
+c3I0NmR2dGxzY2EyMDI2cTQuY3J0MB8GA1UdIwQYMBaAFM/lx7lUwFx7Hqa73J9i
+VzTW1qyLMEkGA1UdHwRCMEAwPqA8oDqGOGh0dHA6Ly9jcmwuZ2xvYmFsc2lnbi5j
+b20vY2EvZ3NhdGxhc3I0NmR2dGxzY2EyMDI2cTQuY3JsMIIBhwYKKwYBBAHWeQIE
+AgSCAXcEggFzAXEAdgBMY9yY5Zwdq4j2Hoo93q6Pq0SjN3tfm5TD+6Gc/MG+JgAA
+AaFfBunEAAAEAwBHMEUCIFcfbGnpMBQB35Gwmf+GlBQFCPB3BDycuVNlUo5Mt7Ak
+AiEAkjfj0bE4Wvv9Q4YrbtZRt7svYgZzR1/0uZWxsv/rjDYAdwAcn2gs6frwRWlQ
++BuWiofd2zIQ2EzmyLLjglJKxM9ZnwAAAaFfBusQAAAEAwBIMEYCIQCoIaZn4OmL
+T8rn1XB1Qk5mla2LGQhhrgVXnlquNVNGKAIhALYX0Vu12EojGOzdrFOBTn+YBXL2
+yBJ6uLZej32mQE1AAH4AjspHC6zeavOiBrCkeoS3Rv4fxr+VPiXmm07kAkjzxugA
+AAGhXwbthQAIAAAFACplZkwEAwBHMEUCIBjcc/8VueUasffGOQJ0dV//pCzu/Cg8
+zKpJoBL+U/TQAiEA2PAenn/BlmSUubc9xt5qvVnFaNdYA1sFIe3eX/9iEZ4wDQYJ
+KoZIhvcNAQELBQADggIBAFUEtm961a6DFKWOXch2y/WogV0cVv+drq7VelZ7a64w
+poeaZNyWubDndhtGU9OECaVpkdp3/mZ6Z3IpGBZjdns3COjR9wuOnD/X9P7sbZfZ
+krP7pHjuDe37CQKeYJBExAUlx3X8H4tfQAIccmUJ86dz4GkYE5OndrsnnJVypSji
+foRWxmK0iGBcusDWtwPKxTJDEfCL579Uei3q5DxtnnCy6seRakUt2WM2/d8RJZZV
+gO+THrdCnOgvNlKB+q7D3qLiCz9ch7hHHWl7A/BjMxLcVOrbTUSQHhcL6bbWFE5D
+UBXlcwYTJCpnMUFetjj++SyA/SLWDwvv8zO3pjus5EdSkQUB8LrK+iPjb4o/x9HY
+InEi4aTSU/eJqsCkd+ic64LD+pTD8oB0t5MAvLiNOk6GuKCc+6zrxaoyEFcfVt0O
+eFaRqkjs9N6N8lioltagOA525GOnQVXBVYKmyHa3ILTwTwXFVLwV+nTdRlPyXDyw
+zLmXEKFoYd9zEUCarVZ7e3iYGf7pnYP12jvq6M3uZeBBqY18wqWFmK3nI757m7l0
+V1qdKW+uqC2VzpPS4MghNjo1ZkdrrZV6VOIgbBcuUXY2KOCwLj7iW7bfTVzjRG55
+wQqsnRm8f2c10z1ejnpj6lVBWqbRzMstYLgpcI+yrMFLNVOKXyFpL9+SrtkMoYr9
+-----END CERTIFICATE-----
+subject=CN=*.etsystatic.com
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R46 DV TLS CA 2026 Q4
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5694 bytes and written 1582 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 212040B48376985EE05E41C1DEDA469F067F81B9D9AF003B95BF5CE24E301307
+    Session-ID-ctx: 
+    Master-Key: 001C18599CFD35C0C833EA31CCECB988973EDA0C86EBDCF08CB3A6944C01159F8949D12BC95BC7A61E30290A9B6642F1
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
+    0010 - 79 9d a2 12 f5 b6 06 25-0d cd d2 4f aa 70 d0 dd   y......%...O.p..
+    0020 - df ec 2c 2d 84 92 33 ee-50 6d 29 dc e3 74 f0 76   ..,-..3.Pm)..t.v
+    0030 - 26 89 10 57 bc 29 e9 dc-14 f6 98 dd 05 45 88 2e   &..W.).......E..
+    0040 - b1 34 07 06 c5 52 c6 20-e7 da aa c2 da e2 5d 1a   .4...R. ......].
+    0050 - 50 1f f4 b3 49 d0 86 ae-db 2d 16 20 8f b1 9b 0d   P...I....-. ....
+    0060 - ba 2d fb 82 5b 26 0f 2b-aa 3f d7 51 0f f1 e5 5d   .-..[&.+.?.Q...]
+    0070 - 77 c2 01 82 f0 d5 d0 79-80 d0 3a 52 40 9b 4f 8b   w......y..:R@.O.
+    0080 - e6 d7 a5 a0 92 8a 1e 10-33 df 9e ce 16 8e fd a2   ........3.......
+    0090 - a0 2b 9b 4a 95 2d 9d 38-99 cc 88 89 6f 5a 93 a8   .+.J.-.8....oZ..
+    00a0 - cd e9 f5 b8 7d 74 1c 89-90 52 1d 62 11 4b 56 fa   ....}t...R.b.KV.
+    00b0 - 5b a3 20 5f 08 55 86 e7-af 50 04 1e a4 aa 40 9e   [. _.U...P....@.
+
+    Start Time: 1792921682
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

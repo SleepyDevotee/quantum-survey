@@ -1,0 +1,91 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=Washington, O=University of Washington, CN=www.washington.edu
+   i:C=US, O=InCommon, LLC, CN=InCommon RSA OV SSL CA 3
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jun 29 00:00:00 2026 GMT; NotAfter: Jan 13 23:59:59 2027 GMT
+ 1 s:C=US, O=InCommon, LLC, CN=InCommon RSA OV SSL CA 3
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Nov  6 00:00:00 2025 GMT; NotAfter: Nov  5 23:59:59 2035 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Mar 21 23:59:59 2046 GMT
+ 3 s:C=US, O=Internet2, CN=InCommon RSA Server CA 2
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Nov 16 00:00:00 2022 GMT; NotAfter: Nov 15 23:59:59 2032 GMT
+ 4 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 5 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: RSA, 2048 (bit); sigalg: sha1WithRSAEncryption
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGxjCCBS6gAwIBAgIQehLa5Z7VHm2z0Y4nUgG4STANBgkqhkiG9w0BAQsFADBI
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNSW5Db21tb24sIExMQzEhMB8GA1UEAxMY
+SW5Db21tb24gUlNBIE9WIFNTTCBDQSAzMB4XDTI2MDYyOTAwMDAwMFoXDTI3MDEx
+MzIzNTk1OVowYjELMAkGA1UEBhMCVVMxEzARBgNVBAgTCldhc2hpbmd0b24xITAf
+BgNVBAoTGFVuaXZlcnNpdHkgb2YgV2FzaGluZ3RvbjEbMBkGA1UEAxMSd3d3Lndh
+c2hpbmd0b24uZWR1MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqKqL
+1oCvap0hwIRukQgytC3MBdZVwH5VThcNPh5J1wvFVviFYhBNQar+0p/Cxg9EcbCz
+vO+MPDggdgeTFVFO4zyQjyBNlTLKIhfnRJA6tGQ3E14b6QcvsHylfhGQHKgtXwDn
+sz0MZynP7gjSbOFkLLvBHlDbSiuIXD6nFdYx+eQjd6XjYfswjtKyU55A8/mdXGnp
+PPfVTD83q8c1RzbgSWzOn+SUIYI6Hr4BBN0YTHjQzqY3xZ9qqjQwcsfpyDBz5wBH
+5nH/o9zqEdXQ4UiaG5WR9R1WgG1J8KGITWSyIpJXwhCsx9wOsTr9KnDnr9nOJcPY
+GTteS3zlS18tpQBPPQIDAQABo4IDEDCCAwwwHwYDVR0jBBgwFoAU2iI3P+XTdNrZ
+eT7Rcm3Vk0sgN68wHQYDVR0OBBYEFOjtz9x/VwqJ5aEmVKP6e66rRdALMA4GA1Ud
+DwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMBMGA1UdJQQMMAoGCCsGAQUFBwMBMBMG
+A1UdIAQMMAowCAYGZ4EMAQICMD8GA1UdHwQ4MDYwNKAyoDCGLmh0dHA6Ly9jcmwu
+c2VjdGlnby5jb20vSW5Db21tb25SU0FPVlNTTENBMy5jcmwwbwYIKwYBBQUHAQEE
+YzBhMDoGCCsGAQUFBzAChi5odHRwOi8vY3J0LnNlY3RpZ28uY29tL0luQ29tbW9u
+UlNBT1ZTU0xDQTMuY3J0MCMGCCsGAQUFBzABhhdodHRwOi8vb2NzcC5zZWN0aWdv
+LmNvbTCCAYsGCisGAQQB1nkCBAIEggF7BIIBdwF1AHUAHJ9oLOn68EVpUPgbloqH
+3dsyENhM5siy44JSSsTPWZ8AAAGfFYJg8AAABAMARjBEAiBKaYTwdoiRPf7VXlf3
+ycz1XxgbEsc9wb8u4HRkHhUkdwIgSDLUWl0gH5zslWXik/hKdPOI2h97t4mTyBdO
+0nGSMQ0AfQCOykcLrN5q86IGsKR6hLdG/h/Gv5U+JeabTuQCSPPG6AAAAZ8VgmOl
+AAgAAAUABM+Y1gQDAEYwRAIgQaFrb0rEfo+GRmmf7+SuT7dc6IpVBtj89zKP8T5W
+OSkCIFl3RnBSOX/l0w4rhzNn69HyBpzF5xbbyNOTWdIoFKFpAH0AWW5sM4aUslly
+olbIoOjdkEp26Ag92oc7AQg4KBQ87lkAAAGfFYJiVwAIAAAFAABCJpgEAwBGMEQC
+IGzeLAovHZhbusDcVp3XWXfBAAumvHKNjOSsXAVHJshYAiAZ1cRIjv/ZHEeP2lN3
+dHaqFK3qSKklKhEYgu3tSAC+5DBBBgNVHREEOjA4ghJ3d3cud2FzaGluZ3Rvbi5l
+ZHWCBnV3LmVkdYIOd2FzaGluZ3Rvbi5lZHWCCnd3dy51dy5lZHUwDQYJKoZIhvcN
+AQELBQADggGBAFWqy1HYwh+71YQ4iSd0+zti9YVilih74NZs6gHYeDFTmQw/u0qs
+tMEhGxaEhlVByQiEfRVrMcuc02CJl2l9uTRXqNcTj/CzJdXmckGCl/5dlnqpEtiA
+gd1epDw513KjyDNnArvMugJFGh9fEGtPIfKxgG32+JgoxGxwg3yQgBOnYdEvftal
+pSwthn/ogBtrUVHVLVowy2L6swB1DhcPGCblpBSPNUtAtz4EL6HQcM+Vi/0YyE1F
+jTiBWZwBxTZhGh6CA9j7KoOgSQtObWxkTlIRjoUnHaBoGhv1UL7m966cl1S3FhMX
+Lg2pGpprJgiFR8tFEwO+9cvogaS73cSn8PmeL463V5BDD/RzmXpGdBjtjsqfXoCS
+zAbMDKRkuMZ0PDlo9qnMGj9CHQcVVw0QV+uq5Z2caPlG4PVIGpNX+14mx32ban7i
+aiHNL84YJ4cp3ji48WIW484dIR1HKVugRDEIIiOZCPPwzJZhfc/EKzFXUz8bPV01
+ZWwrvlOb/B9IfA==
+-----END CERTIFICATE-----
+subject=C=US, ST=Washington, O=University of Washington, CN=www.washington.edu
+issuer=C=US, O=InCommon, LLC, CN=InCommon RSA OV SSL CA 3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 9518 bytes and written 1902 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

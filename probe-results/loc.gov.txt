@@ -1,0 +1,61 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=loc.gov
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct 22 19:31:25 2026 GMT; NotAfter: Jan 20 20:31:20 2027 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: EC, (secp384r1); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDhTCCAyugAwIBAgIRALomo9JqBo3FDqy/CNnkAAUwCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI2MTAyMjE5MzEyNVoXDTI3MDEyMDIwMzEyMFowEjEQMA4G
+A1UEAxMHbG9jLmdvdjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABOZ36x2eKrXc
+WgETiwEEMUsuc7UbuGengSKb9WpBPX8S8vwPAhWz6tMoG5akk9LtYa7CR/U6BaKL
+FQYX4mXIhE2jggI3MIICMzAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYIKwYB
+BQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUiDXs30FQtoST4Rrg368EFdUf
+CVIwHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+TgwNQYIKwYBBQUHAQEE
+KTAnMCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93ZTEuY3J0MCsGA1Ud
+EQQkMCKCB2xvYy5nb3aCCSoubG9jLmdvdoIMKi5sZS5sb2MuZ292MBMGA1UdIAQM
+MAowCAYGZ4EMAQIBMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29n
+L3dlMS9kMUUwbFZpanIxUS5jcmwwggELBgorBgEEAdZ5AgQCBIH8BIH5APcAdgBM
+Y9yY5Zwdq4j2Hoo93q6Pq0SjN3tfm5TD+6Gc/MG+JgAAAaFlT7gDAAAEAwBHMEUC
+IQDqvWVYZSYINETVFBTC20SVx7EkIUnbXGG8/TsT1u3lxgIgPLXNSl7Dgh5qQbi7
+0Hzfqebq8XqG+F1YGnUHsHgupxgAfQAai51rjdeR0c0FSe22A1XWBrZPrTDbcf54
+jw/HyPvEsQAAAaFlT7wUAAgAAAUADDG5LQQDAEYwRAIgOSLKdmyOh5Qjg0Vhi0P7
+wtcRGIvPFQUDyniPau3Qt6YCIEltPo6CwqRhbixsM4tTcNODzymW/vVP/tg6UdGx
+X8IQMAoGCCqGSM49BAMCA0gAMEUCIFD8K1qXJHiho7RUOHoS2b0KKWhkVUuiRs8p
+VV1sdxVOAiEAsz0SgBYmbTorZ+vMA9QVIKooL5JXyv3NG/8893v62FM=
+-----END CERTIFICATE-----
+subject=CN=loc.gov
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 3882 bytes and written 1576 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

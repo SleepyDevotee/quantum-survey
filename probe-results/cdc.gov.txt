@@ -1,0 +1,68 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=Georgia, L=Atlanta, O=Centers for Disease Control and Prevention, CN=*.cdc.gov
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Sep  2 00:00:00 2026 GMT; NotAfter: Mar 19 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G3
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Apr 14 00:00:00 2021 GMT; NotAfter: Apr 13 23:59:59 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFeDCCBP+gAwIBAgIQD65mYTV7ziYfy3RuN5prqzAKBggqhkjOPQQDAzBZMQsw
+CQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypEaWdp
+Q2VydCBHbG9iYWwgRzMgVExTIEVDQyBTSEEzODQgMjAyMCBDQTEwHhcNMjYwOTAy
+MDAwMDAwWhcNMjcwMzE5MjM1OTU5WjB6MQswCQYDVQQGEwJVUzEQMA4GA1UECBMH
+R2VvcmdpYTEQMA4GA1UEBxMHQXRsYW50YTEzMDEGA1UEChMqQ2VudGVycyBmb3Ig
+RGlzZWFzZSBDb250cm9sIGFuZCBQcmV2ZW50aW9uMRIwEAYDVQQDDAkqLmNkYy5n
+b3YwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASB9DZMQkbDpW5QuGA+Gnt6fkFQ
++UVSbXboOzIVtg39UTVlVIOS7h6HlHLJdrXeUWd9gcgBPGefoEnSMcPnHoZvo4ID
+hjCCA4IwHwYDVR0jBBgwFoAUiiPrnmvX+Tdd+W0hOXaaoWfeEKgwHQYDVR0OBBYE
+FJUJpUUfwKcpSpB9dOHeNkp5wDOgMB0GA1UdEQQWMBSCCSouY2RjLmdvdoIHY2Rj
+LmdvdjA+BgNVHSAENzA1MDMGBmeBDAECAjApMCcGCCsGAQUFBwIBFhtodHRwOi8v
+d3d3LmRpZ2ljZXJ0LmNvbS9DUFMwDgYDVR0PAQH/BAQDAgOIMBMGA1UdJQQMMAoG
+CCsGAQUFBwMBMIGfBgNVHR8EgZcwgZQwSKBGoESGQmh0dHA6Ly9jcmwzLmRpZ2lj
+ZXJ0LmNvbS9EaWdpQ2VydEdsb2JhbEczVExTRUNDU0hBMzg0MjAyMENBMS0yLmNy
+bDBIoEagRIZCaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFs
+RzNUTFNFQ0NTSEEzODQyMDIwQ0ExLTIuY3JsMIGHBggrBgEFBQcBAQR7MHkwJAYI
+KwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBRBggrBgEFBQcwAoZF
+aHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzNUTFNF
+Q0NTSEEzODQyMDIwQ0ExLTIuY3J0MAwGA1UdEwEB/wQCMAAwggGABgorBgEEAdZ5
+AgQCBIIBcASCAWwBagB3AExj3JjlnB2riPYeij3ero+rRKM3e1+blMP7oZz8wb4m
+AAABoF91EqgAAAQDAEgwRgIhAO26wLtKN2+/CQSi/yED7mWNEUH0QnW5RSEby9cw
+FLlCAiEA9IyrGwMJX8iEII7uTIdVAxmnLhDXk+4KuDYrVCFpl8MAdwDW1Y2p0BdT
+82pKoMdXSQKv68fcLNOM2fdkyAyJGR6fAgAAAaBfdRKMAAAEAwBIMEYCIQDryUDh
+3TP94HS986zS/t+2tEqIQbRsriLeaI7ZsuaN3AIhAMQVz1jb0VBeIL3UcC1lypZg
+m8hqrcR9TRkW/p9qd7KoAHYARMK9DOkUDmSlyUoBkwpaobs1lw4A7hEWiWgqHETX
+tWYAAAGgX3USyAAABAMARzBFAiEAy44VbMQseXn9q4RRS3QflJ4BGS5HNF2IYGcB
+/FNMp0gCIDKvPW5zgKbegXC45Ioc1+0iY69bhFUyLcI2Sp/Rv6mYMAoGCCqGSM49
+BAMDA2cAMGQCMFHdegDlcTq2rQsRYQvw+Bs0YiwvcW0cWtrTgXd5O81lIJiXBB4g
+LJ64jJjfeQY4QwIwCnFrLEt5IFdbA3H6BVL3UorWEvOLOmpbNk3aPYnUIr4Y3CvY
+Ed8eUOoi6tOtG4Lw
+-----END CERTIFICATE-----
+subject=C=US, ST=Georgia, L=Atlanta, O=Centers for Disease Control and Prevention, CN=*.cdc.gov
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 3764 bytes and written 1576 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

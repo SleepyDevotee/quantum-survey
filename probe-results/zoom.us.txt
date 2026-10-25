@@ -1,0 +1,79 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=California, L=San Jose, O=Zoom Communications, Inc., CN=*.zoom.us
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Dec 29 00:00:00 2025 GMT; NotAfter: Dec 29 23:59:59 2026 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep 24 00:00:00 2020 GMT; NotAfter: Sep 23 23:59:59 2030 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root CA
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jan 18 00:00:00 2024 GMT; NotAfter: Nov  9 23:59:59 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG0zCCBbugAwIBAgIQC+F+H2qG1gIZoDEMDdryzTANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjUx
+MjI5MDAwMDAwWhcNMjYxMjI5MjM1OTU5WjBtMQswCQYDVQQGEwJVUzETMBEGA1UE
+CBMKQ2FsaWZvcm5pYTERMA8GA1UEBxMIU2FuIEpvc2UxIjAgBgNVBAoTGVpvb20g
+Q29tbXVuaWNhdGlvbnMsIEluYy4xEjAQBgNVBAMMCSouem9vbS51czCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAL0bT39bvoXAS1Z5Kysg9LpegT1BGSOU
+nVkCZYufflYYCt+/gMLDqUPfpQqOrOX1sWjkC8mcscrim4LIsAXNml7mzHIGYA5H
+fSF4Su4kMx8IbAsyLxPdPmdh3hZds0A5XpgSi58sKeJktsimleahS4DZHEDnq/wG
+8BCjd45/fJPrw32UPv/74f+B/ZLcJTAKZqjMUeD0ueI2qeg6zPU3F2qSEEAPkXyV
+UDQ5JE1pOv9gV/4IkeCKAUUFJ7PVIMemR1RpAEEgO1ynVN9CBmxtfp2K9QdfdC6/
+WtoJ5UjD+fIZJUml5JWz3/MeRxQcLqN/uTNa/EKgzx/v7WeI/6kL86MCAwEAAaOC
+A4EwggN9MB8GA1UdIwQYMBaAFHSFgMBmx9833s+9KTeqAx2+7c0XMB0GA1UdDgQW
+BBQMBfGC1fXf7xgPdA4na50SldYz2zAdBgNVHREEFjAUggkqLnpvb20udXOCB3pv
+b20udXMwPgYDVR0gBDcwNTAzBgZngQwBAgIwKTAnBggrBgEFBQcCARYbaHR0cDov
+L3d3dy5kaWdpY2VydC5jb20vQ1BTMA4GA1UdDwEB/wQEAwIFoDATBgNVHSUEDDAK
+BggrBgEFBQcDATCBnwYDVR0fBIGXMIGUMEigRqBEhkJodHRwOi8vY3JsMy5kaWdp
+Y2VydC5jb20vRGlnaUNlcnRHbG9iYWxHMlRMU1JTQVNIQTI1NjIwMjBDQTEtMS5j
+cmwwSKBGoESGQmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2Jh
+bEcyVExTUlNBU0hBMjU2MjAyMENBMS0xLmNybDCBhwYIKwYBBQUHAQEEezB5MCQG
+CCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wUQYIKwYBBQUHMAKG
+RWh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2JhbEcyVExT
+UlNBU0hBMjU2MjAyMENBMS0xLmNydDAMBgNVHRMBAf8EAjAAMIIBewYKKwYBBAHW
+eQIEAgSCAWsEggFnAWUAdADXbX0Q0af1d8LH6V/XAL/5gskzWmXh0LMBcxfAyMVp
+dwAAAZtnc/F/AAAEAwBFMEMCHwkQci+NYvAPbA862m3/W1+G0zjVujQeLZST38/R
+TsICICwzVueILlyI8TPGGmyjBMZcAdHKPKYMU3YwnakHatIZAHUAyKPEf8ezrbk1
+awE/anoSbeM6TkOlxkb5l605dZkdz5oAAAGbZ3PydwAABAMARjBEAiBTbCPaHQYG
+EYKTyYuYYSdtB9+A3fGBM+RIqrLRXq0EnAIgUlyuVXVEg77xOG7RsaCuJ+LugVvw
+NWYVIdVa6npufDIAdgDYCVU7lE96/8gWGW+UT4WrsPj8XodVJg8V0S5yu0VLFAAA
+AZtnc/GbAAAEAwBHMEUCIQDCDYDXsax64MqsdkJWzEcZDjQhnu5rWY+6D/ywpq80
+LwIgMD+FfbuUM5Fiq5Zcx3vuH83pw6O3Hi1zQ+N4elNewN8wDQYJKoZIhvcNAQEL
+BQADggEBAA221zU3de82bdcMxjfSJ3B5qOOXE7weiNwaKlP31nt3dYUCb7gZzlaS
+ev4bFMHZZJB0sHH6wyPKXKley7vRO2l2Jdtd5O69A9wfhbgY8nUWhnk7JqBW78Pm
+wQFEvuSXyYw5mQSsqpI3Mb2WMM6Yoa8vKbRTf07V0wNPh99x5+xnCTAAiop/BzQu
+9IWdC8Qil61CgXcGRuJbuiHywkkGrJinH+6oMIS6Agf7v6Fle5HC3UAehJ1Qg2j5
+3V0bW3KvkT58vzo2CrJ77Of9dAB4GjoxeK9yit4HAazIA7lc0rDlpycsHMMoW1BW
+cNRv9b4Y47ytW9pKG7cjquGgkR/RtbM=
+-----END CERTIFICATE-----
+subject=C=US, ST=California, L=San Jose, O=Zoom Communications, Inc., CN=*.zoom.us
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 5769 bytes and written 1576 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

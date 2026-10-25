@@ -1,0 +1,76 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=California, L=San Francisco, O=Wells Fargo & Company, CN=wellsfargo.com
+   i:C=US, O=Wells Fargo & Company, OU=Organization Validated TLS, CN=Wells Fargo Public Trust Certification Authority 01 G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jun  8 00:00:00 2026 GMT; NotAfter: Dec 23 23:59:59 2026 GMT
+ 1 s:C=US, O=Wells Fargo & Company, OU=Organization Validated TLS, CN=Wells Fargo Public Trust Certification Authority 01 G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Nov 15 12:31:52 2017 GMT; NotAfter: Nov 15 12:31:52 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHEDCCBfigAwIBAgIQAV2bd3a/MdnxSRT37InTzDANBgkqhkiG9w0BAQsFADCB
+kzELMAkGA1UEBhMCVVMxHjAcBgNVBAoMFVdlbGxzIEZhcmdvICYgQ29tcGFueTEj
+MCEGA1UECxMaT3JnYW5pemF0aW9uIFZhbGlkYXRlZCBUTFMxPzA9BgNVBAMTNldl
+bGxzIEZhcmdvIFB1YmxpYyBUcnVzdCBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eSAw
+MSBHMjAeFw0yNjA2MDgwMDAwMDBaFw0yNjEyMjMyMzU5NTlaMHMxCzAJBgNVBAYT
+AlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1TYW4gRnJhbmNpc2Nv
+MR4wHAYDVQQKDBVXZWxscyBGYXJnbyAmIENvbXBhbnkxFzAVBgNVBAMTDndlbGxz
+ZmFyZ28uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAprbOr9N7
+YbCxSqbIL/xY4Z1uFdpqSg/FdpBObBFL20NNX0uH6S9n823qOa+7MM7QP8kIvOWc
+ZjCXLh7v7dFdyX3FzNCmt5vurvZ8QAA+E+iW8i2QteZ0aw8zxcbnOHh72nbDFHYD
+U6YsatYtuxKgWDmkr6Fk5StROPxXAF+qXBL9nhdPFmKcWjj9c2Cd79TE6Hx61ab5
++ovjiSBLL5u97Hu8B3zF9H4Kw0kNMKQ1r+qkT1BoIjVy6tmVaWZnXW69b0mEXS54
+sz2OlbOLnjKzD8nTUUBrU2W8M6NzAkgQ13zKXioQ8ocBIkVJNwffnluQnM/Gv1yf
+LGlT3fTa/72TMQIDAQABo4IDfTCCA3kwHwYDVR0jBBgwFoAUOROe4UHSOkULOIBg
+r7UhQXwBiX0wHQYDVR0OBBYEFJXCusea/StE/IYTtNol2ciU8skjMBkGA1UdEQQS
+MBCCDndlbGxzZmFyZ28uY29tMD4GA1UdIAQ3MDUwMwYGZ4EMAQICMCkwJwYIKwYB
+BQUHAgEWG2h0dHA6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMGoGA1UdHwRjMGEwX6Bd
+oFuGWWh0dHA6Ly9jZHBoLmRpZ2l0YWxjZXJ0dmFsaWRhdGlvbi5jb20vV2VsbHNG
+YXJnb1B1YmxpY1RydXN0Q2VydGlmaWNhdGlvbkF1dGhvcml0eTAxRzIuY3JsMIGw
+BggrBgEFBQcBAQSBozCBoDA0BggrBgEFBQcwAYYoaHR0cDovL3N0YXR1c2guZGln
+aXRhbGNlcnR2YWxpZGF0aW9uLmNvbTBoBggrBgEFBQcwAoZcaHR0cDovL2NhY2Vy
+dHMuZGlnaXRhbGNlcnR2YWxpZGF0aW9uLmNvbS9XZWxsc0ZhcmdvUHVibGljVHJ1
+c3RDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5MDFHMi5jcnQwDAYDVR0TAQH/BAIwADCC
+AX4GCisGAQQB1nkCBAIEggFuBIIBagFoAHcAwjF+V0UZo0XufzjespBB68fCIVoi
+v3/Vta12mtkOUs0AAAGepc2IHwAABAMASDBGAiEA9c1paVvLaSDiKpkHB7YyRphh
+CuwJaf2KztSeHD/wmvkCIQDZNPp7VNiRN/eOZVfWyK4KbYG0KADtrx//2P3pABES
+JgB1ANdtfRDRp/V3wsfpX9cAv/mCyTNaZeHQswFzF8DIxWl3AAABnqXNiA8AAAQD
+AEYwRAIgMYmDy41OvtrGG0gIwUnTtpqYljW///xsCVuz/UL93fwCIBFWCt1LjBAo
+9Y+SE+j2jJoNWRS0hiKA0ddembWsznGFAHYAlE5Dh/rswe+B8xkkJqgYZQHH0184
+AgE/cmd9VTcuGdgAAAGepc2IMgAABAMARzBFAiA41pWK31vaLQspZvEtNho4pXn/
+2KkJORWRwRLBShvOogIhAPgttSxu41OOFqf3RQRhBFJkx2QDrl+/tk8j+gS744sl
+MA0GCSqGSIb3DQEBCwUAA4IBAQAsPPW7Et8+TXlf4T3h/Ts/8jujKNgNjVJrLG1s
+wlWaTHgiDd77HYih8Hb0O+gIX7TBX6GL4d80KVc3LTd8wMV1iUzqoqwVjHhUBwLo
+mmET/nOvJgitj9AMizsN5C+Us4BPnyGMVagbJEyd53VuATlszUq/ebxM1XOgqodt
+wYEfGXrZxlo2dsUJdoQMEOzcUvzLayVFif8ZC7yvgSI1kEhmCKtQBOFS/enS/HRG
+uRrEP/93pyVm6eAlIgzS6qWJEXwL7XEEOxCGkpyVGPl36JFWIvHzYVVAYjelitj2
+WIPW0agwmpKbqbp6yVtabD6P4Wt4qPzMK3gLdUKqt0zgsacr
+-----END CERTIFICATE-----
+subject=C=US, ST=California, L=San Francisco, O=Wells Fargo & Company, CN=wellsfargo.com
+issuer=C=US, O=Wells Fargo & Company, OU=Organization Validated TLS, CN=Wells Fargo Public Trust Certification Authority 01 G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 4701 bytes and written 1583 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

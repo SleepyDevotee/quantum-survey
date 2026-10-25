@@ -1,0 +1,87 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=Illinois, O=The University of Chicago, CN=uchicago.edu
+   i:C=US, O=InCommon, LLC, CN=InCommon RSA OV SSL CA 3
+   a:PKEY: RSA, 4096 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jul 14 00:00:00 2026 GMT; NotAfter: Jan 28 23:59:59 2027 GMT
+ 1 s:C=US, O=InCommon, LLC, CN=InCommon RSA OV SSL CA 3
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Nov  6 00:00:00 2025 GMT; NotAfter: Nov  5 23:59:59 2035 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+ 3 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Feb  1 00:00:00 2010 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+-----END CERTIFICATE-----
+subject=C=US, ST=Illinois, O=The University of Chicago, CN=uchicago.edu
+issuer=C=US, O=InCommon, LLC, CN=InCommon RSA OV SSL CA 3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 7644 bytes and written 1898 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 4096 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

@@ -1,0 +1,69 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=slack.com
+   i:C=US, O=Let's Encrypt, CN=YR2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct  7 08:37:08 2026 GMT; NotAfter: Jan  5 08:37:07 2027 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=YR2
+   i:C=US, O=ISRG, CN=Root YR
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
+ 2 s:C=US, O=ISRG, CN=Root YR
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: RSA, 4096 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE+DCCA+CgAwIBAgISBj9v+vFeiOJMRp5ALkUD1ECGMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNZUjIwHhcNMjYxMDA3MDgzNzA4WhcNMjcwMTA1MDgzNzA3WjAUMRIwEAYDVQQD
+EwlzbGFjay5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC5e6Ge
+Y7JbrP4oob/9xpyXBoAwUP2TrsZhuabIc5HKLNpmgYdye57ZVm/FxlDacig0H4OE
+4M4iEIi3p5JjjWpioRLMiZ0lw59IuHNE8bb+CM7XZUVEhdg6nLpawRVWvxaRWUNS
+QgA9GuwK1smqgGeM4bqjCjBlafHncLr3N/3AKUx93R7usz5Dza4VqtIp1eGe28xk
+ugfqIvJizAdIJSiP1MOIY3kbDXmBk36OGzMd0qmHYAEP9xoTSTTG9YJIk+yTPC39
+HJHfgLj+zgiQBuC6lX7DLa2k0AIoAYKOu0SHSAO7T0ezu09J5XDOyA4DAd56582+
+GH4K2wJPHLZv8HaZAgMBAAGjggIjMIICHzAOBgNVHQ8BAf8EBAMCBaAwEwYDVR0l
+BAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUhhtT7vYN1ied
+HPJOAeWEPD8CjLAwHwYDVR0jBBgwFoAUQBUtJnntMiCe35pyHdYyH4EMgQwwMwYI
+KwYBBQUHAQEEJzAlMCMGCCsGAQUFBzAChhdodHRwOi8veXIyLmkubGVuY3Iub3Jn
+LzAhBgNVHREEGjAYggsqLnNsYWNrLmNvbYIJc2xhY2suY29tMBMGA1UdIAQMMAow
+CAYGZ4EMAQIBMC0GA1UdHwQmMCQwIqAgoB6GHGh0dHA6Ly95cjIuYy5sZW5jci5v
+cmcvNy5jcmwwggEMBgorBgEEAdZ5AgQCBIH9BIH6APgAdwDW1Y2p0BdT82pKoMdX
+SQKv68fcLNOM2fdkyAyJGR6fAgAAAaEVt/HrAAAEAwBIMEYCIQCpXVXBjF/IAjnt
+egVGkStRkSTBb9tI5VLTLv5y1HomwQIhAIRhMuGo+1cOjOa6+zlyIoAtfIShC6lo
+EPR9gzW+hJSAAH0AooEAGHNOF24dR+CVQPOBulRml81jqENQcW64CU7a8Q0AAAGh
+Fbf0hgAIAAAFAB5/xhsEAwBGMEQCIF3Vc3Ius3v4CuzeaY6QxGh17zkj/gFUHesB
+KXJGrZ9jAiBpcnd3BzXuGhVspWGtGquDQ0H33YIUBpFkZ4mWHBO7CDANBgkqhkiG
+9w0BAQsFAAOCAQEArZA18eFV+qhsXLpFICE2yXif3OeCqarHTV5Q4+JIw5wWQ+GV
+DTVSUxRTalreN4kjdATtare2LCJNOIIm+232YLsOBK7RR58sIQu9OVFLtF4VaVJe
+/Tn422aFlh2x6NbDF7d349Fb2lAe5kCzvEkseg+oixFTWt5aPEAwmoSaTnP3xqqt
+rSs01VVfmOG5KxN0ErsDtfJddA1+ImfFxrImaRCItkf3yIchzR33z+Uf3idwVuYa
+Zx43ZT/O4j3NgsnTp02lHPqzJ49ADTnv82nOojP+7+PF4NWgR5v05NwMX9YrjCan
+kWQrVlyizAe+ejP0wwz7LV+yDw2EbtAangvUyA==
+-----END CERTIFICATE-----
+subject=CN=slack.com
+issuer=C=US, O=Let's Encrypt, CN=YR2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4643 bytes and written 1892 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

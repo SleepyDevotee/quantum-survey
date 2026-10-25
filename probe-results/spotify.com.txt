@@ -1,0 +1,75 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=SE, L=Stockholm, O=Spotify AB, CN=*.spotify.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jul  9 00:00:00 2026 GMT; NotAfter: Jan 23 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGwDCCBaigAwIBAgIQDt81FhtxzOj2dPh+AXXd8DANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjYw
+NzA5MDAwMDAwWhcNMjcwMTIzMjM1OTU5WjBOMQswCQYDVQQGEwJTRTESMBAGA1UE
+BxMJU3RvY2tob2xtMRMwEQYDVQQKEwpTcG90aWZ5IEFCMRYwFAYDVQQDDA0qLnNw
+b3RpZnkuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsy8mk5Op
+T+BxJSV4UrTTKpNidh6nKxc7NlishQrPW8vUgHZRnirYlu/RCa9DuprudY2iYQum
+Be8HzSCt1fgQDoLcnMcNCEI7gU1U/4bVrg2jweMDxivuAzr7lLa/LK7VDXyJMuBP
+DkFNcWdYNJs8Y+ZwOLqYm3OEkIY+R9aR28z6Ha26/v3eQpk9LzfYuMuSQPYKellM
+Q8XliW0Hum4nK+CHT4hZ8QQNb0CMdzvq72Q1dJZ5jljNZ4YRhBbwpvfvsckKh220
+QYL+uXqkoMam9gUqv8iqwXlvKiVg/+UEwiCRtStFFElWM5+IN8IsS9+ig4Jg8WoI
+mx1gzP6lU6225QIDAQABo4IDjTCCA4kwHwYDVR0jBBgwFoAUdIWAwGbH3zfez70p
+N6oDHb7tzRcwHQYDVR0OBBYEFKJeDqjnu4Dq8kz3B2yeG8I9R4o9MCUGA1UdEQQe
+MByCDSouc3BvdGlmeS5jb22CC3Nwb3RpZnkuY29tMD4GA1UdIAQ3MDUwMwYGZ4EM
+AQICMCkwJwYIKwYBBQUHAgEWG2h0dHA6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAO
+BgNVHQ8BAf8EBAMCBaAwEwYDVR0lBAwwCgYIKwYBBQUHAwEwgZ8GA1UdHwSBlzCB
+lDBIoEagRIZCaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFs
+RzJUTFNSU0FTSEEyNTYyMDIwQ0ExLTEuY3JsMEigRqBEhkJodHRwOi8vY3JsNC5k
+aWdpY2VydC5jb20vRGlnaUNlcnRHbG9iYWxHMlRMU1JTQVNIQTI1NjIwMjBDQTEt
+MS5jcmwwgYcGCCsGAQUFBwEBBHsweTAkBggrBgEFBQcwAYYYaHR0cDovL29jc3Au
+ZGlnaWNlcnQuY29tMFEGCCsGAQUFBzAChkVodHRwOi8vY2FjZXJ0cy5kaWdpY2Vy
+dC5jb20vRGlnaUNlcnRHbG9iYWxHMlRMU1JTQVNIQTI1NjIwMjBDQTEtMS5jcnQw
+DAYDVR0TAQH/BAIwADCCAX8GCisGAQQB1nkCBAIEggFvBIIBawFpAHcATGPcmOWc
+HauI9h6KPd6uj6tEozd7X5uUw/uhnPzBviYAAAGfRjSJvAAABAMASDBGAiEA7Y0M
+PtXFnTdX2F27tyNftMvw4/zeUl/dUR4nM95WpSUCIQCd1BPZiKDa0d/IKXJuoWXy
+EYMNEkRFnyo5DO6hUPGyCgB3AETCvQzpFA5kpclKAZMKWqG7NZcOAO4RFoloKhxE
+17VmAAABn0Y0iiAAAAQDAEgwRgIhAP7jDnfeMXJ+u3RayG9Cv9ojOD+yshIXmt2U
+Gks1E5z/AiEAqu6r357MWpmeTT0qJvgWVo5biSSUnsO14XxwGT3v+yQAdQAcn2gs
+6frwRWlQ+BuWiofd2zIQ2EzmyLLjglJKxM9ZnwAAAZ9GNIqTAAAEAwBGMEQCIBjG
+TzYvFdUA/xsx0AajXifs1GVsfp4hMFMHtbamt3k4AiAfWsoDXtxFg+xPBj3R+sRj
+5JpEjk9JNMMxVqbF+L5eDjANBgkqhkiG9w0BAQsFAAOCAQEAwKpjffktIO7vo8G+
+3GE1B9wYBcPflz2ysQ+0x/onw1pRDFlBVmQKQiL5JGikGFsyzdpp/AKE3oYVkcab
+ggyorfEnVOy9C8Uu8Lxrkwt3r4+HNVj5GZYN5Hl9Ek4PjhvogRbOVuSBbzcD8j5q
+dqxyNY61dsgkhyja5etoCVAJRPUdZhUAimuIEsYYp/PSYWNN3PdrVb9x+q5T/1ug
+Q9ByPryCEPKv4vKxiVs7+I9tvepmSELpacV/AAm/u1yBIprBpITB5M3ve1eJgPY+
+JbHEz1Yn8fIWDFsckoKyecTDiSNwpVfHsmp2EsSS9hjS4t/8m77zvqrkoWl1YFLX
+mlY7BA==
+-----END CERTIFICATE-----
+subject=C=SE, L=Stockholm, O=Spotify AB, CN=*.spotify.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3552 bytes and written 1896 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

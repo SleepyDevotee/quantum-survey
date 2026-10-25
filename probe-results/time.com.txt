@@ -1,0 +1,97 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=*.time.com
+   i:C=US, O=Certainly, CN=Certainly Intermediate R1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct 22 14:36:51 2026 GMT; NotAfter: Nov 21 14:36:50 2026 GMT
+ 1 s:C=US, O=Certainly, CN=Certainly Intermediate R1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Root Certificate Authority - G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jun 22 00:00:00 2022 GMT; NotAfter: Jun 21 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFGzCCBAOgAwIBAgISeONDcRrgmBs7KdGpnbdqOWvBMA0GCSqGSIb3DQEBCwUA
+MEUxCzAJBgNVBAYTAlVTMRIwEAYDVQQKEwlDZXJ0YWlubHkxIjAgBgNVBAMTGUNl
+cnRhaW5seSBJbnRlcm1lZGlhdGUgUjEwHhcNMjYxMDIyMTQzNjUxWhcNMjYxMTIx
+MTQzNjUwWjAVMRMwEQYDVQQDDAoqLnRpbWUuY29tMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEArC8gudGD3IPJYYpc8T3eOHypqCMRPDLhATSxKhH0zI2q
+gRqiTqyd7L3lFRXGJy1m28ViMDs9NvokLyArl46RtYuCBfQwNfTeYxgTRd3YhWEs
+fuiLESRIA3ngmEW5kyfXDcffeMbFNNtG34MHaMBpLVVIlKYyRwjP5yPXDUVnTW7G
+b9Q9HdiIq4TyTe7pBDozWFZxop2y9aGsei9vpw/ZKybOfMVdv2suAbcmk2jsQizS
+yr42GroSHw+x4SPcHGSPlUaFOD69SZdyGPokOcXotmwBcKd1yklRgwYN7Z6sRGfm
+xBgcJSzvt28JeZ9Hz8/rcJDgvjjp0Q4abLrXOczj4QIDAQABo4ICMzCCAi8wDgYD
+VR0PAQH/BAQDAgWgMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAw
+HQYDVR0OBBYEFJGDwie0+EZGwaoV+dCSXk9VuHqdMB8GA1UdIwQYMBaAFL2Xnd+h
+2BslmeMMBAaJZBLXZSTHMDcGCCsGAQUFBwEBBCswKTAnBggrBgEFBQcwAoYbaHR0
+cDovL2ludC1yMS5jZXJ0YWlubHkuY29tMB8GA1UdEQQYMBaCCioudGltZS5jb22C
+CHRpbWUuY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIBMEIGA1UdHwQ7MDkwN6A1oDOG
+MWh0dHA6Ly9jcmxzLmNlcnRhaW5seS5jb20vMTcxODIyNjI0NTMwMDI1MTQvOC5j
+cmwwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwCUTkOH+uzB74HzGSQmqBhlAcfT
+XzgCAT9yZ31VNy4Z2AAAAaFkQKevAAAEAwBIMEYCIQC4ozZs8i64xdbqIOuSrOsN
+a+ixzntEzE9igNVAtVLpXwIhAKnRphO4ucMiOqcqLG0FkN3KhHgVBV0zH9EMsafi
+ITTkAHYAr2eIO1ewTt2Pptl+9i6o64EKx3Fg8CReVdYML+eFhzoAAAGhZECodgAA
+BAMARzBFAiEAhweNWQb6DC7FNw2VxWRS4/vFNvOPq6Fy+SuKs3A9CvICIDPW//Cv
+1N0DyTOQQs4cXFbOTHs/uMPoDE4D9JjocIWaMA0GCSqGSIb3DQEBCwUAA4IBAQAW
+OnD9pzbEn16LFRUwnJ+tiu8NXAb3FxEIt4N6N/zunnMj+uJEa/81K7Es7akqHVj9
+kHasacxPTZFN5VwrZ+HY9wHMnPTpnZvlOjEAOG/0ND6gimNxtX19TOqE+YCYaj/U
+O8sKDfxBW6mWscLz7mSBm4987ErJ0A+WaxQiulkeCbkbuUKTIuLnGkIzXFBq3YdZ
+rtjKAcLlegryPi3oOVT9GGYHKVUKrhUgXWsZZHcOCOMp6oRNnu7t76XI5p948cj/
+xmfZiKpN6yC7OE/BDdB1/FQLxDsRFzRHOpDyv0Piaxx85u2g0goRwxqOAdLIVNmm
+BnZHA6A26sJ5NcDarn1F
+-----END CERTIFICATE-----
+subject=CN=*.time.com
+issuer=C=US, O=Certainly, CN=Certainly Intermediate R1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 4136 bytes and written 1561 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: DB27DCDEB72F5815A64E210A1EE3FE10A8422AFF14D7EC71EB1118E69B7E743A
+    Session-ID-ctx: 
+    Resumption PSK: CF8251F9157AB9031060E064B4A3D4041EF86D9BA40FDA2160FA15D2B740E08F
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
+    0010 - 79 24 e9 61 a6 8d 5d 20-e1 fd c5 a9 3b 18 a4 e5   y$.a..] ....;...
+    0020 - 6f a3 db 4f 7b 48 d2 72-ce 29 26 9c c4 bd 9e ef   o..O{H.r.)&.....
+    0030 - ee db 90 de ac 58 cc 4b-60 f8 cc 33 18 e4 ea 06   .....X.K`..3....
+    0040 - 91 bf 50 00 52 67 a4 58-38 e9 2d a0 26 ad 06 84   ..P.Rg.X8.-.&...
+    0050 - 2b 5c b4 6c be af cd 74-ca 48 9a 5c f9 f7 d9 45   +\.l...t.H.\...E
+    0060 - e2 c7 42 61 25 e4 7d 81-53 18 9f b4 0d 5d cc 9b   ..Ba%.}.S....]..
+    0070 - 16 7a 9b 1c 3f 1f 7b d5-80 d3 8d 12 76 af ad 08   .z..?.{.....v...
+    0080 - b1 05 7d 82 e9 01 7d 07-46 a2 87 d2 1d 1c 0a 27   ..}...}.F......'
+    0090 - aa 67 5a b6 ba d3 de fc-8d d1 f1 91 99 4a c7 54   .gZ..........J.T
+
+    Start Time: 1792921703
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 8192
+---
+read R BLOCK

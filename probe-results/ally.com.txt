@@ -1,0 +1,97 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=Michigan, O=Ally Financial Inc, CN=ally.com
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Dec  9 00:00:00 2025 GMT; NotAfter: Dec  9 23:59:59 2026 GMT
+ 1 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Mar 21 23:59:59 2036 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+ 3 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Feb  1 00:00:00 2010 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHdTCCBd2gAwIBAgIRALwyujC1ENMfKBI/auk/3d4wDQYJKoZIhvcNAQELBQAw
+YDELMAkGA1UEBhMCR0IxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBQdWJsaWMgU2VydmVyIEF1dGhlbnRpY2F0aW9uIENBIE9WIFIz
+NjAeFw0yNTEyMDkwMDAwMDBaFw0yNjEyMDkyMzU5NTlaMFAxCzAJBgNVBAYTAlVT
+MREwDwYDVQQIEwhNaWNoaWdhbjEbMBkGA1UEChMSQWxseSBGaW5hbmNpYWwgSW5j
+MREwDwYDVQQDEwhhbGx5LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAK29DVnSCj3ECJ6ksS4gDvxeYohXNZp+WPrVre4vJPYMmo6u6dQfPiHlNnut
+NAPI/VPnLqeX57f+AxGxGf9eluqmjIflj2yeVSNMIMt+z+BeK1ik58zn579Gfjt5
+81dqsKt+X/BVF7kENglWsRAmvHRxINjaaA53S+B5E+y1myAfE+1Q5IkYMH1AMua6
+tRd7x32J4tQKujL7GUEFO172YzCrrujZ0iDiRzObAqyShBUT+1vA4FfP7htLqqC4
+tHk5Ja/HVYgmKqbQknA0R28ZGDcut2KYp892IqjLDNfjoZi+WrDGUTYKYvjJGSQx
+jLDkkE/iiEsj8t1sI05hqdpSmBkCAwEAAaOCA7gwggO0MB8GA1UdIwQYMBaAFONm
+dLtwaI0sXU4OpkqPmzcinIKSMB0GA1UdDgQWBBSfwj7qf/49lqP28n+gDM3vkUjH
+ejAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEF
+BQcDAQYIKwYBBQUHAwIwSgYDVR0gBEMwQTA1BgwrBgEEAbIxAQIBAwQwJTAjBggr
+BgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQICMFQGA1Ud
+HwRNMEswSaBHoEWGQ2h0dHA6Ly9jcmwuc2VjdGlnby5jb20vU2VjdGlnb1B1Ymxp
+Y1NlcnZlckF1dGhlbnRpY2F0aW9uQ0FPVlIzNi5jcmwwgYQGCCsGAQUFBwEBBHgw
+djBPBggrBgEFBQcwAoZDaHR0cDovL2NydC5zZWN0aWdvLmNvbS9TZWN0aWdvUHVi
+bGljU2VydmVyQXV0aGVudGljYXRpb25DQU9WUjM2LmNydDAjBggrBgEFBQcwAYYX
+aHR0cDovL29jc3Auc2VjdGlnby5jb20wggGFBgorBgEEAdZ5AgQCBIIBdQSCAXEB
+bwB1ANdtfRDRp/V3wsfpX9cAv/mCyTNaZeHQswFzF8DIxWl3AAABmwDkGcEAAAQD
+AEYwRAIgTjL5pNwqvYmR4mTi0VFokOy4o3gOIya1sQ83tKhnZ8ICIB77zyKfFDpf
+5Z+dKTyP8oH/oeRbpqW9yArzUFqGECJCAHcAr2eIO1ewTt2Pptl+9i6o64EKx3Fg
+8CReVdYML+eFhzoAAAGbAOQafwAABAMASDBGAiEA9J2KH8iMIrRn722O0RLctxZl
+pbC7yv6XQMMR8b8N254CIQCnaE6BMh7vITHvEanMlzXUxM8QWA6HTS4t9fZ2Mf/A
+IQB9AGz+UBlDqF6pFrxS0TPk3Mke8UEcfSWEINFzgJ4YGOs6AAABmwDkG2gACAAA
+BQABo6bcBAMARjBEAiB0Pfwc+P0AtQ9u4jn9nFPpYeppLJEPakPDYVR0IEzdSwIg
+HEVszpu0ZGhRFHbsVT6lQtW9m5wgRahR45Ilj61CCo8wgYIGA1UdEQR7MHmCCGFs
+bHkuY29tggxhbGx5YmFuay5jb22CDWJhbmsuYWxseS5jb22CDmxlYXJuLmFsbHku
+Y29tgg5tLmFsbHliYW5rLmNvbYIQdXBncmFkZS5hbGx5LmNvbYIMd3d3LmFsbHku
+Y29tghB3d3cuYWxseWJhbmsuY29tMA0GCSqGSIb3DQEBCwUAA4IBgQArVkOLpxRk
+VmRES/2HxGyQutPTIWe3GSkm2V3H6rygzvsoJUbIpaK+OEnEeHwVUgT2KZAokhu+
+qiAAYCVDCOwMFal5nhX6+CQRterc9RGXuATbb94VXLt0C6Ok6fz7+tHq9tJBTW2t
+NkoR0j3typy0RSSJNg239Yvj2/p57nR0RFa7WXwJdatsPFQEC+Xp/j2F0yGRhKNC
+AQgbOD6mrG0mtdiyyxjylRPbedflPAo+UZGuqm2bfurtQSR7QnyhiJeOYjcSx4lO
+9T6K12B5Brs+dKKMkTpx6mkojQvdsfOPWQT09gB9XDC1MuIQXSUDmfDq9aOaG48/
+WPue0uj1sPzdL2Rm1InVmRZc5kku3fASypipoFDE4sKBwGPagsqTzyRxc/Py/R7s
+n8Kr8SWAwOFDgD33PC19BZWiXuIvPSknKLmyx6EfLoMqBjVnSrx54eIah9I0lQ9G
+uBsrbkYIF3THJYCBLc+cxFqkm/yQuuJKqhCI2uyqRMohcIyGegQZQCU=
+-----END CERTIFICATE-----
+subject=C=US, ST=Michigan, O=Ally Financial Inc, CN=ally.com
+issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pkcs1_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 7246 bytes and written 1623 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: A2982432F7DD99178B6143E35C25409BCD3CAE87F62DBBE4672F41212EB590AF
+    Session-ID-ctx: 
+    Master-Key: 5BA9C1DC4FC505DDC782D7F86FFE7DCD17349914D432F2F54171F7D789FF56F2EFE739F66E5DEB757EE9670913656F15
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1792921645
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

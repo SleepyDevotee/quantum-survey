@@ -1,0 +1,100 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=Arkansas, L=Bentonville, O=Walmart Inc., CN=prod.samsclub.com
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC E46 OV TLS CA 2025
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Sep 29 10:28:36 2026 GMT; NotAfter: Apr 16 10:28:36 2027 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC E46 OV TLS CA 2025
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Root E46
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Sep 17 02:56:24 2025 GMT; NotAfter: Jun 23 00:00:00 2029 GMT
+ 2 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Root E46
+   i:OU=GlobalSign ECC Root CA - R5, O=GlobalSign, CN=GlobalSign
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Nov 20 00:00:00 2019 GMT; NotAfter: Jan 19 00:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIKtjCCCjugAwIBAgIMW01PaVGz9ST9NSUZMAoGCCqGSM49BAMDMFQxCzAJBgNV
+BAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSowKAYDVQQDEyFHbG9i
+YWxTaWduIEdDQyBFNDYgT1YgVExTIENBIDIwMjUwHhcNMjYwOTI5MTAyODM2WhcN
+MjcwNDE2MTAyODM2WjBpMQswCQYDVQQGEwJVUzERMA8GA1UECBMIQXJrYW5zYXMx
+FDASBgNVBAcTC0JlbnRvbnZpbGxlMRUwEwYDVQQKEwxXYWxtYXJ0IEluYy4xGjAY
+BgNVBAMTEXByb2Quc2Ftc2NsdWIuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcD
+QgAEDpZ6S4pe+Q/LeZZEcMgrPdqGAdHU9pmh+UTbmIzz57HKFpywV+RtCScD93S4
+VFCJCYNgrsxc81/Z/5oBu7zM9aOCCNwwggjYMA4GA1UdDwEB/wQEAwIHgDAMBgNV
+HRMBAf8EAjAAMIGVBggrBgEFBQcBAQSBiDCBhTBHBggrBgEFBQcwAoY7aHR0cDov
+L3NlY3VyZS5nbG9iYWxzaWduLmNvbS9jYWNlcnQvZ3NnY2NlNDZvdnRsc2NhMjAy
+NS5jcnQwOgYIKwYBBQUHMAGGLmh0dHA6Ly9vY3NwLmdsb2JhbHNpZ24uY29tL2dz
+Z2NjZTQ2b3Z0bHNjYTIwMjUwEwYDVR0gBAwwCjAIBgZngQwBAgIwQgYDVR0fBDsw
+OTA3oDWgM4YxaHR0cDovL2NybC5nbG9iYWxzaWduLmNvbS9nc2djY2U0Nm92dGxz
+Y2EyMDI1LmNybDCCBe4GA1UdEQSCBeUwggXhghFwcm9kLnNhbXNjbHViLmNvbYIQ
+YXBpLnNhbXNjbHViLmNvbYIQYXBwLnNhbXNjbHViLmNvbYIYYm9udXNvZmZlcnMu
+c2Ftc2NsdWIuY29tghJicmFuZC5zYW1zY2x1Yi5jb22CEGRhcC5zYW1zY2x1Yi5j
+b22CFWRhcGdsYXNzLnNhbXNjbHViLmNvbYIZZGRpci1iZmYucmhxLnNhbXNjbHVi
+LmNvbYIVZGRpci5yaHEuc2Ftc2NsdWIuY29tghZkZXZlbG9wZXIuc2Ftc2NsdWIu
+Y29tghtldmVudHMtc2VydmljZS5zYW1zY2x1Yi5jb22CGGV4cGVyaW1lbnRzLnNh
+bXNjbHViLmNvbYIVZ3JhcGhpY3Muc2Ftc2NsdWIuY29tgh9pNS1yaWNobWVkaWEu
+c2Ftc2NsdWJpbWFnZXMuY29tghVpZGVudGl0eS5zYW1zY2x1Yi5jb22CH2ltYWdl
+cy1teWNsdWItcHJvZC5zYW1zY2x1Yi5jb22CE2ltYWdlcy5zYW1zY2x1Yi5jb22C
+HGltYWdlcy5zYW1zY2x1YnJlc291cmNlcy5jb22CFWxpZmVsb2NrLnNhbXNjbHVi
+LmNvbYIObS5zYW1zY2x1Yi5jb22CEG1hcC5zYW1zY2x1Yi5jb22CFW1vYmlsaXR5
+LnNhbXNjbHViLmNvbYIWbW9iaWxpdHkyLnNhbXNjbHViLmNvbYIWbW9iaWxpdHkz
+LnNhbXNjbHViLmNvbYIabXdlYi5tb2JpbGl0eS5zYW1zY2x1Yi5jb22CEm5ldHJh
+LnNhbXNjbHViLmNvbYIVcGhhcm1hY3kuc2Ftc2NsdWIuY29tgh5waG90b3Byb2Qu
+cGF5bWVudC5zYW1zY2x1Yi5jb22CFHByYXZhaGEuc2Ftc2NsdWIuY29tgiZwcm9k
+LWFza3NhbS1jaGF0LmJvdHMuY2xkLnNhbXNjbHViLmNvbYITcHJvZC1pLnNhbXNj
+bHViLmNvbYIVcm9ja2Zpc2guc2Ftc2NsdWIuY29tgipzYW1zLWZ1c2lvbm1pY3Jv
+c3BhY2UtZ2F0ZXdheS5zYW1zY2x1Yi5jb22CK3NhbXMtZnVzaW9ubWljcm9zcGFj
+ZS1pZGVudGl0eS5zYW1zY2x1Yi5jb22CK3NhbXMtZnVzaW9ubWljcm9zcGFjZS1z
+ZXJ2aWNlcy5zYW1zY2x1Yi5jb22CInNhbXMtZnVzaW9ubWljcm9zcGFjZS5zYW1z
+Y2x1Yi5jb22CB3NhbXMuY2+CCHNhbXMuY29tggxzYW1zY2x1Yi5jb22CEXNhbXNj
+bHViLnBoYXJtYWN5ghpzYW1zY2x1Yi53YWxtYXJ0aW1hZ2VzLmNvbYIUc2Ftc2dl
+Yy5zYW1zY2x1Yi5jb22CHHNhbXNzdGF0aWMud2FsbWFydGltYWdlcy5jb22CE3Nj
+ZW5lNy5zYW1zY2x1Yi5jb22CGnNmby1yZWRkLnByb2Quc2Ftc2NsdWIuY29tghtz
+Zm8tcm92ZXIucHJvZC5zYW1zY2x1Yi5jb22CG3Nmci1yb3Zlci5wcm9kLnNhbXNj
+bHViLmNvbYIQc21lLnNhbXNjbHViLmNvbYIQc21nLnNhbXNjbHViLmNvbYIQc21z
+LnNhbXNjbHViLmNvbYITc25nLXdzLnNhbXNjbHViLmNvbYIQc25nLnNhbXNjbHVi
+LmNvbYIcc3RhdGljLnNhbXNjbHVicmVzb3VyY2VzLmNvbYIVc3VwcGxpZXIuc2Ft
+c2NsdWIuY29tghhzdXBwbHljaGFpbi5zYW1zY2x1Yi5jb22CEnRpdGFuLnNhbXNj
+bHViLmNvbYIVdHJhY2tpbmcuc2Ftc2NsdWIuY29tggt3d3cuc2Ftcy5jb4IMd3d3
+LnNhbXMuY29tghB3d3cuc2Ftc2NsdWIuY29tghF3d3cuc2Ftc2NsdWIubW9iaYIZ
+d3d3LnNhbXNjbHVicmVzb3VyY2VzLmNvbYIRd3d3NS5zYW1zY2x1Yi5jb20wHwYD
+VR0jBBgwFoAUKpR/x+B3vPOUKoAUVqeAhzjNSrIwEwYDVR0lBAwwCgYIKwYBBQUH
+AwEwHQYDVR0OBBYEFOXsjltiUoX2nPizd9PTIW7866VGMIIBfgYKKwYBBAHWeQIE
+AgSCAW4EggFqAWgAdQAcn2gs6frwRWlQ+BuWiofd2zIQ2EzmyLLjglJKxM9ZnwAA
+AaDstaxCAAAEAwBGMEQCIFoG3B+3UAjpDUIDNVG06UTcpOOG++zla7ieoKBFBKmF
+AiA0AzgWA67BHViwo2U59PfJWhzTWTIeYpLccsc1uH24PQB2AExj3JjlnB2riPYe
+ij3ero+rRKM3e1+blMP7oZz8wb4mAAABoOy1rKEAAAQDAEcwRQIgbPW9bVrRdrMO
+kc7VOhqaeEhxwMufjhwHxn2c8KWjFW0CIQDGaL8+frSO8c9RjLCcabrHOBXx1qce
+hc7zMPRKtYQjXQB3AGBMmq96f3dfAdQG/JINyJnrCxx9+MlSG/r6F3c7l4vJAAAB
+oOy1q4wAAAQDAEgwRgIhALYiWdr0mx0SWioMFzjir78GLOsMNo/B0p8PQ3G92oE/
+AiEAoB1VzV2xYJqq2WZiahpMyLP0LnVEtHVzZQMI7f2GF/owCgYIKoZIzj0EAwMD
+aQAwZgIxALgTq2vN54dfy7ZtpuDpJMuLzilENCBls9MEU5WYONqGVP5pRbNg5cef
+mJqRoQNc0wIxAN2GhurYEfzxg52z546jCpMf6ymhzGWGvTQ0/dLjk8Dw8V9cOFEH
+B3Z4rEAabhGOfQ==
+-----END CERTIFICATE-----
+subject=C=US, ST=Arkansas, L=Bentonville, O=Walmart Inc., CN=prod.samsclub.com
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC E46 OV TLS CA 2025
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 5801 bytes and written 1581 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

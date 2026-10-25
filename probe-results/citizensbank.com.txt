@@ -1,0 +1,87 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:serialNumber=000034828, jurisdictionC=US, jurisdictionST=Rhode Island, businessCategory=Private Organization, C=US, ST=Rhode Island, O=Citizens Financial Group Inc, CN=www.citizensbank.com
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA EV R40
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug 31 00:00:00 2026 GMT; NotAfter: Mar 17 23:59:59 2027 GMT
+ 1 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA EV R40
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: May 14 00:00:00 2025 GMT; NotAfter: May 13 23:59:59 2040 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIITjCCBragAwIBAgIRAMnxJNxvkrClqj2ShHdACpcwDQYJKoZIhvcNAQELBQAw
+YDELMAkGA1UEBhMCR0IxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBQdWJsaWMgU2VydmVyIEF1dGhlbnRpY2F0aW9uIENBIEVWIFI0
+MDAeFw0yNjA4MzEwMDAwMDBaFw0yNzAzMTcyMzU5NTlaMIHRMRIwEAYDVQQFEwkw
+MDAwMzQ4MjgxEzARBgsrBgEEAYI3PAIBAxMCVVMxHTAbBgsrBgEEAYI3PAIBAhMM
+UmhvZGUgSXNsYW5kMR0wGwYDVQQPExRQcml2YXRlIE9yZ2FuaXphdGlvbjELMAkG
+A1UEBhMCVVMxFTATBgNVBAgTDFJob2RlIElzbGFuZDElMCMGA1UEChMcQ2l0aXpl
+bnMgRmluYW5jaWFsIEdyb3VwIEluYzEdMBsGA1UEAxMUd3d3LmNpdGl6ZW5zYmFu
+ay5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDN6j9OeO+eSZ00
+hjwhQzYv8zD5mE7OThwCeeyrLQM9LqV5Pt7NnKBpRhoHWgA6Bd6I2DvI7zGRmmjV
+63KiELsCls07G3TYA1jt4a6qSFK2U71e1sn57ijvU9OOz4XaDQnJ+qQBcPhpzIfp
+xI2zkIwxCHFwHOUbU/wPQ2kNj9OhC7PtzW05JM68HUsKob7s9MZ8QDdubMoUNTy/
+RlfNVoi2N/lJrNG52IYw4mPlDqU5CxLkfgCdfF8wVqu8kEGQqarijgUe+AnTiU3T
+s/KVlKIyPjL/4bqMLEygI9WmZl2ognCZEeXvYmRMzlHQADnAfZLN8dDKsbr27Oib
+j9uhxrvNAgMBAAGjggQPMIIECzAfBgNVHSMEGDAWgBSahWtZW+mzWwZKUR4nV3gj
+Jvh8dzAdBgNVHQ4EFgQU9j0tWZBJI0leliCWzP8Fb5mZt2EwDgYDVR0PAQH/BAQD
+AgWgMAwGA1UdEwEB/wQCMAAwEwYDVR0lBAwwCgYIKwYBBQUHAwEwEgYDVR0gBAsw
+CTAHBgVngQwBATBUBgNVHR8ETTBLMEmgR6BFhkNodHRwOi8vY3JsLnNlY3RpZ28u
+Y29tL1NlY3RpZ29QdWJsaWNTZXJ2ZXJBdXRoZW50aWNhdGlvbkNBRVZSNDAuY3Js
+MIGEBggrBgEFBQcBAQR4MHYwTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuc2VjdGln
+by5jb20vU2VjdGlnb1B1YmxpY1NlcnZlckF1dGhlbnRpY2F0aW9uQ0FFVlI0MC5j
+cnQwIwYIKwYBBQUHMAGGF2h0dHA6Ly9vY3NwLnNlY3RpZ28uY29tMIIBjQYKKwYB
+BAHWeQIEAgSCAX0EggF5AXcAdQAcn2gs6frwRWlQ+BuWiofd2zIQ2EzmyLLjglJK
+xM9ZnwAAAaBZPCWGAAAEAwBGMEQCIHarN3ekBnfKE6nKahBTwimbquzD10ZcK1aq
+cEA8m7pHAiAdXryuuDbML5f1n+nFaQL7C99QBI0cp9ZOjLUu/hVR9wB+AI7KRwus
+3mrzogawpHqEt0b+H8a/lT4l5ptO5AJI88boAAABoFk8JjMACAAABQAL6xRtBAMA
+RzBFAiBCD1TYSiXmzrNPEfgvHR1H0uz51p6RynlRx/2jW3QCPAIhAIwPWe5ewx76
+09R0F6Zn2Lq0JR1SrMXnmfa0CW08kyo5AH4AWW5sM4aUsllyolbIoOjdkEp26Ag9
+2oc7AQg4KBQ87lkAAAGgWTwmxAAIAAAFAALPSxUEAwBHMEUCIQCKYSG+BUNvI1Vh
+H6McfJyAi6xllUUXkdJkDME3Tm8r8wIgXEFUT7mlvUcr3CXa40+7GniA0/FjD8Qd
+Z9V0y8FF5lwwggESBgNVHREEggEJMIIBBYIUd3d3LmNpdGl6ZW5zYmFuay5jb22C
+EGNpdGl6ZW5zYmFuay5jb22CFGNpdGl6ZW5zYmFua2xpdmUuY29tghFjaXRpemVu
+c3Rvb2xzLmNvbYIaY2l0eWJlYXRzLmNpdGl6ZW5zYmFuay5jb22CHWRlc2lnbnN5
+c3RlbS5jaXRpemVuc2JhbmsuY29tgg1tYWRlcmVhZHkuY29tgg9yZWFkeXRvcmVm
+aS5jb22CGHd3dy5jaXRpemVuc2JhbmtsaXZlLmNvbYIVd3d3LmNpdGl6ZW5zdG9v
+bHMuY29tghF3d3cubWFkZXJlYWR5LmNvbYITd3d3LnJlYWR5dG9yZWZpLmNvbTAN
+BgkqhkiG9w0BAQsFAAOCAYEARFU1XCA5DpiGu/Kzgyz1R7yi+SjF4ueuuVdNWHtA
+Oik55pKECt8paP+4Vlpn8/527xkac755USpYmfvRDoPwuEjcEFBGN0TXMOs7rV54
++B1eaHAvsPIQ6kxFbZjgXC8Z/ROfNvwnNGLurKhLMOaclFuRwk/5zgQfMiU1VCmY
+fGXWGX6BS8WZoSn2Z1TRDtQIixTT8B+AVfhjuE6rH0MQ0bBMmTklbuLFigmLHm8v
+RJGPCpFirgBQD2AHNNLykEq0EVoQSCqTmaP8XefIa6wJaMyy2STCv5lOkNG7LTIg
+iI5AcOvcn3wYeHV7OXePZNSql2n4xOlk8t6O7ZuBzK0d03dD2Pdhphcn0+/nS5IC
+myFur6bb2SelFE2PO/TxQIQzAMNgG22fgGjkIavq2CbigM+7VeXt2oIfaG0rfqka
+kEJcA/7/yvwuHsGzU2jxLcBv+oM+n7sVX9MOqeoTz6sH8+Hiui0WOkWrC/E8YGAz
+h0doF6ukj1yeEZFnbj0U/U2J
+-----END CERTIFICATE-----
+subject=serialNumber=000034828, jurisdictionC=US, jurisdictionST=Rhode Island, businessCategory=Private Organization, C=US, ST=Rhode Island, O=Citizens Financial Group Inc, CN=www.citizensbank.com
+issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA EV R40
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 7074 bytes and written 1585 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

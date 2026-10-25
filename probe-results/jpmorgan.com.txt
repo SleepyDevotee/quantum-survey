@@ -1,0 +1,104 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:jurisdictionC=US, jurisdictionST=Delaware, businessCategory=Private Organization, serialNumber=691011, C=US, ST=New York, L=New York, O=JPMorgan Chase & Co., CN=cws-main.jpmorgan.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 15 00:00:00 2026 GMT; NotAfter: Nov 29 23:59:59 2026 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jul  2 12:42:50 2020 GMT; NotAfter: Jul  2 12:42:50 2030 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIMQDCCCyigAwIBAgIQDyvtH0e+MmJn3imAm+WlqjANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMR4wHAYDVQQDExVE
+aWdpQ2VydCBFViBSU0EgQ0EgRzIwHhcNMjYwNTE1MDAwMDAwWhcNMjYxMTI5MjM1
+OTU5WjCB0jETMBEGCysGAQQBgjc8AgEDEwJVUzEZMBcGCysGAQQBgjc8AgECEwhE
+ZWxhd2FyZTEdMBsGA1UEDwwUUHJpdmF0ZSBPcmdhbml6YXRpb24xDzANBgNVBAUT
+BjY5MTAxMTELMAkGA1UEBhMCVVMxETAPBgNVBAgTCE5ldyBZb3JrMREwDwYDVQQH
+EwhOZXcgWW9yazEdMBsGA1UECgwUSlBNb3JnYW4gQ2hhc2UgJiBDby4xHjAcBgNV
+BAMTFWN3cy1tYWluLmpwbW9yZ2FuLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBANYOTt25EpeEXeGMwxUgPaKNP2oUqIIm7HjJb2b4wNDVztYkNV6l
+oixr4Qj7hTnlGZchUfhbWeLbtaTcXYf7lxjgpe2Rzv/4net59qQGO4k9y21vncuO
+hea4MfwJeZ43cBVD4alrAc5xtN9dpiYhJi/jGzn9nKUBJlfJQQMlubSZIm0jLs3e
+2N341oUjyzy+to7OoxQ6wgyNS4H9beWCzFhhlc270J42wp+5KWtKT7pC/dLbmztT
+blQiW5BvYS6vVx8pKWMd9Q6qwqP0xlkPDQTW0mh9VYPIvBdgkKnMUoLqjjc7+4LT
+XWgzPgbjg69ucFkhVdraFONv3RPpO41BXjkCAwEAAaOCCJ0wggiZMB8GA1UdIwQY
+MBaAFGpOUL+YaJ1beyB11FkBeUhmkjIGMB0GA1UdDgQWBBTJNkNMBoAq92iAWddf
+YYWG3FJw5TCCBV4GA1UdEQSCBVUwggVRghVjd3MtbWFpbi5qcG1vcmdhbi5jb22C
+F2Fib3V0LmpwbW9yZ2FuY2hhc2UuY29tghFhcHAtZW1lYS54aWduLm5ldIIMYXBw
+LnhpZ24ubmV0ghxjb21tZXJjaWFsLmpwbW9yZ2FuY2hhc2UuY29tghFjc3ItZW1l
+YS54aWduLm5ldIIPY3NyLXJvLnhpZ24ubmV0gg1lbWVhLnhpZ24ubmV0ghhpbXBh
+Y3QuanBtb3JnYW5jaGFzZS5jb22CG2luc3RpdHV0ZS5qcG1vcmdhbmNoYXNlLmNv
+bYIUaXIuanBtb3JnYW5jaGFzZS5jb22CB2pwbS5jb22CB2pwbWMuY2+CCGpwbWMu
+Y29tggtqcG1jLmdsb2JhbIIManBtY2hhc2UuY29tgg5qcG1vcmdhbi5jby51a4IM
+anBtb3JnYW4uY29tgg9qcG1vcmdhbi5jb20uYnKCD2pwbW9yZ2FuLmNvbS5teIIR
+anBtb3JnYW5jaGFzZS5jb22CEmpwbW9yZ2FuY2hhc2UucGFnZYISanBtb3JnYW5j
+aGFzZWNvLmNvghZqcG1vcmdhbnNlY3VyaXRpZXMuY29tghdtYWluLWJldGExLmpw
+bW9yZ2FuLmNvbYIXbWFpbi1iZXRhMi5qcG1vcmdhbi5jb22CF21haW4tYmV0YTMu
+anBtb3JnYW4uY29tghdtYWluLWJldGE0LmpwbW9yZ2FuLmNvbYIXbWFpbi1iZXRh
+NS5qcG1vcmdhbi5jb22CFm5ld3MuanBtb3JnYW5jaGFzZS5jb22CF29yZGVydG9w
+YXkuanBtb3JnYW4uY29tghxvcmRlcnRvcGF5LmpwbW9yZ2FuY2hhc2UuY29tgh5v
+dHAtYXBwLWVtZWEuanBtb3JnYW5jaGFzZS5jb22CGW90cC1hcHAuanBtb3JnYW5j
+aGFzZS5jb22CH290cC1jc2MtaHR0cHMuanBtb3JnYW5jaGFzZS5jb22CGW90cC1j
+c2MuanBtb3JnYW5jaGFzZS5jb22CHm90cC1jc3ItZW1lYS5qcG1vcmdhbmNoYXNl
+LmNvbYIcb3RwLWNzci1yby5qcG1vcmdhbmNoYXNlLmNvbYIab3RwLWVtZWEuanBt
+b3JnYW5jaGFzZS5jb22CIG90cC1lbnJvbGxtZW50LmpwbW9yZ2FuY2hhc2UuY29t
+ghlvdHAtanBtLmpwbW9yZ2FuY2hhc2UuY29tghtvdHAtbm9jc2MuanBtb3JnYW5j
+aGFzZS5jb22CGW90cC13d3cuanBtb3JnYW5jaGFzZS5jb22CEG90cC5qcG1vcmdh
+bi5jb22CEnF1ZXJ5LmpwbW9yZ2FuLmNvbYIXcXVlcnkuanBtb3JnYW5jaGFzZS5j
+b22CC3d3dy5qcG0uY29tggx3d3cuanBtYy5jb22CEHd3dy5qcG1jaGFzZS5jb22C
+End3dy5qcG1vcmdhbi5jby5pZIISd3d3LmpwbW9yZ2FuLmNvLmpwghJ3d3cuanBt
+b3JnYW4uY28ua3KCEnd3dy5qcG1vcmdhbi5jby51a4IQd3d3LmpwbW9yZ2FuLmNv
+bYITd3d3LmpwbW9yZ2FuLmNvbS5icoITd3d3LmpwbW9yZ2FuLmNvbS5teIITcnVz
+c2lhLmpwbW9yZ2FuLmNvbYIVd3d3LmpwbW9yZ2FuY2hhc2UuY29tghh3d3cuanBt
+b3JnYW5jaGluYS5jb20uY26CGnd3dy5qcG1vcmdhbnNlY3VyaXRpZXMuY29tggx3
+d3cueGlnbi5uZXSCCHhpZ24uY29tggh4aWduLm5ldIIIeGlnbi5vcmcwSgYDVR0g
+BEMwQTALBglghkgBhv1sAgEwMgYFZ4EMAQEwKTAnBggrBgEFBQcCARYbaHR0cDov
+L3d3dy5kaWdpY2VydC5jb20vQ1BTMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAU
+BggrBgEFBQcDAQYIKwYBBQUHAwIwdQYDVR0fBG4wbDA0oDKgMIYuaHR0cDovL2Ny
+bDMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0RVZSU0FDQUcyLmNybDA0oDKgMIYuaHR0
+cDovL2NybDQuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0RVZSU0FDQUcyLmNybDBzBggr
+BgEFBQcBAQRnMGUwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNv
+bTA9BggrBgEFBQcwAoYxaHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lD
+ZXJ0RVZSU0FDQUcyLmNydDAMBgNVHRMBAf8EAjAAMIIBfgYKKwYBBAHWeQIEAgSC
+AW4EggFqAWgAdgDCMX5XRRmjRe5/ON6ykEHrx8IhWiK/f9W1rXaa2Q5SzQAAAZ4r
+N8SVAAAEAwBHMEUCIDhVc3M0pqXVEJVtzzXxy43PIhhHn7AOqbGKeVV5vZ66AiEA
+hec/uUwY3j7Pdx2u1pvdGkhpmDKjN66u1zvCt9r8AwkAdgDYCVU7lE96/8gWGW+U
+T4WrsPj8XodVJg8V0S5yu0VLFAAAAZ4rN8SgAAAEAwBHMEUCIQCFegt51GreOYg+
+y3Jow01BWT3bo75nZMGwirP+6UsdbAIgROnT9TNPsjz/KTqj3D4tfl3cpmye+XM0
+XuqqdMRIYssAdgCUTkOH+uzB74HzGSQmqBhlAcfTXzgCAT9yZ31VNy4Z2AAAAZ4r
+N8ShAAAEAwBHMEUCIHk+m+DIMt+CgzmYXWC9A5x0hLCEQxld27kAhUEOgpuIAiEA
+ldFNk++D0b98fO2Hue5v0yGMUdN3CeSxSniuRs1PH1AwDQYJKoZIhvcNAQELBQAD
+ggEBAGuPDTB3p546+GmMDE1Jhp29UXoxokIaTpJL6AkQp4kOiATkNbwO/6D/dHjH
+TGLuOvW/0j+8ZjxF1p6rQjA9VaG1BbE/ftUS8B67OyZ/71M+3+KNpofpIHfEFavy
+qoa3tph0OSbfUYUZPztRjLlshqp4klCIOPWUGbRnCAuyNbfR6BXRvpXZCIuv4rWv
++VF5gkMuGLl2zm6LnPrq//hI9mBdJyeKDl9EdoCsWdNLZXL7EQQ7j2Je8I83qPBZ
+NdJmFhGEZ8x/Ydn+lSANrkm3sB6exDbOL2fXsyrBye7qrkVHJWxyjN+0DaIjpB86
+Gi+MmMyC5qzf8Zk0FLsYrgI9omo=
+-----END CERTIFICATE-----
+subject=jurisdictionC=US, jurisdictionST=Delaware, businessCategory=Private Organization, serialNumber=691011, C=US, ST=New York, L=New York, O=JPMorgan Chase & Co., CN=cws-main.jpmorgan.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 5155 bytes and written 1915 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

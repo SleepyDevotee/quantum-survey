@@ -1,0 +1,113 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=Massachusetts, L=Cambridge, O=Massachusetts Institute Of Technology, CN=web.mit.edu
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Apr 29 00:00:00 2026 GMT; NotAfter: Nov 13 23:59:59 2026 GMT
+ 1 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Nov  2 12:23:37 2017 GMT; NotAfter: Nov  2 12:23:37 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIIzjCCB7agAwIBAgIQD8JMi5N/dGe/I6ParbRAfzANBgkqhkiG9w0BAQsFADBg
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR8wHQYDVQQDExZHZW9UcnVzdCBUTFMgUlNBIENBIEcx
+MB4XDTI2MDQyOTAwMDAwMFoXDTI2MTExMzIzNTk1OVowfzELMAkGA1UEBhMCVVMx
+FjAUBgNVBAgTDU1hc3NhY2h1c2V0dHMxEjAQBgNVBAcTCUNhbWJyaWRnZTEuMCwG
+A1UEChMlTWFzc2FjaHVzZXR0cyBJbnN0aXR1dGUgT2YgVGVjaG5vbG9neTEUMBIG
+A1UEAxMLd2ViLm1pdC5lZHUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQDi+3AMYh2Ybyz4rKhmr38M6XpJBzCQiHDByInXXIZjhx8ruRI22+tuUKSxYrQM
+iJzKEa9Tws2K/r2Z/51yyS+N31/VpIM8R1Y1K0lUZBThyVBU1AIB+iXwFpBqHSfM
+xPtfJh8IbEn+nrEijZbi6wX8Mhf67lZYesIxLoZ3cZy8Eo6ZmtsVl4oeCoQqELtD
+iPfFpm2DY4m4KXaRlkl1CZ/P03e3InSlw0pkZSyALpnWfBgNg0hWFZZADvP2QYDS
+u7sN3sf628SCWrGKl9O440FV/AwVvRkepRCIaut1HRj9XexydICJUodzwcF4QZIF
+E8M5o4ana3VFqaP4mi6NeeotAgMBAAGjggVjMIIFXzAfBgNVHSMEGDAWgBSUT9Rd
+i+Sk4qaA/v3Y+QDvo74CVzAdBgNVHQ4EFgQUyhBDdYEaC58EBe85SIR8mlIKoxww
+ggJuBgNVHREEggJlMIICYYILd2ViLm1pdC5lZHWCEGFsdW0tZGV2Lm1pdC5lZHWC
+DGFsdW0ubWl0LmVkdYIPY2xpbWF0ZS5taXQuZWR1ghRjb21tZW5jZW1lbnQubWl0
+LmVkdYIVZW1lcmdlbmN5LWRldi5taXQuZWR1ghVldmVudHMtc3RhdGljLm1pdC5l
+ZHWCEmdpdmluZy1kZXYubWl0LmVkdYIOZ2l2aW5nLm1pdC5lZHWCCmhyLm1pdC5l
+ZHWCC2ltZy5taXQuZWR1ggtpc3QubWl0LmVkdYIHbWl0LmVkdYILbWl0Lm1pdC5l
+ZHWCEG1pdHByZXNzLm1pdC5lZHWCGW1pdHByZXNzYm9va3N0b3JlLm1pdC5lZHWC
+GHN0YWdpbmctbWl0cHJlc3MubWl0LmVkdYIYc3dhcnR6LWRvY3VtZW50cy5taXQu
+ZWR1ghVzd2FydHotcmVwb3J0Lm1pdC5lZHWCInRoZXJlYWRlci1zdGFnaW5nLm1p
+dHByZXNzLm1pdC5lZHWCGnRoZXJlYWRlci5taXRwcmVzcy5taXQuZWR1ggl3Lm1p
+dC5lZHWCCnczLm1pdC5lZHWCEHdlYi1jZXJ0Lm1pdC5lZHWCEXdlYi1mb3Jtcy5t
+aXQuZWR1ghN3ZWItc3RhZ2luZy5taXQuZWR1ggd3ZWIubWl0ghB3d3ctY2VydC5t
+aXQuZWR1gg93d3ctbWl0Lm1pdC5lZHWCE3d3dy1zdGFnaW5nLm1pdC5lZHWCB3d3
+dy5taXSCC3d3dy5taXQuZWR1gg93d3cud2ViLm1pdC5lZHWCDHd3d3cubWl0LmVk
+dTA+BgNVHSAENzA1MDMGBmeBDAECAjApMCcGCCsGAQUFBwIBFhtodHRwOi8vd3d3
+LmRpZ2ljZXJ0LmNvbS9DUFMwDgYDVR0PAQH/BAQDAgWgMBMGA1UdJQQMMAoGCCsG
+AQUFBwMBMD8GA1UdHwQ4MDYwNKAyoDCGLmh0dHA6Ly9jZHAuZ2VvdHJ1c3QuY29t
+L0dlb1RydXN0VExTUlNBQ0FHMS5jcmwwdgYIKwYBBQUHAQEEajBoMCYGCCsGAQUF
+BzABhhpodHRwOi8vc3RhdHVzLmdlb3RydXN0LmNvbTA+BggrBgEFBQcwAoYyaHR0
+cDovL2NhY2VydHMuZ2VvdHJ1c3QuY29tL0dlb1RydXN0VExTUlNBQ0FHMS5jcnQw
+DAYDVR0TAQH/BAIwADCCAX0GCisGAQQB1nkCBAIEggFtBIIBaQFnAHYAwjF+V0UZ
+o0XufzjespBB68fCIVoiv3/Vta12mtkOUs0AAAGd2cY0yQAABAMARzBFAiBYizSA
+Qng7TobutwR5HMUEKHn1ZOqcn+oEWDP7KImOIgIhAIcC/r5L2+JJLQ40sh0a5TLY
+vE4QyR7IJevCZVEGwRmdAHYA1219ENGn9XfCx+lf1wC/+YLJM1pl4dCzAXMXwMjF
+aXcAAAGd2cY1YAAABAMARzBFAiEAqNIHtaD7jTu18eakUpzMqgEOrFYwoyDjI2dp
+GeuDjgICIFgq+fy+21/oHwaqDV5+fN+8hJXT4ngVvvWxLZRHf5CdAHUAlE5Dh/rs
+we+B8xkkJqgYZQHH0184AgE/cmd9VTcuGdgAAAGd2cY02AAABAMARjBEAiArEGTj
+FMFmmly3DJAUY0boicNUqmB6NWk+affbeUt9xQIgNg/FSbF4swLhVXWpscuJyqaA
+XPcMwlLpu6ACUtE4l4AwDQYJKoZIhvcNAQELBQADggEBACVC7XJugX9n5+Isu2SR
+/JYPwqv05hdKAloWuWBCKeXui6kjKtK9ax35dH7Ghzv3DWeKQ4g87J+nFk3XrIZe
+iNfwq3M6eCTenYLpdIL4P8wOJgFhx/0gX8hhr7eosNP0mB40SASBR3vjysU9i5gN
+u5HExDnhPrbw0jtc/lmgNZQ2rjCUcU80vvKX0qaYStkFTrMVglcSuYEws1rPWmA4
+zls5jktBz9m+I9+P/QKUgpH18alqusd7tJ96bBoYEH7LYEdGGlXJj1hiBI5ZC7E7
+xQXQ6xuOc3viocjIC5pGlULFUQPqZ+Q0lqaHD/ulcwFKsdBUc5Hr+CKDyXEZdkR9
+0YY=
+-----END CERTIFICATE-----
+subject=C=US, ST=Massachusetts, L=Cambridge, O=Massachusetts Institute Of Technology, CN=web.mit.edu
+issuer=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4107 bytes and written 1589 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: C7E4BA51318D8AC97FD47912853802A367EDD3CB25DD1EEDBCBD86AAB09B334B
+    Session-ID-ctx: 
+    Master-Key: 6B36DDB3CA1D03EF53DFB179B8B29153150CD3F23992CDC31A51F5402045A2C297603941ABAF5BE90888821E54C7CE66
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 83100 (seconds)
+    TLS session ticket:
+    0000 - 00 00 25 5e fc d7 b2 aa-7c 69 18 57 c5 74 e6 25   ..%^....|i.W.t.%
+    0010 - 36 80 ef 49 92 a7 54 8b-41 ff c4 51 03 91 de c6   6..I..T.A..Q....
+    0020 - e6 0c ce 44 29 10 d3 e6-2c 4f e8 af af 89 48 74   ...D)...,O....Ht
+    0030 - 76 53 14 f0 69 79 78 b1-61 52 77 04 76 e7 7f 2b   vS..iyx.aRw.v..+
+    0040 - a9 66 c0 5e bd f8 ab 23-8d f8 39 25 b3 21 b6 78   .f.^...#..9%.!.x
+    0050 - c0 ed 52 1c 4d c8 d7 6a-d7 2b 41 71 35 a9 1d 8d   ..R.M..j.+Aq5...
+    0060 - f4 8d b2 7c a4 7d 97 ae-80 65 be 70 6f d8 f1 7b   ...|.}...e.po..{
+    0070 - 61 7e 23 bd d4 4d d4 a9-b6 f4 b0 94 b9 1f 0d 19   a~#..M..........
+    0080 - a5 77 b4 36 6c 6f f1 e7-c8 76 79 0f 06 e3 a2 cf   .w.6lo...vy.....
+    0090 - 21 17 e5 f5 ea a1 ea 2a-db a5 44 7a 58 9c d8 b1   !......*..DzX...
+    00a0 - c5 74 ce d6 b0 55 18 0d-67 fc ec 28 d1 2f 66 7c   .t...U..g..(./f|
+    00b0 - 7b 84 48 db 0d 7b d0 83-2a 01 87 fb 42 c3 85 b4   {.H..{..*...B...
+    00c0 - a4 52 dc 27 da ff 14 07-2b 56 f2 4b 03 c7 ae 7f   .R.'....+V.K....
+
+    Start Time: 1792921596
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

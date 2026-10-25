@@ -1,0 +1,75 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=robinhood.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M01
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Dec  9 00:00:00 2025 GMT; NotAfter: Jan  7 23:59:59 2027 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M01
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug 23 22:21:28 2022 GMT; NotAfter: Aug 23 22:21:28 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGFDCCBPygAwIBAgIQB8/x3C6ZOcTsGcVyTns8pzANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAxMB4XDTI1MTIwOTAwMDAwMFoXDTI3MDEwNzIzNTk1OVowGDEW
+MBQGA1UEAxMNcm9iaW5ob29kLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAMwQkSvXpu3ldVEJYsWQdHmHdTH1GcF1WV4vNXD7WVm6ITpKv3VShnsH
+ISm+VxNEPIGab3/xCruNkhGFQsp2bBCcG/jrmiMbE+uoZ3rMZoepPAPxgnW7X3aH
+zmW5w7j22XwmdSavZdLehIAQYVi+5m9pvCMEdbsT/4TIS/SC/xCs1D1aXaCpaMb1
+cReQGyS2n5W50LgjwWNJWdJiaaoZkjwzh01cQCs8VAAMRHTt8TIW4VQznrY4qRVS
+RUXTE0gTwTcQc9vxRVVDpIdDuzSZmdi2BbtRFVLyGYdZ7r7+H8Dbk4TDpHr7q7u+
+3F581TBAoYzka+Zwa667HbTWakS1j/MCAwEAAaOCAzQwggMwMB8GA1UdIwQYMBaA
+FIG4DmOKiRIY5fo7O1CVn+blkBOFMB0GA1UdDgQWBBR2Mw55WWVtuZnOZkdqnb5p
+v5rvyzBxBgNVHREEajBogg1yb2Jpbmhvb2QuY29tgg8qLnJvYmluaG9vZC5jb22C
+EXNoZXJ3b29kbWVkaWEuY29tgg8qLnNoZXJ3b29kLm5ld3OCDXNoZXJ3b29kLm5l
+d3OCEyouc2hlcndvb2RtZWRpYS5jb20wEwYDVR0gBAwwCjAIBgZngQwBAgEwDgYD
+VR0PAQH/BAQDAgWgMBMGA1UdJQQMMAoGCCsGAQUFBwMBMDsGA1UdHwQ0MDIwMKAu
+oCyGKmh0dHA6Ly9jcmwucjJtMDEuYW1hem9udHJ1c3QuY29tL3IybTAxLmNybDB1
+BggrBgEFBQcBAQRpMGcwLQYIKwYBBQUHMAGGIWh0dHA6Ly9vY3NwLnIybTAxLmFt
+YXpvbnRydXN0LmNvbTA2BggrBgEFBQcwAoYqaHR0cDovL2NydC5yMm0wMS5hbWF6
+b250cnVzdC5jb20vcjJtMDEuY2VyMAwGA1UdEwEB/wQCMAAwggF9BgorBgEEAdZ5
+AgQCBIIBbQSCAWkBZwB1AExj3JjlnB2riPYeij3ero+rRKM3e1+blMP7oZz8wb4m
+AAABmwF3fDkAAAQDAEYwRAIgZI4joOM9Eb9hEx3zG17hrIdIImjCiV3gDrh5UOGQ
+i38CIAsY4SEEbvbuVon/kbg2Vq8+mOVo5V50/AMqS5kZ9OwaAHYAHJ9oLOn68EVp
+UPgbloqH3dsyENhM5siy44JSSsTPWZ8AAAGbAXd8QQAABAMARzBFAiEA7kf3KGSO
+O1xu6WHLJXPR//HmtzgCvDreYUygvZtIPsECIGnJ5lfEghWUXgzhg0ejPIob5L6o
+ShXjHP5XCtJJoufhAHYAYEyar3p/d18B1Ab8kg3ImesLHH34yVIb+voXdzuXi8kA
+AAGbAXd9EQAABAMARzBFAiEA2BQyXuJnvshOS5LhoHw2anY4oY9RnSLN3Pe4lr2H
+LQACIF+WNCDDiN0goJ/ObVGcfDuyrtK8hmA1MHs585YSuhz7MA0GCSqGSIb3DQEB
+CwUAA4IBAQBXiAuZKQJeUxUdEWT9Z7+NFa5HNdwVaC7J+yX3cuOto61xLwa7JNgn
+zbdoYWD7KKFSKtY29zq+6Bc66rIguYEGK9dLSdm+wdIuMYnJ7M3ppQcdkcubZubu
+0TRNQkgSeeI+gyhacFy/2kD2phtU2MYhvWmPFjgVWrfhVZhBZGw3OKbcOHIWoij8
+YDXFijVr1O+MAbJ7EYE2JshetABeLuUUNzA4tJLnN4TDeGDAEdYCnPLAt2rvinNl
+AIP37YNC0u4wYFNBUGaLyFf3DwodGfauJBmVrvKVmvG5xCHTHg0Kv7d0dSuoWjYl
+RhCDj9src0qW0UwAJ+XFGjnb0zc7jLxL
+-----END CERTIFICATE-----
+subject=CN=robinhood.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M01
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 5498 bytes and written 1566 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

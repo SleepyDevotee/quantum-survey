@@ -1,0 +1,246 @@
+DOMAIN,SECTOR,TIER,SCORE
+mit.edu,Education,Tier 1b (not safe),23.3
+harvard.edu,Education,Tier 1b (not safe),17.8
+stanford.edu,Education,Tier 1a (worst),39.4
+cornell.edu,Education,Tier 1b (not safe),23.5
+berkeley.edu,Education,Tier 2 (safe),3.8
+princeton.edu,Education,Tier 1b (not safe),23.5
+washington.edu,Education,Tier 1b (not safe),15.3
+umich.edu,Education,Tier 2 (safe),3.8
+columbia.edu,Education,Tier 2 (safe),3.8
+yale.edu,Education,Tier 1b (not safe),23.5
+upenn.edu,Education,Tier 2 (safe),6.4
+ucla.edu,Education,Tier 1b (not safe),23.5
+psu.edu,Education,Tier 1b (not safe),23.5
+umn.edu,Education,Tier 1b (not safe),23.5
+uci.edu,Education,Tier 1b (not safe),23.5
+wisc.edu,Education,Tier 1b (not safe),17.8
+cmu.edu,Education,Tier 1b (not safe),23.5
+ucsd.edu,Education,Tier 1b (not safe),23.5
+uchicago.edu,Education,Tier 1b (not safe),15.3
+utexas.edu,Education,Tier 2 (safe),6.4
+asu.edu,Education,Tier 2 (safe),3.8
+msu.edu,Education,Tier 2 (safe),6.4
+ufl.edu,Education,Tier 1b (not safe),15.3
+duke.edu,Education,Tier 1b (not safe),19.1
+purdue.edu,Education,Tier 2 (safe),3.8
+nyu.edu,Education,Tier 1b (not safe),23.5
+uiuc.edu,Education,Tier 1b (not safe),15.3
+unc.edu,Education,Tier 2 (safe),6.4
+umd.edu,Education,Tier 2 (safe),3.8
+usc.edu,Education,Tier 2 (safe),6.4
+colorado.edu,Education,Tier 1b (not safe),23.5
+ucdavis.edu,Education,Tier 2 (safe),6.4
+illinois.edu,Education,Tier 1b (not safe),15.3
+arizona.edu,Education,Tier 2 (safe),6.4
+northwestern.edu,Education,Tier 1b (not safe),23.5
+nih.gov,Government,Tier 1b (not safe),23.5
+nist.gov,Government,Tier 2 (safe),3.8
+cdc.gov,Government,Tier 2 (safe),3.8
+nasa.gov,Government,Tier 1b (not safe),17.8
+noaa.gov,Government,Tier 1b (not safe),21.0
+ca.gov,Government,Tier 2 (safe),3.8
+loc.gov,Government,Tier 2 (safe),3.8
+fda.gov,Government,Tier 2 (safe),3.8
+usda.gov,Government,Tier 1b (not safe),23.5
+maricopa.gov,Government,Tier 1b (not safe),21.0
+epa.gov,Government,Tier 1b (not safe),15.3
+state.gov,Government,Tier 1b (not safe),17.8
+whitehouse.gov,Government,Tier 1b (not safe),17.8
+irs.gov,Government,Tier 1b (not safe),23.5
+ftc.gov,Government,Tier 2 (safe),3.8
+va.gov,Government,Tier 1b (not safe),21.0
+nps.gov,Government,Tier 1b (not safe),21.0
+sec.gov,Government,Tier 2 (safe),3.8
+bls.gov,Government,Tier 1b (not safe),23.5
+ed.gov,Government,Tier 2 (safe),3.8
+hhs.gov,Government,Tier 1b (not safe),15.3
+house.gov,Government,Tier 1b (not safe),17.8
+census.gov,Government,Tier 1b (not safe),21.0
+justice.gov,Government,Tier 2 (safe),6.1
+weather.gov,Government,Tier 2 (safe),3.8
+ny.gov,Government,Tier 1b (not safe),15.3
+energy.gov,Government,Tier 1a (worst),33.1
+congress.gov,Government,Tier 2 (safe),3.8
+senate.gov,Government,Tier 2 (safe),3.8
+faa.gov,Government,Tier 1b (not safe),21.0
+dhs.gov,Government,Tier 2 (safe),3.8
+archives.gov,Government,Tier 2 (safe),3.8
+medlineplus.gov,Government,Tier 2 (safe),6.4
+treasury.gov,Government,Tier 1b (not safe),24.4
+bankofamerica.com,Banking,Tier 2 (safe),6.4
+fidelity.com,Banking,Tier 2 (safe),3.8
+americanexpress.com,Banking,Tier 2 (safe),3.8
+robinhood.com,Banking,Tier 2 (safe),6.4
+schwab.com,Banking,Tier 1b (not safe),17.8
+vanguard.com,Banking,Tier 2 (safe),3.8
+capitalone.com,Banking,Tier 2 (safe),3.8
+wellsfargo.com,Banking,Tier 2 (safe),3.8
+citi.com,Banking,Tier 1b (not safe),21.0
+chase.com,Banking,Tier 1b (not safe),17.8
+venmo.com,Banking,Tier 2 (safe),6.4
+etrade.com,Banking,Tier 1a (worst),33.1
+usaa.com,Banking,Tier 2 (safe),3.8
+jpmorgan.com,Banking,Tier 1b (not safe),17.8
+goldmansachs.com,Banking,Tier 2 (safe),3.8
+navyfederal.org,Banking,Tier 2 (safe),3.8
+usbank.com,Banking,Tier 1b (not safe),15.3
+morganstanley.com,Banking,Tier 1b (not safe),21.0
+sofi.com,Banking,Tier 2 (safe),3.8
+truist.com,Banking,Tier 2 (safe),3.8
+huntington.com,Banking,Tier 2 (safe),3.8
+ally.com,Banking,Tier 1b (not safe),23.5
+pnc.com,Banking,Tier 2 (safe),3.8
+hsbc.com,Banking,Tier 1b (not safe),23.5
+citibank.com,Banking,Tier 1b (not safe),21.0
+discover.com,Banking,Tier 2 (safe),3.8
+bmo.com,Banking,Tier 2 (safe),3.8
+regions.com,Banking,Tier 2 (safe),6.4
+barclays.co.uk,Banking,Tier 2 (safe),3.8
+chime.com,Banking,Tier 2 (safe),3.8
+synchrony.com,Banking,Tier 2 (safe),3.8
+citizensbank.com,Banking,Tier 2 (safe),3.8
+keybank.com,Banking,Tier 1b (not safe),23.5
+tdbank.com,Banking,Tier 2 (safe),3.8
+santander.com,Banking,Tier 2 (safe),6.4
+who.int,Healthcare,Tier 2 (safe),3.8
+mayoclinic.org,Healthcare,Tier 1b (not safe),23.5
+webmd.com,Healthcare,Tier 1b (not safe),23.5
+healthline.com,Healthcare,Tier 2 (safe),6.4
+clevelandclinic.org,Healthcare,Tier 2 (safe),3.8
+medicalnewstoday.com,Healthcare,Tier 2 (safe),6.4
+uhc.com,Healthcare,Tier 1b (not safe),21.0
+walgreens.com,Healthcare,Tier 2 (safe),3.8
+hopkinsmedicine.org,Healthcare,Tier 2 (safe),3.8
+cvs.com,Healthcare,Tier 2 (safe),3.8
+verywellhealth.com,Healthcare,Tier 2 (safe),3.8
+kaiserpermanente.org,Healthcare,Tier 1b (not safe),23.5
+goodrx.com,Healthcare,Tier 1b (not safe),21.0
+drugs.com,Healthcare,Tier 2 (safe),3.8
+aetna.com,Healthcare,Tier 2 (safe),3.8
+cigna.com,Healthcare,Tier 1b (not safe),21.0
+pfizer.com,Healthcare,Tier 2 (safe),3.8
+healthgrades.com,Healthcare,Tier 2 (safe),6.4
+zocdoc.com,Healthcare,Tier 2 (safe),6.4
+labcorp.com,Healthcare,Tier 2 (safe),3.8
+mountsinai.org,Healthcare,Tier 2 (safe),3.8
+questdiagnostics.com,Healthcare,Tier 1b (not safe),23.5
+mskcc.org,Healthcare,Tier 2 (safe),3.8
+mdanderson.org,Healthcare,Tier 1b (not safe),23.5
+anthem.com,Healthcare,Tier 1b (not safe),17.8
+rxlist.com,Healthcare,Tier 1b (not safe),21.0
+nyulangone.org,Healthcare,Tier 1b (not safe),21.0
+cedars-sinai.org,Healthcare,Tier 1b (not safe),17.8
+unitedhealthgroup.com,Healthcare,Tier 2 (safe),6.4
+stanfordhealthcare.org,Healthcare,Tier 1b (not safe),23.5
+ucsfhealth.org,Healthcare,Tier 2 (safe),3.8
+bcbs.com,Healthcare,Tier 1b (not safe),17.8
+teladoc.com,Healthcare,Tier 2 (safe),3.8
+mychart.com,Healthcare,Tier 1b (not safe),15.3
+google.com,Technology,Tier 2 (safe),3.8
+cloudflare.com,Technology,Tier 2 (safe),3.8
+microsoft.com,Technology,Tier 2 (safe),3.8
+apple.com,Technology,Tier 2 (safe),3.8
+linkedin.com,Technology,Tier 2 (safe),3.8
+github.com,Technology,Tier 1b (not safe),17.8
+netflix.com,Technology,Tier 1b (not safe),15.3
+x.com,Technology,Tier 2 (safe),3.8
+pinterest.com,Technology,Tier 2 (safe),6.4
+adobe.com,Technology,Tier 2 (safe),3.8
+zoom.us,Technology,Tier 2 (safe),3.8
+spotify.com,Technology,Tier 1b (not safe),15.3
+mozilla.org,Technology,Tier 2 (safe),3.8
+reddit.com,Technology,Tier 2 (safe),6.4
+samsung.com,Technology,Tier 1b (not safe),23.5
+openai.com,Technology,Tier 2 (safe),3.8
+dropbox.com,Technology,Tier 1b (not safe),15.3
+ubuntu.com,Technology,Tier 1b (not safe),15.3
+discord.com,Technology,Tier 2 (safe),3.8
+oracle.com,Technology,Tier 1b (not safe),23.5
+twitch.tv,Technology,Tier 2 (safe),6.4
+cisco.com,Technology,Tier 1b (not safe),21.0
+canva.com,Technology,Tier 2 (safe),6.4
+ibm.com,Technology,Tier 2 (safe),3.8
+hp.com,Technology,Tier 2 (safe),6.4
+salesforce.com,Technology,Tier 2 (safe),3.8
+slack.com,Technology,Tier 1b (not safe),15.3
+dell.com,Technology,Tier 1b (not safe),23.5
+nvidia.com,Technology,Tier 1b (not safe),23.5
+gitlab.com,Technology,Tier 2 (safe),6.8
+intel.com,Technology,Tier 1b (not safe),15.3
+docker.com,Technology,Tier 2 (safe),6.4
+stackoverflow.com,Technology,Tier 2 (safe),3.8
+atlassian.com,Technology,Tier 2 (safe),6.4
+figma.com,Technology,Tier 2 (safe),6.4
+notion.so,Technology,Tier 2 (safe),3.8
+amazon.com,Retail,Tier 1b (not safe),15.3
+shopify.com,Retail,Tier 2 (safe),3.8
+ebay.com,Retail,Tier 2 (safe),6.4
+etsy.com,Retail,Tier 1b (not safe),21.0
+temu.com,Retail,Tier 2 (safe),6.4
+walmart.com,Retail,Tier 2 (safe),3.8
+shein.com,Retail,Tier 1b (not safe),17.8
+aliexpress.com,Retail,Tier 1b (not safe),23.5
+target.com,Retail,Tier 2 (safe),6.4
+ikea.com,Retail,Tier 2 (safe),3.8
+nike.com,Retail,Tier 2 (safe),6.4
+homedepot.com,Retail,Tier 1b (not safe),15.3
+bestbuy.com,Retail,Tier 2 (safe),3.8
+rakuten.com,Retail,Tier 1b (not safe),23.5
+lowes.com,Retail,Tier 2 (safe),3.8
+costco.com,Retail,Tier 2 (safe),9.1
+kohls.com,Retail,Tier 2 (safe),3.8
+instacart.com,Retail,Tier 2 (safe),6.4
+wayfair.com,Retail,Tier 2 (safe),6.4
+adidas.com,Retail,Tier 1b (not safe),23.5
+samsclub.com,Retail,Tier 2 (safe),3.8
+macys.com,Retail,Tier 2 (safe),3.8
+gap.com,Retail,Tier 2 (safe),3.8
+chewy.com,Retail,Tier 2 (safe),3.8
+ulta.com,Retail,Tier 2 (safe),3.8
+newegg.com,Retail,Tier 2 (safe),6.4
+zappos.com,Retail,Tier 1b (not safe),23.5
+kroger.com,Retail,Tier 1b (not safe),17.8
+sephora.com,Retail,Tier 2 (safe),4.0
+nordstrom.com,Retail,Tier 2 (safe),6.4
+staples.com,Retail,Tier 2 (safe),3.8
+officedepot.com,Retail,Tier 2 (safe),3.8
+wish.com,Retail,Tier 1b (not safe),17.8
+overstock.com,Retail,Tier 2 (safe),3.8
+dollargeneral.com,Retail,Tier 2 (safe),3.8
+oldnavy.com,Retail,Tier 2 (safe),3.8
+yahoo.com,News,Tier 1b (not safe),17.8
+msn.com,News,Tier 1b (not safe),15.3
+nytimes.com,News,Tier 2 (safe),6.4
+theguardian.com,News,Tier 2 (safe),6.4
+cnn.com,News,Tier 2 (safe),6.4
+bbc.com,News,Tier 2 (safe),6.4
+forbes.com,News,Tier 1b (not safe),21.0
+bbc.co.uk,News,Tier 2 (safe),6.4
+reuters.com,News,Tier 1b (not safe),23.5
+washingtonpost.com,News,Tier 2 (safe),3.8
+bloomberg.com,News,Tier 1b (not safe),17.8
+wsj.com,News,Tier 2 (safe),6.4
+businessinsider.com,News,Tier 1b (not safe),21.0
+cnbc.com,News,Tier 1b (not safe),17.8
+npr.org,News,Tier 2 (safe),6.4
+foxnews.com,News,Tier 2 (safe),6.4
+ft.com,News,Tier 2 (safe),6.4
+wired.com,News,Tier 1b (not safe),18.4
+time.com,News,Tier 2 (safe),7.0
+usatoday.com,News,Tier 2 (safe),6.4
+techcrunch.com,News,Tier 2 (safe),3.8
+cbsnews.com,News,Tier 2 (safe),6.4
+apnews.com,News,Tier 2 (safe),3.8
+theverge.com,News,Tier 2 (safe),6.4
+nbcnews.com,News,Tier 1b (not safe),21.0
+latimes.com,News,Tier 1b (not safe),23.5
+huffpost.com,News,Tier 2 (safe),6.4
+theatlantic.com,News,Tier 1b (not safe),21.0
+nypost.com,News,Tier 1b (not safe),17.8
+economist.com,News,Tier 2 (safe),3.8
+aljazeera.com,News,Tier 1b (not safe),28.0
+newsweek.com,News,Tier 2 (safe),10.6
+politico.com,News,Tier 1b (not safe),23.5
+vox.com,News,Tier 2 (safe),6.4
+axios.com,News,Tier 2 (safe),6.4

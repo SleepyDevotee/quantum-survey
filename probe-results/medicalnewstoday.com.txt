@@ -1,0 +1,74 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=*.medicalnewstoday.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M04
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug 20 00:00:00 2026 GMT; NotAfter: Mar  5 23:59:59 2027 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M04
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug 23 22:26:35 2022 GMT; NotAfter: Aug 23 22:26:35 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF4jCCBMqgAwIBAgIQDvbevKTwd5+vPtDmpC+rtTANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTA0MB4XDTI2MDgyMDAwMDAwMFoXDTI3MDMwNTIzNTk1OVowITEf
+MB0GA1UEAwwWKi5tZWRpY2FsbmV3c3RvZGF5LmNvbTCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBANA59BmGdcvUw7bz20/yBn9YUKZ1B2OSwH5cmEN2kpz1
+0qD8LGOrt2WakArTsHvvw5dQAucNExpo/ZQIDnVHUIDe3ZG0q9TshDM+o5l2gbdh
+wjLpaTkZpnmsWshl0k2RvV0pKymC9A/u+VpyYQ2LbwBrIkGkNvQQ6HrRgrWgFNNw
+4z2zM8u2BSLVL3uEaTnMkAjyq8EgYPImStASJqN3zPlZIrKparVUHKDJPwOasGnl
+1D98Tp/WIYaWhggs5mIbvdBq0E2yrDo2h5PtBhI//F8yOITW04fsmAJ7OzZv8bYI
+qgSSZKZC/YcvsGMyRdBTA7f98yu21EVm06Wjx0dUP98CAwEAAaOCAvkwggL1MB8G
+A1UdIwQYMBaAFB9SkmFWglR/gWbYHT0KqjJch90IMB0GA1UdDgQWBBSTwlLRO8Pb
+Xbq9b2EljmsjNQhvuTA3BgNVHREEMDAughYqLm1lZGljYWxuZXdzdG9kYXkuY29t
+ghRtZWRpY2FsbmV3c3RvZGF5LmNvbTATBgNVHSAEDDAKMAgGBmeBDAECATAOBgNV
+HQ8BAf8EBAMCBaAwEwYDVR0lBAwwCgYIKwYBBQUHAwEwOwYDVR0fBDQwMjAwoC6g
+LIYqaHR0cDovL2NybC5yMm0wNC5hbWF6b250cnVzdC5jb20vcjJtMDQuY3JsMHUG
+CCsGAQUFBwEBBGkwZzAtBggrBgEFBQcwAYYhaHR0cDovL29jc3AucjJtMDQuYW1h
+em9udHJ1c3QuY29tMDYGCCsGAQUFBzAChipodHRwOi8vY3J0LnIybTA0LmFtYXpv
+bnRydXN0LmNvbS9yMm0wNC5jZXIwDAYDVR0TAQH/BAIwADCCAXwGCisGAQQB1nkC
+BAIEggFsBIIBaAFmAHUATGPcmOWcHauI9h6KPd6uj6tEozd7X5uUw/uhnPzBviYA
+AAGgH90dwQAABAMARjBEAiBS54ia6Wvfz7xRh11l2fU7hCbAoivuEx3R9El62TBT
+XAIgAmLqf1Md5WpcQTSe2FWiww2h5/i3FqkUzCsJQjhxF+kAdgDW1Y2p0BdT82pK
+oMdXSQKv68fcLNOM2fdkyAyJGR6fAgAAAaAf3R2RAAAEAwBHMEUCIQClFXktVFI8
+NBgdon5dqQfgkz6P75PToHrp6hwXVOemOAIgW3wLRnebmN5O84muRoojcKq4ySbQ
+YEmejKNFncaaxFkAdQAcn2gs6frwRWlQ+BuWiofd2zIQ2EzmyLLjglJKxM9ZnwAA
+AaAf3R5yAAAEAwBGMEQCIAeAMi8g1RvtxqK48sNY7tq+TdAmFWd26DDPOiuJ0eqJ
+AiAHrjAfomTKh3491TRzCb6WU2SiB/HfsYDmOUmCH6CPtDANBgkqhkiG9w0BAQsF
+AAOCAQEAAsd7OGsKAQZlqwSiEmUKT9ZssKiTPH8fbkxtIysDaT8bbUQpmkkpMH0x
+VzvBWza4AEN+SplkEM9tJxU7wcQU6kFWBnPgU/eaHEQo6WoX5PQXT7pRq+9Nll5d
+4T+WrreoA/6cGd2R/8001IGuYFHe2HVyQA3Wr98rmI4f1vUYcwuzHB5EomK0ts9j
+o+Si/c1iAmkVjrcTAfmpfrHwFlkSZ9rCfaLWdtftwHrlILK8QAgLdsNHiHuvPXUK
+ZomDddSqEfJ+pEluO/2Voic37JQKVhBJnD9ZVOjvYVkw6pCl9OP6en3WphtSZO17
+XdY59CkVVdkfZPxL00zbuhkVc9UHjA==
+-----END CERTIFICATE-----
+subject=CN=*.medicalnewstoday.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M04
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 5448 bytes and written 1573 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

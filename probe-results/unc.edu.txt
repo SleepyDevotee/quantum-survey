@@ -1,0 +1,100 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=unc.edu
+   i:C=US, O=Let's Encrypt, CN=YR2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep 23 15:01:15 2026 GMT; NotAfter: Dec 22 15:01:14 2026 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=YR2
+   i:C=US, O=ISRG, CN=Root YR
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
+ 2 s:C=US, O=ISRG, CN=Root YR
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: RSA, 4096 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFDDCCA/SgAwIBAgISBUxKiY+FrJtU4xomN7xYoNQBMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNZUjIwHhcNMjYwOTIzMTUwMTE1WhcNMjYxMjIyMTUwMTE0WjASMRAwDgYDVQQD
+Ewd1bmMuZWR1MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1MiiG1C0
+w9LfNezYZfFnm6wC7YQWWPS14NQD0w4ggweUD/3zWVX/zcdoQVK5fhhfuV1KH0uT
+JXGeXeu43yro9Vyh9sgaaKMIXe4PA9803AZ4AdQV7tAC253O9U9LVli4/qJ28zy2
+GO6gE+2+HY/prec8gsqXPt6Vr6uMPKdhUkI7xjvtLWPVzVBUOUzRLfNkyuH99/kL
+iDOVHjV40iogXExZbhbgBRFgf2o5wzFOnKJKcB6aqggMS3s0jGhCnXCe5jly8ycu
+GqWVFwGFulsLgE0aNIOR7h5uTrmBbsWJgOc6IUWVPLYehzl+vNlhJuPMSr5fpA/Z
+7FDQ1WtN4hFD6wIDAQABo4ICOTCCAjUwDgYDVR0PAQH/BAQDAgWgMBMGA1UdJQQM
+MAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFIKibz1WTHOWNdgi
+W+5/64U3xqJ4MB8GA1UdIwQYMBaAFEAVLSZ57TIgnt+ach3WMh+BDIEMMDMGCCsG
+AQUFBwEBBCcwJTAjBggrBgEFBQcwAoYXaHR0cDovL3lyMi5pLmxlbmNyLm9yZy8w
+NgYDVR0RBC8wLYIHdW5jLmVkdYIVdW5pdmVyc2l0eWRheS51bmMuZWR1ggt3d3cu
+dW5jLmVkdTATBgNVHSAEDDAKMAgGBmeBDAECATAtBgNVHR8EJjAkMCKgIKAehhxo
+dHRwOi8veXIyLmMubGVuY3Iub3JnLzIuY3JsMIIBDQYKKwYBBAHWeQIEAgSB/gSB
++wD5AHcAyKPEf8ezrbk1awE/anoSbeM6TkOlxkb5l605dZkdz5oAAAGgzv6UawAA
+BAMASDBGAiEAtOR145F4KbiL8lu75tBVa5giCTbJG73eGHYwWT+2SAkCIQD3qoeZ
+Gh9DVQI5b0PkPfL/OYc0Auz+BAdF1X+peNWcowB+AI7KRwus3mrzogawpHqEt0b+
+H8a/lT4l5ptO5AJI88boAAABoM7+lMYACAAABQATSxgbBAMARzBFAiAcgLqeBopJ
+UkppEGrlf7okKQB//OlnobJbZl+fZayfQQIhAJNZxC8uK88/Ct4gdotwlINjOr3A
+ML1Axdgf54Bkf/LmMA0GCSqGSIb3DQEBCwUAA4IBAQDZQfrzJMBUA9gsSPccCJHI
+hQKFFN8TS3sn6bL6D7+4c8U59Ytl+0T1r8yJKwaQoSvMGv1+DA7+BrGMTLTZqWz+
+9URhpuwwRBdGyiNeGjS/i1MSThk/qYHTOfI8lAjns/xdhPKMX70yGCjcnWCz4rmt
+VlcAWi+8DP1HpWefi6bKLW+YFRRJThmB0XeAdidcVtWdH32inPpEnPMAOETvkqFw
+3u1SDX81SMgo9qxDLu+ABlMtEd+tco1KS+zhtQA6RVwi015Rxpj4XEfdokNCBDs9
+IUCzcGgkRHHAPAtuAZwt9UVqrsRrW/hOekM7cCgJlMFGROS6XAx8vUnpbJe382kD
+-----END CERTIFICATE-----
+subject=CN=unc.edu
+issuer=C=US, O=Let's Encrypt, CN=YR2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 5712 bytes and written 1560 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: ECE573A699BCB3E6FE2F19983E47F8BCCB3DEEB347B821DA675E598FF16E3A25
+    Session-ID-ctx: 
+    Resumption PSK: DFE4803D302148D81358C23CC15855256FF86C07F14E11496EBC5C9D12F61A42
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
+    0010 - 34 52 07 e7 b0 f7 a1 7a-c5 fd a9 53 ce 0e bf 93   4R.....z...S....
+    0020 - c2 dd a0 be 8d a0 86 e6-e5 e0 c8 50 38 d4 cd ea   ...........P8...
+    0030 - 9c 02 d7 3d ac a5 48 9c-71 b6 43 1e a8 e3 e9 85   ...=..H.q.C.....
+    0040 - 86 c3 d3 17 2a c7 40 a1-61 bc 40 6b 6e df 1f 01   ....*.@.a.@kn...
+    0050 - a6 79 58 e6 9a fb 9c 2e-9f f3 05 2e 5a 83 c9 f3   .yX.........Z...
+    0060 - d5 b9 f8 ba 28 24 fa 52-a4 71 c3 85 83 fe ab 47   ....($.R.q.....G
+    0070 - 5a 26 da 2b 1e f2 7d a6-fb a3 af 03 6e a3 60 c7   Z&.+..}.....n.`.
+    0080 - 9f cc fd 43 11 b5 af 07-6b 24 d2 07 7e 89 09 1e   ...C....k$..~...
+    0090 - d2 f2 c8 51 34 e5 33 37-9a 58 44 3a 67 d6 21 d5   ...Q4.37.XD:g.!.
+
+    Start Time: 1792921607
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 8192
+---
+read R BLOCK

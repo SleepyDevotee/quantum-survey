@@ -1,0 +1,146 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=Minnesota, L=Minneapolis, O=Target Corporation, CN=sites.target.com
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R46 OV TLS CA 2026 Q3
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug 24 13:56:33 2026 GMT; NotAfter: Mar 11 12:56:33 2027 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R46 OV TLS CA 2026 Q3
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Root R46
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Apr 22 03:00:57 2026 GMT; NotAfter: Apr 22 00:00:00 2028 GMT
+ 2 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Root R46
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Nov 20 00:00:00 2019 GMT; NotAfter: Mar 18 00:00:00 2029 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIINmzCCC4OgAwIBAgIQASinbWL6kbxX58hWWVeyBTANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJCRTEZMBcGA1UEChMQR2xvYmFsU2lnbiBudi1zYTEvMC0GA1UE
+AxMmR2xvYmFsU2lnbiBBdGxhcyBSNDYgT1YgVExTIENBIDIwMjYgUTMwHhcNMjYw
+ODI0MTM1NjMzWhcNMjcwMzExMTI1NjMzWjBvMQswCQYDVQQGEwJVUzESMBAGA1UE
+CAwJTWlubmVzb3RhMRQwEgYDVQQHDAtNaW5uZWFwb2xpczEbMBkGA1UECgwSVGFy
+Z2V0IENvcnBvcmF0aW9uMRkwFwYDVQQDDBBzaXRlcy50YXJnZXQuY29tMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnSPKB9J+mq1PFRCL8Ha9Rp/fogb8
+A8z8//esr+vl6rgT8xev2euCVCFEmgRZGnqxcGiYpC7x9mmDZA9SsHrtdgKbCqAT
+SfQYFXGhG47ic91kEZaMS0M124sekHPIg09wJwzS5GO9QEFo/LKURtDFQNkcPSf+
+6tIwNjrEmIAkx2cRm0gp6Z5mvhfWZRsgAd9YRj9P2eTWsshQvxB2grrnyt7Sgq2L
+jcr1HooMI/s5reQsPLxHg7We8GGS5wryOw0NH6MKBQuLme3xolGxj1njBWaUEMyl
+bUifsj9XvYIUNrRXzXlpSse1ShHX6YePDU+nluNAHIlW+mHYI41QzPE1CQIDAQAB
+o4IJRzCCCUMwggYDBgNVHREEggX6MIIF9oIQc2l0ZXMudGFyZ2V0LmNvbYIZYXBv
+bGxvLW1ldHJpY3MudGFyZ2V0LmNvbYIbYXNzZXRodWIucGFydG5lcnNvbmxpbmUu
+Y29tghNhc3NldGh1Yi50YXJnZXQuY29tghZiZXgucGFydG5lcnNvbmxpbmUuY29t
+gg5iZXgudGFyZ2V0LmNvbYITY2FydHN0ZXIudGFyZ2V0LmNvbYIRY2lyY2xlLnRh
+cmdldC5jb22CE2Nvbm5lY3Qucm91bmRlbC5jb22CFGNvcnBvcmF0ZS50YXJnZXQu
+Y29tghRkZXZlbG9wZXIudGFyZ2V0LmNvbYIaZG9wcGxlci5wYXJ0bmVyc29ubGlu
+ZS5jb22CH2V4dGdhcmdhbnR1YS5wYXJ0bmVyc29ubGluZS5jb22CHGZhY3Rvcmlh
+bC5wYXJ0bmVyc29ubGluZS5jb22CHWdyZWVuZmllbGQucGFydG5lcnNvbmxpbmUu
+Y29tghVncmVlbmZpZWxkLnRhcmdldC5jb22CGWhyb2Nkb2NyZXF1ZXN0LnRhcmdl
+dC5jb22CEGljY29uLnRhcmdldC5jb22CEGluZGlhLnRhcmdldC5jb22CD2ppcmEu
+dGFyZ2V0LmNvbYIcbGF1bmNocGFkLnBhcnRuZXJzb25saW5lLmNvbYIUbGF1bmNo
+cGFkLnRhcmdldC5jb22CDG0udGFyZ2V0LmNvbYIabWVyY3VyeS5wYXJ0bmVyc29u
+bGluZS5jb22CEW1pY2tyYS50YXJnZXQuY29tghptaWNrcmFkYXNoYm9hcmQudGFy
+Z2V0LmNvbYIWbXZzLnBhcnRuZXJzb25saW5lLmNvbYIRbXl0aW1lLnRhcmdldC5j
+b22CCm5pYy50YXJnZXSCFG9wZW5ob3VzZS50YXJnZXQuY29tghVvcGVuc291cmNl
+LnRhcmdldC5jb22CGm9zbW9zaXMucGFydG5lcnNvbmxpbmUuY29tghJwYXJ0bmVy
+c29ubGluZS5jb22CFnBjbi5wYXJ0bmVyc29ubGluZS5jb22CFnBlZy5wYXJ0bmVy
+c29ubGluZS5jb22CGnBob3Rvc3VibWlzc2lvbi50YXJnZXQuY29tghZwaWQucGFy
+dG5lcnNvbmxpbmUuY29tgg9wbHVzLnRhcmdldC5jb22CI3Btd29ya29yZGVyYWRt
+aW4ucGFydG5lcnNvbmxpbmUuY29tghtwb2xhZG1pbi5wYXJ0bmVyc29ubGluZS5j
+b22CFnBvcC5wYXJ0bmVyc29ubGluZS5jb22CDXFyLnRhcmdldC5jb22CD3IyZDIu
+dGFyZ2V0LmNvbYIScmRtcGx1cy50YXJnZXQuY29tghRyZWNvZ25pemUudGFyZ2V0
+LmNvbYIScmVkY2FyZC50YXJnZXQuY29tgg9yaWsucm91bmRlbC5jb22CC3JvdW5k
+ZWwuY29tghhydWJpeC5wYXJ0bmVyc29ubGluZS5jb22CEHJ1Yml4LnRhcmdldC5j
+b22CE3NlY3VyaXR5LnRhcmdldC5jb22CFnNlcnZpY2V0ZWNoLnRhcmdldC5jb22C
+FXNtLnBhcnRuZXJzb25saW5lLmNvbYIYc3BhcmsucGFydG5lcnNvbmxpbmUuY29t
+ghBzcGFyay50YXJnZXQuY29tghNzdHlsZWh1Yi50YXJnZXQuY29tghpzeW5lcmd5
+LnBhcnRuZXJzb25saW5lLmNvbYIKdGFyZ2V0LmNvbYIddGFyZ2V0bWVkaWFuZXR3
+b3JrLnRhcmdldC5jb22CE3RlcGFnZW50LnRhcmdldC5jb22CFHRndC1maWxlcy50
+YXJnZXQuY29tghx0Z3Rkcml2ZXIucGFydG5lcnNvbmxpbmUuY29tgg90aWFtLnRh
+cmdldC5jb22CEHRpaWFtLnRhcmdldC5jb22CFnR2aS5wYXJ0bmVyc29ubGluZS5j
+b22CE3dlZWtseWFkLnRhcmdldC5jb22CFnd3dy5wYXJ0bmVyc29ubGluZS5jb22C
+Dnd3dy50YXJnZXQuY29tMA4GA1UdDwEB/wQEAwIFoDATBgNVHSUEDDAKBggrBgEF
+BQcDATAdBgNVHQ4EFgQUAbQqMb99QbKVj75F2m6h+hEygPUwVwYDVR0gBFAwTjAI
+BgZngQwBAgIwQgYKKwYBBAGgMgoBAjA0MDIGCCsGAQUFBwIBFiZodHRwczovL3d3
+dy5nbG9iYWxzaWduLmNvbS9yZXBvc2l0b3J5LzAMBgNVHRMBAf8EAjAAMIGgBggr
+BgEFBQcBAQSBkzCBkDBBBggrBgEFBQcwAYY1aHR0cDovL29jc3AuZ2xvYmFsc2ln
+bi5jb20vY2EvZ3NhdGxhc3I0Nm92dGxzY2EyMDI2cTMwSwYIKwYBBQUHMAKGP2h0
+dHA6Ly9zZWN1cmUuZ2xvYmFsc2lnbi5jb20vY2FjZXJ0L2dzYXRsYXNyNDZvdnRs
+c2NhMjAyNnEzLmNydDAfBgNVHSMEGDAWgBTjS9q8bavXVbJEkr5g1HEkhGuzUTBJ
+BgNVHR8EQjBAMD6gPKA6hjhodHRwOi8vY3JsLmdsb2JhbHNpZ24uY29tL2NhL2dz
+YXRsYXNyNDZvdnRsc2NhMjAyNnEzLmNybDCCAX4GCisGAQQB1nkCBAIEggFuBIIB
+agFoAHYATGPcmOWcHauI9h6KPd6uj6tEozd7X5uUw/uhnPzBviYAAAGgNA8LHgAA
+BAMARzBFAiAD+DaXADWUxUkE2Z99LMpG/HIXogJ0DuqnDr3T7b3V8gIhANKuntoq
+bR77ldkZqCExF+gAsPwtipjZd2FRyf03uO7WAHYAHJ9oLOn68EVpUPgbloqH3dsy
+ENhM5siy44JSSsTPWZ8AAAGgNA8LzQAABAMARzBFAiEAwGzxK2DyEgwY/mg4pKRO
+9EiQd6nFREHQl9rsX/ng9iwCICeXfxYxgFW6Hx8NxdcSJgQDlnTS0GiqdrRAAneu
+yKjfAHYAYEyar3p/d18B1Ab8kg3ImesLHH34yVIb+voXdzuXi8kAAAGgNA8MSAAA
+BAMARzBFAiEA4sPj0znd8U0ExwQBTGmbF/MCm5YLODaLgYxcc5GS5dECIE9rWlnf
+xEJzfktZdvakVJklVdcRAZwXtLoZRa8Wphx2MA0GCSqGSIb3DQEBCwUAA4ICAQAx
+QDlkOA65/05e8qB/EuxbkM6LGhybMYTRFR53mNgW23Ob+sujryTKE3vraf5QJ4JX
+nFqSi+D8c0BEFHzTqgoDHpWQWTduTSJozXZISB4vWWjlCQAnFwJ1DXp+DVEssZDV
+XEwJVbf31XasqW5zGd8E5qSY7THrJnPaa44PEgj2bRPEmjmI1FgjEqgBrIQNm3xF
+qaAtcvwVy0OB/MC9ggbJNagw+8wrcgDUJ28ZQtkjIEWpvurSXwDUI4XiaySqho34
+5BeVUbEE2NH0smYnWJGKkKN4pzu0CxPZTbigZEFZiZ3MhSOKqSXJQslMp4iNM8iw
+3PdQlUQVGDVB1bDtihMB9VFPEvCCgHFHGxsH7eVPyP663QRbWeL9D+RZBmejRlq+
+wMRb/XeCABIoFqWtXUiQZWQDHV+ZzCrGKjeP24Ma9mH/1LDo4l710y+45EWiO6/f
+VqonyfZiAK//bfH+2W4V8CjCC2/hkMIgZjtkEWf6NamhRJSrJsLDPK3XUQVwjOpz
+spFYy0hiHivTehmI7JnXsMsISAooTmP8tASITms0mR/xlHYUS27dzLVyWu1SWdxM
+s8nrAoXOitwixxLJzazi32H5brYJ1lVmhRBM0hjHHABBtlrnJzx+4cmGcTKmO+9M
+AhuypNbwiO94GFTZUkVzMk1a2iBW3gQFw6SsONxPwA==
+-----END CERTIFICATE-----
+subject=C=US, ST=Minnesota, L=Minneapolis, O=Target Corporation, CN=sites.target.com
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R46 OV TLS CA 2026 Q3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 8150 bytes and written 1563 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: ABEA8A6E23A0FDBA9B7916217AE67DFB92209D67A1A75647BEB8BB04B854FC36
+    Session-ID-ctx: 
+    Resumption PSK: C44EE48091A704093FFCC46D13B28FDA0ACE164ABE2A266879FCD57123293259
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
+    0010 - 7d 52 73 84 bf 18 41 49-17 d7 d6 32 ce 1a ed 89   }Rs...AI...2....
+    0020 - e1 85 fd 97 9a 71 9f 78-2c fc 1b 99 d0 76 0e b4   .....q.x,....v..
+    0030 - ca 57 58 c8 65 0c 01 c7-db 77 8e 4d b4 f1 a2 a7   .WX.e....w.M....
+    0040 - c7 3f 4f 82 9b 2d e6 1a-ee 52 a6 3f 1c 67 ab 13   .?O..-...R.?.g..
+    0050 - a0 74 69 a8 40 35 07 c0-14 f7 a5 12 3f bf 77 45   .ti.@5......?.wE
+    0060 - 4a 0b 5d c7 78 d7 e1 04-90 5c c2 b0 a4 33 75 ac   J.].x....\...3u.
+    0070 - f9 67 52 e3 3b da 50 89-2d 7c e7 be 81 ff b4 58   .gR.;.P.-|.....X
+    0080 - 75 d6 b3 74 e5 ed 13 0c-8f 49 18 94 de 90 5e 24   u..t.....I....^$
+    0090 - d7 1d 9e 82 d0 50 7a 58-27 bc 9a 5f 0e e9 68 48   .....PzX'.._..hH
+
+    Start Time: 1792921684
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

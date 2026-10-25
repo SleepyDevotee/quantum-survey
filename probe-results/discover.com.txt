@@ -1,0 +1,87 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:jurisdictionC=US, jurisdictionST=Delaware, businessCategory=Private Organization, serialNumber=2506695, C=US, ST=Illinois, L=Riverwoods, O=DFS Services LLC, CN=www.discover.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jul 13 00:00:00 2026 GMT; NotAfter: Jan 27 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jul  2 12:42:50 2020 GMT; NotAfter: Jul  2 12:42:50 2030 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIJIjCCCAqgAwIBAgIQDmsXfh83HLnIeVtHDXeS/DANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMR4wHAYDVQQDExVE
+aWdpQ2VydCBFViBSU0EgQ0EgRzIwHhcNMjYwNzEzMDAwMDAwWhcNMjcwMTI3MjM1
+OTU5WjCBzDETMBEGCysGAQQBgjc8AgEDEwJVUzEZMBcGCysGAQQBgjc8AgECEwhE
+ZWxhd2FyZTEdMBsGA1UEDwwUUHJpdmF0ZSBPcmdhbml6YXRpb24xEDAOBgNVBAUT
+BzI1MDY2OTUxCzAJBgNVBAYTAlVTMREwDwYDVQQIEwhJbGxpbm9pczETMBEGA1UE
+BxMKUml2ZXJ3b29kczEZMBcGA1UEChMQREZTIFNlcnZpY2VzIExMQzEZMBcGA1UE
+AxMQd3d3LmRpc2NvdmVyLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAK7SAuZTCLOO0bo4RKlTC2fpycTGWLp7AjKprsPHhVhs99XjOiuPcGzIgLrc
++lLxgQ9PEiAEZdL2+sI8GYDK/sLx8INdqIUxLpngffYUTvfygtQFjDoUMPavpS8E
+3+RzUBWG3ol5SLn+To9VCbb1H6UWiovDgebI+/G5IW4Xc/jlDAwdSNARj0+wmZvo
+o02Zs9Cs2qBUS9W3+ZWEQM7lB2exe/Rp4zh/jGAqwgZXViX82UDZ6n5UUUll6RJm
+KMtp6p8IL5YIoITxR5vi0v0QPizDqGB6N1eqW7jydRfXU6M+o6wGMPtPv8OUkwQC
+kQCAamkOeK9r7Xxx/XJead1qE5UCAwEAAaOCBYUwggWBMB8GA1UdIwQYMBaAFGpO
+UL+YaJ1beyB11FkBeUhmkjIGMB0GA1UdDgQWBBR+Jm3t02MN1PN5RElc/PhevAYz
+6jCCAkUGA1UdEQSCAjwwggI4ghB3d3cuZGlzY292ZXIuY29tghVhcHBseW5vdy5k
+aXNjb3Zlci5jb22CF2FyY2hlcnRwcm0uZGlzY292ZXIuY29tghNhc3NldHMuZGlz
+Y292ZXIuY29tghJjYXJkcy5kaXNjb3Zlci5jb22CGWNybC5kaXNjb3ZlcmZpbmFu
+Y2lhbC5jb22CJWN1c3RzZXJ2LnNlY3VyZWRvY3VwbG9hZC5kaXNjb3Zlci5jb22C
+FGRjZi5zcmMuZGlzY292ZXIuY29tghlkZXNpZ25zeXN0ZW0uZGlzY292ZXIuY29t
+ggxkaXNjb3Zlci5jb22CEGRpc2NvdmVyY2FyZC5jb22CFmZyZXNoY2hhdC5kaXNj
+b3Zlci5jb22CDm0uZGlzY292ZXIuY29tghJtLmRpc2NvdmVyY2FyZC5jb22CFm1h
+cGktYmFuay5kaXNjb3Zlci5jb22CFm1hcGktY2FyZC5kaXNjb3Zlci5jb22CGm1h
+cGktcHJvZHVjdHMuZGlzY292ZXIuY29tghZtcHB2ZW5kb3IuZGlzY292ZXIuY29t
+ghpwZXJzb25hbGxvYW5zLmRpc2NvdmVyLmNvbYIVcHJvZHVjdHMuZGlzY292ZXIu
+Y29tghd0ZWNobm9sb2d5LmRpc2NvdmVyLmNvbYIXd2ViYXBwLnNyYy5kaXNjb3Zl
+ci5jb22CHXd3dy5kZXNpZ25zeXN0ZW0uZGlzY292ZXIuY29tghR3d3cuZGlzY292
+ZXJjYXJkLmNvbTBKBgNVHSAEQzBBMAsGCWCGSAGG/WwCATAyBgVngQwBATApMCcG
+CCsGAQUFBwIBFhtodHRwOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwDgYDVR0PAQH/
+BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjB1BgNVHR8EbjBs
+MDSgMqAwhi5odHRwOi8vY3JsMy5kaWdpY2VydC5jb20vRGlnaUNlcnRFVlJTQUNB
+RzIuY3JsMDSgMqAwhi5odHRwOi8vY3JsNC5kaWdpY2VydC5jb20vRGlnaUNlcnRF
+VlJTQUNBRzIuY3JsMHMGCCsGAQUFBwEBBGcwZTAkBggrBgEFBQcwAYYYaHR0cDov
+L29jc3AuZGlnaWNlcnQuY29tMD0GCCsGAQUFBzAChjFodHRwOi8vY2FjZXJ0cy5k
+aWdpY2VydC5jb20vRGlnaUNlcnRFVlJTQUNBRzIuY3J0MAwGA1UdEwEB/wQCMAAw
+ggF/BgorBgEEAdZ5AgQCBIIBbwSCAWsBaQB2AExj3JjlnB2riPYeij3ero+rRKM3
+e1+blMP7oZz8wb4mAAABn1z4WEwAAAQDAEcwRQIhAIPjETjrUPHUHTS/SMK0vHtK
+z8S+DoVPU/YpNkBZViMmAiBla1NoXEiS+uX/2QOv+iDBnQU5+SitrGe3YGYrPKW9
+twB2ANbVjanQF1Pzakqgx1dJAq/rx9ws04zZ92TIDIkZHp8CAAABn1z4WD4AAAQD
+AEcwRQIhAPXNpCKGh0qzM5wtGWxfF1zgqYlf1+UOu0Cd2Rrkqn5WAiBC5bKYS2R8
+zQRI8dW/Xs2Km7bNZMOo4IYmzook0HlyYwB3AETCvQzpFA5kpclKAZMKWqG7NZcO
+AO4RFoloKhxE17VmAAABn1z4WHwAAAQDAEgwRgIhAN4jaaImiinxo0KP4SuLNoP/
+MDmHKkh8/GOYOzqQU2AjAiEA/vpR9dkmIh+w5XK619HYsMd9Ra9eIQIFUqcY71a3
+HJ8wDQYJKoZIhvcNAQELBQADggEBAHK5r2R58nGg90AghE5rvyb4dC6FZ9W7DyZw
+SpTHXiusJScmCuZICk0p5FvP2CmEFjUYquHGB17kJhiTT23cykayjiNC1rhuAMsB
+c1mKt2JE4lRn1pUCu0q8P95hJDfO4FKoso+28ZgcOjw9z8SN4qVvlf0WLUmiyh65
+M58e4thojmAf6I/MeiPdkhyKNggC07iMbdNVJeN+Gri/He7D+IA9u06NYoZpuCmC
+/nzKY8yixhb509rp3yMmXhCYp37tec0Ci/zzoMicjkRi8SbopBNZ9yhoFU2AE4D6
+y3c5Ch0ipXIPXj12aFL8eMXM97ASybkdro0fVQK0qxpfm3E9Z0c=
+-----END CERTIFICATE-----
+subject=jurisdictionC=US, jurisdictionST=Delaware, businessCategory=Private Organization, serialNumber=2506695, C=US, ST=Illinois, L=Riverwoods, O=DFS Services LLC, CN=www.discover.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 5339 bytes and written 1581 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

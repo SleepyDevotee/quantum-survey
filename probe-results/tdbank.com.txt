@@ -1,0 +1,88 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:jurisdictionC=CA, businessCategory=Private Organization, serialNumber=1955-02-01, C=CA, ST=Ontario, L=Toronto, O=The Toronto-Dominion Bank, CN=www.tdbank.com
+   i:C=US, O=DigiCert, Inc., CN=DigiCert G5 TLS RSA4096 SHA384 2021 CA1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Dec  9 00:00:00 2025 GMT; NotAfter: Jan  7 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert, Inc., CN=DigiCert G5 TLS RSA4096 SHA384 2021 CA1
+   i:C=US, O=DigiCert, Inc., CN=DigiCert TLS RSA4096 Root G5
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Apr 14 00:00:00 2021 GMT; NotAfter: Apr 13 23:59:59 2031 GMT
+ 2 s:C=US, O=DigiCert, Inc., CN=DigiCert TLS RSA4096 Root G5
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root CA
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Sep 21 00:00:00 2022 GMT; NotAfter: Nov  9 23:59:59 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIIgTCCBmmgAwIBAgIQCxjOcZTl4yu+0RTWaYTlbDANBgkqhkiG9w0BAQsFADBY
+MQswCQYDVQQGEwJVUzEXMBUGA1UEChMORGlnaUNlcnQsIEluYy4xMDAuBgNVBAMT
+J0RpZ2lDZXJ0IEc1IFRMUyBSU0E0MDk2IFNIQTM4NCAyMDIxIENBMTAeFw0yNTEy
+MDkwMDAwMDBaFw0yNzAxMDcyMzU5NTlaMIG3MRMwEQYLKwYBBAGCNzwCAQMTAkNB
+MR0wGwYDVQQPDBRQcml2YXRlIE9yZ2FuaXphdGlvbjETMBEGA1UEBRMKMTk1NS0w
+Mi0wMTELMAkGA1UEBhMCQ0ExEDAOBgNVBAgTB09udGFyaW8xEDAOBgNVBAcTB1Rv
+cm9udG8xIjAgBgNVBAoTGVRoZSBUb3JvbnRvLURvbWluaW9uIEJhbmsxFzAVBgNV
+BAMTDnd3dy50ZGJhbmsuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAvkGCOO5DHMF8fTSRB2bgCNcD0wPGPY7zSLUg4GPSw/f9GE9BnzAFiCwWm7yl
+oPsTLCty5CXFcipgwXre5hdcGafXD7k+zTFXGc2UHPahQTI4yu+ladjWFXC2SZc4
+duQTxsaP2CbpHpEgT3MKGdmNeCvGNS3mvHN9Ug8WKQf3Qblv/ltBMjlbH73EDPkz
+VD7TCv/73M3MH1OSq3xkZ9VKjpf+68yFfm5LnSNRp2YWKdCi0ZmipGps2dwXbf+2
+lhdF3YVoD2KmS+YsACVSvVcSmqeBaGdJnuTx9EqlFltaMitiG3evz/7RjLM316QT
++A3ua70RfKdw7uEEiIlZWBDC/QIDAQABo4ID5TCCA+EwHwYDVR0jBBgwFoAUrrqU
+M7rvN00L1xjvSuShDbwHtnMwHQYDVR0OBBYEFK9wnr0/dPWR6Srww+ohhGi7G7fH
+MG4GA1UdEQRnMGWCDnd3dy50ZGJhbmsuY29tghJlc3Bhbm9sLnRkYmFuay5jb22C
+DG0udGRiYW5rLmNvbYIRbW9iaWxlLnRkYmFuay5jb22CCnRkYmFuay5jb22CEndv
+d3pvbmUudGRiYW5rLmNvbTBKBgNVHSAEQzBBMAsGCWCGSAGG/WwCATAyBgVngQwB
+ATApMCcGCCsGAQUFBwIBFhtodHRwOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwDgYD
+VR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjCBmwYD
+VR0fBIGTMIGQMEagRKBChkBodHRwOi8vY3JsMy5kaWdpY2VydC5jb20vRGlnaUNl
+cnRHNVRMU1JTQTQwOTZTSEEzODQyMDIxQ0ExLTEuY3JsMEagRKBChkBodHRwOi8v
+Y3JsNC5kaWdpY2VydC5jb20vRGlnaUNlcnRHNVRMU1JTQTQwOTZTSEEzODQyMDIx
+Q0ExLTEuY3JsMIGFBggrBgEFBQcBAQR5MHcwJAYIKwYBBQUHMAGGGGh0dHA6Ly9v
+Y3NwLmRpZ2ljZXJ0LmNvbTBPBggrBgEFBQcwAoZDaHR0cDovL2NhY2VydHMuZGln
+aWNlcnQuY29tL0RpZ2lDZXJ0RzVUTFNSU0E0MDk2U0hBMzg0MjAyMUNBMS0xLmNy
+dDAMBgNVHRMBAf8EAjAAMIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgAdgB0251Y
+99R+nf14ehYqmRwYz2mNp8cpkYyaGLBFDbpEvAAAAZsEEyc6AAAEAwBHMEUCIE/1
+gqiwU7KJ90YkjN0XOfkHpCEFzHA58rg4l3Dw38wVAiEA5/U+JA3yomv5um5jEOSz
+Xk1sO2jznAaG30OwlAXGm8cAdgAcn2gs6frwRWlQ+BuWiofd2zIQ2EzmyLLjglJK
+xM9ZnwAAAZsEEyaUAAAEAwBHMEUCIG9C3Qa0HUeNpBD09Z2qgYfEB++0bizdJQKN
+svyDxVQqAiEAnfkzpygR/Dz66IXnRtL6PVB59YqK9htteEtwqEdZpbkAdgBgTJqv
+en93XwHUBvySDciZ6wscffjJUhv6+hd3O5eLyQAAAZsEEydmAAAEAwBHMEUCIQCc
+xlYE5bMfQ0n49BRawt05pzZhbT8h9gqKX46v679n1QIgAi8QrYDifbJTG/3/wKGP
+HUC03d1Y8c03Er4C6nrJOl0wDQYJKoZIhvcNAQELBQADggIBAIhqigGekp9Dvp+s
+6FXZj+d78gBHQHk0cqqGQazZX+yO0zCVDF0xDa4evIyLiAFdaVWzBpyvOBz9Cs9J
+XC9wYWre35lvihFTrs7U1KLtBVNqdWQiXRxmuFmwiq1nPN/1RdGyA2KZlRJzuv9X
+bWaytOB2PMboE4b6g0nGHOwOtLN/VLBK4KD/7yBFM+5ZAnOdZg1Z3KHzZVVOm6ux
+MoxFY3WqjRKgOKYE6IM/9FqzKUwNZtMjQ059rvB1vbK9H4H6ULHZi4ydphjR5Eae
+P5KaFwwdOa2+GH19f/VDdaspAFYiD7RBc3peDBFqw2fuPvEtUgciVE6+A9g5O7Dz
+E5Tle0eUpXRtA5ROmO0HrlKEvr1DRAQPHWVW6PMxddhhDR3ruDgjKJ3Se++tYyu5
+PGfCHnuy2cH7h+RlQi99augrti56H8F0Ds+ArpjX/FzJG8tnrBqDiHzxGS4ACFRv
+rsANQX/yHDRxcndWn6pTb1QK7lfnaANGpytnUhBfaXefhnzrGlOpqTcYApm7qSna
+zzXb7Ok2NSCnN8dQ2F/iolX73C3uICp6EGZsB0PXaOxJTe8K+xA7ZnRvodnjyOdM
+loYHIF7N46Y9eQhu8QSX+meA55HX2bfi2ZA0fHlaAEH5zy29d/QFhipeND0D3dLz
+gusxFYPT7lymnyv9ZSI8+2jsFnki
+-----END CERTIFICATE-----
+subject=jurisdictionC=CA, businessCategory=Private Organization, serialNumber=1955-02-01, C=CA, ST=Ontario, L=Toronto, O=The Toronto-Dominion Bank, CN=www.tdbank.com
+issuer=C=US, O=DigiCert, Inc., CN=DigiCert G5 TLS RSA4096 SHA384 2021 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 6960 bytes and written 1579 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

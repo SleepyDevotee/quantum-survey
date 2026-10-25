@@ -1,0 +1,92 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=California, O=Stanford University, CN=stanford.edu
+   i:C=US, O=Internet2, CN=InCommon RSA Server CA 2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Apr 22 00:00:00 2026 GMT; NotAfter: Nov  6 23:59:59 2026 GMT
+ 1 s:C=US, O=Internet2, CN=InCommon RSA Server CA 2
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Nov 16 00:00:00 2022 GMT; NotAfter: Nov 15 23:59:59 2032 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 3 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: RSA, 2048 (bit); sigalg: sha1WithRSAEncryption
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHAzCCBWugAwIBAgIRAO7iUN+YqDjdhZ4ZA1O97KwwDQYJKoZIhvcNAQELBQAw
+RDELMAkGA1UEBhMCVVMxEjAQBgNVBAoTCUludGVybmV0MjEhMB8GA1UEAxMYSW5D
+b21tb24gUlNBIFNlcnZlciBDQSAyMB4XDTI2MDQyMjAwMDAwMFoXDTI2MTEwNjIz
+NTk1OVowVzELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExHDAaBgNV
+BAoTE1N0YW5mb3JkIFVuaXZlcnNpdHkxFTATBgNVBAMTDHN0YW5mb3JkLmVkdTCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAK8FN8a6JhJvXYwQ9kDdmcrq
+GhrBhq5xFt/lXTVkZUXgVcYQpQAIL6Eult++lP+c1pwOhT4H2vXkTz75cvrh4p5O
+ONqcfVVTrP2Gn99cAl5WcJlh1GLcUxDBxcuavxAgbYzUrUi5tyLnLS4NovS2YCdc
+pO46iiVJMzLi20DKwroaQIZ2Zzm7bygYwT6p4OJy3K9JdbE3vTQ/UqI2ugRayRHm
+7zfbkSO/MGHFD/wCCthQyJVzI8yahZVFF2vyN6HDK1hCDMC5B+pPVnOsBLCZ5+2e
+bOekegW4aMO2rPDMgGuEzZxfPi9RsM0kyz46F1CmKB9Ok2c0EVKxwWlRV06QI1UC
+AwEAAaOCA1swggNXMB8GA1UdIwQYMBaAFO9MAJKm+3YuXpXiyV+HGxnVTeLZMB0G
+A1UdDgQWBBRKQlCwUKCZ2s2UPZ70WHku5BQprjAOBgNVHQ8BAf8EBAMCBaAwDAYD
+VR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0g
+BEIwQDA0BgsrBgEEAbIxAQICZzAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3Rp
+Z28uY29tL0NQUzAIBgZngQwBAgIwQAYDVR0fBDkwNzA1oDOgMYYvaHR0cDovL2Ny
+bC5zZWN0aWdvLmNvbS9JbkNvbW1vblJTQVNlcnZlckNBMi5jcmwwcAYIKwYBBQUH
+AQEEZDBiMDsGCCsGAQUFBzAChi9odHRwOi8vY3J0LnNlY3RpZ28uY29tL0luQ29t
+bW9uUlNBU2VydmVyQ0EyLmNydDAjBggrBgEFBQcwAYYXaHR0cDovL29jc3Auc2Vj
+dGlnby5jb20wggGHBgorBgEEAdZ5AgQCBIIBdwSCAXMBcQB2ANdtfRDRp/V3wsfp
+X9cAv/mCyTNaZeHQswFzF8DIxWl3AAABnbavyOwAAAQDAEcwRQIgCrQgEKNhW3u5
+bEdh3CGPyu3cCr/QJl9bV3yFo7k3pSwCIQDD8aJJ+y3TadujUJ9qgOEvm11iqFqb
+tFMgvIxmS1euKQB2AMijxH/Hs625NWsBP2p6Em3jOk5DpcZG+ZetOXWZHc+aAAAB
+nbavyS4AAAQDAEcwRQIhAN2fIN4XlCRnWs/tEdjiX/lVqM4yHIkVyn5PDeyJNmaV
+AiB21fDtP+Rb2U5N5JT7a89zpC3o/mnrLrjlTn3FeXxAAQB/AGz+UBlDqF6pFrxS
+0TPk3Mke8UEcfSWEINFzgJ4YGOs6AAABnbavyk8ACAAABQAITDM6BAMASDBGAiEA
+8WyUTlj1Ic1YbGfqHIBDvtt/LMuVocGbDTFYCL0zFUkCIQCMIgN17uok6ojLO2zp
+G9TeuLWM+fCQx4nL0OABpZFS+jBOBgNVHREERzBFggxzdGFuZm9yZC5lZHWCDiou
+c3RhbmZvcmQuZWR1ghB3ZWIuc3RhbmZvcmQuZWR1ghN3d3ctdjYuc3RhbmZvcmQu
+ZWR1MA0GCSqGSIb3DQEBCwUAA4IBgQB4Q+ecWiKXyNKhrkGNlTCBODJ+IdDPV3rh
+6Z+XjEk7BKTJKfRjJzyL3pXmeUpI3zAHqmNa24UFjjEcgPGA9aUwS4w1Awuik8f3
+vi5t1T/geilmheAY95BheLCGUitbrAF6Y499EW82fCtc1ocWfJm0pipHcqoRI4gt
+Sw66SwhD7cPopLVPd8wwfZUOs8YODAO2dOSoF0VSu5BWZ41Ix87RuW/SQU9juw4g
+9W1I6Ue88YYZsOEe08Xoxq3I/GyTFgZLVWWdENgUIgj8Z7saHY88x6vYUyi7NX/F
+a1+bdLXqwhSO3yX8SPBkqllRlxeWxDdLVk8wL3QtreKpAprv86vg6p6ZkA2/KGjh
+mTmM9k/ISi8Jd8M2dpgAw8O3Ldw2qB837HuZFZi6Q9VnabqX3DNXbBQU/kXE5p6o
+5hGYmC1VY25d0OJk2v88vnJGlme7Hp26vA/c5UPii3PFM5zBs7bML7SO2d/pHA+Z
+ay2A3m0YuaXaLa7GeM0WD4bSU2nemiY=
+-----END CERTIFICATE-----
+subject=C=US, ST=California, O=Stanford University, CN=stanford.edu
+issuer=C=US, O=Internet2, CN=InCommon RSA Server CA 2
+---
+No client certificate CA names sent
+---
+SSL handshake has read 6078 bytes and written 1819 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : AES128-GCM-SHA256
+    Session-ID: 5AF09C4B2EB591AF43B9FCD794FD383771D4DBBC98E3D65A1F97C909668D8847
+    Session-ID-ctx: 
+    Master-Key: 5CFFA693044D6EA906731F8003CCA009AA354385C64847AC94F60ED7A6C84E1059CC5962D1566974D3B40EB897FC9479
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1792921596
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

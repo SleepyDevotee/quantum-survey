@@ -1,0 +1,105 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=*.worldofinteriors.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M01
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct 23 00:00:00 2025 GMT; NotAfter: Nov 21 23:59:59 2026 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M01
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug 23 22:21:28 2022 GMT; NotAfter: Aug 23 22:21:28 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIILpDCCCoygAwIBAgIQAS2GM/Clcwc4qlcMHnO1NzANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAxMB4XDTI1MTAyMzAwMDAwMFoXDTI2MTEyMTIzNTk1OVowITEf
+MB0GA1UEAwwWKi53b3JsZG9maW50ZXJpb3JzLmNvbTCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBALiPLGuRoPAAwxDL1dcQpycnk8M1bAWd4GOlLUGvKb09
+G12+NdSVGnV/h4TF1UC+y/kAXQUp88PlCxXinb5qUlxEm+ZQclzx2f93PX/V50Mp
+JaIYZ/rDSn3c9zrZt6zcUte3Q7kIrRDvbedNIg+8U9J4gzwgsKG4q8kQ2t9AeqLy
+HnAJ2aUFM/E14rfWe8hqshtHV//CumXss5QOVFMqc+3Xlruj/RTmeVV7lqeJkQNz
+Mjmhm7moVVsBqpzUD4WgNGglEQnYzMMcMfBGDTRpx4may5gz40YdReNfnACOcK0O
+hJYSUdkR+HbTg/0m8Mz6I8MwTJQr7G6Zy1UhGwgypw0CAwEAAaOCCLswggi3MB8G
+A1UdIwQYMBaAFIG4DmOKiRIY5fo7O1CVn+blkBOFMB0GA1UdDgQWBBS6wU9CiCJx
+EGMHoV+FQLM2Qxfr0TCCBfUGA1UdEQSCBewwggXoghYqLndvcmxkb2ZpbnRlcmlv
+cnMuY29tggxjb25kZW5hc3QuZGWCCmNud29ybGQuZXOCDGdxaGVyb2VzLmNvbYII
+d2lyZWQudWuCFGNvbmRlbmFzdGRpZ2l0YWwuY29tgg1waXRjaGZvcmsuY29tghZ3
+b3JsZG9maW50ZXJpb3JzLmNvLnVrgg1jbmlkaWdpdGFsLmlughNjb25kZW5hc3Rj
+b2xsZWdlLmVzgghncS5jby51a4IUd29ybGRvZmludGVyaW9ycy5jb22CE3Zhbml0
+eWZhaXJhcnQuY28udWuCDXRlZW52b2d1ZS5jb22CD2NvbmRlbmFzdC5jby51a4IR
+Z3EtbWFnYXppbmUuY28udWuCCHZvZ3VlLmRlghNncWVkaXRvcnNjbHViLmNvLnVr
+ghphcmNoaXRlY3R1cmFsZGlnZXN0LmNvbS5teIIMcmV2aXN0YWFkLmVzggx0cmF2
+ZWxsZXIudWuCCHdpcmVkLml0ggx2b2d1ZS5jb20ubXiCB2dsbXIudWuCEmhvdXNl
+YW5kZ2FyZGVuLmNvbYITdGhlZXhjaGFuZ2Voc2JjLmNvbYIQY29uZGVuYXN0LmNv
+bS50d4IVZ2xhbW91cm1hZ2F6aW5lLmNvLnVrggdvdXNlLmNvgg5nbGFtb3VyLmNv
+bS5teIIVKi53b3JsZG9maW50ZXJpb3JzLnVrghpwaXRjaGZvcmttdXNpY2Zlc3Rp
+dmFsLmNvbYIKYWxsdXJlLmNvbYIIc2VsZi5jb22CDW5ld3lvcmtlci5jb22CDmFy
+c3RlY2huaWNhLnVrggh2b2d1ZS51a4IKZ2xhbW91ci5kZYIUaG91c2VhbmRnYXJk
+ZW4uY28udWuCEGFkbWlkZGxlZWFzdC5jb22CD21lbm9mdGhleWVhci5kZYIOY250
+cmF2ZWxlci5jb22CCXdpcmVkLmNvbYIKdGF0bGVyLmNvbYITd29ybGRvZmludGVy
+aW9ycy51a4IMdGF0bGVyLmNvLnVrghBjb25kZW5hc3QuY29tLm14ggxjb25kZW5h
+c3QuZnKCCHZvZ3VlLml0ggh2b2d1ZS5teIIOZ3FoZXJvZXMuY28udWuCB3RoZW0u
+dXOCCHZvZ3VlLmVzgg9jbnRyYXZlbGxlci5jb22CEWFyc3RlY2huaWNhLmNvLnVr
+ghB2YW5pdHlmYWlyLmNvLnVrghV2b2d1ZXN1bW1lcnNjaG9vbC5jb22CDnZhbml0
+eWZhaXIuY29tgg9jbnRyYXZlaWllci5jb22CCXRhdGxlci51a4IFZ3EudWuCDGNv
+bmRlbmFzdC5qcIIQY2FsaWNvY2x1Yi5jby51a4IWY29uZGVuYXN0Y29sbGVnZS5h
+Yy51a4ILZ2xhbW91ci5jb22CDmNudHJhdmVsbGVyLmluggt2b2d1ZS5jby5qcIIM
+Y29uZGVuYXN0Lm14ggxjb25kZW5hc3QuaXSCHGNvbmRlbmFzdGpvaGFuc2Vuc2d1
+aWRlcy5jb22CBWdxLmRlghFncWVkaXRvcnNjbHViLmNvbYIIdm9ndWUuZnKCDmNu
+dHJhdmVsbGVyLnVrggxjb25kZW5hc3QuZXOCD2FkbWV4aWNvLmNvbS5teIIYdm9n
+dWVmb3JjZXNvZmZhc2hpb24uY29tggxjb25kZW5hc3QuaW6CC3ZvZ3VlLmNvLnVr
+ghF2YW5pdHlmYWlyYXJ0LmNvbYIVdGhlbG92ZW1hZ2F6aW5lLmNvLnVrghZjb25k
+ZW5hc3Rqb2hhbnNlbnMuY29tggZncS5jb22CCXZvZ3VlLmNvbYIUY29uZGVuYXN0
+Y29sbGVnZS5jb22CF2FyY2hpdGVjdHVyYWxkaWdlc3QuY29tghFjbnRyYXZlbGxl
+cm1lLmNvbYIQY250cmF2ZWxsbGVyLmNvbYIOYm9uYXBwZXRpdC5jb22CC3dpcmVk
+LmNvLnVrghNjb25kZW5hc3RkaWdpdGFsLmRlghljb25kZW5hc3RtZXhpY28tbGF0
+YW0uY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIBMA4GA1UdDwEB/wQEAwIFoDATBgNV
+HSUEDDAKBggrBgEFBQcDATA7BgNVHR8ENDAyMDCgLqAshipodHRwOi8vY3JsLnIy
+bTAxLmFtYXpvbnRydXN0LmNvbS9yMm0wMS5jcmwwdQYIKwYBBQUHAQEEaTBnMC0G
+CCsGAQUFBzABhiFodHRwOi8vb2NzcC5yMm0wMS5hbWF6b250cnVzdC5jb20wNgYI
+KwYBBQUHMAKGKmh0dHA6Ly9jcnQucjJtMDEuYW1hem9udHJ1c3QuY29tL3IybTAx
+LmNlcjAMBgNVHRMBAf8EAjAAMIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgAdQDX
+bX0Q0af1d8LH6V/XAL/5gskzWmXh0LMBcxfAyMVpdwAAAZoReVtUAAAEAwBGMEQC
+IBndBi8zGH6CWrtdnx66TgGhMW38tzPnvgkxd1e47dtJAiBEQMqfTIjK51i/N9LV
+xoX5Ki1u3UDggtZMF8Ph+/DHzQB3AMIxfldFGaNF7n843rKQQevHwiFaIr9/1bWt
+dprZDlLNAAABmhF5W4UAAAQDAEgwRgIhAI2NjktiG8/s186LkPZ8uD5P32y3oYYC
+zc4HYELEqQZiAiEA9LgcJi3j5kogClauklxn3G349qiIJ/YANxaFY8lsv+4AdgCU
+TkOH+uzB74HzGSQmqBhlAcfTXzgCAT9yZ31VNy4Z2AAAAZoReVuYAAAEAwBHMEUC
+IQCboXymJj8iTUXb/39FcRk+vwDYfkGoMB0OmZFtyyIEDAIgboCqNjYm5fX+xXu8
+rVLpmwIg8gTroxVyzF9/qA32UjQwDQYJKoZIhvcNAQELBQADggEBACI8QYsaGQbW
+ATAVXCECEhRmVcpvFrvo+ftNnRaijlrUCe0sHl5RJ+X14WzzdbUBaBiOcCM3Vht8
+kJ/FKENjw3qouayEfB4NrXWdGRU59X4PPCZVNb5umnX38sDdPfmD/d/We48eQZtO
+LSA7e7FrEN3hCVJBDSH/T4AIJ0tDNoUe2pm/dfTlX1NsgNFO9/mpU1JlhLGnor6y
+nqmxfFKD79nAVs47el4eOKkMU8Ndj9v3D/ckcFxfsUBcrplOyNeYafsMg97QnLVH
+Cfx/t4nSyBM1j4SAsaryqVli/2XyWxC+OEUIKyu/DnB4LPz97usypXN9f6K8i9Y/
+kmdg/VG74hg=
+-----END CERTIFICATE-----
+subject=CN=*.worldofinteriors.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M01
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5927 bytes and written 1876 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

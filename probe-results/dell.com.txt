@@ -1,0 +1,90 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=Texas, L=Round Rock, O=Dell Technologies Inc., CN=dell.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug 13 00:00:00 2026 GMT; NotAfter: Feb 27 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGxTCCBa2gAwIBAgIQBhoCkVuWT1VfEnvFPxn88jANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjYw
+ODEzMDAwMDAwWhcNMjcwMjI3MjM1OTU5WjBmMQswCQYDVQQGEwJVUzEOMAwGA1UE
+CBMFVGV4YXMxEzARBgNVBAcTClJvdW5kIFJvY2sxHzAdBgNVBAoTFkRlbGwgVGVj
+aG5vbG9naWVzIEluYy4xETAPBgNVBAMTCGRlbGwuY29tMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEA3j0M3wa56Rx3cnyq7s39Pjsicd2eY1NfiQtYMBtt
+HbNMRwVOr1KVCFaG/IB9gTs76zI06Xv1G6YoiuzN9TuypMPOlGHBJPU8fRmfmEiI
+ZrM0CaKgx1c1T0MbjV2bDrFkfkUsFSC7kBRJXg2FSbf58Fe/UHHLMVmd05YpMGMM
+5Cu/8kAsVAkMNsFFcpdgTLxADBSBKWGYpc2r0cvAYt3tOW8iUuCtf6YLPYGVIG3O
+A8w9Ixzb5jKsqFUR1liDqWp9m4ALMtoGa1zYlSuxrsTjEipA9rxuNR8X9cmWLVyr
+6V9HRhRHojcqkOZKODaXeV2D9eDpt2KTPCY3ggV/PPqD+wIDAQABo4IDejCCA3Yw
+HwYDVR0jBBgwFoAUdIWAwGbH3zfez70pN6oDHb7tzRcwHQYDVR0OBBYEFOOYIAYc
++ZV861l6/rpwrum7XlzSMBMGA1UdEQQMMAqCCGRlbGwuY29tMD4GA1UdIAQ3MDUw
+MwYGZ4EMAQICMCkwJwYIKwYBBQUHAgEWG2h0dHA6Ly93d3cuZGlnaWNlcnQuY29t
+L0NQUzAOBgNVHQ8BAf8EBAMCBaAwEwYDVR0lBAwwCgYIKwYBBQUHAwEwgZ8GA1Ud
+HwSBlzCBlDBIoEagRIZCaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0
+R2xvYmFsRzJUTFNSU0FTSEEyNTYyMDIwQ0ExLTEuY3JsMEigRqBEhkJodHRwOi8v
+Y3JsNC5kaWdpY2VydC5jb20vRGlnaUNlcnRHbG9iYWxHMlRMU1JTQVNIQTI1NjIw
+MjBDQTEtMS5jcmwwgYcGCCsGAQUFBwEBBHsweTAkBggrBgEFBQcwAYYYaHR0cDov
+L29jc3AuZGlnaWNlcnQuY29tMFEGCCsGAQUFBzAChkVodHRwOi8vY2FjZXJ0cy5k
+aWdpY2VydC5jb20vRGlnaUNlcnRHbG9iYWxHMlRMU1JTQVNIQTI1NjIwMjBDQTEt
+MS5jcnQwDAYDVR0TAQH/BAIwADCCAX4GCisGAQQB1nkCBAIEggFuBIIBagFoAHUA
+TGPcmOWcHauI9h6KPd6uj6tEozd7X5uUw/uhnPzBviYAAAGf+ixjWQAABAMARjBE
+AiBzG2bj/AmiiMAggEuvPfgUxgyftsMkzGfzXIaD1jZvEAIgQL8t9TbnR4uglSDX
+CWjmiRV/SKJQ+zeuis+jtw49O/QAdgDW1Y2p0BdT82pKoMdXSQKv68fcLNOM2fdk
+yAyJGR6fAgAAAZ/6LGNeAAAEAwBHMEUCIQC4fES8CcnvZRT3C0PLZO4vVhb4n06D
+qx+6CrCsvhUb1QIgdBevlg5vDKK8dIxQzgk4nCIT9Xem+AVHIds5CWrBZB4AdwAc
+n2gs6frwRWlQ+BuWiofd2zIQ2EzmyLLjglJKxM9ZnwAAAZ/6LGQFAAAEAwBIMEYC
+IQDTCsPc/DzQJBYSkXFJGhpAP9irkA29J0RrtPkEeeWJ9wIhAMur+cNLtobtvAKA
+jG3HOBHCUZyKdEGBP9WSDhEfaUcSMA0GCSqGSIb3DQEBCwUAA4IBAQAkACLTBhWb
+ls2D1Sq789CwoI8aBX2qzoN17oqXSMx0+9OO3ecDZDteqVN/BwOs/ISt/nPJ4DDI
+akMKH2m3XzHwHkL5lx5GAAk8bVupKxQJHKRRX2NFrhrakUHi6T87EEIcYxf9LuRN
++hh9QAW947G43VCJuQ6w/X/yxgVyv0i03EqjBGbz/76t+FSrbbfW5lRFNu7XsacZ
+M4ah5FiNz0bRytXF4Zo9f+VfUtr8KpxwArIHOXpKMKhEb4KUHsdz2Qu0GfT57bf4
+kUnAYiYKbBr5esvMUW/YgMiioU0WTwCs4Hhg0rH+BV9bDbUgjIjEjdXjxvYezbi6
+ZSOocxVpJtt6
+-----END CERTIFICATE-----
+subject=C=US, ST=Texas, L=Round Rock, O=Dell Technologies Inc., CN=dell.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pkcs1_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 4398 bytes and written 1623 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 8847FB103C6BCFD430CE28FD677337186F256192AF2F2855DE016F03B48306AD
+    Session-ID-ctx: 
+    Master-Key: 185604A72339EBE0831BE87CD3AF78B0106DB433243E152A84D6A8BAEE4819970CD936FCE86E62D0213427F5BD48E680
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1792921678
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

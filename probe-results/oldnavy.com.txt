@@ -1,0 +1,91 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:jurisdictionC=US, jurisdictionST=Delaware, businessCategory=Private Organization, serialNumber=2157877, C=US, ST=California, L=San Francisco, O=The Gap, Inc., CN=www.gap.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Feb  5 00:00:00 2026 GMT; NotAfter: Feb  4 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jul  2 12:42:50 2020 GMT; NotAfter: Jul  2 12:42:50 2030 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIJxDCCCKygAwIBAgIQBb4ar3pD6OIvOS7dAs3TmTANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMR4wHAYDVQQDExVE
+aWdpQ2VydCBFViBSU0EgQ0EgRzIwHhcNMjYwMjA1MDAwMDAwWhcNMjcwMjA0MjM1
+OTU5WjCByTETMBEGCysGAQQBgjc8AgEDEwJVUzEZMBcGCysGAQQBgjc8AgECEwhE
+ZWxhd2FyZTEdMBsGA1UEDwwUUHJpdmF0ZSBPcmdhbml6YXRpb24xEDAOBgNVBAUT
+BzIxNTc4NzcxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYD
+VQQHEw1TYW4gRnJhbmNpc2NvMRYwFAYDVQQKEw1UaGUgR2FwLCBJbmMuMRQwEgYD
+VQQDEwt3d3cuZ2FwLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+ALs0RgL+ZS0SDM+Z+o5o6L2Qa01CwHUGfqihn7VWjET7bNeWzF07N+AGxthEqhYc
+lXzuRGRZCilR7HaJcZ51o+cCLGAIjt70dW/zIkQ8G9MP17z0UmIp/85VRJ9CREYI
+17Rmh9NRhgv5C7VIHnZbs1yutVRSZTNmXjwer/1PtKwzvV7mndiqhGR8ACj4np5E
+BduL79DLlDDOlsZvH6PVyRZLMQnKzOPFcqrLeDtwjPJjv12eYbGvY3/7PM7/Pxtz
+vNTy5zyoJ2OVmgmqYBvV52FMnNv0Lyz/BfcZ4hI/9zHElnXrHNuzGbEJSiuYzjr7
+Ebd8V2thUESEZszhcuOQBY8CAwEAAaOCBiowggYmMB8GA1UdIwQYMBaAFGpOUL+Y
+aJ1beyB11FkBeUhmkjIGMB0GA1UdDgQWBBT0miNZ6mpbJ6OIa2f0C2+TdU9xbzCC
+AvQGA1UdEQSCAuswggLnggt3d3cuZ2FwLmNvbYILYXBpLmdhcC5jb22CEmFwaS5n
+YXBmYWN0b3J5LmNvbYILYXRobGV0YS5jb22CD2F0aGxldGEuZ2FwLmNvbYIPYXRo
+bGV0YXdlbGwuY29tghJiYW5hbmFyZXB1YmxpYy5jb22CFmJhbmFuYXJlcHVibGlj
+LmdhcC5jb22CGWJhbmFuYXJlcHVibGljZmFjdG9yeS5jb22CJGJhbmFuYXJlcHVi
+bGljZmFjdG9yeS5nYXBmYWN0b3J5LmNvbYIUZm9udHMuYXNzZXRzLWdhcC5jb22C
+B2dhcC5jb22CDmdhcGZhY3RvcnkuY29tghNpb3Mtb2xkbmF2eS5nYXAuY29tggtv
+bGRuYXZ5LmNvbYIPb2xkbmF2eS5nYXAuY29tghZzZWN1cmUtYXRobGV0YS5nYXAu
+Y29tgh1zZWN1cmUtYmFuYW5hcmVwdWJsaWMuZ2FwLmNvbYIrc2VjdXJlLWJhbmFu
+YXJlcHVibGljZmFjdG9yeS5nYXBmYWN0b3J5LmNvbYIac2VjdXJlLWlvcy1vbGRu
+YXZ5LmdhcC5jb22CFnNlY3VyZS1vbGRuYXZ5LmdhcC5jb22CEnNlY3VyZS13d3cu
+Z2FwLmNvbYIZc2VjdXJlLXd3dy5nYXBmYWN0b3J5LmNvbYIcc2VjdXJlbWV0cmlj
+cy5nYXBmYWN0b3J5LmNvbYITdGF4LXNlcnZpY2UuZ2FwLmNvbYIPd3d3LmF0aGxl
+dGEuY29tghZ3d3cuYmFuYW5hcmVwdWJsaWMuY29tgh13d3cuYmFuYW5hcmVwdWJs
+aWNmYWN0b3J5LmNvbYISd3d3LmdhcGZhY3RvcnkuY29tgg93d3cub2xkbmF2eS5j
+b22CE3d3dzEuYXNzZXRzLWdhcC5jb22CE3d3dzIuYXNzZXRzLWdhcC5jb22CE3d3
+dzMuYXNzZXRzLWdhcC5jb22CE3d3dzQuYXNzZXRzLWdhcC5jb20wSgYDVR0gBEMw
+QTALBglghkgBhv1sAgEwMgYFZ4EMAQEwKTAnBggrBgEFBQcCARYbaHR0cDovL3d3
+dy5kaWdpY2VydC5jb20vQ1BTMA4GA1UdDwEB/wQEAwIFoDATBgNVHSUEDDAKBggr
+BgEFBQcDATB1BgNVHR8EbjBsMDSgMqAwhi5odHRwOi8vY3JsMy5kaWdpY2VydC5j
+b20vRGlnaUNlcnRFVlJTQUNBRzIuY3JsMDSgMqAwhi5odHRwOi8vY3JsNC5kaWdp
+Y2VydC5jb20vRGlnaUNlcnRFVlJTQUNBRzIuY3JsMHMGCCsGAQUFBwEBBGcwZTAk
+BggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tMD0GCCsGAQUFBzAC
+hjFodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRFVlJTQUNBRzIu
+Y3J0MAwGA1UdEwEB/wQCMAAwggF/BgorBgEEAdZ5AgQCBIIBbwSCAWsBaQB3AExj
+3JjlnB2riPYeij3ero+rRKM3e1+blMP7oZz8wb4mAAABnC+FgucAAAQDAEgwRgIh
+AJ4JObQMVfF/Y0KRR13QxATD85W7D/T7I/HT4J8dU/ifAiEAuAS2dshqH2HKOx9o
+3EMedUzKmLfjgGR76tj5INQwWp8AdgAcn2gs6frwRWlQ+BuWiofd2zIQ2EzmyLLj
+glJKxM9ZnwAAAZwvhYLmAAAEAwBHMEUCIQDqButcD+x2TUztfLb+sKJIQUgzT4rY
+2NH12qnA+3Z60AIgTd3vahTMwXKxIiDP9SsEU1yQ75hHJFnXSufOUJa7hZQAdgBg
+TJqven93XwHUBvySDciZ6wscffjJUhv6+hd3O5eLyQAAAZwvhYPbAAAEAwBHMEUC
+IQDd7nBITTeUBa7Ck3YNNzoBFpttlfjaHkEHI/Yb+SIMYAIgGGBH9GdC27lu6LLR
+0lDTYDixMIG9/bqbBoCHYWCOmHAwDQYJKoZIhvcNAQELBQADggEBADjJZymFzRpH
+5WUsRRaeRHY4obXIRNyfLf/L4PQWkksMZX3i8f0XMFA0DOfMt913Eok8YYNRAPt+
+CCScDlrhc46Q4Gwmd4j+UvHhh70CtSWFON0MZKEdsXa52nnePn680601N3qSgPgO
+lesnoAqiQitWNoJDxrse76wS/NcMzOkWMUSA5a2yehGcUBIHlUGeYS/8tpetHHtM
+dxOJLoMW2DxtjDDuxUnarXyMF03lAbGkCTbW9wJ0Ca9WveRqDWUKy0K42pE0E6Ki
+WiyIW5m1aMHNNyEwBtzpqu5dYXKM/qCIeNjf+vK4fTFV848wGVeQlF+PlwtIMrUI
+NC4Mk6IYtRU=
+-----END CERTIFICATE-----
+subject=jurisdictionC=US, jurisdictionST=Delaware, businessCategory=Private Organization, serialNumber=2157877, C=US, ST=California, L=San Francisco, O=The Gap, Inc., CN=www.gap.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 5501 bytes and written 1580 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

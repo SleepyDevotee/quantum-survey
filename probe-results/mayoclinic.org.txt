@@ -1,0 +1,106 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=Minnesota, O=Mayo Foundation for Medical Education and Research, CN=mwredirects5.mayo.edu
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R40
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep 30 00:00:00 2026 GMT; NotAfter: Apr 16 23:59:59 2027 GMT
+ 1 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R40
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: May 14 00:00:00 2025 GMT; NotAfter: May 13 23:59:59 2040 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+ 3 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Feb  1 00:00:00 2010 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIJJDCCB4ygAwIBAgIRALPAZBCpY9uKPs/0uK+f7UMwDQYJKoZIhvcNAQELBQAw
+YDELMAkGA1UEBhMCR0IxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBQdWJsaWMgU2VydmVyIEF1dGhlbnRpY2F0aW9uIENBIE9WIFI0
+MDAeFw0yNjA5MzAwMDAwMDBaFw0yNzA0MTYyMzU5NTlaMH4xCzAJBgNVBAYTAlVT
+MRIwEAYDVQQIEwlNaW5uZXNvdGExOzA5BgNVBAoTMk1heW8gRm91bmRhdGlvbiBm
+b3IgTWVkaWNhbCBFZHVjYXRpb24gYW5kIFJlc2VhcmNoMR4wHAYDVQQDExVtd3Jl
+ZGlyZWN0czUubWF5by5lZHUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQCfKYk51JllWAC3i9LdoqvJY747i+9QI/HE8miC929AbY2+FHnvGr1TAy9hZmUP
+OwZ934Pd7IEFVYO8jDMsZmEBCDrpRWxwxKplhCl4QZifLGEBfPweT/j1WZ0EsrS2
+B6+eRRrlbLlGguP0GEaSzTNZkxNuLlG/thGUwV0CtT2x78XUsiNFZL9mOpQyQoVr
+ocZ9Qc1HUvWRvsAQoCsr/l/4qP+T/OaieASpnPNdtN5zbZnyUxZ/VsiQcm2RZWrv
+mCbQUxoxyEexOK0Qpdcg2TjLTyozxZZ1Bnm3iCGHW0bu02bJB5akYYbbnHVb2ZEG
+DNLFWXxkqaUmUbCILvNM7Bk3AgMBAAGjggU5MIIFNTAfBgNVHSMEGDAWgBR74kmh
+YLS76ELmxqdUERxhZFNV0TAdBgNVHQ4EFgQUFp8V9NpLEs3Cc8AVlzY124GHLeMw
+DgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwEwYDVR0lBAwwCgYIKwYBBQUH
+AwEwEwYDVR0gBAwwCjAIBgZngQwBAgIwVAYDVR0fBE0wSzBJoEegRYZDaHR0cDov
+L2NybC5zZWN0aWdvLmNvbS9TZWN0aWdvUHVibGljU2VydmVyQXV0aGVudGljYXRp
+b25DQU9WUjQwLmNybDCBhAYIKwYBBQUHAQEEeDB2ME8GCCsGAQUFBzAChkNodHRw
+Oi8vY3J0LnNlY3RpZ28uY29tL1NlY3RpZ29QdWJsaWNTZXJ2ZXJBdXRoZW50aWNh
+dGlvbkNBT1ZSNDAuY3J0MCMGCCsGAQUFBzABhhdodHRwOi8vb2NzcC5zZWN0aWdv
+LmNvbTCCAkIGA1UdEQSCAjkwggI1ghVtd3JlZGlyZWN0czUubWF5by5lZHWCCyou
+YWNjcnUub3JnghEqLmVkbGluay5tYXlvLmVkdYIKKi5tYXlvLmVkdYIQKi5tYXlv
+Y2xpbmljLm9yZ4IYKi5tYXlvY2xpbmljcGxhdGZvcm0ub3Jngh0qLm1heW9tZWRp
+Y2FsbGFib3JhdG9yaWVzLmNvbYIRKi50ZXN0Y2F0YWxvZy5vcmeCCWFjY3J1Lm9y
+Z4IVYXJhYmljLm1heW9jbGluaWMub3Jngg9lZGxpbmsubWF5by5lZHWCCG1heW8u
+ZWR1gg5tYXlvY2xpbmljLmNvbYIObWF5b2NsaW5pYy5vcmeCGm1heW9jbGluaWNo
+ZWFsdGhjYXJlLmNvLnVrghptYXlvY2xpbmljaGVhbHRoc3lzdGVtLm9yZ4ISbWF5
+b2NsaW5pY2xhYnMuY29tghZtYXlvY2xpbmljcGxhdGZvcm0ub3JnghltYXlvY2xp
+bmljcHJvY2VlZGluZ3Mub3JnghttYXlvbWVkaWNhbGxhYm9yYXRvcmllcy5jb22C
+FHN0b3JlLm1heW9jbGluaWMub3Jngg90ZXN0Y2F0YWxvZy5vcmeCEXVzY292aWRw
+bGFzbWEub3Jnghl2aWRlb3RvdXJzLm1heW9jbGluaWMub3Jngg93d3cuY2UubWF5
+by5lZHWCH3d3dy5leGVjdXRpdmVlZHVjYXRpb24ubWF5by5lZHWCEnd3dy5tYXlv
+Y2xpbmljLmNvbTCCAYYGCisGAQQB1nkCBAIEggF2BIIBcgFwAHUAHJ9oLOn68EVp
+UPgbloqH3dsyENhM5siy44JSSsTPWZ8AAAGg76NgYQAABAMARjBEAiAXrjDwpzen
+0zugU0jkQtm3+d2nt0LRk6IXxM4F7FIPTwIgYUgrJhHAXk3IZ2Ws312b3hWL9nvx
+itb09/ncRVHl+MMAdwDW1Y2p0BdT82pKoMdXSQKv68fcLNOM2fdkyAyJGR6fAgAA
+AaDvo2C5AAAEAwBIMEYCIQC69yUK7XTohV0GSu/lVoyTFRijoimejamh3i6pDSJg
+KwIhAPgsLZue2m/CL4bvu9ysRId9un6q4i8wgeh23lQNZPHrAH4AGouda43XkdHN
+BUnttgNV1ga2T60w23H+eI8Px8j7xLEAAAGg76NkYAAIAAAFAASygagEAwBHMEUC
+IDL8Jh0ZXs1HYrHqTGztV21Fxakjp50uSPg9epktL4rFAiEAjuS72mXtUzL8WBms
+L7jJInFFVdhyA+ygVVp4iqZFlKEwDQYJKoZIhvcNAQELBQADggGBAD8ySJChPTTZ
+6RTVnutygxnwaBBuq7XtY0xooN0dta+0asLj6pzO8idux15whixSZnOLqDORnP6d
+3HI/9bQhi+Sv6ZDjXmtO1m1m5GP7jwY+qykc9ZBo5XcpV7m3nWviit4ndDf/UFki
+hOt0Hmw+oTbihcGNSuF+hDl13kCTVEtZNFUd//ixrssmfiEpUTwfDuuJcqa8ALzL
+OCmINnfy/lXl8gfM89nmOnWifCiLL6D9q8EAQelLyNceuE6h95Nvzm+u+r+IPq8/
+cY9xB14MIg8nJcnng8NkaqsStdf4H1EGtoPqKheD+TTRjzccxAF84p0y9YH8cA3b
+PZ+8SBoHYn7zmQvzk08gs4dD0Qq0FU1u/yVPzmBCJeVJEHTqQ1YbjPu1ztZI1ErY
+Rp9K/VVV584tqwBh9MYI6HHFtzB022TK/jQrOqouDz9u9sRKMdyHY4ejzhcc2YzK
+Wd7OYJKnsgxu+8fe9UOObgmR9jkWSoYr2yCNlarluEa0GDOPNScK+w==
+-----END CERTIFICATE-----
+subject=C=US, ST=Minnesota, O=Mayo Foundation for Medical Education and Research, CN=mwredirects5.mayo.edu
+issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R40
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pkcs1_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 7656 bytes and written 1629 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 7A90BCEB4E54B04E635803D2B49D58D6FFF10E0A045714AF7537E969862DA8E7
+    Session-ID-ctx: 
+    Master-Key: 80AF48DB37CFD059DDAB370EEA8B16830C70296857B89212A95890155964FA1712A2B429B1A4AD6584AF5125D11113C9
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1792921654
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

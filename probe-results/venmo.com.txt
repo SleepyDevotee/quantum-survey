@@ -1,0 +1,77 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:jurisdictionC=US, jurisdictionST=Delaware, businessCategory=Private Organization, serialNumber=3014267, C=US, ST=California, L=San Jose, O=PayPal, Inc., CN=ops.venmo.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep  4 00:00:00 2026 GMT; NotAfter: Mar 21 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jul  2 12:42:50 2020 GMT; NotAfter: Jul  2 12:42:50 2030 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHMTCCBhmgAwIBAgIQB2cr6T3qY+pp9F+ZUhfiYTANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMR4wHAYDVQQDExVE
+aWdpQ2VydCBFViBSU0EgQ0EgRzIwHhcNMjYwOTA0MDAwMDAwWhcNMjcwMzIxMjM1
+OTU5WjCBxTETMBEGCysGAQQBgjc8AgEDEwJVUzEZMBcGCysGAQQBgjc8AgECEwhE
+ZWxhd2FyZTEdMBsGA1UEDwwUUHJpdmF0ZSBPcmdhbml6YXRpb24xEDAOBgNVBAUT
+BzMwMTQyNjcxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMREwDwYD
+VQQHEwhTYW4gSm9zZTEVMBMGA1UEChMMUGF5UGFsLCBJbmMuMRYwFAYDVQQDEw1v
+cHMudmVubW8uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwCcV
+zHkgX73qlBRBtDRx99eqIxuvtDaEKtlF6BuaQHhapEZLuOO00+7MOAv6btHz1RXt
+RSaXGyjVfuTfdZ5tIuiT+DQ7gVoHNtjizi5od+WU/d1T++83ylVCOfjbqaDFEn08
+2ZKdEYcBIsJoC3fF4vNAeAcdS3GKtCQpIOJJX42xj+rTp816rn3TvD65CvP3PndZ
+Yh3VObbmzWGpv7pG+KDjwC8BXY/13f9dQKQcKorQJSiiNUIbJNN2q3QkBBwDdk4U
+rSAa7L8Q+oEvZtlzworcWEbDDSWRUDQUgaDr7WxcHQgt6nqUSGZPLTfWMX7dp8sS
+C0R5Rg4kLga26QOMgQIDAQABo4IDmzCCA5cwHwYDVR0jBBgwFoAUak5Qv5honVt7
+IHXUWQF5SGaSMgYwHQYDVR0OBBYEFAKGQgQt3nRqR7dbPBXlqX/X1X4IMGkGA1Ud
+EQRiMGCCDW9wcy52ZW5tby5jb22CEWFjY291bnQudmVubW8uY29tgg1hcGkudmVu
+bW8uY29tghNkZXZlbG9wZXIudmVubW8uY29tggl2ZW5tby5jb22CDXd3dy52ZW5t
+by5jb20wSgYDVR0gBEMwQTALBglghkgBhv1sAgEwMgYFZ4EMAQEwKTAnBggrBgEF
+BQcCARYbaHR0cDovL3d3dy5kaWdpY2VydC5jb20vQ1BTMA4GA1UdDwEB/wQEAwIF
+oDATBgNVHSUEDDAKBggrBgEFBQcDATB1BgNVHR8EbjBsMDSgMqAwhi5odHRwOi8v
+Y3JsMy5kaWdpY2VydC5jb20vRGlnaUNlcnRFVlJTQUNBRzIuY3JsMDSgMqAwhi5o
+dHRwOi8vY3JsNC5kaWdpY2VydC5jb20vRGlnaUNlcnRFVlJTQUNBRzIuY3JsMHMG
+CCsGAQUFBwEBBGcwZTAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQu
+Y29tMD0GCCsGAQUFBzAChjFodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGln
+aUNlcnRFVlJTQUNBRzIuY3J0MAwGA1UdEwEB/wQCMAAwggF9BgorBgEEAdZ5AgQC
+BIIBbQSCAWkBZwB1AExj3JjlnB2riPYeij3ero+rRKM3e1+blMP7oZz8wb4mAAAB
+oGyxfLcAAAQDAEYwRAIgWMjgL9oD5KT8rtcW+uFeWFz/1W964l2O9/xTZEnhruQC
+ICTa1wLSeu9azRVbCYyyuxD/o+uAZzU8laENOzLDWAeoAHUA1tWNqdAXU/NqSqDH
+V0kCr+vH3CzTjNn3ZMgMiRkenwIAAAGgbLF8rQAABAMARjBEAiAc/n4jqpQKtTuM
+hEmi9xnLTfo+HOi3x2s69Bk0ihByeQIgUmS4u2T1HiJSYFkSs7hmWlTBaHXf8n6/
+jdxnF1APkosAdwBEwr0M6RQOZKXJSgGTClqhuzWXDgDuERaJaCocRNe1ZgAAAaBs
+sXzIAAAEAwBIMEYCIQDgRKNOCJEjpJc+kKrYtrTx8vj1VoPJX/bglnhBmW6iVQIh
+AKCKhE18UFtoUNg9sgvBzezBsuqQa58tuOV8FmSA9zHfMA0GCSqGSIb3DQEBCwUA
+A4IBAQBsZPQWHXoORGwMo8Phz36YFWDXS+ZRPh/cbRGoxCt+WnP8+SfgKWolvd7y
+PwxhjO66X8b5vTBxAMWosHWI7mny1Q9pmfa56vqQeRdIAAJA9SlwwGJeEQ9nvmgd
+JU5TPWTq+QVFgvSEkZJibeLYKq1XiCS6sIyI3usY4jfbCNpEIPA4OAdntxw2M/Xt
+45MUmy7yNoAiUhv43wqCHJCM0KrbXVaZXqaMrKHQ8cn9vHv75LK8nUx9Wh/dFHU6
+DGuztfNu/5NJ/2CK52/hbM2V9vIFRRnFPwpdrH1+8zrRinZj8zjoC5x9+FYocLRk
+xRapPYOFZkNIojbS48BO+wdQlYWt
+-----END CERTIFICATE-----
+subject=jurisdictionC=US, jurisdictionST=Delaware, businessCategory=Private Organization, serialNumber=3014267, C=US, ST=California, L=San Jose, O=PayPal, Inc., CN=ops.venmo.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 4826 bytes and written 1562 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

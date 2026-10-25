@@ -1,0 +1,73 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=*.figma.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M04
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jul 21 00:00:00 2026 GMT; NotAfter: Feb  3 23:59:59 2027 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M04
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug 23 22:26:35 2022 GMT; NotAfter: Aug 23 22:26:35 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFwzCCBKugAwIBAgIQBnILiqWhHwkFG7DfIKyt1TANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTA0MB4XDTI2MDcyMTAwMDAwMFoXDTI3MDIwMzIzNTk1OVowFjEU
+MBIGA1UEAwwLKi5maWdtYS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQDFbM8KypbneDmjJGauqVmN4CPAb6C+1B28SxiCwE7lp5TLQhNA2YMPi7Zk
+u27bcXbUqo4yEa61Fb7kVO/8EWMwL25EdAYncLn11B7Z/Svn3ekKxCutARJ11VD4
+ymhTtNZIQUzgKrS/3c05x+1sfuM+DwrP8FSFT5Ol9mnFCdJQHWB9BPLlfEjN9o1B
+SZg+dnQutxKX20eD2Fo2lUrvIsH8sGHaKJRBm6J3M46KdfQhf0fTqSlZIoeeN9xw
+9h1NoFlen+uHE+ylw79/5VJhbrYalpMlz3wrzgoypO1/+iPuV37YHK5tmKIvMN3e
+mZk0KOhiKliGcwMKnOlT7YGxTQ/3AgMBAAGjggLlMIIC4TAfBgNVHSMEGDAWgBQf
+UpJhVoJUf4Fm2B09CqoyXIfdCDAdBgNVHQ4EFgQUtfKAEQAXIXj4NXV6+A6aAq83
+kV0wIQYDVR0RBBowGIILKi5maWdtYS5jb22CCWZpZ21hLmNvbTATBgNVHSAEDDAK
+MAgGBmeBDAECATAOBgNVHQ8BAf8EBAMCBaAwEwYDVR0lBAwwCgYIKwYBBQUHAwEw
+OwYDVR0fBDQwMjAwoC6gLIYqaHR0cDovL2NybC5yMm0wNC5hbWF6b250cnVzdC5j
+b20vcjJtMDQuY3JsMHUGCCsGAQUFBwEBBGkwZzAtBggrBgEFBQcwAYYhaHR0cDov
+L29jc3AucjJtMDQuYW1hem9udHJ1c3QuY29tMDYGCCsGAQUFBzAChipodHRwOi8v
+Y3J0LnIybTA0LmFtYXpvbnRydXN0LmNvbS9yMm0wNC5jZXIwDAYDVR0TAQH/BAIw
+ADCCAX4GCisGAQQB1nkCBAIEggFuBIIBagFoAHYATGPcmOWcHauI9h6KPd6uj6tE
+ozd7X5uUw/uhnPzBviYAAAGfhCe6CQAABAMARzBFAiAsH0adXiNnM7M8KCVbMG3+
+N7Z2lqw8R8wE9jB6NtIMiwIhAImH4IbWD/1xGoFvG7Y15q9e4hvrRWZ9Mkg5pBnm
+pQ55AHYA1tWNqdAXU/NqSqDHV0kCr+vH3CzTjNn3ZMgMiRkenwIAAAGfhCe6PQAA
+BAMARzBFAiEAvpSoaj6mFh3izoiTyVlQ237351a+cYmWHfPuvVh/czICIG/ntPRe
+9HUApeQblZG49PkZWpKxOJhtToYhG69ACBNCAHYARMK9DOkUDmSlyUoBkwpaobs1
+lw4A7hEWiWgqHETXtWYAAAGfhCe6VgAABAMARzBFAiEA+m7zmxnSkTjzbpmKUQFl
+thZvjjTik2Pl/VU1zCv6BRkCIBlBHwPNfaB9q1bk25QMiayZCV7qMYYISE7NeUoB
+URa1MA0GCSqGSIb3DQEBCwUAA4IBAQCVHASI9a4rOjX51qnhqEQes6zIw9xS+eVQ
+mcj2YedRfS0nGR1sG5fiIo+CW37z34GaEcDz6q57ZOZQMq3jGdq4ocyFprbOX2YA
+uXXuF6zd12pt2KH99hEjvjPuMukNrz5FG3+kh28rBwbmOL6s0YwV3o6XT/KOlgxI
+R0e2HeqKXB1AT+EGc5erwPq7R2l/Tbay8aPz694BLHHokjYUCFZnlk6PZN8+9dTP
+bUUHI/b06F7IoBNSptGLW+8o6y4ZW/kPwMaVyuDHXYk58RKn41jbJFG6wzY38/31
+Z7n52R4vmVgBmYvWB8TFi/bPjpwJwmOG+e97fEvQ/llQhiEbfBWj
+-----END CERTIFICATE-----
+subject=CN=*.figma.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M04
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 5417 bytes and written 1562 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

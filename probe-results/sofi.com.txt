@@ -1,0 +1,77 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=*.sofi.com
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Nov  6 23:40:23 2025 GMT; NotAfter: Dec  8 23:40:23 2026 GMT
+ 1 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May  3 07:00:00 2011 GMT; NotAfter: May  3 07:00:00 2031 GMT
+ 2 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   i:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jan  1 07:00:00 2014 GMT; NotAfter: May 30 07:00:00 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGhTCCBW2gAwIBAgIIL9R7m2LhwjUwDQYJKoZIhvcNAQELBQAwgbQxCzAJBgNV
+BAYTAlVTMRAwDgYDVQQIEwdBcml6b25hMRMwEQYDVQQHEwpTY290dHNkYWxlMRow
+GAYDVQQKExFHb0RhZGR5LmNvbSwgSW5jLjEtMCsGA1UECxMkaHR0cDovL2NlcnRz
+LmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMTMwMQYDVQQDEypHbyBEYWRkeSBTZWN1
+cmUgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIwHhcNMjUxMTA2MjM0MDIzWhcN
+MjYxMjA4MjM0MDIzWjAVMRMwEQYDVQQDDAoqLnNvZmkuY29tMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvHzlCGUkjVr9TOnPCMIIiY5bVLe1Y0cWXtuZ
+MNLWttfdI9ft3hrxFjNMpiVIbF+j1+S2rSzRWPXlgfplGAonwFMiL8DIErxIXEc4
+TgE0nuHkW+k6hhbIY/gg7yqvGGAtu9pJkPpwCWzCR+T/j04JXFAcidRyAKBu6rJJ
+QqWFJvfmmyo/4M10drdDFMQb8qDEI9hN9XOUJ97GlrRmNZoBYOEISk7LbdyHdFlm
+h6xADm6Zny/1fe4/JxA7jEzoKSQifjewh8P3e0o+dDzY+eRJuUwrwympuj5AFFx1
+yHyRW+E/D050ejn3Q30fF6f4kbBdZ1GliD6w0RvS/K0JvTCngQIDAQABo4IDNzCC
+AzMwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIw
+DgYDVR0PAQH/BAQDAgWgMDkGA1UdHwQyMDAwLqAsoCqGKGh0dHA6Ly9jcmwuZ29k
+YWRkeS5jb20vZ2RpZzJzMS02Nzc4NS5jcmwwXQYDVR0gBFYwVDAIBgZngQwBAgEw
+SAYLYIZIAYb9bQEHFwEwOTA3BggrBgEFBQcCARYraHR0cDovL2NlcnRpZmljYXRl
+cy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5LzB2BggrBgEFBQcBAQRqMGgwJAYIKwYB
+BQUHMAGGGGh0dHA6Ly9vY3NwLmdvZGFkZHkuY29tLzBABggrBgEFBQcwAoY0aHR0
+cDovL2NlcnRpZmljYXRlcy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5L2dkaWcyLmNy
+dDAfBgNVHSMEGDAWgBRAwr0njsw0gzCiM9f7bLPwtCyAzjAfBgNVHREEGDAWggoq
+LnNvZmkuY29tgghzb2ZpLmNvbTAdBgNVHQ4EFgQUjyN4mCYQQBM145J7RlvEOsTr
+OIMwggF/BgorBgEEAdZ5AgQCBIIBbwSCAWsBaQB2ANdtfRDRp/V3wsfpX9cAv/mC
+yTNaZeHQswFzF8DIxWl3AAABmluK9QAAAAQDAEcwRQIgMA/Ec+Bz/O1T+gf5hcjE
+0QD2zOxwiIFg8MbZQP4/9QQCIQCa6ktiQksIJ1viUefqNMF0pDpzT6KRiTqgS/wP
+MJuNzAB3AMIxfldFGaNF7n843rKQQevHwiFaIr9/1bWtdprZDlLNAAABmluK9h8A
+AAQDAEgwRgIhANmJxJgC7EsDkO5EJFDM3zBtp4+AKmdrEDLCOCy2rvPXAiEAmZMj
+z+drwqyALfD/w+EPRyyLO3t54yIMgXxZESVHmzcAdgCsqzBwbOvshDH0E9L0kV8R
+HkIkQ7HypoxPPCs7px4CwwAAAZpbivbOAAAEAwBHMEUCIQDLeRJ+XkEaMk741eXi
+V0dx0T+j96YeMLBVxtf5L58LqgIgfdFhsXSX8lUo6EdRf5YBz6gGLB1h97mambAe
+BLZ/pLQwDQYJKoZIhvcNAQELBQADggEBAJ+jTcIZejpxr7uVSAfBx5Jx2+yN+UIq
+tiDX2LzG3K51vO0pWKG60n49yO75tCFLVrnfNUBzpvq992bfo5bHyqz1h2s4EmvQ
+8xTdxYYm5AQVPc+yWMWg/wFHEIMdfit3WKSx2J/qm/JhwoKOb1TVrOEZWSgW5DkP
+eOqjUo9tQ6lJw80eRKawKFmMzC7VU0L5Ro8H5RE0enoesEqfF/i2m6dgX/C/Vtob
+ioINn5uGl9DL5aP04Nb6eJx1e49BUgAIbHPB8UJdmwRMX+zblBerZYj0aJhSn0SX
+UlKi5IizzNx5KOa8h326uq6z/eCfmqIZZXYMWb/hI6JG0A/hc2yb+ss=
+-----END CERTIFICATE-----
+subject=CN=*.sofi.com
+issuer=C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 5654 bytes and written 1577 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

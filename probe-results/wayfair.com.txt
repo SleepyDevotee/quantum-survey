@@ -1,0 +1,98 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=wayfair.com
+   i:C=US, O=Let's Encrypt, CN=YE2
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Sep  5 08:13:59 2026 GMT; NotAfter: Dec  4 08:13:58 2026 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=YE2
+   i:C=US, O=ISRG, CN=Root YE
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
+ 2 s:C=US, O=ISRG, CN=Root YE
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X2
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+ 3 s:C=US, O=Internet Security Research Group, CN=ISRG Root X2
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: EC, (secp384r1); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDxTCCA0ugAwIBAgISBbaQ7xyFj58bRFiCvmINWWTXMAoGCCqGSM49BAMDMDMx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNZ
+RTIwHhcNMjYwOTA1MDgxMzU5WhcNMjYxMjA0MDgxMzU4WjAWMRQwEgYDVQQDEwt3
+YXlmYWlyLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABPpZMPmsPrHTW5F5
+KrVtLA2pv5vnLj6nFQDtMDBNRx68Ns4xhXPFGfpA6dPBGGuKlsenTHH8G0FYvd3H
+bdaRzIyjggJaMIICVjAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYIKwYBBQUH
+AwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUvP4jcD5yr2zJ5LsH7V1UcAwDqoIw
+HwYDVR0jBBgwFoAUuVnyjs8i8IbTN0j/dhQYuoLYVYcwMwYIKwYBBQUHAQEEJzAl
+MCMGCCsGAQUFBzAChhdodHRwOi8veWUyLmkubGVuY3Iub3JnLzBZBgNVHREEUjBQ
+gg1zLndheWZhaXIuY29tghJzZWN1cmUud2F5ZmFpci5jb22CDXQud2F5ZmFpci5j
+b22CC3dheWZhaXIuY29tgg93d3cud2F5ZmFpci5jb20wEwYDVR0gBAwwCjAIBgZn
+gQwBAgEwLgYDVR0fBCcwJTAjoCGgH4YdaHR0cDovL3llMi5jLmxlbmNyLm9yZy84
+OC5jcmwwggEKBgorBgEEAdZ5AgQCBIH7BIH4APYAdQDXbX0Q0af1d8LH6V/XAL/5
+gskzWmXh0LMBcxfAyMVpdwAAAaBw1z/ZAAAEAwBGMEQCICoBCo4LFKZ1/re2ao/N
+JMNE8O2O1cuPftt9eiOFtu5pAiBY4t11ZJvQL2Hw1a8MEXFyFTh2opqygNPdQpu+
+fSNqawB9AGz+UBlDqF6pFrxS0TPk3Mke8UEcfSWEINFzgJ4YGOs6AAABoHDXQFAA
+CAAABQAuBbFCBAMARjBEAiBHFdbl31gU2JQ/NOqfttSJsSanBCGHtqo1uykIfAks
+zQIgLPpdGt0QbuZpxZMzwpi4KZbQaDPoP8P+3oakyAZkKkowCgYIKoZIzj0EAwMD
+aAAwZQIwacfT57sGNOZHcnM+UW0Mzw30lecibxEl/1OnastksUwBO7F2TVaagtM/
+j2VNJLw4AjEA6tGsPV043fF9dFnXS7zbSeOOzJcBIj9RIvyn1lQCKOtH6huINwI7
+EmYt8pjF8orO
+-----END CERTIFICATE-----
+subject=CN=wayfair.com
+issuer=C=US, O=Let's Encrypt, CN=YE2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 4909 bytes and written 1564 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 88FBC5E0898DCC2D4A921B4F22A7D15BF3C96442A60FF717E6CBC36F7F7131EB
+    Session-ID-ctx: 
+    Resumption PSK: 8870A82C8A127D484EFA695BEE09C788C1050DB0169273F67CA0607D7CDC5A5B
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
+    0010 - a0 b3 eb 96 8e a4 ca 89-9f 01 af 50 be ef dc 9a   ...........P....
+    0020 - 70 ee 19 f0 5a 49 7b 20-ae a4 9b 56 ae 7c 2b 10   p...ZI{ ...V.|+.
+    0030 - fb ce 33 84 4d db ab de-be 25 4a 32 55 48 cf 8e   ..3.M....%J2UH..
+    0040 - 64 e9 1f 42 35 7a a9 cf-bc c3 91 21 e1 a5 6f 66   d..B5z.....!..of
+    0050 - 76 4e 7a 68 76 71 d9 6f-3d 02 91 23 35 77 c5 ce   vNzhvq.o=..#5w..
+    0060 - cc 24 ec 9a 5d 55 bf fc-df f4 3c 74 29 81 d9 6b   .$..]U....<t)..k
+    0070 - 75 ba 5a b5 48 44 a2 9b-1a d4 3c ad 25 fe 6c f3   u.Z.HD....<.%.l.
+    0080 - fb 45 8c 42 a2 8c 06 43-d3 1b be 8c b2 b5 27 73   .E.B...C......'s
+    0090 - 9e e0 10 d3 f0 88 bb be-99 8a 4b 6b d0 02 68 e0   ..........Kk..h.
+
+    Start Time: 1792921689
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

@@ -1,0 +1,106 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=California, L=San Francisco, O=Reddit, Inc., CN=*.reddit.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug 21 00:00:00 2026 GMT; NotAfter: Feb 16 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+yqzMkW+1eJLTRS6sGotN/8DYWNar2mSWDA==
+-----END CERTIFICATE-----
+subject=C=US, ST=California, L=San Francisco, O=Reddit, Inc., CN=*.reddit.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 4618 bytes and written 1563 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 4AFA026705D2559B465D8AC35A6AB94B4903244C72725F28C3BE920C3A91189D
+    Session-ID-ctx: 
+    Resumption PSK: 5773396537AC5B4DA47E0B65942243877DFDF1F44FD5BF4054212A7C000EFCE4
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
+    0010 - 21 7f 44 c9 04 a1 71 af-bf ca 95 0b 76 72 25 3a   !.D...q.....vr%:
+    0020 - 14 d3 b1 c1 b6 a7 dd 92-5f ca e9 ee 61 9f c1 f2   ........_...a...
+    0030 - b6 b1 bf 69 b6 0a 93 1b-a1 08 d6 13 d3 2f a5 bb   ...i........./..
+    0040 - 73 c7 a5 82 71 0c c7 8c-b3 9e 9c 39 30 81 a9 27   s...q......90..'
+    0050 - 2f 68 fd 32 74 30 58 0d-b5 b8 63 6e 8e d6 6f b0   /h.2t0X...cn..o.
+    0060 - 8f 6f 0f 32 c3 37 c8 a7-c8 d3 bb a9 1d b4 92 d5   .o.2.7..........
+    0070 - a4 b6 54 b5 b1 cb 05 b3-35 ad c1 2e f0 97 27 f6   ..T.....5.....'.
+    0080 - bf 2b 71 84 2e 2c 89 40-11 43 9f 7b 9d 12 43 12   .+q..,.@.C.{..C.
+    0090 - 2a 09 5d 4f 3a b4 e6 cc-b6 64 bb ca c8 52 aa 53   *.]O:....d...R.S
+
+    Start Time: 1792921673
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

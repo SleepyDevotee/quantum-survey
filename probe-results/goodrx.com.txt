@@ -1,0 +1,99 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=goodrx.com
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2025 Q4
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Dec  8 21:00:20 2025 GMT; NotAfter: Jan  9 21:00:19 2027 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2025 Q4
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jul 16 03:06:35 2025 GMT; NotAfter: Jul 16 00:00:00 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGYDCCBUigAwIBAgIQAX7b4k5rskDyEtBIClTtiTANBgkqhkiG9w0BAQsFADBY
+MQswCQYDVQQGEwJCRTEZMBcGA1UEChMQR2xvYmFsU2lnbiBudi1zYTEuMCwGA1UE
+AxMlR2xvYmFsU2lnbiBBdGxhcyBSMyBEViBUTFMgQ0EgMjAyNSBRNDAeFw0yNTEy
+MDgyMTAwMjBaFw0yNzAxMDkyMTAwMTlaMBUxEzARBgNVBAMMCmdvb2RyeC5jb20w
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDiu6iic+L7kjg7ImkJVbHH
+5RlBA9xMUuerXX8AfYI3d9S5+FmlO+45sHAvtF/xkHC0FbjBNrDV0eSbiVgmMzMt
+YH6GTDKFaotCDd7lGSkpLldk3ma1sAdtNgTQBD7nO9wgXWcQ9EEdH+ooAev7C4z9
+mVMOV0JreTnsoD62moFPFhZl3vtixTMnoSJCS7imshClIyEErAgYYleyr2x5/a+b
+oYeoiuZnPDRGO3xivCd3AbfLhE8mSUjbBknOW9siuj8B+pwc24xGfCNTJAxtKC/E
+x2SVywilQ66RcwY0W6p5X6/YPnoVkeMqqfPwNf9i9lo+xufLmPn4GwRC2J20bN4X
+AgMBAAGjggNnMIIDYzAVBgNVHREEDjAMggpnb29kcnguY29tMA4GA1UdDwEB/wQE
+AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHQYDVR0OBBYEFLhh
+Tc6+VkslwYsito2nhTXjFFC1MFcGA1UdIARQME4wCAYGZ4EMAQIBMEIGCisGAQQB
+oDIKAQMwNDAyBggrBgEFBQcCARYmaHR0cHM6Ly93d3cuZ2xvYmFsc2lnbi5jb20v
+cmVwb3NpdG9yeS8wDAYDVR0TAQH/BAIwADCBngYIKwYBBQUHAQEEgZEwgY4wQAYI
+KwYBBQUHMAGGNGh0dHA6Ly9vY3NwLmdsb2JhbHNpZ24uY29tL2NhL2dzYXRsYXNy
+M2R2dGxzY2EyMDI1cTQwSgYIKwYBBQUHMAKGPmh0dHA6Ly9zZWN1cmUuZ2xvYmFs
+c2lnbi5jb20vY2FjZXJ0L2dzYXRsYXNyM2R2dGxzY2EyMDI1cTQuY3J0MB8GA1Ud
+IwQYMBaAFLBDnjBw9t79VB4SOh3g92HL+yDHMEgGA1UdHwRBMD8wPaA7oDmGN2h0
+dHA6Ly9jcmwuZ2xvYmFsc2lnbi5jb20vY2EvZ3NhdGxhc3IzZHZ0bHNjYTIwMjVx
+NC5jcmwwggGHBgorBgEEAdZ5AgQCBIIBdwSCAXMBcQB2AByfaCzp+vBFaVD4G5aK
+h93bMhDYTObIsuOCUkrEz1mfAAABmv/D7qMAAAQDAEcwRQIgbHwxc0AqIgxMiNfX
+qaxiai6SaMu6A+2jBKe6KRk12zoCIQCII0zPRnmZJ20DiMDwK5QKMvO8B+l4sUDw
+2X/Kn5nxGgB+AI7KRwus3mrzogawpHqEt0b+H8a/lT4l5ptO5AJI88boAAABmv/D
+7yoACAAABQAAZWKtBAMARzBFAiEAvoPmxVAWGwMNAEG5sZnRYemco00Qgncep+3z
+8TsXsSQCIHoEAcwlYjcVBUhVnUxIh7vA1jbzYSUYbcQUaA2rgWfDAHcAYEyar3p/
+d18B1Ab8kg3ImesLHH34yVIb+voXdzuXi8kAAAGa/8Pv9wAABAMASDBGAiEAxChw
+j9XJrFSgwbuZ4hZis734YqIql0bGKdKfinOe8mcCIQC5pEc7kVCcPEkH863oYoG7
+0IfrZqcB09shoZ4cuyt+HzANBgkqhkiG9w0BAQsFAAOCAQEAG7iBZJzFSUHnB3Uo
+bwRBElmVxcr6yzWVDZDf6xkUvc+pu/0uZFUiGmRtKUPnfaGHm73Ec17lYDZvIfTr
+a32jKHfb+/GIIqOdjyFbuE/xJ+VLtcSEFw61iqX2ejExAoL0ruqM/IOsUeI41e4r
+WjkNzHznBdNCTYrmvBxFK5E/XT78BRAsEn1Myk3dKzZXSo4nApOPoMoVV6vQebnz
+cUfLR2rAfP2C1wqgM7fFdFJ8XlYJu2NkTfxaatEkJ5G0SS9MRaja9naPtyoOYqJi
+ivAAHhUnGsiwFucPTh2+mBj9BkiWZcOjGBoVwJ1IVS2YJTCSipvwKiiSE7IfBBXY
+OZfe8w==
+-----END CERTIFICATE-----
+subject=CN=goodrx.com
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2025 Q4
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3462 bytes and written 1584 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 72C23BA54171A1DC7D7FB4FFBEEA95168AA4B49C40F9E8CDE69155B482B90CFF
+    Session-ID-ctx: 
+    Master-Key: 0AAC788EFA7A023D7E612EBC913914B255952CA6B27FB129D7AB42C1BF88B163E4E6EC73E9A9CFA5FFA2D82055584193
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
+    0010 - 31 59 72 42 13 27 bf 99-71 cd 68 0f 90 3d b1 32   1YrB.'..q.h..=.2
+    0020 - 6d 2c a4 85 df 02 c7 bb-46 75 79 5d 25 a5 4c 77   m,......Fuy]%.Lw
+    0030 - 2a 3a 07 fc 9a b9 56 90-99 7c 4b b5 3a 2e fc d0   *:....V..|K.:...
+    0040 - e4 5b a0 b1 68 75 29 a9-7b fa 6f a1 6f a7 d5 b7   .[..hu).{.o.o...
+    0050 - bc c0 fc a1 72 b5 1f c8-a0 a4 19 21 8c ae 58 e4   ....r......!..X.
+    0060 - ab 42 62 d2 a9 83 c7 a6-98 79 5f f8 d3 f3 49 d9   .Bb......y_...I.
+    0070 - 0a 10 f2 15 5d e9 e4 a5-33 db 48 eb 7e 48 82 58   ....]...3.H.~H.X
+    0080 - a5 29 b3 3e 01 a0 ee 4e-8a 0d 96 0b c8 86 f0 93   .).>...N........
+    0090 - 16 2f 6d b7 96 2c 03 79-98 d6 72 38 6b d4 8b 37   ./m..,.y..r8k..7
+    00a0 - c7 a6 6f b8 5b ed 37 5d-02 26 8c 45 5a 3d db 9a   ..o.[.7].&.EZ=..
+    00b0 - 07 85 2f 6b 96 0a 59 45-4e 68 a1 8d f5 8c 20 42   ../k..YENh.... B
+
+    Start Time: 1792921660
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

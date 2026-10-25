@@ -1,0 +1,90 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=Massachusetts, L=Framingham, O=Staples, Inc., CN=www.staples.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep  8 00:00:00 2026 GMT; NotAfter: Mar 25 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIII7TCCB9WgAwIBAgIQDQNp9uDcR12b/mF7R6w2WjANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjYw
+OTA4MDAwMDAwWhcNMjcwMzI1MjM1OTU5WjBsMQswCQYDVQQGEwJVUzEWMBQGA1UE
+CBMNTWFzc2FjaHVzZXR0czETMBEGA1UEBxMKRnJhbWluZ2hhbTEWMBQGA1UEChMN
+U3RhcGxlcywgSW5jLjEYMBYGA1UEAxMPd3d3LnN0YXBsZXMuY29tMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAo/EvoyR/SWuCB7TgEYsLKaaTq0pIDYBt
+8OaGzyFOzic+QPnyTTpgmcwyzpubWex0h+R/kqu/LGw8H/Uk9uzDsryuTAZap+hf
+Lw7GkXpFN/nvz7urGrWMgYLft9BiMD9xWxNHSfU3SdJepGF16bmqGGl6qsChGdrC
+R/FjJl/ErXYeIUr9ql0iR6Qc+n2Mj6FSe3h5ykTeYlVyZRzhAvIx1Ibmm5uAFR/2
+PPqv8QGBc4ibQ5GbRo9cdsR9xFE00WhM2+39jdUdDckC+TidPWU9LoSoLpJ3os3k
+N2GNl2f5GrWc79xVESuNEsDV8mSlZqPAJ4TdgiL46K2eHd485X9uMwIDAQABo4IF
+nDCCBZgwHwYDVR0jBBgwFoAUdIWAwGbH3zfez70pN6oDHb7tzRcwHQYDVR0OBBYE
+FPVMFKf8+fZLbSLfApgX9iEvwpjbMIICNAYDVR0RBIICKzCCAieCD3d3dy5zdGFw
+bGVzLmNvbYIPYXBpLnN0YXBsZXMuY29tghJhcGkuc3RhcGxlc3BheS5jb22CD2Fw
+cC5zdGFwbGVzLmNvbYISYXBwLnN0YXBsZXNwYXkuY29tghlhc3NldHMuc3RhcGxl
+cy1zdGF0aWMuY29tgg5ibC5zdGFwbGVzLmNvbYISZGVzaWduLnN0YXBsZXMuY29t
+ghVkb2N1bWVudHMuc3RhcGxlcy5jb22CFGV4Y2hhbmdlLnN0YXBsZXMuY29tghRp
+ZGVudGl0eS5zdGFwbGVzLmNvbYIVaW1hZ2VzLnN0YXBsZXMtM3AuY29tghJpbnRh
+cGkuc3RhcGxlcy5jb22CDWsuc3RhcGxlcy5jb22CE2thcHRjaGEuc3RhcGxlcy5j
+b22CEWxvZ2luLnN0YXBsZXMuY29tgg1tLnN0YXBsZXMuY29tghttYXJrZXRpbmdh
+c3NldHMuc3RhcGxlcy5jb22CEG1kZnAuc3RhcGxlcy5jb22CEW1lZGlhLnN0YXBs
+ZXMuY29tgg9ta3Quc3RhcGxlcy5jb22CDm5kLnN0YXBsZXMuY29tghFwcmludC5z
+dGFwbGVzLmNvbYIScmViYXRlLnN0YXBsZXMuY29tghNyZXdhcmRzLnN0YXBsZXMu
+Y29tggtzdGFwbGVzLmNvbYISd3d3LnN0YXBsZXMtM3AuY29tghdwcmludHN0dWRp
+by5zdGFwbGVzLmNvbTA+BgNVHSAENzA1MDMGBmeBDAECAjApMCcGCCsGAQUFBwIB
+FhtodHRwOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwDgYDVR0PAQH/BAQDAgWgMBMG
+A1UdJQQMMAoGCCsGAQUFBwMBMIGfBgNVHR8EgZcwgZQwSKBGoESGQmh0dHA6Ly9j
+cmwzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2JhbEcyVExTUlNBU0hBMjU2MjAy
+MENBMS0xLmNybDBIoEagRIZCaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL0RpZ2lD
+ZXJ0R2xvYmFsRzJUTFNSU0FTSEEyNTYyMDIwQ0ExLTEuY3JsMIGHBggrBgEFBQcB
+AQR7MHkwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBRBggr
+BgEFBQcwAoZFaHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xv
+YmFsRzJUTFNSU0FTSEEyNTYyMDIwQ0ExLTEuY3J0MAwGA1UdEwEB/wQCMAAwggF9
+BgorBgEEAdZ5AgQCBIIBbQSCAWkBZwB1AExj3JjlnB2riPYeij3ero+rRKM3e1+b
+lMP7oZz8wb4mAAABoIFqdvIAAAQDAEYwRAIgfM6LO9Dzj9UxitExYdFLlTTn1voF
+u2oYHhO+roE6brYCIDuu84X2lpT2cYOi2MB+fy8ffppDlfSPtBo4DArbkVMBAHcA
+1tWNqdAXU/NqSqDHV0kCr+vH3CzTjNn3ZMgMiRkenwIAAAGggWp21gAABAMASDBG
+AiEAqrhpWxVbXv9g+GSGI2mPDOGU8YHOhlHnypzq196jd1cCIQCaIrWbMAyrboZP
+Ny/13zH2kyzv5dTMCCDmRkaOcugz5QB1AETCvQzpFA5kpclKAZMKWqG7NZcOAO4R
+FoloKhxE17VmAAABoIFqdyMAAAQDAEYwRAIgbAaFnhiONaiF36OZICCcsxdexSV6
+NL8ihJjrHGVtMo4CIDUzHz2ZkUbDpatO8vLp7eHBTYa20fvIoKZiI1h9N1U+MA0G
+CSqGSIb3DQEBCwUAA4IBAQC/c8xIbQ/CrzrZW7jEjG51GY8uanyAZdgUVU8mJMKa
+UiacaIrlzGqHtibGfk+xeShRRvRGn+YA+kLS9CzJqU0ekMmdgOpZZYxoCZaOsLF4
+wZS2CPzd3No6bmK/ICyDGw5yRHyCUa3H4Y3phbnYo+4m6xbvwUWOwgBqTndy32uZ
+MoiExWymvla++fTCA8+jYxIVAJmGBmMdyB4fPXy867fsCV9Pcl1IZvyq5SW9pEH8
+uJgj78m1cBzksAydkmSw0JkzUngE7ZlZ1ZHvNksW95OaBLxfNoXQh97Nc4g+SG/2
+jSsz6c28RtLLP/YHD2ZaN4ALy0ImgXHw0ZvQsCheYHg9
+-----END CERTIFICATE-----
+subject=C=US, ST=Massachusetts, L=Framingham, O=Staples, Inc., CN=www.staples.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 6089 bytes and written 1580 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

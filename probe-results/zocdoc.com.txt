@@ -1,0 +1,106 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=New York, L=New York, O=ZocDoc, Inc., CN=*.zocdoc.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct  5 00:00:00 2026 GMT; NotAfter: Apr 21 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+aZJ9gYue8kAPTTn4genJhSIHMTrE
+-----END CERTIFICATE-----
+subject=C=US, ST=New York, L=New York, O=ZocDoc, Inc., CN=*.zocdoc.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 4614 bytes and written 1563 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 8B209E56858611C4C62BB85D2F0BE4612CED776138DF545BFA7A8FFCFC859B42
+    Session-ID-ctx: 
+    Resumption PSK: 3FF886AAB68E4C79D9F1D47DF2A34127457B3E348C824BF2210AEF0511ECF374
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
+    0010 - 60 a6 1d 50 74 78 44 fc-fc d5 f9 99 e2 18 37 5c   `..PtxD.......7\
+    0020 - 33 a8 39 37 08 de 24 84-e3 38 57 d4 e2 8f ec 94   3.97..$..8W.....
+    0030 - 2b ef f9 e7 00 aa 78 ae-78 42 25 f4 13 ac ef 0d   +.....x.xB%.....
+    0040 - 8b f0 b5 c9 af 4a 34 cc-ca 2c 8e 03 2d 3a 4f 59   .....J4..,..-:OY
+    0050 - 84 dc 6e e0 9b 84 8e b4-0a 0f 4a c3 96 19 0c ac   ..n.......J.....
+    0060 - 4e 14 9d 83 40 8b 10 e5-fb 67 aa 50 0b 52 9d 13   N...@....g.P.R..
+    0070 - 0a d5 99 e8 21 ae 7e 61-6b 59 c4 6f 0a 04 a3 14   ....!.~akY.o....
+    0080 - 94 5c f5 02 a5 18 2c 2f-b2 d4 bc d0 14 19 05 c3   .\....,/........
+    0090 - 5e 02 4b fd 08 24 8d 70-18 90 d0 0c f0 20 7f e1   ^.K..$.p..... ..
+
+    Start Time: 1792921661
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

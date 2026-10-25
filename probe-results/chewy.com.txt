@@ -1,0 +1,67 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=Florida, L=Plantation, O=Chewy, Inc., CN=*.chewy.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Aug 25 00:00:00 2026 GMT; NotAfter: Mar 11 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G3
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Apr 14 00:00:00 2021 GMT; NotAfter: Apr 13 23:59:59 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFajCCBPCgAwIBAgIQA0RCScGWz966HtCh+GfDpzAKBggqhkjOPQQDAzBZMQsw
+CQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypEaWdp
+Q2VydCBHbG9iYWwgRzMgVExTIEVDQyBTSEEzODQgMjAyMCBDQTEwHhcNMjYwODI1
+MDAwMDAwWhcNMjcwMzExMjM1OTU5WjBgMQswCQYDVQQGEwJVUzEQMA4GA1UECBMH
+RmxvcmlkYTETMBEGA1UEBxMKUGxhbnRhdGlvbjEUMBIGA1UEChMLQ2hld3ksIElu
+Yy4xFDASBgNVBAMMCyouY2hld3kuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcD
+QgAEoERptzENTmHTcgujGL7Q8ysVFbZ7MRZLqvs2jlzc5YiLR60vOhygEIT2dluf
+4juTmVfErAkzi1YEWaNQzA1qW6OCA5EwggONMB8GA1UdIwQYMBaAFIoj655r1/k3
+XfltITl2mqFn3hCoMB0GA1UdDgQWBBQys0s4uCVndCQ5iddA9mbLtY0TLjAhBgNV
+HREEGjAYggsqLmNoZXd5LmNvbYIJY2hld3kuY29tMD4GA1UdIAQ3MDUwMwYGZ4EM
+AQICMCkwJwYIKwYBBQUHAgEWG2h0dHA6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAO
+BgNVHQ8BAf8EBAMCA4gwEwYDVR0lBAwwCgYIKwYBBQUHAwEwgZ8GA1UdHwSBlzCB
+lDBIoEagRIZCaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFs
+RzNUTFNFQ0NTSEEzODQyMDIwQ0ExLTIuY3JsMEigRqBEhkJodHRwOi8vY3JsNC5k
+aWdpY2VydC5jb20vRGlnaUNlcnRHbG9iYWxHM1RMU0VDQ1NIQTM4NDIwMjBDQTEt
+Mi5jcmwwgYcGCCsGAQUFBwEBBHsweTAkBggrBgEFBQcwAYYYaHR0cDovL29jc3Au
+ZGlnaWNlcnQuY29tMFEGCCsGAQUFBzAChkVodHRwOi8vY2FjZXJ0cy5kaWdpY2Vy
+dC5jb20vRGlnaUNlcnRHbG9iYWxHM1RMU0VDQ1NIQTM4NDIwMjBDQTEtMi5jcnQw
+DAYDVR0TAQH/BAIwADCCAYcGCisGAQQB1nkCBAIEggF3BIIBcwFxAHYATGPcmOWc
+HauI9h6KPd6uj6tEozd7X5uUw/uhnPzBviYAAAGgNkOr0QAABAMARzBFAiAltMI7
+F3/4i9po5d3rw0/NnvXLhF+KEE82zPVSyYNEFgIhALve8hE98Dh6mnHoG01WOmZg
+8/LeO7L8J5qiCclm1zYaAHYA1tWNqdAXU/NqSqDHV0kCr+vH3CzTjNn3ZMgMiRke
+nwIAAAGgNkOr1wAABAMARzBFAiAH6RI47pxFlnUBXYEbo9jEUzTX4X0F/NP18gxf
+J0FXrgIhAOMjVqgcDfqsJ9x1I/Pq6LRkSAn/UKXA93v19/DkgtJOAH8AjspHC6ze
+avOiBrCkeoS3Rv4fxr+VPiXmm07kAkjzxugAAAGgNkOsKAAIAAAFAArKb7AEAwBI
+MEYCIQDk0pH4zA5tuSWhKh2ZVT9StBDAHzlDF982Z+5jjoXGNgIhAO2EunIZjVXh
+VUQcOGrfA+9GxkwsgOz6499OjUpyJSmNMAoGCCqGSM49BAMDA2gAMGUCMF1FEmzy
+OL5n+KxuYMa/QfBEAqa/1Ja4wudwXvXpCHp5o+hBWPjUAXcpiUxqEDM6JAIxAPW9
+y9je7EmXrqKbM3BMKHSEJQg2uKFNv130w1fIvsZsgoCnB6pev686ja9nOA7++g==
+-----END CERTIFICATE-----
+subject=C=US, ST=Florida, L=Plantation, O=Chewy, Inc., CN=*.chewy.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 3751 bytes and written 1578 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

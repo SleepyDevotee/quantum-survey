@@ -1,0 +1,113 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=nytimes.com
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=Thawte TLS RSA CA G1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep  2 00:00:00 2026 GMT; NotAfter: Mar 19 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=Thawte TLS RSA CA G1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Nov  2 12:24:25 2017 GMT; NotAfter: Nov  2 12:24:25 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIIKDCCBxCgAwIBAgIQA8OvYftP/7sYHaxCHuxm0jANBgkqhkiG9w0BAQsFADBe
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR0wGwYDVQQDExRUaGF3dGUgVExTIFJTQSBDQSBHMTAe
+Fw0yNjA5MDIwMDAwMDBaFw0yNzAzMTkyMzU5NTlaMBYxFDASBgNVBAMTC255dGlt
+ZXMuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqDKBzP58+UrW
+ipPVL/J6U6Fg4UDGfEMYvXOfs5ygEww1xOaLvqji1WdbnF3hb2LxMDGTtCoE+5Ik
+W0vYfzWK2+/nKKUaL5O7Hj0KquHA+DjstgOPQCtAWsCzAtkVEYiHVfnAHLezz5tj
+qicQQWGTYJBm8WPT1E4evfHQbqCUFmp0zhWEJ1h4FFEEcahUUEHioE1DDTBlIRTa
+bhAQ4+uDbgAIubKz0JfYLWKVzJugPKL4fkQhTn1ZIEkQpmsbFPX+SykuyjrZ2O6z
+o3dL4XrQwKbZZnj+z7GUOdcXcqt23LuN1D9px0KmyX+eVCrs4lYKt+TWmjF/Y348
+ciIeXKhJHwIDAQABo4IFKDCCBSQwHwYDVR0jBBgwFoAUpYz+MszrDyzUGcYIuAAk
+iF3DxbcwHQYDVR0OBBYEFNpkjp3mKcuPSXJhIpijLuGzFQo+MIICKQYDVR0RBIIC
+IDCCAhyCC255dGltZXMuY29tghx3d3cuaG9tZWRlbGl2ZXJ5Lm55dGltZXMuY29t
+ghUqLmFwaS5kZXYubnl0aW1lcy5jb22CESouYXBpLm55dGltZXMuY29tghUqLmFw
+aS5zdGcubnl0aW1lcy5jb22CEyouYmxvZ3Mubnl0aW1lcy5jb22CFyouYmxvZ3Mu
+c3RnLm55dGltZXMuY29tgg0qLmRldi5ueXQuY29tgg0qLmRldi5ueXQubmV0ghEq
+LmRldi5ueXRpbWVzLmNvbYIRKi5uZXdzZGV2Lm55dC5uZXSCFSoubmV3c2Rldi5u
+eXRpbWVzLmNvbYIJKi5ueXQuY29tggkqLm55dC5uZXSCCyoubnl0Y28uY29tgg0q
+Lm55dGltZXMuY29tghkqLnBheWZsb3cuc2J4Lm55dGltZXMuY29tghEqLnNieC5u
+eXRpbWVzLmNvbYIVKi5zdGcubmV3c2Rldi5ueXQubmV0ghkqLnN0Zy5uZXdzZGV2
+Lm55dGltZXMuY29tgg0qLnN0Zy5ueXQuY29tgg0qLnN0Zy5ueXQubmV0ghEqLnN0
+Zy5ueXRpbWVzLmNvbYIQKi50aW1lc3RhbGtzLmNvbYIHbnl0LmNvbYIHbnl0Lm5l
+dIIJbnl0Y28uY29tgg50aW1lc3RhbGtzLmNvbYIjKi5teWFjY291bnQtcHJldmll
+dy5zdGcubnl0aW1lcy5jb20wPgYDVR0gBDcwNTAzBgZngQwBAgEwKTAnBggrBgEF
+BQcCARYbaHR0cDovL3d3dy5kaWdpY2VydC5jb20vQ1BTMA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwOwYDVR0fBDQwMjAwoC6g
+LIYqaHR0cDovL2NkcC50aGF3dGUuY29tL1RoYXd0ZVRMU1JTQUNBRzEuY3JsMHAG
+CCsGAQUFBwEBBGQwYjAkBggrBgEFBQcwAYYYaHR0cDovL3N0YXR1cy50aGF3dGUu
+Y29tMDoGCCsGAQUFBzAChi5odHRwOi8vY2FjZXJ0cy50aGF3dGUuY29tL1RoYXd0
+ZVRMU1JTQUNBRzEuY3J0MAwGA1UdEwEB/wQCMAAwggGHBgorBgEEAdZ5AgQCBIIB
+dwSCAXMBcQB2AExj3JjlnB2riPYeij3ero+rRKM3e1+blMP7oZz8wb4mAAABoGQa
+3pQAAAQDAEcwRQIgQLl47yEYU2ba+l7GaSWtVjq8y4AkxV6O1SBVAOlgbbkCIQDq
+sldc9tcYDQEi4k0uoS6rOQmlV+J9r0A57e8gXzvhigB3AETCvQzpFA5kpclKAZMK
+WqG7NZcOAO4RFoloKhxE17VmAAABoGQa3lkAAAQDAEgwRgIhAOYgEbuTdV236Kaa
+Fp06wyMDfmEuesPWA1nju8s1WyZrAiEA2Rn3IuNrf0B5gb52P2A5f8ReUYrfsmL4
+t8susMK119QAfgCigQAYc04Xbh1H4JVA84G6VGaXzWOoQ1BxbrgJTtrxDQAAAaBk
+Gt5LAAgAAAUAC572EwQDAEcwRQIgSHwJl0rinFrlcGQqC7gmjOhWO3tcex/uBW22
+CdkH1p0CIQCxVbUNoZTEq1HB7qyZ1M4gz42tN0O5d8p9G73AIsMBrTANBgkqhkiG
+9w0BAQsFAAOCAQEAKItnfzwmI9CPj/NLCeIXfj026EdMebSt2oFfpmBPV/IofjoX
+FyhSdB9hu3EWUpqi4HIxyUcOJq7IczRx7ZT8X3GJAHNxCwOdOz0Tx/uBwLJBfNgk
+8fL6m3bzm33xITkBwpBlvp4JwANHCV6Z5P5breLpjCqA3/5p7kbKJL9KRL+vWIDB
+zfF4jMMOaL8VOz4nZAdykvX3oz1o81xuRGZLh+CVabu3xXjtKg13xCLKXOJNaiH6
+QPEmPMaLFvLS5nyyZjpFLs9/UCmgTF6Ec5UUgfnJ2qzixx2VPB9PEjDe4lsq3vcH
+uAGVwpWxTEq6Q5xXVcIPk7HLdj6h6/Cq1casHA==
+-----END CERTIFICATE-----
+subject=CN=nytimes.com
+issuer=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=Thawte TLS RSA CA G1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 4896 bytes and written 1564 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 406F143C3F1B80261887F8E0E17906C6EE4E3F672E7D4F814E6EA686AE28F1D5
+    Session-ID-ctx: 
+    Resumption PSK: F31E1401BC9D15E45D41BE783CF86BBC4E3E1619DFD9E873D8EBD6E910518CDB
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
+    0010 - 68 07 fe c3 4c 7c 1c ca-c1 8e 70 a0 c3 12 b3 f7   h...L|....p.....
+    0020 - d1 8e 39 f1 aa 68 79 20-0e 07 9c b7 3e 90 01 ff   ..9..hy ....>...
+    0030 - ef 2f 1c 13 37 02 f9 05-80 3a 36 b0 1b fb b7 2d   ./..7....:6....-
+    0040 - cd d0 25 9b 13 75 ad 69-7b ec 31 6d fd 96 3f 7b   ..%..u.i{.1m..?{
+    0050 - 9f 33 28 c0 3f e2 ba c7-bc 06 86 c9 76 72 20 4f   .3(.?.......vr O
+    0060 - df 87 51 7a a9 f9 af 7c-7b 1a d1 2d 97 be 38 7b   ..Qz...|{..-..8{
+    0070 - b5 df 1a 1b bf 7b 1d 47-42 6e 42 e6 84 27 94 e4   .....{.GBnB..'..
+    0080 - 07 7f 29 7a bf 31 0e d0-39 49 7e 7b 52 e4 a6 30   ..)z.1..9I~{R..0
+    0090 - 72 6b 01 a5 a4 ce c9 dc-5f e8 d6 87 75 3b c0 7c   rk......_...u;.|
+
+    Start Time: 1792921697
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

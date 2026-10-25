@@ -1,0 +1,116 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=ucdavis.com
+   i:C=US, O=Let's Encrypt, CN=YR2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct  5 11:34:54 2026 GMT; NotAfter: Jan  3 11:34:53 2027 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=YR2
+   i:C=US, O=ISRG, CN=Root YR
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
+ 2 s:C=US, O=ISRG, CN=Root YR
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: RSA, 4096 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIICTCCBvGgAwIBAgISBQqWhCOI2Pe94Xc/KxWy1FO8MA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNZUjIwHhcNMjYxMDA1MTEzNDU0WhcNMjcwMTAzMTEzNDUzWjAWMRQwEgYDVQQD
+Ewt1Y2RhdmlzLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANTI
+ohtQtMPS3zXs2GXxZ5usAu2EFlj0teDUA9MOIIMHlA/981lV/83HaEFSuX4YX7ld
+Sh9LkyVxnl3ruN8q6PVcofbIGmijCF3uDwPfNNwGeAHUFe7QAtudzvVPS1ZYuP6i
+dvM8thjuoBPtvh2P6a3nPILKlz7ela+rjDynYVJCO8Y77S1j1c1QVDlM0S3zZMrh
+/ff5C4gzlR41eNIqIFxMWW4W4AURYH9qOcMxTpyiSnAemqoIDEt7NIxoQp1wnuY5
+cvMnLhqllRcBhbpbC4BNGjSDke4ebk65gW7FiYDnOiFFlTy2Hoc5frzZYSbjzEq+
+X6QP2exQ0NVrTeIRQ+sCAwEAAaOCBTIwggUuMA4GA1UdDwEB/wQEAwIFoDATBgNV
+HSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSCom89Vkxz
+ljXYIlvuf+uFN8aieDAfBgNVHSMEGDAWgBRAFS0mee0yIJ7fmnId1jIfgQyBDDAz
+BggrBgEFBQcBAQQnMCUwIwYIKwYBBQUHMAKGF2h0dHA6Ly95cjIuaS5sZW5jci5v
+cmcvMIIDLQYDVR0RBIIDJDCCAyCCFzIxc3RjZW50dXJ5LnVjZGF2aXMuZWR1ghth
+ZHZhbmNpbmdoZWFsdGgudWNkYXZpcy5lZHWCFWFnZ2llaGVyby51Y2RhdmlzLmVk
+dYIWYWdnaWVzdm90ZS51Y2RhdmlzLmVkdYIRYmxvZ3MudWNkYXZpcy5lZHWCFGNh
+bGVuZGFyLnVjZGF2aXMuZWR1ghpjYXBpdGFsY3VsdHVyZS51Y2RhdmlzLmVkdYIZ
+Y2xpbWF0ZWNoYW5nZS51Y2RhdmlzLmVkdYIYY29tbWVuY2VtZW50LnVjZGF2aXMu
+ZWR1ghNjb250YWN0LnVjZGF2aXMuZWR1ghVjdXJpb3NpdHkudWNkYXZpcy5lZHWC
+FGQ3LXRvLWQ4LnVjZGF2aXMuZWR1ghRkYXRlbGluZS51Y2RhdmlzLmVkdYIUZGlh
+bG9ndWUudWNkYXZpcy5lZHWCE2VnZ2hlYWQudWNkYXZpcy5lZHWCFWVtZXJnZW5j
+eS51Y2RhdmlzLmVkdYIQZm9vZC51Y2RhdmlzLmVkdYIOZ28udWNkYXZpcy5lZHWC
+GWludGVyc2VjdGlvbnMudWNkYXZpcy5lZHWCFG1hZ2F6aW5lLnVjZGF2aXMuZWR1
+ghJtYWpvcnMudWNkYXZpcy5lZHWCEG5ld3MudWNkYXZpcy5lZHWCGW9uZWNhbGlm
+b3JuaWEudWNkYXZpcy5lZHWCFW9uZWhlYWx0aC51Y2RhdmlzLmVkdYITb3V0Z3Jv
+dy51Y2RhdmlzLmVkdYIWc2FjcmFtZW50by51Y2RhdmlzLmVkdYISc2VhcmNoLnVj
+ZGF2aXMuZWR1gh50d2VudHlmaXJzdGNlbnR1cnkudWNkYXZpcy5lZHWCC3VjZGF2
+aXMuY29tggt1Y2RhdmlzLmVkdYISdW5mb2xkLnVjZGF2aXMuZWR1ghl1bmZvbGRw
+b2RjYXN0LnVjZGF2aXMuZWR1ghh3d3cuZGF0ZWxpbmUudWNkYXZpcy5lZHWCFHd3
+dy5uZXdzLnVjZGF2aXMuZWR1gg93d3cudWNkYXZpcy5jb22CD3d3dy51Y2Rhdmlz
+LmVkdTATBgNVHSAEDDAKMAgGBmeBDAECATAuBgNVHR8EJzAlMCOgIaAfhh1odHRw
+Oi8veXIyLmMubGVuY3Iub3JnLzYxLmNybDCCAQwGCisGAQQB1nkCBAIEgf0EgfoA
++AB9AI7KRwus3mrzogawpHqEt0b+H8a/lT4l5ptO5AJI88boAAABoQwN+X0ACAAA
+BQAcvMevBAMARjBEAiA5j6hmy1POuGfkxoLplEbVkXHRtoYU6cfOIgYMXP60iwIg
+Gy+DIAaRp9O3POboPchvnAkF2gywqrs+W6dladUZXOEAdwBgTJqven93XwHUBvyS
+DciZ6wscffjJUhv6+hd3O5eLyQAAAaEMDfnzAAAEAwBIMEYCIQC7JO5RNowMRu5a
+EdRrlEt8yLckDpZB/n9bjsgtxj1HrwIhAMVPXMophpUQ/kNlkicJV5FDTP/ihjya
+3mTUt5nEnRmOMA0GCSqGSIb3DQEBCwUAA4IBAQCT1dYYQFvEtfaO8zuIB6Bj8Q6k
+HNgrVN7DgBZoz3YCo87m9PvFgGjF/py4lUdXmT7KE2UfIgU3X8gm8iNjKqJ9TjTG
+7yvAEArnk8Hy/mWM2h2W2Mov4Zrqqtr5OXZUszNXidoe/kcjYiqvXjhKSAOq9sn6
+GjhhCVN6luzkQDLup1Nlzio/Zafo0YVOgWj9Iw1KpQLMINcCXV1KOz6fVtNrUl1X
+XTd6bEJ15wcwNfVjySNNS2rpbfzG9rmSLn12qfBxbAgMl3jcqCylGqbFRznymZO+
+yOyQ41fd4bPwPaO4XB2z/n7GludhbUFTOzkpTcNA5qcgONIKecSt8BX4mRIc
+-----END CERTIFICATE-----
+subject=CN=ucdavis.com
+issuer=C=US, O=Let's Encrypt, CN=YR2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 6477 bytes and written 1564 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 98215B6BE5CF3AEDE8494DB9F076AC9334D87B27BB054810D77A78DB0A9BA12E
+    Session-ID-ctx: 
+    Resumption PSK: 154E7696DADDA6933476BDD24F0DD7530E6495950E0A6FF479DD6C6C187C381B
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
+    0010 - cc 34 9e a4 0c 0b b2 2f-ac 16 0e f2 15 bb 55 fc   .4...../......U.
+    0020 - 19 40 50 71 39 55 9c 4f-d4 b1 81 1d c2 6a e5 42   .@Pq9U.O.....j.B
+    0030 - b6 a6 54 0e 97 14 47 64-82 e7 ee a9 e1 0f 84 e4   ..T...Gd........
+    0040 - 22 96 b2 cf 5f db e8 55-9b 6a 87 cc bf 92 20 9b   "..._..U.j.... .
+    0050 - 99 4b a1 d4 ed 9a 2a 55-9d ca 21 dd a1 77 e2 19   .K....*U..!..w..
+    0060 - e3 27 a3 a2 2c 48 8b e3-92 29 dc 02 7d 8f 5e 2d   .'..,H...)..}.^-
+    0070 - 72 80 58 7b 42 08 5e c3-7d 79 2e ca cf 07 80 3b   r.X{B.^.}y.....;
+    0080 - 51 36 d6 98 8a 42 c0 94-92 6f 3b c5 6b bd ae e2   Q6...B...o;.k...
+    0090 - f8 09 86 a4 9f 2d ff 0e-64 20 d1 9c 28 9f bb 46   .....-..d ..(..F
+
+    Start Time: 1792921608
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 8192
+---
+read R BLOCK

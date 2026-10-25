@@ -1,0 +1,109 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=California, O=Cedars-Sinai Health System, CN=cedars-sinai.org
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug  3 00:00:00 2026 GMT; NotAfter: Feb 17 23:59:59 2027 GMT
+ 1 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Mar 21 23:59:59 2036 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+ 3 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Feb  1 00:00:00 2010 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIILvzCCCiegAwIBAgIQDdZu9iGZV7iQhL22uCepKzANBgkqhkiG9w0BAQsFADBg
+MQswCQYDVQQGEwJHQjEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFB1YmxpYyBTZXJ2ZXIgQXV0aGVudGljYXRpb24gQ0EgT1YgUjM2
+MB4XDTI2MDgwMzAwMDAwMFoXDTI3MDIxNzIzNTk1OVowYjELMAkGA1UEBhMCVVMx
+EzARBgNVBAgTCkNhbGlmb3JuaWExIzAhBgNVBAoTGkNlZGFycy1TaW5haSBIZWFs
+dGggU3lzdGVtMRkwFwYDVQQDExBjZWRhcnMtc2luYWkub3JnMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyeTJreEfmwsDY0Cr/jkk18Ww3ZqMU6lHlcPM
+EQMz/3sIc6qRkvbgeAchzeYEOd/WwUDqnY3SdWuxvhC9iD8EtRlYQUs++jwiduFG
+MpifoN5b9XBd0XqXS519rP0E7Am7rBGEZ57mCm9Ms5my/Wic2TJsDa5yWVJG5YoM
+UIu35h/cQPGqogXzpAf0zVr7mkUZ70S5hX8n58X7QRjxkmPMqZ3lvxmDJtYXtHIR
+327onDzmpf5cvIoFvpuVQU3dc1gt88eBK4cYzRO6HU5phTLtFH5fQ0R4ZBDt6O25
+J81l043Wx+TSHehAL/HNj+YyCkOxAIAeB3i+1qUzBZLyRkbKAwIDAQABo4IH8TCC
+B+0wHwYDVR0jBBgwFoAU42Z0u3BojSxdTg6mSo+bNyKcgpIwHQYDVR0OBBYEFHlN
+FiF9dURcMZO++MHFnhIOajg2MA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAA
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBKBgNVHSAEQzBBMDUGDCsG
+AQQBsjEBAgEDBDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQ
+UzAIBgZngQwBAgIwVAYDVR0fBE0wSzBJoEegRYZDaHR0cDovL2NybC5zZWN0aWdv
+LmNvbS9TZWN0aWdvUHVibGljU2VydmVyQXV0aGVudGljYXRpb25DQU9WUjM2LmNy
+bDCBhAYIKwYBBQUHAQEEeDB2ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LnNlY3Rp
+Z28uY29tL1NlY3RpZ29QdWJsaWNTZXJ2ZXJBdXRoZW50aWNhdGlvbkNBT1ZSMzYu
+Y3J0MCMGCCsGAQUFBzABhhdodHRwOi8vb2NzcC5zZWN0aWdvLmNvbTCCAY0GCisG
+AQQB1nkCBAIEggF9BIIBeQF3AHUAHJ9oLOn68EVpUPgbloqH3dsyENhM5siy44JS
+SsTPWZ8AAAGfyOjYFAAABAMARjBEAiAj5/XW9J0HyShVCRSqk0rRfKPDYwYHPFf9
+T8tseGZ6xgIgGngcX5M63MFj9zhjywAbNaGBoyTeQqQPLniHak5qYnwAfgCOykcL
+rN5q86IGsKR6hLdG/h/Gv5U+JeabTuQCSPPG6AAAAZ/I6NhgAAgAAAUAB6rjGwQD
+AEcwRQIhAKS1IROR/A6xadwu/drrEUgu05xCpJUN3SptlIC1bj7DAiBg+YpnUeK7
+BTdUPmhFgvkOPQoZCHHRCBu7Kr9HWsnVdAB+AFlubDOGlLJZcqJWyKDo3ZBKdugI
+PdqHOwEIOCgUPO5ZAAABn8jo2FQACAAABQAAWQ1XBAMARzBFAiAiCXU9+qQyR6uw
+qt+xHvwcvpUPAlPoykcNAFH8q1xhXwIhANP/bFv+98LfG/Sy4Y+Ph+xZHHwFNtSU
+fS3vjDoYVsZAMIIEsgYDVR0RBIIEqTCCBKWCEGNlZGFycy1zaW5haS5vcmeCImFl
+bS1hdXRob3ItZGV2LTY1LmNlZGFycy1zaW5haS5vcmeCH2FlbS1hdXRob3ItZGV2
+LmNlZGFycy1zaW5haS5vcmeCI2FlbS1hdXRob3ItcHJvZC02NS5jZWRhcnMtc2lu
+YWkub3JngiBhZW0tYXV0aG9yLXByb2QuY2VkYXJzLXNpbmFpLm9yZ4IkYWVtLWF1
+dGhvci1zdGFnZS02NS5jZWRhcnMtc2luYWkub3JngiFhZW0tYXV0aG9yLXN0YWdl
+LmNlZGFycy1zaW5haS5vcmeCI2FlbS1kaXNwYXRjaGVyLWRldi5jZWRhcnMtc2lu
+YWkub3JngiVhZW0tZGlzcGF0Y2hlci1zdGFnZS5jZWRhcnMtc2luYWkub3JngiJh
+ZW0tcHVibGlzaGVyLWRldi5jZWRhcnMtc2luYWkub3JngiNhZW0tcHVibGlzaGVy
+LXByb2QuY2VkYXJzLXNpbmFpLm9yZ4IkYWVtLXB1Ymxpc2hlci1zdGFnZS5jZWRh
+cnMtc2luYWkub3JnghthdXRob3ItZGV2LmNlZGFycy1zaW5haS5vcmeCHGF1dGhv
+ci1wcm9kLmNlZGFycy1zaW5haS5vcmeCHWF1dGhvci1zdGFnZS5jZWRhcnMtc2lu
+YWkub3JnghRiaW8uY2VkYXJzLXNpbmFpLm9yZ4IXYmlvZGV2LmNlZGFycy1zaW5h
+aS5vcmeCFWJsb2cuY2VkYXJzLXNpbmFpLmVkdYIQY2VkYXJzLXNpbmFpLmVkdYIU
+ZGV2LmNlZGFycy1zaW5haS5lZHWCFGRldi5jZWRhcnMtc2luYWkub3Jngh5maW5k
+LWEtZG9jdG9yLmNlZGFycy1zaW5haS5lZHWCGG1ldHJpY3MuY2VkYXJzLXNpbmFp
+Lm9yZ4IMbXljc2xpbmsub3JnghRteWNzbGlua2Rldi5jc21jLmVkdYIWbXljc2xp
+bmtzdGFnZS5jc21jLmVkdYIVbXljc2xpbmt0ZXN0LmNzbWMuZWR1ghlzbWV0cmlj
+cy5jZWRhcnMtc2luYWkub3JngiRzdGFnZS1maW5kLWEtZG9jdG9yLmNlZGFycy1z
+aW5haS5lZHWCFnN0YWdlLmNlZGFycy1zaW5haS5lZHWCFnN0YWdlLmNlZGFycy1z
+aW5haS5vcmeCG3ZpZGVvdmlzaXQuY2VkYXJzLXNpbmFpLm9yZ4IYd3d3LWRldi5j
+ZWRhcnMtc2luYWkuZWR1ghh3d3ctZGV2LmNlZGFycy1zaW5haS5vcmeCHHd3dy1w
+cmV2aWV3LmNlZGFycy1zaW5haS5lZHWCHHd3dy1wcmV2aWV3LmNlZGFycy1zaW5h
+aS5vcmeCGXd3dy1wcm9kLmNlZGFycy1zaW5haS5lZHWCGXd3dy1wcm9kLmNlZGFy
+cy1zaW5haS5vcmeCGnd3dy1zdGFnZS5jZWRhcnMtc2luYWkuZWR1ghp3d3ctc3Rh
+Z2UuY2VkYXJzLXNpbmFpLm9yZ4IUd3d3LmNlZGFycy1zaW5haS5lZHWCFHd3dy5j
+ZWRhcnMtc2luYWkub3JnMA0GCSqGSIb3DQEBCwUAA4IBgQAJenrxbdU4220etXas
+Pr41UnlGdx3e8aSGB+0Yfy5+wXXuYMcd2BT7Tk5r6F7Iocsey9GT+1a8b6odklqW
+PvVdjVlVsjZD9wbtIaaex4Bu3oEB6KShSKIdWBNvGbdP2t/RNDWgf9ak98GDgR+L
+YJUCiAWkncBIAHBDiCX9oTllfGxL3xTnViZWWr+2yKDMmdIR2y4BnDcWojrWhd11
+hml59upEUYYuV8O/apswSPFfySgh4xyNyHcxXTQuDc/z2SMRrPrg87wCs8NjcnNT
++VQNPHvDpp0qUcz6funvTXgSLng4ih1b7spB1+JWtiPnTDDxfC00hzeS9+1u24yO
+KevPtZSv2YwK0+xbUuuN54Qn7WLZfwM6QtEKwRd2h5g9YDBPKL/kmy3tH/LnDSEY
+Zt3jZ67Yk/08iiActTw5hGUPr5WdtNAFLYEnV8lO07b9U1zzv9B909PcA3njM5Qb
+Y4owB8IUpUf4dAIWdk683YONV3MzwnR6YEBVwt7XjNjmVz8=
+-----END CERTIFICATE-----
+subject=C=US, ST=California, O=Cedars-Sinai Health System, CN=cedars-sinai.org
+issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 8503 bytes and written 1923 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

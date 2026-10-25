@@ -1,0 +1,92 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=New York, O=Cornell University, CN=cornell.edu
+   i:C=US, O=InCommon, LLC, CN=InCommon RSA OV SSL CA 3
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jun  4 00:00:00 2026 GMT; NotAfter: Dec 19 23:59:59 2026 GMT
+ 1 s:C=US, O=InCommon, LLC, CN=InCommon RSA OV SSL CA 3
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Nov  6 00:00:00 2025 GMT; NotAfter: Nov  5 23:59:59 2035 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+ 3 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Feb  1 00:00:00 2010 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGiTCCBPGgAwIBAgIRAI3srpMkeGfnFzJmyqnr3TcwDQYJKoZIhvcNAQELBQAw
+SDELMAkGA1UEBhMCVVMxFjAUBgNVBAoTDUluQ29tbW9uLCBMTEMxITAfBgNVBAMT
+GEluQ29tbW9uIFJTQSBPViBTU0wgQ0EgMzAeFw0yNjA2MDQwMDAwMDBaFw0yNjEy
+MTkyMzU5NTlaMFMxCzAJBgNVBAYTAlVTMREwDwYDVQQIEwhOZXcgWW9yazEbMBkG
+A1UEChMSQ29ybmVsbCBVbml2ZXJzaXR5MRQwEgYDVQQDEwtjb3JuZWxsLmVkdTCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOSPwAPSpWfEBk39KQV/inHq
+3cTG2KPL4gFaS4ZjBWme/ntUhSa4O6FnCLEkz6746AWLU3uPNCImhYu3APT3B0m1
+kA0oCkfjOY4qHXvwbKEaJpjmA2zinNXmG5v+zeJ361PG4pjNBugzpjHh39nJuEvE
+goBr+QVUNOTNgOAbSPef3nSZVyCx0d81tgQgWRIdFyqczXGLurbNOjAGDLpcebdI
+jnTwG+ntKw7diUZqrTWSxmpiRDgQxOsszsJdIWP4mCJ1JxDUSIuSPWQW6aatDAmR
+WiIBndi9fgA5SpDcVvkohE9R5qOkxXqb6TtVGdnymzaJPTtLvBTiVEaRGVZhfMkC
+AwEAAaOCAuEwggLdMB8GA1UdIwQYMBaAFNoiNz/l03Ta2Xk+0XJt1ZNLIDevMB0G
+A1UdDgQWBBTWqSUInbOQzxNsiwbIeHzCooJ3gTAOBgNVHQ8BAf8EBAMCBaAwDAYD
+VR0TAQH/BAIwADATBgNVHSUEDDAKBggrBgEFBQcDATATBgNVHSAEDDAKMAgGBmeB
+DAECAjA/BgNVHR8EODA2MDSgMqAwhi5odHRwOi8vY3JsLnNlY3RpZ28uY29tL0lu
+Q29tbW9uUlNBT1ZTU0xDQTMuY3JsMG8GCCsGAQUFBwEBBGMwYTA6BggrBgEFBQcw
+AoYuaHR0cDovL2NydC5zZWN0aWdvLmNvbS9JbkNvbW1vblJTQU9WU1NMQ0EzLmNy
+dDAjBggrBgEFBQcwAYYXaHR0cDovL29jc3Auc2VjdGlnby5jb20wFgYDVR0RBA8w
+DYILY29ybmVsbC5lZHUwggGHBgorBgEEAdZ5AgQCBIIBdwSCAXMBcQB2ANdtfRDR
+p/V3wsfpX9cAv/mCyTNaZeHQswFzF8DIxWl3AAABnpQvu4QAAAQDAEcwRQIhAPrp
+s/0JxCMtX77WhW4J4yAM9ujyegpB9+gimgI3oWnbAiAnIoC6XUKspEBr1Emk7j/v
+ObE5kuKcBgGvwSJxWBv6OwB3AMijxH/Hs625NWsBP2p6Em3jOk5DpcZG+ZetOXWZ
+Hc+aAAABnpQvu9MAAAQDAEgwRgIhANbm25laq53fLEdnYUkp/m8/EuNT7x35RAca
+65MqEJTnAiEAg3t59IUt5+LA+biILYU8hPhFrOm5bn0RouO2RZ1cIngAfgCOykcL
+rN5q86IGsKR6hLdG/h/Gv5U+JeabTuQCSPPG6AAAAZ6UL700AAgAAAUAAzshygQD
+AEcwRQIgUKvtdhj1dcRdheM5aaCbrTWEeTntgo7jrRw7GI7TSRICIQDsvxielG7B
+N5ofAWAOkXkNUOGpuGXApZwEZrLF86ctoDANBgkqhkiG9w0BAQsFAAOCAYEAXXWt
+H/1HrpmzK2NmQLOCCGzdR58G9oSTJWsoXZyKyDZcwvDbn6/Td6x3UZJgCz8FsCQ6
+Nki9UVCropydI+4NurOmmFqO7BfbqXLQPAky+tl7OWD7xmXfjWLXPOs2p+zMZ0yd
+pb75glt2k25Rrt+4tfeAfZ7+pKqsFSTqxsliCgRkI6P7YCmZIIroY1A5FyGsFtko
++7aWj9ODQBNyziHmdia6fl/SYGR7OQdtu57g13io04BHjgFltgYhHFqkk2WUYpCV
+pGMx8IMC11p3BdJFMrj1JG5h4naX2evlJOWc1cAZJEbaes/EY4QzrpKdxZmcCQOo
+YMUUgshHuMA6GYoOtsHbcKevQ6E8XFZIe3/LtnX23ziLiaP8QUqXyvT565H0ffJP
+UB784wlbGTMzKcEJkEKgZ/Y7PXqHE2XRHKdXVxnlJYzp9L7UJFUErzGKkM2LvTQZ
+SmKyfIXW0AgmyNkUsV2FH8gxnCFcIj+KFuVIL01TEUWA6qRIkEpLKYBe0NvT
+-----END CERTIFICATE-----
+subject=C=US, ST=New York, O=Cornell University, CN=cornell.edu
+issuer=C=US, O=InCommon, LLC, CN=InCommon RSA OV SSL CA 3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pkcs1_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 6965 bytes and written 1626 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 12481462668D8947FA119C98CDD530CFE1C86D755094B152C77F51119E6580DF
+    Session-ID-ctx: 
+    Master-Key: 8836376F10EA381AAE1A96A10CBCEAB10F0AC10E22241845999FFB3D5A71002838B5A2ABBEB27549EDD56F8A8B713E7B
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1792921597
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

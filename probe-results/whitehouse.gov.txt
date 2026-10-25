@@ -1,0 +1,66 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=whitehouse.gov
+   i:C=US, O=Let's Encrypt, CN=YE1
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Oct  5 18:02:08 2026 GMT; NotAfter: Jan  3 18:02:07 2027 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=YE1
+   i:C=US, O=ISRG, CN=Root YE
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
+ 2 s:C=US, O=ISRG, CN=Root YE
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X2
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+ 3 s:C=US, O=Internet Security Research Group, CN=ISRG Root X2
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: EC, (secp384r1); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDnTCCAyOgAwIBAgISBZEKKW0FkiUdIUcJL938XBSRMAoGCCqGSM49BAMDMDMx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNZ
+RTEwHhcNMjYxMDA1MTgwMjA4WhcNMjcwMTAzMTgwMjA3WjAZMRcwFQYDVQQDEw53
+aGl0ZWhvdXNlLmdvdjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABOMNNUuQBZfV
+mM0oGa9vfqVEhd3RxII7PasqG/QqKaTnIcVBlVSvjdot7xZgaJpEKC7vfGncXNWX
+wmq4XdZMtiijggIvMIICKzAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYIKwYB
+BQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUKDwZJFpfNZijNRXbm6vUlfcs
+bKcwHwYDVR0jBBgwFoAUuyDKRwv+1+Wc+Y8JKqOMN0WxvNgwMwYIKwYBBQUHAQEE
+JzAlMCMGCCsGAQUFBzAChhdodHRwOi8veWUxLmkubGVuY3Iub3JnLzAtBgNVHREE
+JjAkgg53aGl0ZWhvdXNlLmdvdoISd3d3LndoaXRlaG91c2UuZ292MBMGA1UdIAQM
+MAowCAYGZ4EMAQIBMC4GA1UdHwQnMCUwI6AhoB+GHWh0dHA6Ly95ZTEuYy5sZW5j
+ci5vcmcvMTguY3JsMIIBCwYKKwYBBAHWeQIEAgSB/ASB+QD3AHUARMK9DOkUDmSl
+yUoBkwpaobs1lw4A7hEWiWgqHETXtWYAAAGhDXB/bgAABAMARjBEAiAMjSR6nYYt
+P0MaQU6veD5P8dpw/8kxOgMjPZYUZ692FwIgV6NjJmqcEfg7Mek6Y+GyKBkIcave
+f+fxAzB+0bC8cycAfgCOykcLrN5q86IGsKR6hLdG/h/Gv5U+JeabTuQCSPPG6AAA
+AaENcH9NAAgAAAUAHPiOEwQDAEcwRQIgPOMPK3K7s/uuL4g35ZMjZF0Xzof9peMN
+zdq2LqyYI+YCIQDBuM4W/MBOru8G9B/B3GKGDe47IdipNNg0BfjfyFQaXDAKBggq
+hkjOPQQDAwNoADBlAjEA9IIKCMvlHTAo2KRXf7kzIL9R9PhSiVOLsgU6Rm+qWedU
+LMBqTUCPDx75RqBl26dkAjADbW3LFoOj7K9utcl4kf7NwcW4mnB7YE82WpwblMHD
+oAQrWg++Y5zN1sDOtqXeMOc=
+-----END CERTIFICATE-----
+subject=CN=whitehouse.gov
+issuer=C=US, O=Let's Encrypt, CN=YE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3872 bytes and written 1886 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

@@ -1,0 +1,81 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=Pennsylvania, O=The PNC Financial Services Group, Inc., CN=www.pnc.com
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jul 30 00:00:00 2026 GMT; NotAfter: Feb 13 23:59:59 2027 GMT
+ 1 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Mar 21 23:59:59 2036 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHQzCCBaugAwIBAgIRAKnqL28Vw3Y2XL6sVRpuQnMwDQYJKoZIhvcNAQELBQAw
+YDELMAkGA1UEBhMCR0IxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBQdWJsaWMgU2VydmVyIEF1dGhlbnRpY2F0aW9uIENBIE9WIFIz
+NjAeFw0yNjA3MzAwMDAwMDBaFw0yNzAyMTMyMzU5NTlaMGsxCzAJBgNVBAYTAlVT
+MRUwEwYDVQQIEwxQZW5uc3lsdmFuaWExLzAtBgNVBAoTJlRoZSBQTkMgRmluYW5j
+aWFsIFNlcnZpY2VzIEdyb3VwLCBJbmMuMRQwEgYDVQQDEwt3d3cucG5jLmNvbTCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMEJtXeWNH5n+/lZmMxLwRt4
+OEnZcgwGmxEYaV6bFWXjc0O1wvSRYANBoBIUl1X4uaYFjdMssyEC/X3gS9WUbXkl
+zmlmZIVBba3CLHeCCj6WMSlVrXD/8/Gxb0TQ2MXlV85BcMIK2HUX4N4zr5kE1tsi
+1mXIOthLi83Dg2YndHlJy5SUPo8tj/YL6/+104qFGZDVSbQQBVomwGmoccj0j9mj
+qEHbLiguYA3oOiGlccf6aMw8WbauxRpiKuBfmXKLNywOafZVdGJOvZEGnmYv5MPG
+htS7SFsbAwhBI9T0a7ItLm0Ib6p1EnipBGe0n4iJN/x8H/tNrK69X9gC6Y6F6RkC
+AwEAAaOCA2swggNnMB8GA1UdIwQYMBaAFONmdLtwaI0sXU4OpkqPmzcinIKSMB0G
+A1UdDgQWBBTcGF2ufCQTATFUwTLJkZe02nbXbjAOBgNVHQ8BAf8EBAMCBaAwDAYD
+VR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSgYDVR0g
+BEMwQTA1BgwrBgEEAbIxAQIBAwQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0
+aWdvLmNvbS9DUFMwCAYGZ4EMAQICMFQGA1UdHwRNMEswSaBHoEWGQ2h0dHA6Ly9j
+cmwuc2VjdGlnby5jb20vU2VjdGlnb1B1YmxpY1NlcnZlckF1dGhlbnRpY2F0aW9u
+Q0FPVlIzNi5jcmwwgYQGCCsGAQUFBwEBBHgwdjBPBggrBgEFBQcwAoZDaHR0cDov
+L2NydC5zZWN0aWdvLmNvbS9TZWN0aWdvUHVibGljU2VydmVyQXV0aGVudGljYXRp
+b25DQU9WUjM2LmNydDAjBggrBgEFBQcwAYYXaHR0cDovL29jc3Auc2VjdGlnby5j
+b20wggGQBgorBgEEAdZ5AgQCBIIBgASCAXwBegB2AByfaCzp+vBFaVD4G5aKh93b
+MhDYTObIsuOCUkrEz1mfAAABn7DRhU8AAAQDAEcwRQIhAMQymqidsEgcKpnQ6wP2
+HhuPJ2mw9gJh9UEsx5+dBUbtAiBM8iTv0b/7/A5CraTcBjOuJWGmtU2QHrP4SCUo
+hQGGFQB/AI7KRwus3mrzogawpHqEt0b+H8a/lT4l5ptO5AJI88boAAABn7DRiFgA
+CAAABQAHTWBlBAMASDBGAiEAupVyLexPgdWUG1emWRSTTNFI1tWoPnem1MdasDw0
+gp0CIQCPCIzuyd7qNFcoPCfpU34fiXTZ8Ke1O0vDZiL3VC3XFAB/AFlubDOGlLJZ
+cqJWyKDo3ZBKdugIPdqHOwEIOCgUPO5ZAAABn7DRhXYACAAABQAAVbPsBAMASDBG
+AiEAnyjY/V9LjnEeJopPEMQ3DrV1vDQe47M4S2ufZMdn0cECIQDskfjf8w8Wsm0o
+NhZs+VpvpFKragvV0+kBaR5U+kNCoTArBgNVHREEJDAiggt3d3cucG5jLmNvbYIH
+cG5jLmNvbYIKcHYucG5jLmNvbTANBgkqhkiG9w0BAQsFAAOCAYEASUa1GAkeNbEL
+09ov+3laSDhRGBLXLHpuWrOQHVejqRiXnfAaFAATx1//fZaCD2snkCnSSoU6+B7D
+29jujqfhkk3+2aYPJPhltFwfZhj9/GW6NjMqcRBNn0p4+4fjaOf/lbqkY4fXOUfL
+i6M1TQ57qKAhtgpIxaQfK96hHl3bVnAndxrin7u6qKS0Sxh8Uw8pYxSedbFnBMi3
+waHDXn5Apr+sfgsVh+nnyyhQUQ7XBayKDTod4cSlkGk/SIkKuhacyIY8mrC3UTEA
+zhf/slvzQUvQoZv+WCLNT4cLc+RWAk912xY4crVsrfKa9DxkMspToCKDVWln48mu
+CxX50AKEDnzQ5i+HwD7bkht1jegCxleHnioTkdRfWdhgnoQ4mV/3a0mAC+8/mgAL
+cEJmprezu6EJWR06nssiUT1Fn5QodDG8X5EMQlz22VS/N6R2TmyBESlVa9J/Jjtv
+U7rqWFef4DlBQIc7caJlNWD084WRrBJju0a1KC5TEQrdnT2A5aVH
+-----END CERTIFICATE-----
+subject=C=US, ST=Pennsylvania, O=The PNC Financial Services Group, Inc., CN=www.pnc.com
+issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 6826 bytes and written 1576 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

@@ -1,0 +1,107 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=www.costco.com
+   i:C=US, O=Certainly, CN=Certainly Intermediate R1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct 12 19:58:02 2026 GMT; NotAfter: Nov 11 19:58:01 2026 GMT
+ 1 s:C=US, O=Certainly, CN=Certainly Intermediate R1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Root Certificate Authority - G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jun 22 00:00:00 2022 GMT; NotAfter: Jun 21 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHDDCCBfSgAwIBAgISeGPKuwQ4QLd+gaZ75Y33AGOKMA0GCSqGSIb3DQEBCwUA
+MEUxCzAJBgNVBAYTAlVTMRIwEAYDVQQKEwlDZXJ0YWlubHkxIjAgBgNVBAMTGUNl
+cnRhaW5seSBJbnRlcm1lZGlhdGUgUjEwHhcNMjYxMDEyMTk1ODAyWhcNMjYxMTEx
+MTk1ODAxWjAZMRcwFQYDVQQDEw53d3cuY29zdGNvLmNvbTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAMr5VTZCoLrxY0pL6qlt1arBzLFxPIdP4ZzYEsrc
+ygCiY3DqoUM8p5ozPEgD1hiiktjqJX4jxRfU8pBRuMTggQGXQOArM+MDLFOo0k2l
+X0xpGVKHr8/rtwElF9PZ31S8GkpV8p5xKBNFCvJoegWcZxhoKt+N/PXvKc1rim/1
+9gK3lhbXFd9fh80RZNVM3DW6DePz5cR9IFDjvSQmwLshErLnW4/7Gw2PLR7Fdfq8
+yZ7JVTILhuFp2Y2KQoXCJZtUbd7rzzIkADcFouPOGkoXGK7xYyQORhIcnZsr03ew
+UcztskeTGj79wQ+N1q1n/4Gs4XAQm7h1mykElgPjAd2/IB8CAwEAAaOCBCAwggQc
+MA4GA1UdDwEB/wQEAwIFoDATBgNVHSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8E
+AjAAMB0GA1UdDgQWBBTNCV/ShrE+v/lkvWgPuLsTqZ0xozAfBgNVHSMEGDAWgBS9
+l53fodgbJZnjDAQGiWQS12UkxzA3BggrBgEFBQcBAQQrMCkwJwYIKwYBBQUHMAKG
+G2h0dHA6Ly9pbnQtcjEuY2VydGFpbmx5LmNvbTCCAgkGA1UdEQSCAgAwggH8ggpj
+b3N0Y28uY29tgg9jb3N0Y28ucGhhcm1hY3mCGmNvc3Rjb2J1c2luZXNzcHJpbnRp
+bmcuY29tgg1jb3N0Y29nYXMuY29tgg1jb3N0Y29nYXMubmV0ghRjb3N0Y29nYXNz
+dGF0aW9uLmNvbYIUY29zdGNvZ2Fzc3RhdGlvbi5uZXSCEmNvc3Rjb3BoYXJtYWN5
+LmNvbYIXY29zdGNvd2F0ZXJkZWxpdmVyeS5jb22CE2Nvc3Rjb3dob2xlc2FsZS5j
+b22CEGNwc2lhLmNvc3Rjby5jb22CEWtzOHVzZXJwb3J0YWwuY29tggxtLmNvc3Rj
+by5jb22CE3BoYXJtYWN5LmNvc3Rjby5jb22CDnd3dy5jb3N0Y28uY29tgh53d3cu
+Y29zdGNvYnVzaW5lc3NwcmludGluZy5jb22CEXd3dy5jb3N0Y29nYXMuY29tghF3
+d3cuY29zdGNvZ2FzLm5ldIIYd3d3LmNvc3Rjb2dhc3N0YXRpb24uY29tghh3d3cu
+Y29zdGNvZ2Fzc3RhdGlvbi5uZXSCFnd3dy5jb3N0Y29waGFybWFjeS5jb22CG3d3
+dy5jb3N0Y293YXRlcmRlbGl2ZXJ5LmNvbYIXd3d3LmNvc3Rjb3dob2xlc2FsZS5j
+b22CFXd3dy5rczh1c2VycG9ydGFsLmNvbTATBgNVHSAEDDAKMAgGBmeBDAECATBC
+BgNVHR8EOzA5MDegNaAzhjFodHRwOi8vY3Jscy5jZXJ0YWlubHkuY29tLzE3MTgy
+MjYyNDUzMDAyNTE0LzkuY3JsMIIBBgYKKwYBBAHWeQIEAgSB9wSB9ADyAHcAlE5D
+h/rswe+B8xkkJqgYZQHH0184AgE/cmd9VTcuGdgAAAGhMecd0gAABAMASDBGAiEA
+jmhKxvyLZvrfxWrEk8/50mWf7P7Eeb9hgUQHYON2pd0CIQC9dvle5fdvPqW1qapk
+DNgQz6Rwkn4Qx7w1sQ3DCEOwBQB3ANdtfRDRp/V3wsfpX9cAv/mCyTNaZeHQswFz
+F8DIxWl3AAABoTHnHd0AAAQDAEgwRgIhANPfbvdjvyX3gXfncmb45s9OqSFDr3/H
+8Sux8PijSxU5AiEAn63lOjrUTb1B59nChFLKCci0kb0gWeFVnqTL3UxWRMswDQYJ
+KoZIhvcNAQELBQADggEBAA04Qu8IeTSxObp6x/R6ASAnohAkXZFyafmW9e5aqdBQ
+RLsy7gbJJuOI6TaiWZopRcCuwup4aoDAbndiwyDOCEnduyOjHQi6gIjA7s1Q8Pyc
+bhIzNohn/TuX0CyuYP2qUkN9ZSkHGm3tXWnReGfoPGMAYqb4QkL9zXlWb8xbnk5z
+2OcZRnd5IyL0Qb3ZF9ggf8a9IMMuCy4N81uWdSYoB+vxlgLyclv2iHiHmodMd4B5
+xDYIr9hROH9YbL0nQsYaGl9EvyANZASHBv1tOL7hc3ogKZxlFzoERA0nt3alIl1W
+d4XKoZr4zEyJy78WYSZOFQm/TmQB46jJ6MkoUW/FY6U=
+-----END CERTIFICATE-----
+subject=CN=www.costco.com
+issuer=C=US, O=Certainly, CN=Certainly Intermediate R1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 4633 bytes and written 1563 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: DCD9407326FA2A423099F44F3E71309BC658C8B0D5E5F65DAFD1A811C1B060C3
+    Session-ID-ctx: 
+    Resumption PSK: 658EE996A5A554F49500FB5E7FFC61CFACB942E52EB34DB8F9A03FFEB53860B7
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
+    0010 - 5e 13 fa 09 15 b5 d0 8f-63 e0 df a7 99 eb 7e 45   ^.......c.....~E
+    0020 - 1e eb 12 25 9d b2 0e 88-80 da 48 ab fd b7 72 2d   ...%......H...r-
+    0030 - 8c 28 e3 15 d2 3d ef e8-8a c1 13 53 f1 f1 4e 2b   .(...=.....S..N+
+    0040 - 0a a7 e3 ab 87 38 37 38-6a 2b cc 03 37 69 bf 87   .....878j+..7i..
+    0050 - ff ef 92 b1 1d 71 bd e5-b7 e3 1a 51 e7 bc e6 96   .....q.....Q....
+    0060 - 51 3e a3 43 b3 ee 7a 5e-6e c2 40 50 f9 a6 bc 87   Q>.C..z^n.@P....
+    0070 - 3b c5 ae 5a f5 0e 02 1d-0c c1 e7 95 72 42 cd 71   ;..Z........rB.q
+    0080 - 50 4f 4e 31 e3 1e bc ac-80 6d e8 0f 48 e6 fc 9b   PON1.....m..H...
+    0090 - 40 66 0b 15 e8 f9 55 8e-0f b0 70 3a 07 72 40 86   @f....U...p:.r@.
+
+    Start Time: 1792921688
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 8192
+---
+read R BLOCK

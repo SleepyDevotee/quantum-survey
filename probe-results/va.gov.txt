@@ -1,0 +1,88 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=www.va.gov
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Dec 20 00:00:00 2025 GMT; NotAfter: Jan 18 23:59:59 2027 GMT
+ 1 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Mar 21 23:59:59 2036 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGezCCBOOgAwIBAgIQCh9Nsi3aGflyoNpfi9+OxjANBgkqhkiG9w0BAQsFADBg
+MQswCQYDVQQGEwJHQjEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFB1YmxpYyBTZXJ2ZXIgQXV0aGVudGljYXRpb24gQ0EgRFYgUjM2
+MB4XDTI1MTIyMDAwMDAwMFoXDTI3MDExODIzNTk1OVowFTETMBEGA1UEAxMKd3d3
+LnZhLmdvdjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAL4hrIYtwCLX
+6OA6HIBn/+f46gXDqztR8g7DCt9WVKR1ge+7wyV+A25NXEAMW36jfILLWdYbj2Np
+etDKpxn4Evs9/yx4ZYJZ2UJdqKyAlKw6Ns0yEK6l4HVZlTh77KKPXicGrth1v//S
+AvJPTh0GPzGHa0RrI3+lH/n0YpFW2eN33jf5WrTEFWES+lSIx2JyrHSWNerbEILg
+/Mjxmn8DCurV3uw84CWnFYVhcPDuQbRQMpufsoPcQF9ZRDcG9iVIhtLCWgY75Zmv
+DtmNP47Bfgd+JhEFns1taGy+j2HBqsGBgWfLTKdlxk+vzHssVLtldXsj7wMcZM37
+lnALWtePNHECAwEAAaOCAvowggL2MB8GA1UdIwQYMBaAFGjAEhYYDq/O9oemMlej
+RlFdywcnMB0GA1UdDgQWBBROXusr0oIjgymyvpddxvnp+cB8TDAOBgNVHQ8BAf8E
+BAMCBaAwDAYDVR0TAQH/BAIwADATBgNVHSUEDDAKBggrBgEFBQcDATBJBgNVHSAE
+QjBAMDQGCysGAQQBsjEBAgIHMCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGln
+by5jb20vQ1BTMAgGBmeBDAECATCBhAYIKwYBBQUHAQEEeDB2ME8GCCsGAQUFBzAC
+hkNodHRwOi8vY3J0LnNlY3RpZ28uY29tL1NlY3RpZ29QdWJsaWNTZXJ2ZXJBdXRo
+ZW50aWNhdGlvbkNBRFZSMzYuY3J0MCMGCCsGAQUFBzABhhdodHRwOi8vb2NzcC5z
+ZWN0aWdvLmNvbTAdBgNVHREEFjAUggp3d3cudmEuZ292ggZ2YS5nb3YwggGOBgor
+BgEEAdZ5AgQCBIIBfgSCAXoBeAB1AGBMmq96f3dfAdQG/JINyJnrCxx9+MlSG/r6
+F3c7l4vJAAABmzkjsAcAAAQDAEYwRAIgIWNKlhK+108o2aGPq2caI+7rqbXI6USY
+E922Is0hjYMCIEVb7Lq+qJyABdzFY5e56e/R6qgRKLztx957nKnR6NTrAH4AjspH
+C6zeavOiBrCkeoS3Rv4fxr+VPiXmm07kAkjzxugAAAGbOSOxkgAIAAAFAACYcPAE
+AwBHMEUCIA/rcXny8X5cBlJRHNKSw0KH6jJteeXomrzzv69RjtavAiEAvQ8ssqvZ
+X5BGBOD+8oD1giwn4C7fJNEYzcRfxkhqSFsAfwBZbmwzhpSyWXKiVsig6N2QSnbo
+CD3ahzsBCDgoFDzuWQAAAZs5I7HRAAgAAAUAAALJzwQDAEgwRgIhAJLBMboyEUY4
+9pN789Xk6TKBjPNjljoakryDv+DVqEGyAiEAoaGeUs5vLi0JpQwj+MLQ5UD0JB56
+f2yB3smS0EPfXHowDQYJKoZIhvcNAQELBQADggGBAHv5Py98hUTZjwdCK+ukmQBd
+KTrluW3tCgRuOvi2J+4nTH7+tTsQ9lsRkH03x4+Imn+QUp0Oq3AzvKqzu+qAKq3s
+HzmPJuD0/ZuOjC2mHUaamMrg10ZamMjNfnlZrQRLe+jQUnB/AhSSf5VfPGJ8/L2c
+3hC7e+TCHTneJYRo1E1fe0tDL+Kaw139uHmOWEvcAKbU4QKdkGa7Tpw4bNyfdK3a
+VNj277BtQ0vMXK8LYIkGYbfMmxJBQCjPC/2mRrxcpBasG5AGiwUTSpVefNZ1Ejy2
+r5xKnyU9T+rqLBtvJ/AlEWw6ozIja7T+7yH8+Wg2i3wy+dp3sAT3J7c1duzK5hri
+K1AbclVKh6neV1rfBbLHYN7NNTD2CjzMDb5l1PjcvBnV4i4WWXPcY8HRdwIGk4EV
+FzQdPStRLDxKCoA02qviswa7ju5mV5ndRz6M2ouWxp/DthSVjsIWRImnI83sCJ1S
+yhiLxo5Zp4SqKquNzlBheYc00sswQ/ZUFL1Dwbck9w==
+-----END CERTIFICATE-----
+subject=CN=www.va.gov
+issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pkcs1_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 5199 bytes and written 1621 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 9E6481DFB268B48307ADDC519931DC8871D30D9D1A002DF1F7E3A51D6AC12C9B
+    Session-ID-ctx: 
+    Master-Key: E1D5945181C81C0558AD3BEF7A5A9E68EC4229D091F98A0EA020C3284021452191FEBDE89C25C6E58FBE56CBA2326FAC
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1792921617
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

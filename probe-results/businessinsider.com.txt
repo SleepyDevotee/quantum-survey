@@ -1,0 +1,99 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=businessinsider.com
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2026 Q1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Feb 11 19:00:25 2026 GMT; NotAfter: Mar 15 19:00:24 2027 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2026 Q1
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct 15 03:09:08 2025 GMT; NotAfter: Oct 15 00:00:00 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGcTCCBVmgAwIBAgIQAY4od5Cl+U8J/I8HFT3VRzANBgkqhkiG9w0BAQsFADBY
+MQswCQYDVQQGEwJCRTEZMBcGA1UEChMQR2xvYmFsU2lnbiBudi1zYTEuMCwGA1UE
+AxMlR2xvYmFsU2lnbiBBdGxhcyBSMyBEViBUTFMgQ0EgMjAyNiBRMTAeFw0yNjAy
+MTExOTAwMjVaFw0yNzAzMTUxOTAwMjRaMB4xHDAaBgNVBAMME2J1c2luZXNzaW5z
+aWRlci5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCqTDZIAW11
+Fgmi4INdOJ4IlfFD0XutXqNPTt9rfEA3+fMm8TJD3iyfufjXIOtMe5nXzcyj/4ye
+qGbN2YdVhsxFwp8bSyo7Ig3nAWf1hv+ldVR6IOb7g8gUMKKPsMD96b8Zggsh0cWS
+r10sXg46HtktrMZR528znpMpu8GDHu0LH6nUx0jP7sJ6IWbLolMQPeCfVSHbYP5k
+ejvRa+N4Rmi3OowPif3GwO8hf3PaOgGaVjKitHjtT1O5yJNRLdbCoZueVgA7X7OV
+I1B4+j1uH3WvjM5EMHfxm7dhp6Vhu0A7i0w6N2Q7Tgj1GGNvHIWqYYDP+eq1awJU
+FNjZlq+d/hjRAgMBAAGjggNvMIIDazAeBgNVHREEFzAVghNidXNpbmVzc2luc2lk
+ZXIuY29tMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwHQYDVR0OBBYEFOvT2Uwt4nEwMOOHVGOaBRqKs3L2MFcGA1UdIARQME4w
+CAYGZ4EMAQIBMEIGCisGAQQBoDIKAQMwNDAyBggrBgEFBQcCARYmaHR0cHM6Ly93
+d3cuZ2xvYmFsc2lnbi5jb20vcmVwb3NpdG9yeS8wDAYDVR0TAQH/BAIwADCBngYI
+KwYBBQUHAQEEgZEwgY4wQAYIKwYBBQUHMAGGNGh0dHA6Ly9vY3NwLmdsb2JhbHNp
+Z24uY29tL2NhL2dzYXRsYXNyM2R2dGxzY2EyMDI2cTEwSgYIKwYBBQUHMAKGPmh0
+dHA6Ly9zZWN1cmUuZ2xvYmFsc2lnbi5jb20vY2FjZXJ0L2dzYXRsYXNyM2R2dGxz
+Y2EyMDI2cTEuY3J0MB8GA1UdIwQYMBaAFIeC8Vq1jbvlpOTHD4fmzJZmWIPJMEgG
+A1UdHwRBMD8wPaA7oDmGN2h0dHA6Ly9jcmwuZ2xvYmFsc2lnbi5jb20vY2EvZ3Nh
+dGxhc3IzZHZ0bHNjYTIwMjZxMS5jcmwwggGGBgorBgEEAdZ5AgQCBIIBdgSCAXIB
+cAB2AByfaCzp+vBFaVD4G5aKh93bMhDYTObIsuOCUkrEz1mfAAABnE4TgGcAAAQD
+AEcwRQIhAIEztGcms6z1i+WFB5jPo9uNwQkow5o3XkzDvun9198CAiBj1hF4uczS
+uyj+ZkF/4ni22sO8bbQdqhddTDSLjM2uZgB+AI7KRwus3mrzogawpHqEt0b+H8a/
+lT4l5ptO5AJI88boAAABnE4Tg/0ACAAABQACnSjSBAMARzBFAiAUocvOcGcNzeJN
+vzJ00gIaY3/p8Xl0zqdofus0Dmn/vwIhAPLhA8IofH7dyew4R/JoUumUwk+3CBRi
+D55SpqBZ99esAHYAYEyar3p/d18B1Ab8kg3ImesLHH34yVIb+voXdzuXi8kAAAGc
+ThOEzwAABAMARzBFAiBEB8rC3SopnnowJ47R8cr91FeKZ0RsFLEMXca99+K6lQIh
+ALJ+wZkzebBnefiqAjJFTsllPWjFJCZp1w95cEBoxHMwMA0GCSqGSIb3DQEBCwUA
+A4IBAQB2hjObN4ETYieMdHb2ikVKKD8iKkT0fGheFOqPqRh0/tI8D+sIVAwMkvrU
+mqiBwHWcivDQxlbtO4cN/MbfyAuCxBcpFpegt5sALaH2GsYaalU6LKDEd8VQ6UFi
+TOTme0di2EbgC9+74pIOPNytI+fMrpmHaSP1JHte+G+JnJNeyZdCz0Zs+1l5ueTJ
+yQn3+iWsjolXFeXQDLMR21eHzu4wkfNlfFj1Rc4fc4d/UBCQTh9g07JGNseDgP6B
+c0UxYXHJDgMk6R8/9tv4R49JVe/gvJHphdPaWO3B20sHAcNISPvVR0XuESEDf1eB
+W2xn95af1KXXaFPf6LF1gamX1Lx6
+-----END CERTIFICATE-----
+subject=CN=businessinsider.com
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2026 Q1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3479 bytes and written 1593 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 391F15DCAC2A28EC120AD1DFC868BC3E22CA8E1746282B23F83D19FDBEBAC7BF
+    Session-ID-ctx: 
+    Master-Key: A0E71D80357998B507B677673D063A485C2DD655B5B7C82B2BEFB277BBD65DF4ED76A3666AD2811AE4EA2D5B5B83E455
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
+    0010 - 28 54 06 50 55 9a 39 b2-67 96 b9 32 7b fd 34 fc   (T.PU.9.g..2{.4.
+    0020 - 97 63 05 4f 30 67 0d 9e-f2 35 a9 72 f7 5b d5 92   .c.O0g...5.r.[..
+    0030 - e5 35 03 bf ef f8 2b 62-2e e3 08 d8 a4 86 27 11   .5....+b......'.
+    0040 - 61 a1 ff bc 98 48 d5 82-0a 42 6c 1d 63 54 cc 76   a....H...Bl.cT.v
+    0050 - 1d d6 d5 42 df ac 02 3c-f1 a5 e3 0b cf c6 14 f1   ...B...<........
+    0060 - b4 9a c5 65 cb ed 3e de-00 01 0b c7 7c 9c f3 a8   ...e..>.....|...
+    0070 - 15 5f fb 45 a4 d1 a1 1f-00 86 b1 54 39 bd 73 dd   ._.E.......T9.s.
+    0080 - e3 b5 f6 6c 9d 46 02 93-ba 5d 13 2e 42 b9 dd a5   ...l.F...]..B...
+    0090 - 58 05 77 f2 00 b1 ec d5-e8 f3 f1 70 a9 8d 4c 93   X.w........p..L.
+    00a0 - 8f 54 8f 85 d7 b6 35 fd-23 3d a2 74 cd 23 61 44   .T....5.#=.t.#aD
+    00b0 - df 8f 41 cc 53 6a 88 b8-69 ae f0 c1 15 42 c2 6b   ..A.Sj..i....B.k
+
+    Start Time: 1792921701
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

@@ -1,0 +1,66 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=apnews.com
+   i:C=US, O=Let's Encrypt, CN=YE2
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Oct 16 15:51:31 2026 GMT; NotAfter: Jan 14 15:51:30 2027 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=YE2
+   i:C=US, O=ISRG, CN=Root YE
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
+ 2 s:C=US, O=ISRG, CN=Root YE
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X2
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+ 3 s:C=US, O=Internet Security Research Group, CN=ISRG Root X2
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: EC, (secp384r1); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDkDCCAxegAwIBAgISBpgnqYyMrxg/5LDqgo/rfiFAMAoGCCqGSM49BAMDMDMx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNZ
+RTIwHhcNMjYxMDE2MTU1MTMxWhcNMjcwMTE0MTU1MTMwWjAVMRMwEQYDVQQDEwph
+cG5ld3MuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEV+nlZtg16Pe7iOft
+aXxAx6xJhXwhizKLVnukzbC620aIwFEXIHWZaaEZzuIk9sHBnYa6QOUnzX6SMn5m
+uLIetaOCAicwggIjMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEFBQcD
+ATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTTXADwysec9CJdK+cmqWh3cDoBfTAf
+BgNVHSMEGDAWgBS5WfKOzyLwhtM3SP92FBi6gthVhzAzBggrBgEFBQcBAQQnMCUw
+IwYIKwYBBQUHMAKGF2h0dHA6Ly95ZTIuaS5sZW5jci5vcmcvMCMGA1UdEQQcMBqC
+DCouYXBuZXdzLmNvbYIKYXBuZXdzLmNvbTATBgNVHSAEDDAKMAgGBmeBDAECATAu
+BgNVHR8EJzAlMCOgIaAfhh1odHRwOi8veWUyLmMubGVuY3Iub3JnLzY1LmNybDCC
+AQ0GCisGAQQB1nkCBAIEgf4EgfsA+QB2AEaiOWfGDbZGh8ZvPfmZlHaTpqYRIIRX
+1VXn49Ch2bZGAAABoUWe3YUAAAQDAEcwRQIgFh1A8irBzGAxF9BJ7D2AwLSh5jLc
+5NlbGRsHPoRlhZ8CIQC50lFAySSTI27SilmHbS2Ej9i+tuXgh0ocshLYSG9TQgB/
+ABqLnWuN15HRzQVJ7bYDVdYGtk+tMNtx/niPD8fI+8SxAAABoUWe4NMACAAABQAJ
+iEv5BAMASDBGAiEAsPwjutDlDUrDGPZ4TCrBJKnms/4lPWfz7Al1EO7CRMECIQCb
+Utl4YO97m/RXMFo8yayGoxl+1rmQCmGs73XxbUQqXDAKBggqhkjOPQQDAwNnADBk
+AjACGYV5srHRFDXrggdkviVKYLWY+5QbIdWVHqaaVFxONzyM1dXtwcZAxEfDy3M4
+ZKMCMDnzYGPyCA3r+CSDtBslbxV0w/CnAMWInd+iiKdjJ2yyLWN7ewKjZgnU6gVH
+Ks0x+Q==
+-----END CERTIFICATE-----
+subject=CN=apnews.com
+issuer=C=US, O=Let's Encrypt, CN=YE2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 4806 bytes and written 1579 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

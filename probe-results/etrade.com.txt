@@ -1,0 +1,91 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:serialNumber=923632, jurisdictionC=US, jurisdictionST=Delaware, businessCategory=Private Organization, C=US, ST=New York, O=Morgan Stanley, CN=www.etrade.com
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA EV R36
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Mar  6 00:00:00 2026 GMT; NotAfter: Mar  6 23:59:59 2027 GMT
+ 1 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA EV R36
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Mar 21 23:59:59 2036 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHqTCCBhGgAwIBAgIQK2yxZsyoxtEUb1zHlZvDljANBgkqhkiG9w0BAQsFADBg
+MQswCQYDVQQGEwJHQjEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFB1YmxpYyBTZXJ2ZXIgQXV0aGVudGljYXRpb24gQ0EgRVYgUjM2
+MB4XDTI2MDMwNjAwMDAwMFoXDTI3MDMwNjIzNTk1OVowgbIxDzANBgNVBAUTBjky
+MzYzMjETMBEGCysGAQQBgjc8AgEDEwJVUzEZMBcGCysGAQQBgjc8AgECEwhEZWxh
+d2FyZTEdMBsGA1UEDxMUUHJpdmF0ZSBPcmdhbml6YXRpb24xCzAJBgNVBAYTAlVT
+MREwDwYDVQQIEwhOZXcgWW9yazEXMBUGA1UEChMOTW9yZ2FuIFN0YW5sZXkxFzAV
+BgNVBAMTDnd3dy5ldHJhZGUuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEA0zd9dVAhojGPc+W2t/IWVVFCSBY2rQT1SGpiWLDMxM/R5fyvBHA7fi3/
+X5lpZ/f3g3t8YyQvBqo3XKk1gd7PJAEkdzhfDbxtVc4Wd9fwyiYKmHKB3y5jHpsk
+vJpi9ghL2IqPZCFzjTCTFNdzh6ExaajMA7a4vbTvATB/MEZChZH5qVu4G4YcB3zV
+OXKwwsEV7g6OdXmsbn4QYInaUTBQHkA1ubGAXeGAe+mJ/YKi/lLb65+hfkr74NO5
+xmrDvrV6YFXRij3AfPM77m4haWt07JrWw1BNm2+4jTo9zoKdGNQhqiQQUJ1YVbhK
+hxixNDUOvU8YApXjZTlHIcGZTj9w3QIDAQABo4IDijCCA4YwHwYDVR0jBBgwFoAU
+mC1eHo/rVPS5/1WVrUzHfqSYrnswHQYDVR0OBBYEFFmGurdvJHvxy2NiCyVzgJV4
+hpCGMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsG
+AQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDUGDCsGAQQBsjEBAgEFATAlMCMG
+CCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAHBgVngQwBATBUBgNV
+HR8ETTBLMEmgR6BFhkNodHRwOi8vY3JsLnNlY3RpZ28uY29tL1NlY3RpZ29QdWJs
+aWNTZXJ2ZXJBdXRoZW50aWNhdGlvbkNBRVZSMzYuY3JsMIGEBggrBgEFBQcBAQR4
+MHYwTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuc2VjdGlnby5jb20vU2VjdGlnb1B1
+YmxpY1NlcnZlckF1dGhlbnRpY2F0aW9uQ0FFVlIzNi5jcnQwIwYIKwYBBQUHMAGG
+F2h0dHA6Ly9vY3NwLnNlY3RpZ28uY29tMIIBjQYKKwYBBAHWeQIEAgSCAX0EggF5
+AXcAdgAcn2gs6frwRWlQ+BuWiofd2zIQ2EzmyLLjglJKxM9ZnwAAAZzCRK9yAAAE
+AwBHMEUCIG0e2/g3o62E5nMzP8mQrddwILu96fmmYgRuVkfCGJVKAiEAoIZh8su3
+z8ZOm8+XDdSXfO8M2xjMXPoUliBKJp5tXKIAfQCOykcLrN5q86IGsKR6hLdG/h/G
+v5U+JeabTuQCSPPG6AAAAZzCRLGeAAgAAAUAAwhmRwQDAEYwRAIgKVZn1XOE76CT
+6srhnZS8oQz/JBQF5xH+3mRF9XlFDZQCIEQ35e7jrnPp43uUaaBO3mDz8PZrgY3L
+uAnvkjPMsrQ9AH4AWW5sM4aUsllyolbIoOjdkEp26Ag92oc7AQg4KBQ87lkAAAGc
+wkSuugAIAAAFAAAyrYcEAwBHMEUCIQCPJAlBH14J9hZLv+dPF29EnMkBpFelOZge
+XRVGJE+kmwIgMcjUPHFS3XRYHKKkfVJgnsdI0jk3rdHsQtaDknYDrPcwTgYDVR0R
+BEcwRYIOd3d3LmV0cmFkZS5jb22CCmV0cmFkZS5jb22CE3d3dy1iYWNrLmV0cmFk
+ZS5jb22CEnd3dy1kaXIuZXRyYWRlLmNvbTANBgkqhkiG9w0BAQsFAAOCAYEAj8gu
+GmwGJJmXmIR+v5gA5Frw3wmazN9Fhs7DgDCF5TiAXJtZQ3VBZ4Nb6+ogMitNb8IO
+37fZaOJv/3/pBFxexiPLzEgYEE829W3lwE/WlQ5y7AIBxjrwBeEN8ZjZ1Nnofuga
+JO2ssa/t2cAbxLpXgpEqiBl9BAlFnEOTlRn3hiTcZGIRUiCaHW23zVV9mP+EWDVc
+2xAw9hHTO+fNhzej8ifYC7DS/sDSKP2rAuVZhTNdl2mKZ7TypwVTKXmsZhUwEmwV
+ipS8IzVOj13C3hmTAJFUstNddbQ7xvmzYDX7rW5uE92wyMWwj8snNDhCahy59toF
+RUCo0tp1OCVVbjGuIPa9fH6k1jy4TTXYaoOdVHdwnmykJjKvFIdC+7cOjKYifbyY
+OZACDKQaSiAOhF2hY15rjtiywJGFXOOvScu9AWnIgRO7lqd5uksNzOZm1ML8cDKE
+w8jJtHxpLBojecKIprVEg+O1FzSzULozuYFDZM4iY2JjU0EvceKdre4R8JD2
+-----END CERTIFICATE-----
+subject=serialNumber=923632, jurisdictionC=US, jurisdictionST=Delaware, businessCategory=Private Organization, C=US, ST=New York, O=Morgan Stanley, CN=www.etrade.com
+issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA EV R36
+---
+No client certificate CA names sent
+---
+SSL handshake has read 5450 bytes and written 1841 bytes
+Verification: OK
+---
+New, SSLv3, Cipher is AES256-SHA
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : AES256-SHA
+    Session-ID: 8E831A8810A303EC8DC5D7964D24DA4DA6A5EB0FA15E490332377ACD0DB1360E
+    Session-ID-ctx: 
+    Master-Key: 7EA8E6943F1301219435A46D2E735CA9F14569C6C43778D8EEBB36F51BCDF8F2FBFFC70692C4A2CA5AE3A9E57DF427C8
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1792921641
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---
+ECH: NOT CONFIGURED: -103
+---

@@ -1,0 +1,96 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=Georgia, O=Macy's Systems and Technology, Inc., CN=www.macys.com
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep  3 00:00:00 2026 GMT; NotAfter: Mar 20 23:59:59 2027 GMT
+ 1 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Mar 21 23:59:59 2036 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+ 3 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Feb  1 00:00:00 2010 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIJLzCCB5egAwIBAgIQVzyPG34srgrFpYwWIUQBhTANBgkqhkiG9w0BAQsFADBg
+MQswCQYDVQQGEwJHQjEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFB1YmxpYyBTZXJ2ZXIgQXV0aGVudGljYXRpb24gQ0EgT1YgUjM2
+MB4XDTI2MDkwMzAwMDAwMFoXDTI3MDMyMDIzNTk1OVowZTELMAkGA1UEBhMCVVMx
+EDAOBgNVBAgTB0dlb3JnaWExLDAqBgNVBAoTI01hY3kncyBTeXN0ZW1zIGFuZCBU
+ZWNobm9sb2d5LCBJbmMuMRYwFAYDVQQDEw13d3cubWFjeXMuY29tMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq6NY8BG6Kd3qxUZY8WJplgRECquHgCGs
+kwhAqV7ydwL9Egpur3ARx4SWPQAe3/OdI+YCci/9IsROKeg0G4nznsFjYs1s5Sks
+9KhCBZwkBSyWz1Sj2lFtaAbyDJq8IB+hASXioPmM9psPsy7nEXYlkJg7k9pXu+0a
+ReIDxVSD2d+crcC5O7Drrujaq7qGc1jf2hoa3KPjjoEtZfbzUn8YnqMy7m0wpnXf
+UalLtcwMItIc4+Kx+1jMBnnMUgP176vtn75ujH9jGvIsglkO2kTZs32/301TSUk4
+n86eFOW7QH6BiZjZ+x6u2ku9kuJMZoNbhzBI8FOfx++sX5uw9ROfRwIDAQABo4IF
+XjCCBVowHwYDVR0jBBgwFoAU42Z0u3BojSxdTg6mSo+bNyKcgpIwHQYDVR0OBBYE
+FLMH21/+N7dP61oW2sfrID/AbrkoMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8E
+AjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBKBgNVHSAEQzBBMDUG
+DCsGAQQBsjEBAgEDBDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29t
+L0NQUzAIBgZngQwBAgIwVAYDVR0fBE0wSzBJoEegRYZDaHR0cDovL2NybC5zZWN0
+aWdvLmNvbS9TZWN0aWdvUHVibGljU2VydmVyQXV0aGVudGljYXRpb25DQU9WUjM2
+LmNybDCBhAYIKwYBBQUHAQEEeDB2ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LnNl
+Y3RpZ28uY29tL1NlY3RpZ29QdWJsaWNTZXJ2ZXJBdXRoZW50aWNhdGlvbkNBT1ZS
+MzYuY3J0MCMGCCsGAQUFBzABhhdodHRwOi8vb2NzcC5zZWN0aWdvLmNvbTCCAY4G
+CisGAQQB1nkCBAIEggF+BIIBegF4AH4AWW5sM4aUsllyolbIoOjdkEp26Ag92oc7
+AQg4KBQ87lkAAAGgZ7Uk5AAIAAAFAAMkbCMEAwBHMEUCIQD6DenvZdyI/zjjl+Lc
+DTGXx8zNHuADl6U/fw31x388YgIgcQLMTW7+A/YfiP35r3PclHKwCszSKS4623iD
+9UQ5BpQAdQAcn2gs6frwRWlQ+BuWiofd2zIQ2EzmyLLjglJKxM9ZnwAAAaBntSRg
+AAAEAwBGMEQCIBpJnKt21vmlWPgugkLj935ewv0bye8vaElGr1wGtqiFAiAMHKWA
+UJBxkpGdVdEJxJ6IzlAf8mOiteqcGx3iLbdt3QB/AKKBABhzThduHUfglUDzgbpU
+ZpfNY6hDUHFuuAlO2vENAAABoGe1J8IACAAABQALuOZ7BAMASDBGAiEAnmn3GtUi
+qoY8RlyEJITTDJdFQ7ed1ZcDXZBhgAweyHkCIQD3ayC6eNa6noqO65sNhGZAEtR/
+wkb8MHwRpPKV8GOg5jCCAh4GA1UdEQSCAhUwggIRgg13d3cubWFjeXMuY29tghBh
+c3NldHMubWFjeXMuY29tghZhc3NldHMubWFjeXNhc3NldHMuY29tghNkZXZlbG9w
+ZXIubWFjeXMuY29tghhpbWFnZXBvcnRhbC1xYS5tYWN5cy5jb22CEmltcC1wcm9k
+Lm1hY3lzLmNvbYILbS5tYWN5cy5jb22CCW1hY3lzLmNvbYINbWNwLm1hY3lzLmNv
+bYISc2VjdXJlLW0ubWFjeXMuY29tghtzZWN1cmUtbmV0c3RvcmFnZS5tYWN5cy5j
+b22CEXNlbGwtcWEubWFjeXMuY29tgg5zZWxsLm1hY3lzLmNvbYISc2xpbWFnZXMu
+bWFjeXMuY29tghhzbGltYWdlcy5tYWN5c2Fzc2V0cy5jb22CE3djLmFzc2V0cy5t
+YWN5cy5jb22CFXdjLnNsaW1hZ2VzLm1hY3lzLmNvbYIUd3d3LmFzc2V0cy5tYWN5
+cy5jb22CGnd3dy5hc3NldHMubWFjeXNhc3NldHMuY29tghZ3d3cuc2xpbWFnZXMu
+bWFjeXMuY29tghx3d3cuc2xpbWFnZXMubWFjeXNhc3NldHMuY29tghd3d3cud2Mu
+YXNzZXRzLm1hY3lzLmNvbYIZd3d3LndjLnNsaW1hZ2VzLm1hY3lzLmNvbYISd3d3
+Lnd3dzEubWFjeXMuY29tgg53d3cxLm1hY3lzLmNvbTANBgkqhkiG9w0BAQsFAAOC
+AYEAd+73sO8KbvVEfhNNYc/b9d36l73a2Qz0gE9CRxJS7QbdlgDnn+NUncaqaB4I
+xb5WNSWqv+C41ZYBbI46vdMLpToiEVhGoaOkZ3EyuUsw9hR2Z14QzFGb+oB/VET+
+FYorzywMmrbKw2IuNa3metCfHoPfxIf7BoGKDdfLXP2tG8PXvTqdnXV2Ab8kAnCL
+51swBW5tvLbV8uop5iAwCqvmJPdN7sHX1yL5EPRGYokXsEQujHD6BI6qEVIU3msv
+lSyBGGnzdQ3rgnUXTyEjORemWlZDV2KXCJzCLtUebgxtakLL0mIrtFMaZUTGBIPn
+9g3FkIM9uIc/bJWHAI4JFCbQkgF7VyrH2yGWxTsz7hYagdhmY9uePtPpwtcuoSeg
+17fvMZaLuISOj12qR07iLZppPPUy74xzrBmc4pVr8sbEN7+zeDolFCdIb1kbw5QT
+IIYn2Y9a+oZgvBwE8kEPQZb5t+RGUmPU3r3zroYa+y/rWI7es9IzUMdFCL7ZdFyG
+HCU6
+-----END CERTIFICATE-----
+subject=C=US, ST=Georgia, O=Macy's Systems and Technology, Inc., CN=www.macys.com
+issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 8829 bytes and written 1578 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

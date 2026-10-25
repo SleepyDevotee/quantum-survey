@@ -1,0 +1,127 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=theguardian.com
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R46 DV TLS CA 2026 Q3
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug 18 11:24:58 2026 GMT; NotAfter: Mar  5 10:24:58 2027 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R46 DV TLS CA 2026 Q3
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Root R46
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Apr 22 03:00:05 2026 GMT; NotAfter: Apr 22 00:00:00 2028 GMT
+ 2 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Root R46
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Nov 20 00:00:00 2019 GMT; NotAfter: Mar 18 00:00:00 2029 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIKETCCB/mgAwIBAgIQAUegubkUUIVxsjnccaBqhzANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJCRTEZMBcGA1UEChMQR2xvYmFsU2lnbiBudi1zYTEvMC0GA1UE
+AxMmR2xvYmFsU2lnbiBBdGxhcyBSNDYgRFYgVExTIENBIDIwMjYgUTMwHhcNMjYw
+ODE4MTEyNDU4WhcNMjcwMzA1MTAyNDU4WjAaMRgwFgYDVQQDDA90aGVndWFyZGlh
+bi5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC10yJSU0wXuLvE
+D5HndLg4JA3/zv990w3XgjgPHwthalks4ZgGxTcl0lCHdKpgghKa2gHlDkYKTkfX
+1UYM3nv2lENlfITzrVUZfyIbi9DQGfmcWkCFmP/sea45smKQHScXKMSWCPgUelkV
+2z1agiHM7xZqHEWkXkY+xnm3n6F1hTsioHhFeQplBMd8sPDUW3qyHu/SlqhPT6I/
+yifpvJY3XSHSwlhogAd0yKAmdINCZ309F7gbfJCpVAOUsLB+e0mlE2p35yZ0VRKa
+4H/dR3AMdoYlP+gz1hWWXyAMXufp68p4bRFP4BemANLHDkke6HcgpNf7kL7ty5zu
+RVYKeZcHAgMBAAGjggYSMIIGDjCCAscGA1UdEQSCAr4wggK6gg90aGVndWFyZGlh
+bi5jb22CGyouY29kZS5kZXYtZ3VhcmRpYW5hcGlzLmNvbYIaKi5jb2RlLmRldi10
+aGVndWFyZGlhbi5jb22CFSouZGV2LXRoZWd1YXJkaWFuLmNvbYIbKi5lZGl0b3Jp
+YWwudGhlZ3VhcmRpYW4uY29tghcqLmVtYWlsLnRoZWd1YXJkaWFuLmNvbYIQKi5n
+dWFyZGlhbi5jby51a4ISKi5ndWFyZGlhbmFwaXMuY29tggwqLmd1aW0uY28udWuC
+ECouZ3VpbWNvZGUuY28udWuCDSoub3BoYW4uY28udWuCGSoucWEuZGV2LWd1YXJk
+aWFuYXBpcy5jb22CGSouc2VydmljZS50aGVndWFyZGlhbi5jb22CEyoudGhlZ3Vh
+cmRpYW4uY28udWuCESoudGhlZ3VhcmRpYW4uY29tghQqLnRoZWd1YXJkaWFuLmRl
+c2lnboIeYXBpLm5leHRnZW4uZ3VhcmRpYW5hcHBzLmNvLnVrgiNjb2RlLmFwaS5u
+ZXh0Z2VuLmd1YXJkaWFuYXBwcy5jby51a4IRZGV2LWd1dG9vbHMuY28udWuCE2Rl
+di10aGVndWFyZGlhbi5jb22CDmd1YXJkaWFuLmNvLnVrggpndWltLmNvLnVrgg1n
+dXRvb2xzLmNvLnVrghBpLmd1aW1jb2RlLmNvLnVrghBtZWRpYS5ndWltLmNvLnVr
+ghlzdWJzY3JpYmUudGhlZ3VhcmRpYW4uY29tghF0aGVndWFyZGlhbi5jby51a4IS
+dGhlZ3VhcmRpYW4uZGVzaWdugg4qLndvcmRpcGx5LmNvbYIMd29yZGlwbHkuY29t
+ghl0aGVndWFyZGlhbmZvdW5kYXRpb24ub3Jngg90aGVndWFyZGlhbi5vcmeCECou
+dGhlZ3VhcmRpYW4udHYwDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQMMAoGCCsGAQUF
+BwMBMB0GA1UdDgQWBBT4jPO24qlvkpoiqSETzwOhf9DEtDBXBgNVHSAEUDBOMAgG
+BmeBDAECATBCBgorBgEEAaAyCgEDMDQwMgYIKwYBBQUHAgEWJmh0dHBzOi8vd3d3
+Lmdsb2JhbHNpZ24uY29tL3JlcG9zaXRvcnkvMAwGA1UdEwEB/wQCMAAwgaAGCCsG
+AQUFBwEBBIGTMIGQMEEGCCsGAQUFBzABhjVodHRwOi8vb2NzcC5nbG9iYWxzaWdu
+LmNvbS9jYS9nc2F0bGFzcjQ2ZHZ0bHNjYTIwMjZxMzBLBggrBgEFBQcwAoY/aHR0
+cDovL3NlY3VyZS5nbG9iYWxzaWduLmNvbS9jYWNlcnQvZ3NhdGxhc3I0NmR2dGxz
+Y2EyMDI2cTMuY3J0MB8GA1UdIwQYMBaAFNxSfdQQF77l+wFEsPsZysfu0CjrMEkG
+A1UdHwRCMEAwPqA8oDqGOGh0dHA6Ly9jcmwuZ2xvYmFsc2lnbi5jb20vY2EvZ3Nh
+dGxhc3I0NmR2dGxzY2EyMDI2cTMuY3JsMIIBhQYKKwYBBAHWeQIEAgSCAXUEggFx
+AW8AdQAcn2gs6frwRWlQ+BuWiofd2zIQ2EzmyLLjglJKxM9ZnwAAAaAUniBvAAAE
+AwBGMEQCIBV17YFXZp5x870UXAzTCu+48jLyveXImJbmVu6P4pp4AiB2uEb7agTN
+tIlP5XQMLt+7Nz9yTveK6wHmOHGQOq+XagB/AI7KRwus3mrzogawpHqEt0b+H8a/
+lT4l5ptO5AJI88boAAABoBSeIb8ACAAABQAJd/PFBAMASDBGAiEAjxsSm84ZPWTo
+dl65r4ps4cWxsRgQQtv6BaSDikkQpTYCIQCY2pepJ3Z2NNwqLoQ2d19PlW2dwpNp
+gR09egEN7YL8SgB1AExj3JjlnB2riPYeij3ero+rRKM3e1+blMP7oZz8wb4mAAAB
+oBSeIvkAAAQDAEYwRAIgCf4JpRgAwsFh3lSRBVEZAs9VQJg9y8Z85WODKcZjdCIC
+IHQJV8SEgmp6mTMaEKj5U+Hxc6fgUE4jA941ZQMITV09MA0GCSqGSIb3DQEBCwUA
+A4ICAQAGcKwpHsXlurab33tZEgscEK199nXc5ksLYPpXB4/OjiwzLapugnH5WMrn
+P6MoW526W/ifG/Ef30Wpu2OkgJ1LjmY6Y77Re3l8FKsek361+MwPX+x1i+/M0zf6
+HKy0CmqIqYG7SjV7NF1iJa23poUEdT/WKuG6d69OvcOG+M/Yfu5o3PSRsPm3IQYY
+1KlUS9t05Ry9E7HvKLt5LQYGYpwxN1ZT706NNn3qDMSg8dy2OMBcQqMTUtk4e4M6
+Pqmy17QV/gVTOwPJUMRvg1k+Gi43IDpc8pKFSyXzdMhIcRiePm4NJEtaSvL849WW
+VQO1SDru4V6MhqmgAKPOiEFQmPl0LKjEaS4Km2lXZCMRHF+sHY5t4gUCtQf2+O2V
+2lWQj7zohUPvBB4FULSlDSCjBEKCL1v9BYKx+YeLlmvRLUsj/otZLaJXUWLoQd2H
+8q3GtckacHTZR6OY2lfh2dfNDjNN9cZRr6bJ9hKF3qfoqS45+H2ut54h+27CaqiJ
+PLHNdmpx/1ADw5JOgPQro9Ev0M4CJfA4gqaY365i39H34j4Eaj32qIkZPiUbRyn9
+X6+eu7mQMglld+F4nyquHtKDoPTQDZjifb39jiVXn7ju4/8ssYpJ0t2CphrTLLqP
+LglgHonW1CpdHFv5+1nwVrojWoR/TcZrc0HdCCLYn8BBPB98+Q==
+-----END CERTIFICATE-----
+subject=CN=theguardian.com
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R46 DV TLS CA 2026 Q3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 7244 bytes and written 1568 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: DFAE044C0E6C5DCEA050AEA5FEB28D0C434AB94D5D10B77F061F3274815FCD3F
+    Session-ID-ctx: 
+    Resumption PSK: BD662996E5A5CDC0F0B5893ADD29E6FBC7DF02BA22419FB7DA21B0177877E85B
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
+    0010 - 6e 66 41 c2 4f 10 47 e1-fc b2 3a 49 66 81 9f b2   nfA.O.G...:If...
+    0020 - 8c 32 cc ee 2b 9b bd 78-45 11 41 6b e1 45 bc 9f   .2..+..xE.Ak.E..
+    0030 - b1 bc 58 00 0b 2e 0e 78-98 3a 70 1c 2d 4f 91 9c   ..X....x.:p.-O..
+    0040 - f4 d2 db 2d 04 31 fb a6-78 c6 47 fe 32 5d 44 a3   ...-.1..x.G.2]D.
+    0050 - 30 1a 0f f0 cd 3a 75 fa-be 44 d4 f4 d1 d7 99 0a   0....:u..D......
+    0060 - 55 68 0b b2 4b 7d ee b4-a3 ed f4 56 aa a1 8f 71   Uh..K}.....V...q
+    0070 - 9b de bd 6d fd 7d 29 ac-17 8b 89 82 98 c1 dc 65   ...m.})........e
+    0080 - 12 e4 43 39 50 1b 30 2e-68 28 cd 66 40 ef c5 5d   ..C9P.0.h(.f@..]
+    0090 - 6f fa 74 0f 9d 4a 39 60-6b 40 29 e5 b8 05 43 8c   o.t..J9`k@)...C.
+
+    Start Time: 1792921698
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

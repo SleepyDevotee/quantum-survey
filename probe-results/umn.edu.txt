@@ -1,0 +1,82 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=Minnesota, O=University of Minnesota, CN=www.umn.edu
+   i:C=US, O=InCommon, LLC, CN=InCommon RSA OV SSL CA 3
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jun 23 00:00:00 2026 GMT; NotAfter: Jan  7 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGyzCCBTOgAwIBAgIRAO234Hn4tisGTprpmacX3BQwDQYJKoZIhvcNAQELBQAw
+SDELMAkGA1UEBhMCVVMxFjAUBgNVBAoTDUluQ29tbW9uLCBMTEMxITAfBgNVBAMT
+GEluQ29tbW9uIFJTQSBPViBTU0wgQ0EgMzAeFw0yNjA2MjMwMDAwMDBaFw0yNzAx
+MDcyMzU5NTlaMFkxCzAJBgNVBAYTAlVTMRIwEAYDVQQIEwlNaW5uZXNvdGExIDAe
+BgNVBAoTF1VuaXZlcnNpdHkgb2YgTWlubmVzb3RhMRQwEgYDVQQDEwt3d3cudW1u
+LmVkdTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAN7vQH4TG8PsUn1v
+/qk1/pMCdGKAjfUPEeuyBIXLqK78wVL2GqY3xRsl9CWI4A7hKj8rH9vWOX4CNxTP
+ZwkPnFNmZ/QN41AUuAwYASHHUxjAPsWIMM+TwuO658AW5EweMYQ+kKcDkRSbRm0v
+B1JmMm6a9LS95QjmOb4/9h9tcyvHPMmT6Fjt+XfngG6MwDZrfLROVrJwL0ZFA3rH
+WmFYGC0/jKzjC0ZBxbbm2KO8g+SzSS/Gs/QM3AVaGkbq3yFJJdKre2bd5OSw+Zau
+JYMSxn4d3mMaQXqxXS0Txqn5Rshm/SmqjQb+9u40xgKBrVmy37HWja7L6bnN19vl
+8X5nQp8CAwEAAaOCAx0wggMZMB8GA1UdIwQYMBaAFNoiNz/l03Ta2Xk+0XJt1ZNL
+IDevMB0GA1UdDgQWBBTc9gEs6JujpeB1k8g1GqLvwQgyKTAOBgNVHQ8BAf8EBAMC
+BaAwDAYDVR0TAQH/BAIwADATBgNVHSUEDDAKBggrBgEFBQcDATATBgNVHSAEDDAK
+MAgGBmeBDAECAjA/BgNVHR8EODA2MDSgMqAwhi5odHRwOi8vY3JsLnNlY3RpZ28u
+Y29tL0luQ29tbW9uUlNBT1ZTU0xDQTMuY3JsMG8GCCsGAQUFBwEBBGMwYTA6Bggr
+BgEFBQcwAoYuaHR0cDovL2NydC5zZWN0aWdvLmNvbS9JbkNvbW1vblJTQU9WU1NM
+Q0EzLmNydDAjBggrBgEFBQcwAYYXaHR0cDovL29jc3Auc2VjdGlnby5jb20wggGN
+BgorBgEEAdZ5AgQCBIIBfQSCAXkBdwB2AByfaCzp+vBFaVD4G5aKh93bMhDYTObI
+suOCUkrEz1mfAAABnvZb33QAAAQDAEcwRQIgPOD1Btgrn5DeB75dIi5B15xGK2iS
+zDZ1QKl6Tnzq04wCIQDjgjG8maxv7pgoBC2BPKsnMWplwScNHW/mVlqc0LkPSgB+
+AI7KRwus3mrzogawpHqEt0b+H8a/lT4l5ptO5AJI88boAAABnvZb4v4ACAAABQAE
+Z47fBAMARzBFAiA5slSQ0vjidl4OZ/HhkxJ5S54sLp+mYhLbR2jqE4rVAgIhAP0B
+OVLJsd1l8EGbRvqzOpwS9Q0PlpjP98tXApdZKNtPAH0AWW5sM4aUsllyolbIoOjd
+kEp26Ag92oc7AQg4KBQ87lkAAAGe9lvgGwAIAAAFAAA+Wa4EAwBGMEQCIH4E+veM
+vQSduyZ8TrVIo02rwDQMeTrr4pyLNxBCFegVAiAcA+p42ozNcMV2COAcYAM5uvpd
+n4795ycUpgfWHhtirTBMBgNVHREERTBDggt3d3cudW1uLmVkdYIRbXlhY2NvdW50
+LnVtbi5lZHWCCnRjLnVtbi5lZHWCB3Vtbi5lZHWCDHd3dzEudW1uLmVkdTANBgkq
+hkiG9w0BAQsFAAOCAYEAFx4o1PrKJPIGGGmEFn1Ph6hmkSY+X6meN/UXwAHKj/Dq
+dGAy+5xXierekoB48ovByXElucC1jVMujTtgTUfmbs4xvAKKEiSAR3ATd7767ZvB
+CU02pJtPBwi/ufStw1l6iSxEW+fG+b1NhN1MzISf4WDf6jPLnYtAE9ntnGpH8dR7
+hCKlDmVxqCw7xiyDLO0JUN3ZPxhBFvxz62PZiz+zFoxDvPXAMDVgyDwyOnxnRIQo
+zZtABaVh8S20dz17j+ugIIMN0xh0j8VYrIyegqDg4LkPmgIatQr3PyU72DRxYysp
+hdQ1YOXvXuzNs01D30SSihlFgHYnsoy0VXg3aSiS0I3iKWVc7juScnNqlLkW2eFl
+Qe4+Xnen1w91wcRGcP7FB/zbaeIINfarkVRO+KfNVgXpjwIbb9BuM80AOZcSAVLI
+6s7DtG5yaMLqLYAn+F3KO7n9VK8Ko+dPekCoeyMAXmSDDdaEYP0Hj6fdTeinVwbb
+LbFwpL5NpdW7xxnj/kZF
+-----END CERTIFICATE-----
+subject=C=US, ST=Minnesota, O=University of Minnesota, CN=www.umn.edu
+issuer=C=US, O=InCommon, LLC, CN=InCommon RSA OV SSL CA 3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pkcs1_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 2252 bytes and written 1622 bytes
+Verification error: unable to verify the first certificate
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 6EF4D1EF83F80593D63DB1816AC12D9FE8FE3512AA6F3B48B71315ED3A517CAB
+    Session-ID-ctx: 
+    Master-Key: 58935F4A34F1ACEF45CBB5B39C51DA3B84404E9EB7C7B25AFD8344B34A37090E855A696F18779ECB267265586596E55A
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1792921601
+    Timeout   : 7200 (sec)
+    Verify return code: 21 (unable to verify the first certificate)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

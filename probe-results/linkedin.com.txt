@@ -1,0 +1,79 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=California, L=Sunnyvale, O=Linkedin Corporation, CN=linkedin.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct 22 00:00:00 2026 GMT; NotAfter: Apr 22 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGzjCCBbagAwIBAgIQB5Bl0G+uzYsob1R6bY7wujANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjYx
+MDIyMDAwMDAwWhcNMjcwNDIyMjM1OTU5WjBsMQswCQYDVQQGEwJVUzETMBEGA1UE
+CBMKQ2FsaWZvcm5pYTESMBAGA1UEBxMJU3Vubnl2YWxlMR0wGwYDVQQKExRMaW5r
+ZWRpbiBDb3Jwb3JhdGlvbjEVMBMGA1UEAxMMbGlua2VkaW4uY29tMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApLB0zNHrqgiSQqwQQi76g8wd/vYh4QHv
+P2XG4oYqyasN3RSY4M3cIPE18NytWUECIx3lmYGYFw2ed6icrN3S3f1fK1eGZGoK
+eAzsk26AEq+4nQLhv7NIaczwEZ+tCaRZYCKGdaJWpVEoGabV5fYoHqDdZAn6THEP
+JnQKgW8VHDhGdiTIkKegpWa/DwXmY2GEFE9dP91LX6Fd4ualc4dIMacIy2ufcXJM
+hedAxxiNHTNtzy8pvoghFqyCsR/AL+WmeMOvwuorwWLKXFdJ3d6PjUjD6MQ1sDh/
+y/4hHqvDJVBpJPfjwzre6v2sPSRYACP48vkPRyK5PmbBugilMOFjEQIDAQABo4ID
+fTCCA3kwHwYDVR0jBBgwFoAUdIWAwGbH3zfez70pN6oDHb7tzRcwHQYDVR0OBBYE
+FMFrQ/Q3DZQfVWsOLvSi547vPqMbMBcGA1UdEQQQMA6CDGxpbmtlZGluLmNvbTA+
+BgNVHSAENzA1MDMGBmeBDAECAjApMCcGCCsGAQUFBwIBFhtodHRwOi8vd3d3LmRp
+Z2ljZXJ0LmNvbS9DUFMwDgYDVR0PAQH/BAQDAgWgMBMGA1UdJQQMMAoGCCsGAQUF
+BwMBMIGfBgNVHR8EgZcwgZQwSKBGoESGQmh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNv
+bS9EaWdpQ2VydEdsb2JhbEcyVExTUlNBU0hBMjU2MjAyMENBMS0xLmNybDBIoEag
+RIZCaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzJUTFNS
+U0FTSEEyNTYyMDIwQ0ExLTEuY3JsMIGHBggrBgEFBQcBAQR7MHkwJAYIKwYBBQUH
+MAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBRBggrBgEFBQcwAoZFaHR0cDov
+L2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzJUTFNSU0FTSEEy
+NTYyMDIwQ0ExLTEuY3J0MAwGA1UdEwEB/wQCMAAwggF9BgorBgEEAdZ5AgQCBIIB
+bQSCAWkBZwB2AExj3JjlnB2riPYeij3ero+rRKM3e1+blMP7oZz8wb4mAAABoWMd
+PdMAAAQDAEcwRQIgF/lKHNldCrXs6Blm9tnUk+woBB1qfF4buDOxYxtV1e8CIQCK
+gFLnFUXIW3CDpOIEE2IC+h1Qqls5SMAOuyprqxbFDwB2ANbVjanQF1Pzakqgx1dJ
+Aq/rx9ws04zZ92TIDIkZHp8CAAABoWMdPcwAAAQDAEcwRQIgPGkTOaIUEckCt1AU
+G/nQGQ6Vnbi54yHW6XNP/4JQwKoCIQCYyaNFWd6CleNk+FAzwPAqdcmNL67zKQ+L
+f6D0pb27ugB1AByfaCzp+vBFaVD4G5aKh93bMhDYTObIsuOCUkrEz1mfAAABoWMd
+PmgAAAQDAEYwRAIgbXkepZUhWhjYnP9RViB8lTl2H4xW0YUAnY7/rWzNpQcCIBPf
+qxQSEU0Hbld6i2HuwSxBzfOCFBU012LI8QRUOOFKMA0GCSqGSIb3DQEBCwUAA4IB
+AQBSvDwUYsSZI0bxc8Dp/NlA4w3NjgIWmrv2BYaNmDFd7d+p34vZ1h2jvQcLEgm6
+HtR7OvPykNPZkkCE6XnvUQsN8XlfEnN74Du8vXkUKCoXVLiJSZfMt11gT9tSov7i
+3wakRMu3XRpHs7NTRADa6tYcmA6gB87jWV3NJ398E1ch+9n46sajXqbvCpNGKawu
+llEN0hVNwTAPPZEuirO26X+7DWNUEHQa1/4iHGUELjLbwCRXnhPmbWuHuRU/IH3n
+5e/idXz1sk5k/ij+KKvixFRiQ62yxfDKLJQhpJcONgqDPEfvbSHLhhSqcz74HcEB
++AJMIuRtBngbWW1Nzyx1eypo
+-----END CERTIFICATE-----
+subject=C=US, ST=California, L=Sunnyvale, O=Linkedin Corporation, CN=linkedin.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 5480 bytes and written 1581 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

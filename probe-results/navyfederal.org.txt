@@ -1,0 +1,80 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:jurisdictionC=US, businessCategory=Private Organization, serialNumber=5536, C=US, ST=Virginia, L=Vienna, O=Navy Federal Credit Union, CN=web.navyfederal.org
+   i:C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+   a:PKEY: EC, (prime256v1); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Sep  8 00:00:00 2026 GMT; NotAfter: Mar 25 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jul  2 12:42:50 2020 GMT; NotAfter: Jul  2 12:42:50 2030 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG9jCCBd6gAwIBAgIQA0a4R1ce4P4U5UiDTw0z9DANBgkqhkiG9w0BAQwFADBE
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMR4wHAYDVQQDExVE
+aWdpQ2VydCBFViBSU0EgQ0EgRzIwHhcNMjYwOTA4MDAwMDAwWhcNMjcwMzI1MjM1
+OTU5WjCBtjETMBEGCysGAQQBgjc8AgEDEwJVUzEdMBsGA1UEDwwUUHJpdmF0ZSBP
+cmdhbml6YXRpb24xDTALBgNVBAUTBDU1MzYxCzAJBgNVBAYTAlVTMREwDwYDVQQI
+EwhWaXJnaW5pYTEPMA0GA1UEBxMGVmllbm5hMSIwIAYDVQQKExlOYXZ5IEZlZGVy
+YWwgQ3JlZGl0IFVuaW9uMRwwGgYDVQQDExN3ZWIubmF2eWZlZGVyYWwub3JnMFkw
+EwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEaOKx6Jbt5DSkjuoeeoXY2tYPfUxR6P7m
+xzay/liV97TDI2e4QCwmNjOrhR9KIR+N6tA50SLmHZJljLiyUm3pVqOCBDowggQ2
+MB8GA1UdIwQYMBaAFGpOUL+YaJ1beyB11FkBeUhmkjIGMB0GA1UdDgQWBBT3F1nl
+vVzts46qpzkkSOI2bszCODCB+gYDVR0RBIHyMIHvghN3ZWIubmF2eWZlZGVyYWwu
+b3Jngg93d3cubmF2eWZjdS5vcmeCE3d3dy5uYXZ5ZmVkZXJhbC5jb22CE3d3dy5u
+YXZ5ZmVkZXJhbC5uZXSCDHd3dy5uZmN1LmNvbYIMd3d3Lm5mY3UubmV0ggx3d3cu
+bmZjdS5vcmeCCG5mY3UuY29tgghuZmN1Lm5ldIIIbmZjdS5vcmeCC25hdnlmY3Uu
+b3Jngg9uYXZ5ZmVkZXJhbC5jb22CD25hdnlmZWRlcmFsLm5ldIIPbmF2eWZlZGVy
+YWwub3JnghVsaW5rcy5uYXZ5ZmVkZXJhbC5vcmcwSgYDVR0gBEMwQTALBglghkgB
+hv1sAgEwMgYFZ4EMAQEwKTAnBggrBgEFBQcCARYbaHR0cDovL3d3dy5kaWdpY2Vy
+dC5jb20vQ1BTMA4GA1UdDwEB/wQEAwIDiDAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwdQYDVR0fBG4wbDA0oDKgMIYuaHR0cDovL2NybDMuZGlnaWNlcnQu
+Y29tL0RpZ2lDZXJ0RVZSU0FDQUcyLmNybDA0oDKgMIYuaHR0cDovL2NybDQuZGln
+aWNlcnQuY29tL0RpZ2lDZXJ0RVZSU0FDQUcyLmNybDBzBggrBgEFBQcBAQRnMGUw
+JAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTA9BggrBgEFBQcw
+AoYxaHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0RVZSU0FDQUcy
+LmNydDAMBgNVHRMBAf8EAjAAMIIBgAYKKwYBBAHWeQIEAgSCAXAEggFsAWoAdgBM
+Y9yY5Zwdq4j2Hoo93q6Pq0SjN3tfm5TD+6Gc/MG+JgAAAaCB2CyEAAAEAwBHMEUC
+IQD8ykBcRQ4E8h9LKj0PEoqelyWg6nWhjgg2BgASgTyd9wIgVQvigrY2GpjRwslP
+vZbZV9PjKyx2y3ap84hIcw8vAs0AdwBEwr0M6RQOZKXJSgGTClqhuzWXDgDuERaJ
+aCocRNe1ZgAAAaCB2CzMAAAEAwBIMEYCIQCDB0hDW/f9zVRhORsoyzURdFhWtk7R
+xDm6xRNtCgTIwwIhAMvNqdJ9ph0hdzErFZM3+UlSeDoXDKm8bkXc7WOfaiisAHcA
+HJ9oLOn68EVpUPgbloqH3dsyENhM5siy44JSSsTPWZ8AAAGggdgtYwAABAMASDBG
+AiEA/hkuRRXG2R3xmCXGLVxcRTC7EAk4ySTxjK/S3iV4ouYCIQDFbKndAdK36hn8
+jDZ1Fp0oQDoxtb8svdDwroc6xbuyrjANBgkqhkiG9w0BAQwFAAOCAQEAUbsiTS8K
+hdLR993i4MiUQHw6ADk/+b8OOxicyTlGafUsXxO4P2odNaMCU3+6a4kmrXC8R5W/
+eMiXWridb89PiWCTyur6eKBQLqWfU4mnmCf3UUXU2+fEdiI3wqywm+EQw1YM2QaP
+n9m8r+7cZwPcHsSdz6mnFzKtAbHqtGmwvVWCAqjh/L5wbGn5y6glQWuklctzCr2G
+wVT5D/POxRh2n1XnmFpjccv9xRxOkfKyhlHqKq6pauoG/uhfMb/CzWmccYsSWwWu
+3IRxwFfhVUpJ9lRrldxbGsRMxuZd4L7Cgfm1ToGh7XFVy4VzJROEvfKfOqTa6KZN
+USoj+RuOjMzn0g==
+-----END CERTIFICATE-----
+subject=jurisdictionC=US, businessCategory=Private Organization, serialNumber=5536, C=US, ST=Virginia, L=Vienna, O=Navy Federal Credit Union, CN=web.navyfederal.org
+issuer=C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 5516 bytes and written 1584 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

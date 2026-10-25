@@ -1,0 +1,88 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=North Carolina, O=Duke University, CN=duke.edu
+   i:C=US, O=Internet2, CN=InCommon RSA Server CA 2
+   a:PKEY: RSA, 4096 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Apr 22 00:00:00 2026 GMT; NotAfter: Nov  6 23:59:59 2026 GMT
+ 1 s:C=US, O=Internet2, CN=InCommon RSA Server CA 2
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Nov 16 00:00:00 2022 GMT; NotAfter: Nov 15 23:59:59 2032 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 3 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: RSA, 2048 (bit); sigalg: sha1WithRSAEncryption
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+-----END CERTIFICATE-----
+subject=C=US, ST=North Carolina, O=Duke University, CN=duke.edu
+issuer=C=US, O=Internet2, CN=InCommon RSA Server CA 2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 7033 bytes and written 1890 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 4096 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

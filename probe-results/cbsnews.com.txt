@@ -1,0 +1,111 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=New York, O=CBS Corporation, CN=*.cbsnews.com
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct  5 00:00:00 2026 GMT; NotAfter: Apr 21 23:59:59 2027 GMT
+ 1 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Mar 21 23:59:59 2036 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHGjCCBYKgAwIBAgIRAPGE1un64SXERWE+T2FLRmIwDQYJKoZIhvcNAQELBQAw
+YDELMAkGA1UEBhMCR0IxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBQdWJsaWMgU2VydmVyIEF1dGhlbnRpY2F0aW9uIENBIE9WIFIz
+NjAeFw0yNjEwMDUwMDAwMDBaFw0yNzA0MjEyMzU5NTlaMFIxCzAJBgNVBAYTAlVT
+MREwDwYDVQQIEwhOZXcgWW9yazEYMBYGA1UEChMPQ0JTIENvcnBvcmF0aW9uMRYw
+FAYDVQQDDA0qLmNic25ld3MuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAzNbPeJ2KG/OtwOJrR9ccoPXgUrMGvXjCQzSTr2hDXbZELcjx66Yr43N4
+cwsp0jlb9tdzYLBOVhoLFzaJ4QofKoQtx1u+TKTy+o1T3/stwjCBdc67KTeOH7ME
+bd2+7xgoCZtdLiCpdQ+gMx6boxye52dpM5xXzrIzfg7PbxDKjMj2ovdItjHYHxAZ
+PzHqM2EsJx3Ods9XDoEupVfI1UzoTqk0X5y2T0djX3tRhKDeCSlQDEcn0hv+nZQK
+t6nCoa5gPEAnjebLUXV6Na3IB7URT2zV29ooaE1T5Ao67f8N3bcR3m9o9W0BmxbI
+EW/VnJzyoLEQvbIjv93qin6VnhBgBQIDAQABo4IDWzCCA1cwHwYDVR0jBBgwFoAU
+42Z0u3BojSxdTg6mSo+bNyKcgpIwHQYDVR0OBBYEFB3bRlgiv/ophmrWpXrmtNFm
+3JF0MA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsG
+AQUFBwMBBggrBgEFBQcDAjBKBgNVHSAEQzBBMDUGDCsGAQQBsjEBAgEDBDAlMCMG
+CCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwBAgIwVAYD
+VR0fBE0wSzBJoEegRYZDaHR0cDovL2NybC5zZWN0aWdvLmNvbS9TZWN0aWdvUHVi
+bGljU2VydmVyQXV0aGVudGljYXRpb25DQU9WUjM2LmNybDCBhAYIKwYBBQUHAQEE
+eDB2ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LnNlY3RpZ28uY29tL1NlY3RpZ29Q
+dWJsaWNTZXJ2ZXJBdXRoZW50aWNhdGlvbkNBT1ZSMzYuY3J0MCMGCCsGAQUFBzAB
+hhdodHRwOi8vb2NzcC5zZWN0aWdvLmNvbTAlBgNVHREEHjAcgg0qLmNic25ld3Mu
+Y29tggtjYnNuZXdzLmNvbTCCAYYGCisGAQQB1nkCBAIEggF2BIIBcgFwAH4AWW5s
+M4aUsllyolbIoOjdkEp26Ag92oc7AQg4KBQ87lkAAAGhCVxJWwAIAAAFAAdfnQME
+AwBHMEUCIQCivbefkFZxDg2KXbIM5uDtgi9jcVaZt59omtBIWp6oFAIgcSPNYUO2
+h3H7bVXhwLUM5db6KfRaUIeSsmpm3OZ3m3IAdgDt2uuBXGMhNEm0e+UHeQWr0Nkx
+R8J6xRRrO8WOQ+m2xwAAAaEJXEkmAAAEAwBHMEUCIAjMFgZJVOTmuE5X7OFAF17n
+FTYA6HqqWjtWaxDezqGHAiEA6D6pVJKz5U3rWQw7EoBwIxcD/BMYQc3UkC2WmRO+
+AHYAdgDW1Y2p0BdT82pKoMdXSQKv68fcLNOM2fdkyAyJGR6fAgAAAaEJXEqxAAAE
+AwBHMEUCIQDXqeQo1pRY7K4EEydZF2ZUbLUo0ex7Y1TyN2YCf+4WHwIgZv9Q3e9B
+AeqKNNCOZ0JZXo56lMyI5h0WSFK/f3BpVjQwDQYJKoZIhvcNAQELBQADggGBAKS2
+vd62OJpY9/lps0hXw/eIjVzvmkAo1pOBEW5jhmTB/AuHV3/jWCPMKtaw0QfbicVX
+KMQ1Y3Vn3imfNz96dQ++L6g262G3m1KBtsrvR4BcRipSo4BY6BY/fUzy6CbQaRA+
+39MKfIFZBo8Wodqlf4J+jmGIok1IDhDV59j0ZPSZ9G+oARqAiilrj5V6OmL4qLNC
+QO/pJ1QbkKtNZr3jR+uFbxN8Btv4rFgLX5rfrlQTKvKGW+OH9SVxDL4JMN6ssWMz
+qUH1QwEwC2IOpsLWYC4ueJtM4GrS0C+k0XlzSGzB9fZDTYSNVe0N+SBf/q+Yt3BJ
+VHxu/TcTA6OVWj1ikeHMerJZlGXjVjubz5ni8XLQN96S+r+ItM0MyMRUb4ZxvRmt
+fHUbjQveuoZ7RnUdxTGM//e/RYTp+3CPJlxo+lISpE5T3WzfiMugka2lBaIBcgH4
+kKjXdZvYPUKE3+EKeINeOF/o1uN/aZX3+o+8rQzfetOrmHnuHz+Ausp/UK52jg==
+-----END CERTIFICATE-----
+subject=C=US, ST=New York, O=CBS Corporation, CN=*.cbsnews.com
+issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 6769 bytes and written 1564 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: E91AE8645BA1BB906AFFF719DC4A485C87ACC5035D389BFDB3A9F6C231AE358E
+    Session-ID-ctx: 
+    Resumption PSK: 78643D7FCAA95C423A5A85EACD88D48548350D871C8B1C772683DF31A95D7A21
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
+    0010 - f5 37 16 25 10 f2 e4 01-a2 98 86 15 fc 76 b9 31   .7.%.........v.1
+    0020 - 42 57 96 72 cc 74 a0 ba-43 51 d8 22 5a 86 63 bf   BW.r.t..CQ."Z.c.
+    0030 - 04 5e 84 70 eb cb 5c d9-62 42 c7 20 e5 48 27 d1   .^.p..\.bB. .H'.
+    0040 - b6 a7 80 cf 9b 29 1f 32-13 94 6b 42 6e 7c 25 2b   .....).2..kBn|%+
+    0050 - b1 fb f4 82 41 e5 fa 9d-30 ad b6 86 24 23 b5 4d   ....A...0...$#.M
+    0060 - 45 d3 e0 5e f7 32 a3 68-a9 b2 12 3d cd bf da 73   E..^.2.h...=...s
+    0070 - e8 8b 9c 72 b6 cf 8d 5c-b6 ce e8 1f c8 a3 f8 60   ...r...\.......`
+    0080 - bb c9 25 eb df ae dd 86-e1 d3 56 89 92 52 8e 13   ..%.......V..R..
+    0090 - 9b f0 0a 61 bf d1 43 ae-86 d9 d5 77 0d 16 cf 21   ...a..C....w...!
+
+    Start Time: 1792921705
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

@@ -1,0 +1,66 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=verywellhealth.com
+   i:C=US, O=Let's Encrypt, CN=YE2
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Sep 28 14:47:13 2026 GMT; NotAfter: Dec 27 14:47:12 2026 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=YE2
+   i:C=US, O=ISRG, CN=Root YE
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
+ 2 s:C=US, O=ISRG, CN=Root YE
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X2
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+ 3 s:C=US, O=Internet Security Research Group, CN=ISRG Root X2
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: EC, (secp384r1); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDpjCCAyygAwIBAgISBvLNs5lTJRpFlxI0sRon+zGCMAoGCCqGSM49BAMDMDMx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNZ
+RTIwHhcNMjYwOTI4MTQ0NzEzWhcNMjYxMjI3MTQ0NzEyWjAdMRswGQYDVQQDExJ2
+ZXJ5d2VsbGhlYWx0aC5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARmtq9Y
+3dCRHV5QEn2Lv4AcrASaktaTsror1Lcs0oLRIKQctavUjv7A1SB2+sZvttAUVYyG
+Tdw92hJ+NDkXbnATo4ICNDCCAjAwDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQMMAoG
+CCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFB8cHNqK/TTEPUL5kLJ4
+ctPnLz6mMB8GA1UdIwQYMBaAFLlZ8o7PIvCG0zdI/3YUGLqC2FWHMDMGCCsGAQUF
+BwEBBCcwJTAjBggrBgEFBQcwAoYXaHR0cDovL3llMi5pLmxlbmNyLm9yZy8wMwYD
+VR0RBCwwKoIUKi52ZXJ5d2VsbGhlYWx0aC5jb22CEnZlcnl3ZWxsaGVhbHRoLmNv
+bTATBgNVHSAEDDAKMAgGBmeBDAECATAtBgNVHR8EJjAkMCKgIKAehhxodHRwOi8v
+eWUyLmMubGVuY3Iub3JnLzMuY3JsMIIBCwYKKwYBBAHWeQIEAgSB/ASB+QD3AHYA
+yzj3FYl8hKFEX1vB3fvJbvKaWc1HCmkFhbDLFMMUWOcAAAGg6LGGTQAABAMARzBF
+AiEA8AV7adiZ7maSZwz0jk/dDcvYJJHD3ggA9uCK8X89uIECIFS2IRyYk9ssTuDa
+CoM5RrmDTvrzwNY8tVlBwwP8rWbIAH0AooEAGHNOF24dR+CVQPOBulRml81jqENQ
+cW64CU7a8Q0AAAGg6LGG5gAIAAAFABc/CkwEAwBGMEQCID4+boMCWdMDO/SJIEeI
+Nk7CMAN9IfyisL2LQ574ZPLnAiB6FcU8AWLrOMwz8HfcUI6wRmeEj57HDvHckRvB
+5BHmnzAKBggqhkjOPQQDAwNoADBlAjEAxgPuBzQkraLs5PXNqA7j+b+aCJau6VdS
+mMD20QrOignphTSYyT+qm2uxU/4Ec5jKAjAg5XRMUT41pH6o0J2uCceUcqK1AdeF
+6FPLq6SZezI9rUvoGJxoImMe0PIkJuoX0oI=
+-----END CERTIFICATE-----
+subject=CN=verywellhealth.com
+issuer=C=US, O=Let's Encrypt, CN=YE2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 4828 bytes and written 1587 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

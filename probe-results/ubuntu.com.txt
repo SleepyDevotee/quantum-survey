@@ -1,0 +1,69 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=ubuntu.com
+   i:C=US, O=Let's Encrypt, CN=YR1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep 16 04:14:37 2026 GMT; NotAfter: Dec 15 04:14:36 2026 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=YR1
+   i:C=US, O=ISRG, CN=Root YR
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
+ 2 s:C=US, O=ISRG, CN=Root YR
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: RSA, 4096 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFADCCA+igAwIBAgISBblBGxxj/02Rruna5IjafiXQMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNZUjEwHhcNMjYwOTE2MDQxNDM3WhcNMjYxMjE1MDQxNDM2WjAVMRMwEQYDVQQD
+Ewp1YnVudHUuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxVwJ
+5U3BQki1qBhidtudQgNIXnzXYrq/ukRiNtzT1OuGBGahBGsOWWItp4lR8SAuRUZm
+0fCADN1yetlLQnxJ/5fPaLujwR+uaN/fRyVpUc6dCA1X5KOKuAddqcHZno5lCUs4
+x8Kxs7t/0lDFORicK94IupHd/8Q5xiI+40cKCuwfxpiyxnOuxi3Jh/exqq3MmUxH
+n4GdIfnp3qBQZk8/PRvVZZIOgQDDh7EiXkq/55B8UXnvy8ea0xgj81bKvrU7+aCZ
++eMXW782Ir0H8ufBlUR/uZLA3GWiOZQxU6rOoa+/upc6UENdcNglEVqJ5H67Oqyw
+hh3fvLq+88I2NqjY4QIDAQABo4ICKjCCAiYwDgYDVR0PAQH/BAQDAgWgMBMGA1Ud
+JQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFFNsfxJaemaa
+UvfZsOIkBDw9rOF/MB8GA1UdIwQYMBaAFB8vNb5GFILNQLGueSxVePr31Gj7MDMG
+CCsGAQUFBwEBBCcwJTAjBggrBgEFBQcwAoYXaHR0cDovL3lyMS5pLmxlbmNyLm9y
+Zy8wJQYDVR0RBB4wHIIKdWJ1bnR1LmNvbYIOd3d3LnVidW50dS5jb20wEwYDVR0g
+BAwwCjAIBgZngQwBAgEwLgYDVR0fBCcwJTAjoCGgH4YdaHR0cDovL3lyMS5jLmxl
+bmNyLm9yZy84MS5jcmwwggEOBgorBgEEAdZ5AgQCBIH/BIH8APoAdwDCMX5XRRmj
+Re5/ON6ykEHrx8IhWiK/f9W1rXaa2Q5SzQAAAaCoogw8AAAEAwBIMEYCIQCHCb3g
+76XDR5lNt3rb7v8XwREF5xT3uoCS5ZAKA60TPwIhAOm1AqQubJgnKxl7I6BY2MAM
+EBLKLkm+MKkajOXhdtmEAH8AJuNkblhpISO8ND9HJDWbN5LNJFqI2BXTkzP9mRir
+RyMAAAGgqKIDdwAIAAAFAEKco5cEAwBIMEYCIQDYxGkbqPbEVJX+BtWRyO0JCVWL
+cNW87p5c1/Dt9L77IwIhAMha1/ujUy6teMAwOo7dMmSoT2NeFEezxmLE5Kugjksr
+MA0GCSqGSIb3DQEBCwUAA4IBAQAfvxvp21EzQk2LtVNt5ENMB+8TqI700YZDh4MJ
+GxcwvvXIkKxRemZlI7wDJa7b2dRVZgmbZ/cSoACL9aAdU0VRbdK5nF2LWOethk01
++bGg9wP6RilTxK8ws+M4laNgdue0bX0/30AKOlFMlq/DZcn81Fj3W2PoZiMGVIC8
+VrM8zkv31ES43wh0SNyZ/B65lBYK9PRW6jKqxHa92albL4A7MQTucfVDtVfLclXf
+HHwqTTY5dvfe+G2EdFCu+6KRZRx3AR+3G+Jehuy9xlxjK0RYI7k5vtxoIZ3Sd43G
+xuwFHJsuEv2w0v3ihfJGzbAJB2kNT4VbcaeJ74Mt/0GdODYZ
+-----END CERTIFICATE-----
+subject=CN=ubuntu.com
+issuer=C=US, O=Let's Encrypt, CN=YR1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4722 bytes and written 1894 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

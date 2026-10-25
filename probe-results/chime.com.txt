@@ -1,0 +1,74 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=chime.com
+   i:C=US, O=Let's Encrypt, CN=YE2
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Oct 23 17:00:09 2026 GMT; NotAfter: Jan 21 17:00:08 2027 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=YE2
+   i:C=US, O=ISRG, CN=Root YE
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
+ 2 s:C=US, O=ISRG, CN=Root YE
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X2
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+ 3 s:C=US, O=Internet Security Research Group, CN=ISRG Root X2
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: EC, (secp384r1); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFDTCCBJOgAwIBAgISBpkcRSuV8onAcEabxxpP2O7mMAoGCCqGSM49BAMDMDMx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNZ
+RTIwHhcNMjYxMDIzMTcwMDA5WhcNMjcwMTIxMTcwMDA4WjAUMRIwEAYDVQQDEwlj
+aGltZS5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARONnd1GFAIJmtW89LZ
+8A1jPeB+746XH5j5Wk35WA0N4YQntbx1TtHJ4/LbmQPd9G4Kz6/aoGxlzGg64in3
+dLAKo4IDpDCCA6AwDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQMMAoGCCsGAQUFBwMB
+MAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFChqcpVV8RY2ERQ0QoKP1bzfwK+BMB8G
+A1UdIwQYMBaAFLlZ8o7PIvCG0zdI/3YUGLqC2FWHMDMGCCsGAQUFBwEBBCcwJTAj
+BggrBgEFBQcwAoYXaHR0cDovL3llMi5pLmxlbmNyLm9yZy8wggGdBgNVHREEggGU
+MIIBkIILKi5jaGltZS5jb22CGjE2MDAyNDA3LmFjY291bnQuY2hpbWUuY29tghkx
+NjAwMjQwNy5ub3RpZnkuY2hpbWUuY29tggljaGltZS5jb22CF2VtYWlsLmdoLW1h
+aWwuY2hpbWUuY29tghtlbWFpbC5naC1tYWlsLmV4dC5jaGltZS5jb22CEmVtYWls
+Lm1nLmNoaW1lLmNvbYIYZW1haWwudGVhbWFibGUuY2hpbWUuY29tghtlbXBsb3ll
+cnMud3AtZGV2MS5jaGltZS5jb22CG2VtcGxveWVycy53cC1kZXYyLmNoaW1lLmNv
+bYIbZW1wbG95ZXJzLndwLWRldjMuY2hpbWUuY29tghtlbXBsb3llcnMud3AtZGV2
+NC5jaGltZS5jb22CG2VtcGxveWVycy53cC1kZXY1LmNoaW1lLmNvbYIZZW1wbG95
+ZXJzLndwLXFhLmNoaW1lLmNvbYIXbGlua3MuYWNjb3VudC5jaGltZS5jb22CFmxp
+bmtzLm5vdGlmeS5jaGltZS5jb20wEwYDVR0gBAwwCjAIBgZngQwBAgEwLwYDVR0f
+BCgwJjAkoCKgIIYeaHR0cDovL3llMi5jLmxlbmNyLm9yZy8xMDMuY3JsMIIBDQYK
+KwYBBAHWeQIEAgSB/gSB+wD5AHYARMK9DOkUDmSlyUoBkwpaobs1lw4A7hEWiWgq
+HETXtWYAAAGhaeo1DQAABAMARzBFAiAPuPVq/SAXSoYZuxVWn56nHu9HfFTYK5VB
+NYSDXunDCAIhALgkg++7F9g3ZIwVx+HcivGpEn/3JxQZisWLaKzk/2TcAH8AWW5s
+M4aUsllyolbIoOjdkEp26Ag92oc7AQg4KBQ87lkAAAGhaeo1kQAIAAAFABN55OgE
+AwBIMEYCIQDYLpZu1+2qbQ80H2WL0T0I1iL7R3ShsM192NEYCefigQIhALMX/zOs
+ABSYjV/Yisw0iqiIVfrv057Y0CAjobEB/i92MAoGCCqGSM49BAMDA2gAMGUCMQDu
+G5T8cyvxbXf4KrpLVAZVWUUd0RZ/X1+O4qIn5JABDNmuVBiP7zEjO/0mR7ZakdcC
+MFJo6UdnILYe97yp6Kb+f4oXxrUCobm/RNNMia6dSMDTb3uwNo1mSlSg/9BGiF8Q
+HA==
+-----END CERTIFICATE-----
+subject=CN=chime.com
+issuer=C=US, O=Let's Encrypt, CN=YE2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 5187 bytes and written 1578 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

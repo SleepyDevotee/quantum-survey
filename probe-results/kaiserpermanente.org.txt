@@ -1,0 +1,128 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=California, O=Kaiser Foundation Health Plan, Inc., CN=www.kaiserpermanente.org
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jan 23 00:00:00 2026 GMT; NotAfter: Feb 22 23:59:59 2027 GMT
+ 1 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Mar 21 23:59:59 2036 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+ 3 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Feb  1 00:00:00 2010 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIINLTCCC5WgAwIBAgIQPQlioinLjBwSZi6+HmtWMzANBgkqhkiG9w0BAQsFADBg
+MQswCQYDVQQGEwJHQjEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFB1YmxpYyBTZXJ2ZXIgQXV0aGVudGljYXRpb24gQ0EgT1YgUjM2
+MB4XDTI2MDEyMzAwMDAwMFoXDTI3MDIyMjIzNTk1OVowczELMAkGA1UEBhMCVVMx
+EzARBgNVBAgTCkNhbGlmb3JuaWExLDAqBgNVBAoTI0thaXNlciBGb3VuZGF0aW9u
+IEhlYWx0aCBQbGFuLCBJbmMuMSEwHwYDVQQDExh3d3cua2Fpc2VycGVybWFuZW50
+ZS5vcmcwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCyNfNFNyc7yxPf
+PcSGkSJP6W//H0OpeLQyAVKu2xdiZzg6fu4AzmiMbORlzM3uPa9ZTA2fJFOGqqZc
+bV+xPjQJdWBZP4FXP2PikC3GnqWbNTRWqIEUCwqz3Pq/pWUFHHKkDoXCujUh9+nR
+m6t6u2SAUWKNGKyDbRv7OuCFuSS25SLkZknMgKnajOkt7WuQkMAIkCTR045MLTXH
+JEQXpVNZO5K7r8EOdQcSc1gIG6vnY9YJbzVQPe0PDiOmTlKlg6ORJt/b8SRFrEXX
+hpG2iDCl63fJMXME56s91O7C9ZPbhv/3haHi8xR4NbQcTSP9dbZ09OvQREZjvXO0
+po9h54qpAgMBAAGjgglOMIIJSjAfBgNVHSMEGDAWgBTjZnS7cGiNLF1ODqZKj5s3
+IpyCkjAdBgNVHQ4EFgQUq/Afwp+Qrl7kQZ9ZkpwvYkjFO4owDgYDVR0PAQH/BAQD
+AgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MEoGA1UdIARDMEEwNQYMKwYBBAGyMQECAQMEMCUwIwYIKwYBBQUHAgEWF2h0dHBz
+Oi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECAjBUBgNVHR8ETTBLMEmgR6BFhkNo
+dHRwOi8vY3JsLnNlY3RpZ28uY29tL1NlY3RpZ29QdWJsaWNTZXJ2ZXJBdXRoZW50
+aWNhdGlvbkNBT1ZSMzYuY3JsMIGEBggrBgEFBQcBAQR4MHYwTwYIKwYBBQUHMAKG
+Q2h0dHA6Ly9jcnQuc2VjdGlnby5jb20vU2VjdGlnb1B1YmxpY1NlcnZlckF1dGhl
+bnRpY2F0aW9uQ0FPVlIzNi5jcnQwIwYIKwYBBQUHMAGGF2h0dHA6Ly9vY3NwLnNl
+Y3RpZ28uY29tMIIBjgYKKwYBBAHWeQIEAgSCAX4EggF6AXgAdwAcn2gs6frwRWlQ
++BuWiofd2zIQ2EzmyLLjglJKxM9ZnwAAAZvpOV2GAAAEAwBIMEYCIQDtOFil8Oz4
+zhVqgjfb5yTu6nPR+179T9B8DWV/F/eAOQIhANHJcoldVUrCkejR2mBOY0AX2nRq
+WN5CzUIVr//blHA0AH4AjspHC6zeavOiBrCkeoS3Rv4fxr+VPiXmm07kAkjzxugA
+AAGb6TlgSgAIAAAFAAG/bHwEAwBHMEUCIQCXo0EVfJ3P4RzDl0CMnzLPn9isNkRL
+4CQpagKZ9ind6QIgdC7ijgjHLA9+Evi3y7ZkahuZFvACe/OUhP5YeZWxJKgAfQBZ
+bmwzhpSyWXKiVsig6N2QSnboCD3ahzsBCDgoFDzuWQAAAZvpOV4iAAgAAAUAABPv
+2QQDAEYwRAIgbfP7gJhwG9OuorujRVswUcl5xHZDEeUuHzXcErg/uIACIGYZuyOI
+4FyJvCgb8XEMXqdU9VYG9vm2bWL4+OkAiVCMMIIGDgYDVR0RBIIGBTCCBgGCGHd3
+dy5rYWlzZXJwZXJtYW5lbnRlLm9yZ4IcYnJva2Vycy5rYWlzZXJwZXJtYW5lbnRl
+LmNvbYIcYnJva2Vycy5rYWlzZXJwZXJtYW5lbnRlLm5ldIIcYnJva2Vycy5rYWlz
+ZXJwZXJtYW5lbnRlLm9yZ4IOYnJva2Vycy5rcC5jb22CDmJyb2tlcnMua3AubmV0
+gg5icm9rZXJzLmtwLm9yZ4IeZW1wbG95ZXJzLmthaXNlcnBlcm1hbmVudGUuY29t
+gh5lbXBsb3llcnMua2Fpc2VycGVybWFuZW50ZS5uZXSCHmVtcGxveWVycy5rYWlz
+ZXJwZXJtYW5lbnRlLm9yZ4IQZW1wbG95ZXJzLmtwLmNvbYIQZW1wbG95ZXJzLmtw
+Lm5ldIIQZW1wbG95ZXJzLmtwLm9yZ4IUa2Fpc2VycGVybWFuZW50ZS5jb22CFGth
+aXNlcnBlcm1hbmVudGUubmV0ghRrYWlzZXJwZXJtYW5lbnRlLm9yZ4IGa3AuY29t
+ggZrcC5uZXSCBmtwLm9yZ4IcbWVtYmVycy5rYWlzZXJwZXJtYW5lbnRlLmNvbYIc
+bWVtYmVycy5rYWlzZXJwZXJtYW5lbnRlLm5ldIIcbWVtYmVycy5rYWlzZXJwZXJt
+YW5lbnRlLm9yZ4IObWVtYmVycy5rcC5jb22CDm1lbWJlcnMua3AubmV0gg5tZW1i
+ZXJzLmtwLm9yZ4IebmV3c21lZGlhLmthaXNlcnBlcm1hbmVudGUuY29tgh5uZXdz
+bWVkaWEua2Fpc2VycGVybWFuZW50ZS5uZXSCHm5ld3NtZWRpYS5rYWlzZXJwZXJt
+YW5lbnRlLm9yZ4IQbmV3c21lZGlhLmtwLmNvbYIQbmV3c21lZGlhLmtwLm5ldIIQ
+bmV3c21lZGlhLmtwLm9yZ4IpcHJvc3BlY3RpdmVlbXBsb3llcnMua2Fpc2VycGVy
+bWFuZW50ZS5jb22CKXByb3NwZWN0aXZlZW1wbG95ZXJzLmthaXNlcnBlcm1hbmVu
+dGUubmV0ghtwcm9zcGVjdGl2ZWVtcGxveWVycy5rcC5jb22CG3Byb3NwZWN0aXZl
+ZW1wbG95ZXJzLmtwLm5ldIIbcHJvc3BlY3RpdmVlbXBsb3llcnMua3Aub3Jngidw
+cm9zcGVjdGl2ZW1lbWJlcnMua2Fpc2VycGVybWFuZW50ZS5jb22CJ3Byb3NwZWN0
+aXZlbWVtYmVycy5rYWlzZXJwZXJtYW5lbnRlLm5ldIIncHJvc3BlY3RpdmVtZW1i
+ZXJzLmthaXNlcnBlcm1hbmVudGUub3Jnghlwcm9zcGVjdGl2ZW1lbWJlcnMua3Au
+Y29tghlwcm9zcGVjdGl2ZW1lbWJlcnMua3AubmV0ghlwcm9zcGVjdGl2ZW1lbWJl
+cnMua3Aub3JngiB3d3cuYnJva2Vycy5rYWlzZXJwZXJtYW5lbnRlLm9yZ4ISd3d3
+LmJyb2tlcnMua3Aub3JngiJ3d3cuZW1wbG95ZXJzLmthaXNlcnBlcm1hbmVudGUu
+b3JnghR3d3cuZW1wbG95ZXJzLmtwLm9yZ4IYd3d3LmthaXNlcnBlcm1hbmVudGUu
+Y29tghh3d3cua2Fpc2VycGVybWFuZW50ZS5uZXSCCnd3dy5rcC5jb22CCnd3dy5r
+cC5uZXSCCnd3dy5rcC5vcmeCIHd3dy5tZW1iZXJzLmthaXNlcnBlcm1hbmVudGUu
+b3JnghJ3d3cubWVtYmVycy5rcC5vcmeCInd3dy5uZXdzbWVkaWEua2Fpc2VycGVy
+bWFuZW50ZS5vcmeCFHd3dy5uZXdzbWVkaWEua3Aub3Jngi13d3cucHJvc3BlY3Rp
+dmVlbXBsb3llcnMua2Fpc2VycGVybWFuZW50ZS5vcmeCH3d3dy5wcm9zcGVjdGl2
+ZWVtcGxveWVycy5rcC5vcmeCK3d3dy5wcm9zcGVjdGl2ZW1lbWJlcnMua2Fpc2Vy
+cGVybWFuZW50ZS5vcmeCHXd3dy5wcm9zcGVjdGl2ZW1lbWJlcnMua3Aub3JnMA0G
+CSqGSIb3DQEBCwUAA4IBgQB6gMF81FO61IKr0d8erysuTwDjTXqf9FEIq1siO31p
+j9HOcKxYQaxi2OP9vQa1Tn3PJjf40ELK3UIEUWTycVW8x1fLi0PGW/ktai2TgkoE
+xW6zsFCO5xU0quhMetyR6vRTbZkL4ZNFOOdDaOn3vCQWtZuRioBiDHhdR5aANZvC
+zNEP0gOhMLoQ/8oWUGtkhTLlb5bRAzpmhGzdYJnKyPDuAjHSdcyKdQa4Nm046NPA
+Of/bhDtSoI3zBOxeh7ENGCAtkL6toHkzTaYJHDRNFqy5O7EghUHccwksunD5XqxA
+x1TdRQEoxOUbiI1KaK0acHEV6r1LDNiC251ZReq9LuFF6h4ac3V/uap2u1tdhMHX
+l6/tyX0pI5ai6+LjJ2KrpDNXP0HLeXKUzYRr/gIq+PW5lVhcPSLmuOwCC4aDTBIW
+3PFpiFWIQvWFVSebCi5fHeLsNdrT6JQubUPABXPt/LyPHkPIhC21DztSqhgz8wkK
+5uLEyk+bgzAxMr+9cGBRHog=
+-----END CERTIFICATE-----
+subject=C=US, ST=California, O=Kaiser Foundation Health Plan, Inc., CN=www.kaiserpermanente.org
+issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pkcs1_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 8706 bytes and written 1635 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 528854A2A6CDC8863A51B74F0E1570047A5F5A6B2F07C704413F11D1DEA5C01F
+    Session-ID-ctx: 
+    Master-Key: 2DFEB030B47B40F1F8AE354A7F3622E1EBDA8C1C5B8121C5C2435869D9C7D6F8D100254341A77E3A956954F42C270061
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1792921659
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

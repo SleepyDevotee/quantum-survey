@@ -1,0 +1,130 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=Ohio, L=Cleveland, O=Keybank National Association, CN=keybank.com
+   i:C=US, O=DigiCert, Inc., CN=DigiCert G5 TLS RSA4096 SHA384 2021 CA1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct 21 00:00:00 2026 GMT; NotAfter: Mar  7 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert, Inc., CN=DigiCert G5 TLS RSA4096 SHA384 2021 CA1
+   i:C=US, O=DigiCert, Inc., CN=DigiCert TLS RSA4096 Root G5
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Apr 14 00:00:00 2021 GMT; NotAfter: Apr 13 23:59:59 2031 GMT
+ 2 s:C=US, O=DigiCert, Inc., CN=DigiCert TLS RSA4096 Root G5
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 31 00:00:00 2026 GMT; NotAfter: Mar 30 23:59:59 2036 GMT
+ 3 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIINmDCCC4CgAwIBAgIQCJbd7IVfz8bJBoK1eYMw9jANBgkqhkiG9w0BAQsFADBY
+MQswCQYDVQQGEwJVUzEXMBUGA1UEChMORGlnaUNlcnQsIEluYy4xMDAuBgNVBAMT
+J0RpZ2lDZXJ0IEc1IFRMUyBSU0E0MDk2IFNIQTM4NCAyMDIxIENBMTAeFw0yNjEw
+MjEwMDAwMDBaFw0yNzAzMDcyMzU5NTlaMG0xCzAJBgNVBAYTAlVTMQ0wCwYDVQQI
+EwRPaGlvMRIwEAYDVQQHEwlDbGV2ZWxhbmQxJTAjBgNVBAoTHEtleWJhbmsgTmF0
+aW9uYWwgQXNzb2NpYXRpb24xFDASBgNVBAMTC2tleWJhbmsuY29tMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAo1POHxcSEmlV/m49O7SYw8zbiITwrRqS
+t8r8M16Jrys11Z5C2I1FULKzia1SjHb35xedd8uVTiZchXqWzTzAg7e4O2kHMYG/
+c7Vj3uA40J5A3m3Tq3qJccEG8sApxfjMSVhCx97saTWRTO1V5A+c+LGWOqXCACfB
+YUmAouo/Zhl4fpv597QN2J7da2waiY6XnkUIuc+DrbbqeclwyLacvUu2nXujNLOx
+Lx5xmiqsj4w89+cnDxdkvnxzAIJ/eikRj3tR6B0dIB+NMz/90WP/NIoGO11DgEiD
+j6FcITG0Gq+vLxo4TfH79t5AwMhLWDvemOdaW/hEH5EqXvmlrHzVvQIDAQABo4IJ
+RzCCCUMwHwYDVR0jBBgwFoAUrrqUM7rvN00L1xjvSuShDbwHtnMwHQYDVR0OBBYE
+FEQohMWikhdyMEFS2GWDROHC53TrMIIF5AYDVR0RBIIF2zCCBdeCC2tleWJhbmsu
+Y29tggtrZXljb3JwLmNvbYILa2V5Y29ycC5iaXqCC2tleWJhbmsubmV0gg9rZXli
+YW5rLXVzYS5jb22CCmtleWJhbmsudXOCC2tleWJhbmsub3Jngg50aHJpdmUua2V5
+LmNvbYIJbS5rZXkuY29tgg13d3cubS5rZXkuY29tggdrZXkuY29tgg9jYXJlZXJz
+LmtleS5jb22CGWtleTJmaW5hbmNpYWx3ZWxsbmVzcy5jb22CHXd3dy5rZXkyZmlu
+YW5jaWFsd2VsbG5lc3MuY29tgiF3ZWxjb21lLmtleTJmaW5hbmNpYWx3ZWxsbmVz
+cy5jb22CH2xlYXJuLmtleTJmaW5hbmNpYWx3ZWxsbmVzcy5jb22CEXBhY2lmaWMt
+Y3Jlc3QuY29tghV3d3cucGFjaWZpYy1jcmVzdC5jb22CF3F2d3d3LnBhY2lmaWMt
+Y3Jlc3QuY29tgg93d3cua2V5YmFuay5jb22CDmxhdXJlbHJvYWQuY29tghJrZXli
+YW5rcmV3YXJkcy5jb22CFnd3dy5rZXliYW5rcmV3YXJkcy5jb22CFWdldGtleWJh
+bmtyZXdhcmRzLmNvbYIZd3d3LmdldGtleWJhbmtyZXdhcmRzLmNvbYIRbG9jYXRp
+b25zLmtleS5jb22CFHd3dy5jYWluYnJvdGhlcnMuY29tghBjYWluYnJvdGhlcnMu
+Y29tghdjYmZpcm0uY2FpbmJyb3RoZXJzLmNvbYIUZGV2LmNhaW5icm90aGVycy5j
+b22CDWtleTR3b21lbi5jb22CEXd3dy5rZXk0d29tZW4uY29tghVrZXliYW5rb3Bl
+bnNkb29ycy5jb22CD3BkeHByb2dyZXNzLmNvbYIZd3d3LmtleWJhbmtvcGVuc2Rv
+b3JzLmNvbYINa2Vmb25saW5lLmNvbYIRd3d3LmtlZm9ubGluZS5jb22CEWtleW9w
+ZW5zZG9vcnMuY29tghV3d3cua2V5b3BlbnNkb29ycy5jb22CD3BkeHByb2dyZXNz
+Lm9yZ4ITd3d3LnBkeHByb2dyZXNzLm9yZ4ITd3d3LnBkeHByb2dyZXNzLmNvbYIN
+c29sYXIua2V5LmNvbYIRa2V5YmFua3N0dWRpby5jb22CGHd3dy5rZXliYW5rZ2lm
+dGNhcmRzLmNvbYIUa2V5YmFua2dpZnRjYXJkcy5jb22CC2dyYWRmaW4ubmV0gg93
+d3cuZ3JhZGZpbi5uZXSCGmtleXdvcmtwbGFjZWd1aWRlbGluZXMuY29tgh53d3cu
+a2V5d29ya3BsYWNlZ3VpZGVsaW5lcy5jb22CG3d3dy5rZXllcXVpcG1lbnRmaW5h
+bmNlLmNvbYIXa2V5ZXF1aXBtZW50ZmluYW5jZS5jb22CHGJsb2cua2V5ZXF1aXBt
+ZW50ZmluYW5jZS5jb22CFGhyb25saW5lLmtleWJhbmsuY29tgh9sYW5kaW5nLmtl
+eWVxdWlwbWVudGZpbmFuY2UuY29tghxpbmZvLmtleWVxdWlwbWVudGZpbmFuY2Uu
+Y29tghJwb3J0YWwuZ3JhZGZpbi5jb22CC2dyYWRmaW4uY29tgg93d3cuZ3JhZGZp
+bi5jb22CFmxvY2F0aW9ucy5nc2xiLmtleS5jb22CEGtleTJiZW5lZml0cy5jb22C
+FHd3dy5rZXkyYmVuZWZpdHMuY29tghJ3d3cua2V5cGF0aWVudC5jb22CDmtleXBh
+dGllbnQuY29tghRiZW5lZml0cy5rZXliYW5rLmNvbYIWcXZiZW5lZml0cy5rZXli
+YW5rLmNvbYIPa2V5MnByZXBhaWQuY29tgg9rZXkycGF5cm9sbC5jb22CE3d3dy5r
+ZXkycHJlcGFpZC5jb22CE3d3dy5rZXkycGF5cm9sbC5jb22CEnd3dy5sYXVyZWxy
+b2FkLmNvbYIRcGwubGF1cmVscm9hZC5jb22CEXNsLmxhdXJlbHJvYWQuY29tMD4G
+A1UdIAQ3MDUwMwYGZ4EMAQICMCkwJwYIKwYBBQUHAgEWG2h0dHA6Ly93d3cuZGln
+aWNlcnQuY29tL0NQUzAOBgNVHQ8BAf8EBAMCBaAwEwYDVR0lBAwwCgYIKwYBBQUH
+AwEwgZsGA1UdHwSBkzCBkDBGoESgQoZAaHR0cDovL2NybDMuZGlnaWNlcnQuY29t
+L0RpZ2lDZXJ0RzVUTFNSU0E0MDk2U0hBMzg0MjAyMUNBMS0yLmNybDBGoESgQoZA
+aHR0cDovL2NybDQuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0RzVUTFNSU0E0MDk2U0hB
+Mzg0MjAyMUNBMS0yLmNybDCBhQYIKwYBBQUHAQEEeTB3MCQGCCsGAQUFBzABhhho
+dHRwOi8vb2NzcC5kaWdpY2VydC5jb20wTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jYWNl
+cnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEc1VExTUlNBNDA5NlNIQTM4NDIwMjFD
+QTEtMS5jcnQwDAYDVR0TAQH/BAIwADCCAX4GCisGAQQB1nkCBAIEggFuBIIBagFo
+AHYAHJ9oLOn68EVpUPgbloqH3dsyENhM5siy44JSSsTPWZ8AAAGhXmZxrQAABAMA
+RzBFAiB+3z0wgSrd6C5j+7HVlmpKwAlg2x7dOewI7+0bKBrrJQIhALDt36o9AZ10
+q6dY5Ks4eUKnJJHjz73+aYqQ5tmJ8FV0AHYA1tWNqdAXU/NqSqDHV0kCr+vH3CzT
+jNn3ZMgMiRkenwIAAAGhXmZx1QAABAMARzBFAiEA/fnuVWv5wN9IxSb7m5YL1ZCe
+vqjf929Ggpn70OlQrucCIDy8sVwmQdXtbEV22hKzTH3RPvogiJ6qFsP6wFH7M7gM
+AHYARMK9DOkUDmSlyUoBkwpaobs1lw4A7hEWiWgqHETXtWYAAAGhXmZxigAABAMA
+RzBFAiBMJ63KEho4btL6MtcK0n7MuY7/qmfd5MsTxp2TNmNSyAIhAIgy1U3mDmSN
+6MdBduLM8lOezhC66ZJyQQU0qVhe5gO6MA0GCSqGSIb3DQEBCwUAA4ICAQCpjyNt
+mz1DbpTW4jLC1xVTmUhaIMvr8HkDvYfvWpWcY72m44/FSkAZkl3evo2EQemk7FYq
+jIU6rQyR2/DhxUJvmoGHAq0f8rmiE2DKYybxJJo/gQ20B2Xo55SU+ScprG3/gyNm
+u1jRElWfnv3fkq69WP2i2FPXch+v6gqv1r8sHcz/GwBVx8PGaUxg2cVL1Ho5SQes
+6fYwiBWbwS6frbs1g+TMY1OZGC+ysVbP8fhOfJbXvFLmASx4DYgzHh30psnKJbFj
+Q5plzLmuB9vYl5V1o3+cgtzOGDtGsoBMmK4x6QNrqiwzP/O7cG2C2kPbofTT4v1c
+AnENKJ19DOgiVtNUzgayckGXXFb5+RtPtZCVLJvo2oXnBAPw3r129qMgPes4Jnfo
+243/2mHP22Lloqj0BfEIxdT96IBzN1n8T/L8tCAKBobE5M1ve4l8Zj18xSCUjhyu
+PME9tq/6XwmMHkxjXBRwWfpBw4bdnJoaSEt2VQmX1cqFE3EdeWFc8ktyGQ8TaX92
+Ut+n+tqPkg+h3GxryRSPvMDc46XPaHxbQMtUj5Qq/GoWnToe+pfq3emmho3SOX9/
+rlHFUYgYe5D3S70sQhvugqZpSCSoKXQ+ldyY/NFF04K7o7gzFOOiTWHwUdIU9lBO
+eJ+k6ugwr/T+8Okvv3Lfd0avqjf0WnGzQDRfCA==
+-----END CERTIFICATE-----
+subject=C=US, ST=Ohio, L=Cleveland, O=Keybank National Association, CN=keybank.com
+issuer=C=US, O=DigiCert, Inc., CN=DigiCert G5 TLS RSA4096 SHA384 2021 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pkcs1_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 8068 bytes and written 1626 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: F6DC99168A614C3A5F2523F5732974477779435C198B36306C6B4DC542B9C453
+    Session-ID-ctx: 
+    Master-Key: 294012CCE31513FFA21A882F2E7AA30025F6C1A1F6E4499EC79EC23DBA36552A6C8EE6280E78B48DDC75BC5C74CF1ABF
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1792921650
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

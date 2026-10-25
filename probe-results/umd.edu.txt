@@ -1,0 +1,65 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=umd.edu
+   i:C=US, O=Let's Encrypt, CN=YE1
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Sep 29 12:39:51 2026 GMT; NotAfter: Dec 28 12:39:50 2026 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=YE1
+   i:C=US, O=ISRG, CN=Root YE
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
+ 2 s:C=US, O=ISRG, CN=Root YE
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X2
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+ 3 s:C=US, O=Internet Security Research Group, CN=ISRG Root X2
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: EC, (secp384r1); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDfDCCAwKgAwIBAgISBeRQOWa62kvBmPubx2H3d6xFMAoGCCqGSM49BAMDMDMx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNZ
+RTEwHhcNMjYwOTI5MTIzOTUxWhcNMjYxMjI4MTIzOTUwWjASMRAwDgYDVQQDEwd1
+bWQuZWR1MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEPa/JNxZAzIEv6ypAywB3
+FrYsR5lt2N+JnRl2gxfj2nPPDXlzvx2mm2APjaovZOo9+C5iYb94Ri2/PjJLeiHp
+ZqOCAhUwggIRMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEFBQcDATAM
+BgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSOes6RRgiN4ekOGeAk0K9t0ZwJ2zAfBgNV
+HSMEGDAWgBS7IMpHC/7X5Zz5jwkqo4w3RbG82DAzBggrBgEFBQcBAQQnMCUwIwYI
+KwYBBQUHMAKGF2h0dHA6Ly95ZTEuaS5sZW5jci5vcmcvMBIGA1UdEQQLMAmCB3Vt
+ZC5lZHUwEwYDVR0gBAwwCjAIBgZngQwBAgEwLgYDVR0fBCcwJTAjoCGgH4YdaHR0
+cDovL3llMS5jLmxlbmNyLm9yZy83MC5jcmwwggEMBgorBgEEAdZ5AgQCBIH9BIH6
+APgAdgDLOPcViXyEoURfW8Hd+8lu8ppZzUcKaQWFsMsUwxRY5wAAAaDtY0XoAAAE
+AwBHMEUCIQD5EzHsYok/1BxU/WVy/E/5EP3cc3OqknjrbNI8ETLMyAIgQ4JDSta/
++DDWTus5udUSP7KXC8KpW1q4czAoNlb6gTMAfgCigQAYc04Xbh1H4JVA84G6VGaX
+zWOoQ1BxbrgJTtrxDQAAAaDtY0dWAAgAAAUAF/OkDwQDAEcwRQIhALZ2OV0osXg3
+BOAgF8mZp7DQGlviuPviPH5OicOmo2MYAiBSVz8S9evGbrCPLa+609oW+b/A1cUT
+fOkDmLw7ugEPsDAKBggqhkjOPQQDAwNoADBlAjEA2uozwQZHVLLgjmkNROXf+XIB
+vi142O3WUVXGd9SDLP57wwxSiDJHgmSdsC96L5CeAjAMQf76sPnvj12WhRN6gRYN
+NTmttvp+inqH5wPl+PdJG89jbFQff3Anwh/ofvLkkFg=
+-----END CERTIFICATE-----
+subject=CN=umd.edu
+issuer=C=US, O=Let's Encrypt, CN=YE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 4785 bytes and written 1576 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

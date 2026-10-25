@@ -1,0 +1,110 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=California, O=University of California, San Diego, CN=ucsd.edu
+   i:C=US, O=Internet2, CN=InCommon RSA Server CA 2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Mar 11 00:00:00 2026 GMT; NotAfter: Apr 11 23:59:59 2027 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: RSA, 2048 (bit); sigalg: sha1WithRSAEncryption
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 3 s:C=US, O=Internet2, CN=InCommon RSA Server CA 2
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Nov 16 00:00:00 2022 GMT; NotAfter: Nov 15 23:59:59 2032 GMT
+ 4 s:C=US, ST=California, O=University of California, San Diego, CN=ucsd.edu
+   i:C=US, O=Internet2, CN=InCommon RSA Server CA 2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Mar 11 00:00:00 2026 GMT; NotAfter: Apr 11 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG5zCCBU+gAwIBAgIRANp/gzYW5EWotCYMHGOUjLYwDQYJKoZIhvcNAQELBQAw
+RDELMAkGA1UEBhMCVVMxEjAQBgNVBAoTCUludGVybmV0MjEhMB8GA1UEAxMYSW5D
+b21tb24gUlNBIFNlcnZlciBDQSAyMB4XDTI2MDMxMTAwMDAwMFoXDTI3MDQxMTIz
+NTk1OVowYzELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExLDAqBgNV
+BAoTI1VuaXZlcnNpdHkgb2YgQ2FsaWZvcm5pYSwgU2FuIERpZWdvMREwDwYDVQQD
+Ewh1Y3NkLmVkdTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALoRENe6
+RFgWCnnO3WdCNYKV8NCAH4o5iuqasxVPJAJKDiso+d3s8e2AXpMCSGWSK647n63W
+2+DP/h1LYDawC4FyudcBQ30qd+P9RD9MP+OLxtMj73wu70myFqm3vP8z/yQ2ShLo
+TAKL+9GBIcTTRKPajbkSCLCQDqL+xv/0NRulw/i8z55vz1gla/SLaTeS5Fknps0P
+ajOWUnb9DGRmiV7+RpAO3A3IBns252+08xV9pOBtUEoO4n3l8SIGeMeLBh10aRtB
+TrOpG65saGCCVmKjELQaMWEWirHxgINYvMH5L77w9+A1CW6HDFvoyiczPhrEuOqH
+oFg6EfBWst1s/zECAwEAAaOCAzMwggMvMB8GA1UdIwQYMBaAFO9MAJKm+3YuXpXi
+yV+HGxnVTeLZMB0GA1UdDgQWBBQnZxgpi0PUUL6KQ+LxQqOBE+SySTAOBgNVHQ8B
+Af8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIxAQICZzAlMCMGCCsGAQUFBwIBFhdo
+dHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwBAgIwQAYDVR0fBDkwNzA1oDOg
+MYYvaHR0cDovL2NybC5zZWN0aWdvLmNvbS9JbkNvbW1vblJTQVNlcnZlckNBMi5j
+cmwwcAYIKwYBBQUHAQEEZDBiMDsGCCsGAQUFBzAChi9odHRwOi8vY3J0LnNlY3Rp
+Z28uY29tL0luQ29tbW9uUlNBU2VydmVyQ0EyLmNydDAjBggrBgEFBQcwAYYXaHR0
+cDovL29jc3Auc2VjdGlnby5jb20wggGOBgorBgEEAdZ5AgQCBIIBfgSCAXoBeAB1
+AByfaCzp+vBFaVD4G5aKh93bMhDYTObIsuOCUkrEz1mfAAABnN3xOZAAAAQDAEYw
+RAIgemX5t2WO2HLKFB1HC+PCrceVwCuYNYJPpqlB/TzViewCICj3CwC+bxSAbc6E
+7vDgCbkV0+zg4e2I9mh+iYWFbu5JAH4AjspHC6zeavOiBrCkeoS3Rv4fxr+VPiXm
+m07kAkjzxugAAAGc3fE6PgAIAAAFAAMXTIQEAwBHMEUCIQDoOT0L9X0+Z8cbL4vI
+tt/JbZFdg/8E0cW4vFKAug8nvAIgfURDwdm85VIQOClMzfXZEjMgaDpehjfx/vA0
+gEdSyeEAfwBZbmwzhpSyWXKiVsig6N2QSnboCD3ahzsBCDgoFDzuWQAAAZzd8Tjq
+AAgAAAUAADfYWQQDAEgwRgIhAPorEvbKgeNMXv/bSyvEe58X5E435p7L+1jrJ8Vh
+ZcvUAiEAhYR9IfLjdsIbGnqq8HbAobJRNxq9N13jrB/HrNetbUQwHwYDVR0RBBgw
+FoIIdWNzZC5lZHWCCioudWNzZC5lZHUwDQYJKoZIhvcNAQELBQADggGBAAJMnlog
+n3h6VvuVtDCRThuD/88iGkAA4hBKh6I95Nlke0gbM6VI/6H4AoF9winNCirb8+3V
+g3SwQiO5rcteE9tN1SraEBmUKs5NvDHh46i952Zx1OlJeCnnI3Rofzw0k9x/8nKY
+KmHjI3djf9jR0lPcEQF3TdSipdjoF9WAxB2KfyOBgSvrD/2UxEZLILlU8nkRtr3y
+f9Qn9vgdZCQIZrVAOoSX9lM0iNReEGL2AZLFWRZXNDAYdrQRIWzL5q1nN7HPHcnR
+p8PnCZKHyrBhURq5DAcAwus4km0/0d3L3pO3h0iEML7gllk4D4MRxE/EmZnC5egP
+fhnBDKEL3N3YhdWtRYEjMIGcHPDwmli80mFKWJEUoRRrGtYsD3widc26pXpivUfI
+eGFGXKbTsU/hdOgjwVc7+vrUUhsmd5Uk3cUNz5HX3M+Esk6s21hKmFYL7afALYIu
+RajBGbQvhQsbH242lWTqIwI9JQMfxa6G7K0T6aDY4/Nr+m8jN9rw7AmVow==
+-----END CERTIFICATE-----
+subject=C=US, ST=California, O=University of California, San Diego, CN=ucsd.edu
+issuer=C=US, O=Internet2, CN=InCommon RSA Server CA 2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pkcs1_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 8329 bytes and written 1623 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: DBED7E31E0D4CD42C014D4A8A9C7DCB29FC69B0891610D5CBE1C573260AD9E1C
+    Session-ID-ctx: 
+    Master-Key: AECCB99070DD9D6049AF0D7297779677D114D5352F3AE4D45016A3781087F52305FC8E1F64BE239F14E49053F67C2AD7
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 65241 (seconds)
+    TLS session ticket:
+    0000 - 01 e2 14 7f 6a 4e 3d 6b-f2 05 bd ec cd 55 44 13   ....jN=k.....UD.
+    0010 - f9 82 44 31 28 8a 4e 68-ad ee 34 23 e4 4b c5 3a   ..D1(.Nh..4#.K.:
+    0020 - f7 83 a4 11 54 8d eb aa-0d 0d 54 f6 54 d7 60 3a   ....T.....T.T.`:
+    0030 - ee 11 1a 30 31 11 de 70-df 99 8f cc d6 70 73 8d   ...01..p.....ps.
+    0040 - 9d 63 ea af 12 45 81 e1-7e da f3 7f 4d d2 63 29   .c...E..~...M.c)
+    0050 - c9 ca e2 7a 23 c4 33 c7-a0 96 9d 33 05 81 98 b3   ...z#.3....3....
+    0060 - 8c 22 e9 2b 3f 37 80 9e-0e 96 9a 44 5f 5e fe e5   .".+?7.....D_^..
+    0070 - f9 a4 ee bf 79 2a 0a b8-bc 74 af 9c 92 5f 66 bf   ....y*...t..._f.
+    0080 - 97 80 c7 0c f7 11 35 50-90 5a                     ......5P.Z
+
+    Start Time: 1792921603
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

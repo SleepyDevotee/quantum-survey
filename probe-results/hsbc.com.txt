@@ -1,0 +1,90 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:jurisdictionC=GB, businessCategory=Private Organization, serialNumber=09231974, C=GB, L=London, O=HSBC Group Management Services Limited, CN=hsbc.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jan  8 00:00:00 2026 GMT; NotAfter: Feb  8 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jul  2 12:42:50 2020 GMT; NotAfter: Jul  2 12:42:50 2030 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGzDCCBbSgAwIBAgIQA2Ki33PCPf6OddmDndr8IzANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMR4wHAYDVQQDExVE
+aWdpQ2VydCBFViBSU0EgQ0EgRzIwHhcNMjYwMTA4MDAwMDAwWhcNMjcwMjA4MjM1
+OTU5WjCBqTETMBEGCysGAQQBgjc8AgEDEwJHQjEdMBsGA1UEDwwUUHJpdmF0ZSBP
+cmdhbml6YXRpb24xETAPBgNVBAUTCDA5MjMxOTc0MQswCQYDVQQGEwJHQjEPMA0G
+A1UEBxMGTG9uZG9uMS8wLQYDVQQKEyZIU0JDIEdyb3VwIE1hbmFnZW1lbnQgU2Vy
+dmljZXMgTGltaXRlZDERMA8GA1UEAxMIaHNiYy5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQC7tVnIlPhE5dFKEhKtXcGFWmEspR3DCDWB90XEvW+u
+lo7Ve9QIQSxRE+HX1kUm91VgtTo0xi7KMDtVvd4MU1ofwm/nUe+yvgYAAuQBjlDe
+ZPadTd0Y1s4f30MNp/1Z/4orwAYWs8tM0WMin7mKgMfB8eaugS2Ts5QMvawNjGsi
+r7xnXzdHcCOEF+mwooy6p6gM5w0cywuXcY/FuNimyA+USSZvFCS2xOD0Wd+cZx2d
+9ityVIhgHBy3LUA20XbI4Xb0sdMp7d09HJjEC2hwCI7wrxIJa+0t+i+AooGtvTm5
+I2cjRz6Fp0XJYPfxeAX4xQ2qK/Pq4n/cWlMnTTsZSHjxAgMBAAGjggNSMIIDTjAf
+BgNVHSMEGDAWgBRqTlC/mGidW3sgddRZAXlIZpIyBjAdBgNVHQ4EFgQUPPj+lbSD
+K8qSZwbv15tPJ1VsvMwwEwYDVR0RBAwwCoIIaHNiYy5jb20wSgYDVR0gBEMwQTAL
+BglghkgBhv1sAgEwMgYFZ4EMAQEwKTAnBggrBgEFBQcCARYbaHR0cDovL3d3dy5k
+aWdpY2VydC5jb20vQ1BTMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEF
+BQcDAQYIKwYBBQUHAwIwdQYDVR0fBG4wbDA0oDKgMIYuaHR0cDovL2NybDMuZGln
+aWNlcnQuY29tL0RpZ2lDZXJ0RVZSU0FDQUcyLmNybDA0oDKgMIYuaHR0cDovL2Ny
+bDQuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0RVZSU0FDQUcyLmNybDBzBggrBgEFBQcB
+AQRnMGUwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTA9Bggr
+BgEFBQcwAoYxaHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0RVZS
+U0FDQUcyLmNydDAMBgNVHRMBAf8EAjAAMIIBgAYKKwYBBAHWeQIEAgSCAXAEggFs
+AWoAdwBMY9yY5Zwdq4j2Hoo93q6Pq0SjN3tfm5TD+6Gc/MG+JgAAAZucAv7BAAAE
+AwBIMEYCIQDFG+m5meaAqL/olgIGFXyOHeJAiPrIzS2QwZh8MkO4sAIhAKChtIDR
+VKQFqWT7zTo7f4GQrOlHse+c076xm7H5B4g6AHYAHJ9oLOn68EVpUPgbloqH3dsy
+ENhM5siy44JSSsTPWZ8AAAGbnAL/dQAABAMARzBFAiBzO2TOopVvVWfFLAC7FtFC
+cWl1rwXW9T83U4A+VNGodwIhALn4wOi7auKhXF3ELAdaAPCHT+koKdpH2lT8spRt
+JEAlAHcAYEyar3p/d18B1Ab8kg3ImesLHH34yVIb+voXdzuXi8kAAAGbnAL/oAAA
+BAMASDBGAiEA+re2GgVuvlMVVdcJk+28l6YyptPeoEvQ3xVgIp1VbzkCIQD9PmPj
+EmkpiaokHyWgKfyshjVMND26v8Tj4YR75HoWszANBgkqhkiG9w0BAQsFAAOCAQEA
+f/ykgDpv3r0VfOr+cOFJ9iogGnTXmZFcwA5q4CXL+ZRQYmtqcbn3PtIxj014UdTX
+lRgv6h7fw5HiAAuwohQUAaHIHz+66VJZyvFkzCnC+EqhB57DKmT0ZRn9323LgTSY
+Y+4SZQHoCnGrt4/OEQcPfdxO9E0pGc1klEvbc4ka9yCWhgEe+Gr4P+uo0f37aGlf
+TBsxaR14+G6IySj0O4oxvfX5Elmm/SCQEGP1vO0TlyVzrhG1wDmnmpItOHH2kNHS
+Kq5VU+wNR9tfvGLE5Xp7ARd7aMMQ2hNhuyJlBOtUwkyJKYNeuGmnkhU9mtGuhWhA
+DJ/TxEQ4DN0MUANbQYOJAg==
+-----END CERTIFICATE-----
+subject=jurisdictionC=GB, businessCategory=Private Organization, serialNumber=09231974, C=GB, L=London, O=HSBC Group Management Services Limited, CN=hsbc.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pkcs1_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 4517 bytes and written 1623 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: DC8B6EF5D1EE82F90492583F78776AC4EAF9507962B1ED7F6A7D7BA7C8873A51
+    Session-ID-ctx: 
+    Master-Key: 730E728B61DA8000D8EF794A7FF38FF30285CA4D05ED768EE2337860CB62A1AD865911C7DA74B625DA7A9AC88489589F
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1792921646
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

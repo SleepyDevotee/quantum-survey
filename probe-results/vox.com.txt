@@ -1,0 +1,104 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=*.vox.com
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2026 Q2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jun 26 15:21:36 2026 GMT; NotAfter: Jan 11 14:21:36 2027 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2026 Q2
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jan 21 02:59:53 2026 GMT; NotAfter: Jan 21 00:00:00 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGaDCCBVCgAwIBAgIQAXWY45+uSoz4kJ6Cr1+TrTANBgkqhkiG9w0BAQsFADBY
+MQswCQYDVQQGEwJCRTEZMBcGA1UEChMQR2xvYmFsU2lnbiBudi1zYTEuMCwGA1UE
+AxMlR2xvYmFsU2lnbiBBdGxhcyBSMyBEViBUTFMgQ0EgMjAyNiBRMjAeFw0yNjA2
+MjYxNTIxMzZaFw0yNzAxMTExNDIxMzZaMBQxEjAQBgNVBAMMCSoudm94LmNvbTCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALZMc9HKJ0beUDsGjHPI6y/P
+zzDi0a+g9Ka7Z8jSDrrk8S92m+DTfam9ZtHXqpOLxXht21Uue81bh99neDiq9Ffx
+0xdaDMM3Gpnx+XXuV74C8YR+QLRCoXVGoMhqZl3F5TTYIrPZ70OUyn3nxJTjjOnF
+EE0JqgyT8XNgLcZPzHLucQr7FV1DQv7m2t6TysnaFjZu/fJExeM2XH8wRsZzvVqU
+oDCZWRgRrwTRrG/2Ylq1ABcRzBIj0/i/kIhQkqlG7MDdVCUYlfGWvI+XKCWdLnpa
+BQSUCz1VTGJsrT0m91DpwmUtn57E2OWgruoHdSAgaZg3e7Q3morGmbATAC2+yQUC
+AwEAAaOCA3AwggNsMB0GA1UdEQQWMBSCCSoudm94LmNvbYIHdm94LmNvbTAOBgNV
+HQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMB0GA1Ud
+DgQWBBTYf+X12wJeyueQkAMB7KmCfBjRMTBXBgNVHSAEUDBOMAgGBmeBDAECATBC
+BgorBgEEAaAyCgEDMDQwMgYIKwYBBQUHAgEWJmh0dHBzOi8vd3d3Lmdsb2JhbHNp
+Z24uY29tL3JlcG9zaXRvcnkvMAwGA1UdEwEB/wQCMAAwgZ4GCCsGAQUFBwEBBIGR
+MIGOMEAGCCsGAQUFBzABhjRodHRwOi8vb2NzcC5nbG9iYWxzaWduLmNvbS9jYS9n
+c2F0bGFzcjNkdnRsc2NhMjAyNnEyMEoGCCsGAQUFBzAChj5odHRwOi8vc2VjdXJl
+Lmdsb2JhbHNpZ24uY29tL2NhY2VydC9nc2F0bGFzcjNkdnRsc2NhMjAyNnEyLmNy
+dDAfBgNVHSMEGDAWgBTUZgufAnBO90QIJ/rp873I61dxcDBIBgNVHR8EQTA/MD2g
+O6A5hjdodHRwOi8vY3JsLmdsb2JhbHNpZ24uY29tL2NhL2dzYXRsYXNyM2R2dGxz
+Y2EyMDI2cTIuY3JsMIIBiAYKKwYBBAHWeQIEAgSCAXgEggF0AXIAdwBgTJqven93
+XwHUBvySDciZ6wscffjJUhv6+hd3O5eLyQAAAZ8Eha4BAAAEAwBIMEYCIQDAq1yw
+vBN/awLB1voC8jvwTjLoS3UyK3QWVX0YU04kFwIhAPmrDgC+5jzFIMNiJmGwgNkt
+bT2sOMyL4AN6oPE80QrQAH4AjspHC6zeavOiBrCkeoS3Rv4fxr+VPiXmm07kAkjz
+xugAAAGfBIWyBgAIAAAFAASXB70EAwBHMEUCIQDjpDIoU6EX0aSsbagB9xG8PSx5
+9uiwANTNERNnLJdtowIgFLwo3HAXPJl+Poz5jrwmPjQWwXiULzEQ3wivC6v5WIoA
+dwBMY9yY5Zwdq4j2Hoo93q6Pq0SjN3tfm5TD+6Gc/MG+JgAAAZ8EhbMoAAAEAwBI
+MEYCIQDtTtl3FiH//aGtdsy5v0TGCBIN6OGbsN7u1y/8QeYAYwIhAP7bP4TMx3xU
+0IHpe3FrLPrtlBJ5vNKpg74n0jMHLEiYMA0GCSqGSIb3DQEBCwUAA4IBAQCzTPBO
+RTItt7T5HAjyFDfhNTRIccE5+tOGikTUd3b6kAj3yZSyGpLkYensi/SQeSvo2Y2V
+ZCL7dsr+YS5tBgAbMPd/ztW9fzhFVAUoxWk161pU/EXPGQBSBSe73cXiFQBu/YbN
+WwL7liTaXFNoRUd9dP7+mmfjD/spmfXYjC9htWhCen9qtz8bHAivQFWL4KB20gAM
+pDDpP6JecXhIkthmcJ6HOpXicis56aH1cxT7qcUuCrIA2pnCF3O6/lkaT9DES4wp
+Bff9jZSiK3DDlUPFk1RhcxgD068SxnbVY7hZIbteQCAU2f4Eb1m8PmrSdMaXB2Bp
+4qXkjwEcr1s/Ga6+
+-----END CERTIFICATE-----
+subject=CN=*.vox.com
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2026 Q2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 4453 bytes and written 1560 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: BA1C431FA0372E62CF4B0B974083E5D958F7B4F62E28577AFDAF656016A05CB5
+    Session-ID-ctx: 
+    Resumption PSK: ADB476107881F6A01A3E9A2E22A459FDEA4AFBC579A8943AEA6C0122085E0E1C
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
+    0010 - f3 b1 22 e7 3b 4d 90 58-b2 cd de b5 0b 3d 21 e8   ..".;M.X.....=!.
+    0020 - b6 55 1e 2c 4f b2 95 70-11 ec be 46 e5 16 ab be   .U.,O..p...F....
+    0030 - 97 13 74 4f 2e f7 19 3e-ce bb 78 2a a4 84 3e 75   ..tO...>..x*..>u
+    0040 - c9 bc 11 cb cd 67 df 6d-0b 5f 92 a3 e5 ce bc 74   .....g.m._.....t
+    0050 - 4a 4b 39 72 e2 29 b2 9b-66 a3 88 4b b7 c6 e0 9f   JK9r.)..f..K....
+    0060 - 49 94 a7 f0 1a d6 45 8e-68 b0 92 a1 01 70 6d 7b   I.....E.h....pm{
+    0070 - a6 de 8b ba 32 60 50 ae-ad 49 c4 09 f7 1c 08 75   ....2`P..I.....u
+    0080 - 46 b0 ad 5d 07 01 78 8f-23 88 2c 3e 9d 0a 50 23   F..]..x.#.,>..P#
+    0090 - e7 aa 8f 7c 48 29 ad 31-2e 23 8b 72 63 8f dd 69   ...|H).1.#.rc..i
+
+    Start Time: 1792921710
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 8192
+---
+read R BLOCK

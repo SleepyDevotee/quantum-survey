@@ -1,0 +1,94 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=District of Columbia, L=Washington, O=US House of Representatives, CN=www.house.gov
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jun 25 00:00:00 2026 GMT; NotAfter: Jan  9 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIJpzCCCI+gAwIBAgIQCJ8qlYtiPHf3l9FETthWtzANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjYw
+NjI1MDAwMDAwWhcNMjcwMTA5MjM1OTU5WjB/MQswCQYDVQQGEwJVUzEdMBsGA1UE
+CBMURGlzdHJpY3Qgb2YgQ29sdW1iaWExEzARBgNVBAcTCldhc2hpbmd0b24xJDAi
+BgNVBAoTG1VTIEhvdXNlIG9mIFJlcHJlc2VudGF0aXZlczEWMBQGA1UEAxMNd3d3
+LmhvdXNlLmdvdjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJVOQsAl
+XN9fccUJdajOW+b5tEBuJuEpzWr/+7XAMDf3XtLOMzrSX2HxZV/gRhuXlmRS0PmT
+ca6bFBOlQNtBGDJjSodCiBLHCslTV3jbeiQ8gBx3cXjEkTFlEpH40qf+lfWtl4Nr
+UGjjtM+U29lzJ4/Q8lfb0gzQSOUL39cnnf6iOtLoZHOoFr3bnQ0RWzsdJUA8FcuU
+23nglqWIlFB3P6mujTzcpX4pRIKT8OCrUHABSISe96M7DGlJISq9Bchdxx+66UXj
+eUQIcpYUpIEgDREpwjWqmjMJm/CGqnix2jPU1LZoq5dMDJHHP9AHdmdE9L4BXjf3
+szOIB5FYzr8BoV8CAwEAAaOCBkMwggY/MB8GA1UdIwQYMBaAFHSFgMBmx9833s+9
+KTeqAx2+7c0XMB0GA1UdDgQWBBRTV2+Ff5+A56HasKeJMcWNzmsKtDCCAtkGA1Ud
+EQSCAtAwggLMgg13d3cuaG91c2UuZ292gg53d3cuYW9jb2lnLmdvdoIMd3d3LmNl
+Y2MuZ292ggx3d3cuY29pbC5nb3aCDHd3dy5jc2NlLmdvdoIYd3d3LmRlbW9jcmF0
+aWNsZWFkZXIuZ292ghZ3d3cuZGVtb2NyYXRpY3doaXAuZ292ggx3d3cuZGVtcy5n
+b3aCC3d3dy5nb3AuZ292ghF3d3cuZ29wbGVhZGVyLmdvdoIPd3d3LmdvcHdoaXAu
+Z292ght3d3cuaG91c2Vjb21tdW5pY2F0aW9ucy5nb3aCFnd3dy5tYWpvcml0eWxl
+YWRlci5nb3aCFHd3dy5tYWpvcml0eXdoaXAuZ292ghR3d3cubWlub3JpdHl3aGlw
+LmdvdoIRd3d3Lm9wZW53b3JsZC5nb3aCGHd3dy5yZXB1YmxpY2FubGVhZGVyLmdv
+doIWd3d3LnJlcHVibGljYW53aGlwLmdvdoIPd3d3LnNwZWFrZXIuZ292ggx3d3cu
+dXNjcC5nb3aCD3d3dy51c2Nwb2lnLmdvdoIKYW9jb2lnLmdvdoIIY2VjYy5nb3aC
+CGNvaWwuZ292gghjc2NlLmdvdoIUZGVtb2NyYXRpY2xlYWRlci5nb3aCEmRlbW9j
+cmF0aWN3aGlwLmdvdoIIZGVtcy5nb3aCB2dvcC5nb3aCDWdvcGxlYWRlci5nb3aC
+C2dvcHdoaXAuZ292gglob3VzZS5nb3aCF2hvdXNlY29tbXVuaWNhdGlvbnMuZ292
+ghJtYWpvcml0eWxlYWRlci5nb3aCEG1ham9yaXR5d2hpcC5nb3aCEG1pbm9yaXR5
+d2hpcC5nb3aCDW9wZW53b3JsZC5nb3aCFHJlcHVibGljYW5sZWFkZXIuZ292ghJy
+ZXB1YmxpY2Fud2hpcC5nb3aCC3NwZWFrZXIuZ292ggh1c2NwLmdvdoILdXNjcG9p
+Zy5nb3YwPgYDVR0gBDcwNTAzBgZngQwBAgIwKTAnBggrBgEFBQcCARYbaHR0cDov
+L3d3dy5kaWdpY2VydC5jb20vQ1BTMA4GA1UdDwEB/wQEAwIFoDATBgNVHSUEDDAK
+BggrBgEFBQcDATCBnwYDVR0fBIGXMIGUMEigRqBEhkJodHRwOi8vY3JsMy5kaWdp
+Y2VydC5jb20vRGlnaUNlcnRHbG9iYWxHMlRMU1JTQVNIQTI1NjIwMjBDQTEtMS5j
+cmwwSKBGoESGQmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2Jh
+bEcyVExTUlNBU0hBMjU2MjAyMENBMS0xLmNybDCBhwYIKwYBBQUHAQEEezB5MCQG
+CCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wUQYIKwYBBQUHMAKG
+RWh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2JhbEcyVExT
+UlNBU0hBMjU2MjAyMENBMS0xLmNydDAMBgNVHRMBAf8EAjAAMIIBfwYKKwYBBAHW
+eQIEAgSCAW8EggFrAWkAdgBMY9yY5Zwdq4j2Hoo93q6Pq0SjN3tfm5TD+6Gc/MG+
+JgAAAZ7/zTXLAAAEAwBHMEUCIQDIJuOVOiwza5347xJS8xONR+49EhU8Lx9V0eXM
+5Duu4QIgcc3jTHkyAJArD29R9pUdo1LIXN0rgaJRKlals0Q03e4AdwDW1Y2p0BdT
+82pKoMdXSQKv68fcLNOM2fdkyAyJGR6fAgAAAZ7/zTUSAAAEAwBIMEYCIQC//DG7
+xLyzUIMCRKkGkxWNmqzmDXFHNePafie1RMBeSgIhAPA+u4drpRAIlIGjq4xCout2
+V1bcMiPhrOI+DZPGNTCxAHYARMK9DOkUDmSlyUoBkwpaobs1lw4A7hEWiWgqHETX
+tWYAAAGe/801bgAABAMARzBFAiEA1GG588rVFa3IQoN3okPmQu9xav3HKsyCK1gD
+EPuTmkUCICj+dfmhiqvIgshB8u+3VmVIMsLfiPYmGbyMcnonpFU6MA0GCSqGSIb3
+DQEBCwUAA4IBAQASDkyq6l8GmLszpwPmsjG6siuag324mqeA0ELZDYWZ8PV8eyf6
+yG/iN2RllhzlJkEKEq1FMPmRT5P2Ex4ix8nPylt/ZOWHHBnifzp5SYUmW7cQXOku
+Ol6FMRQPsw0NXj6tWNADGZ1agrMSg2tO5AvXuQKzLJpf2N3rsLdNi7myGKfAfUij
+8QX6Fx+RDRnmQQR2u8AeVOh1aA65IZoN892etXS+YuJS3dScX4jTMN1uT3TF9Gl5
+vc7gH0EqsRI00wCQdQRRslJTXPrCtejmKB/2cuZjzF/Mew+ngD3Kn90CrV3goeKZ
+Xyco5+7md45KOWxwH4Xo0Asrklt+xy5D0Oc/
+-----END CERTIFICATE-----
+subject=C=US, ST=District of Columbia, L=Washington, O=US House of Representatives, CN=www.house.gov
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5264 bytes and written 1876 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

@@ -1,0 +1,75 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=ca.gov
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep 10 00:00:00 2026 GMT; NotAfter: Mar 10 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Nov  2 12:23:37 2017 GMT; NotAfter: Nov  2 12:23:37 2027 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGCzCCBPOgAwIBAgIQDSJxI4okAvyt2+plw2c+FzANBgkqhkiG9w0BAQsFADBg
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR8wHQYDVQQDExZHZW9UcnVzdCBUTFMgUlNBIENBIEcx
+MB4XDTI2MDkxMDAwMDAwMFoXDTI3MDMxMDIzNTk1OVowETEPMA0GA1UEAxMGY2Eu
+Z292MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAriGgL3veS+5ziY8Z
+HA10eZSxfRsN+XbCDr8Wyz+Hpv9fuSip9E4B+ALsUpaTanQGgYnFUaCOpfNyBxsN
+C7hmXZmT7Ltx/q6fZQUPolGH90eQWNFMSeiGpLPXQ7N3aW2+1Yb/ZPWrV5qQl6ik
+xflwrhxYDEuaMiGRiBstnF1I4ftLOlYgnS/MP005y5liN6miCOo+WTdRow0WSTq9
+01Vcw0XvuN9cl2nahLBBTkoxlDdsyUB+TTJ7vsGwhiDV+33GVmnnXWu1qSJZFwFk
+EdtnSaKpQAs/3NzMLL1+lcMXJIbAb2i5ydcgCpAmeNNNV/mtPIAxFyDrOm2MLkTa
+gr6lFQIDAQABo4IDDjCCAwowHwYDVR0jBBgwFoAUlE/UXYvkpOKmgP792PkA76O+
+AlcwHQYDVR0OBBYEFGNmSG56WIwQwYHdF6oDGUCVd29KMBEGA1UdEQQKMAiCBmNh
+LmdvdjA+BgNVHSAENzA1MDMGBmeBDAECATApMCcGCCsGAQUFBwIBFhtodHRwOi8v
+d3d3LmRpZ2ljZXJ0LmNvbS9DUFMwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQG
+CCsGAQUFBwMBBggrBgEFBQcDAjA/BgNVHR8EODA2MDSgMqAwhi5odHRwOi8vY2Rw
+Lmdlb3RydXN0LmNvbS9HZW9UcnVzdFRMU1JTQUNBRzEuY3JsMHYGCCsGAQUFBwEB
+BGowaDAmBggrBgEFBQcwAYYaaHR0cDovL3N0YXR1cy5nZW90cnVzdC5jb20wPgYI
+KwYBBQUHMAKGMmh0dHA6Ly9jYWNlcnRzLmdlb3RydXN0LmNvbS9HZW9UcnVzdFRM
+U1JTQUNBRzEuY3J0MAwGA1UdEwEB/wQCMAAwggF9BgorBgEEAdZ5AgQCBIIBbQSC
+AWkBZwB1AExj3JjlnB2riPYeij3ero+rRKM3e1+blMP7oZz8wb4mAAABoI1uAD0A
+AAQDAEYwRAIgIT1r/a9gJWMKilr86FWbxBSZo2YdHdOlxZ1Qdwxp/+ECIEsixWDF
+p031vguI9l4/pdXpHEXIs6zioAC7lw7XENReAHUARMK9DOkUDmSlyUoBkwpaobs1
+lw4A7hEWiWgqHETXtWYAAAGgjW4ARgAABAMARjBEAiACRvShcEkTUAXRB1mtVO3y
+YPhcJJB4zGJ5qosCkk0bSgIgVNRM4xwegBFwTDWMRFBf5LVxFHgBeeKagbFNJ2i/
+i/wAdwAcn2gs6frwRWlQ+BuWiofd2zIQ2EzmyLLjglJKxM9ZnwAAAaCNbgDOAAAE
+AwBIMEYCIQC1YeHYPUplfJD6yeezIPkpWD2bWRa5/IAeMwdPmIVXbwIhANjVB/t9
+zI0EpwQXydGkVCatw+QvQFHQ3Jeaq1doeoOwMA0GCSqGSIb3DQEBCwUAA4IBAQAV
+4hMP5lZFWPURJa5cVfn1YCjlhBaUo7yDudchzIkgNGPei+MXsBc6sq4tECpDIpqJ
+wM2CQkidFH0fkVfmDZ9r/Erzu9f0xurQ6XoBg48NTa+/eGAIbjAWC34+e/TvMC0j
+yUXYvV8ILMZ/BJwhxz3WI1NfhpMIns2Ak8UTPbwfzbWbDrudWfl88mLMJ9QsuBKL
+CMXvurYIQ3gutsBP2kitAZxGeJhG/3JHSOLCALvr1JXFZqTQkkygL3mZO3jh0ISy
+kfm9uhHedmsSwJ32wenN1+wRiy05eouFhS1xrPPP3NixYNXdB+xxJRn0GRvdYrkc
+o2/ubS3x0J8vtyofWMRJ
+-----END CERTIFICATE-----
+subject=CN=ca.gov
+issuer=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 5308 bytes and written 1575 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

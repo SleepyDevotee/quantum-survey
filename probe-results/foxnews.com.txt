@@ -1,0 +1,100 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=foxnews.com
+   i:C=US, O=Let's Encrypt, CN=YR2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug 28 22:08:18 2026 GMT; NotAfter: Nov 26 22:08:17 2026 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=YR2
+   i:C=US, O=ISRG, CN=Root YR
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
+ 2 s:C=US, O=ISRG, CN=Root YR
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: RSA, 4096 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE8TCCA9mgAwIBAgISBtCt90Ov4yaSF02Lfwjh8hk2MA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNZUjIwHhcNMjYwODI4MjIwODE4WhcNMjYxMTI2MjIwODE3WjAWMRQwEgYDVQQD
+Ewtmb3huZXdzLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMV6
+8d4DgCCbv3jeiNhpLmVKUkQgkI/ZULl4qJN8Vf2PICRSJXsgdtKKHYgfQgI524cL
+nIQa83MyC48eZZiRz0YhQXay2OJYRQDysdzK8sctNKge1cPWzYcVqZt70lyu4r0Y
+7XcmdqwiZQ9eHg46n2dsMbZ9RH8qB5QWnGbD2dHDb2XNT8OVHYdX04dWGooyFThR
+ACOKwmEXCg0nJ4D1ojKQDC4QONv28Wsz77/PQ2xjB0mP1MOCBw3xHKERFh9Bp7av
+cdLO49evlBP/xdQXAcwO6gIbSSLkujmp+ply0SJTF33sQAFi9EO4tC1aRqoawsL8
+V1QNep7KeNkcacpaQ20CAwEAAaOCAhowggIWMA4GA1UdDwEB/wQEAwIFoDATBgNV
+HSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSvs+w7HA47
+YM2E2hEZy0m2Ly7oWjAfBgNVHSMEGDAWgBRAFS0mee0yIJ7fmnId1jIfgQyBDDAz
+BggrBgEFBQcBAQQnMCUwIwYIKwYBBQUHMAKGF2h0dHA6Ly95cjIuaS5sZW5jci5v
+cmcvMBYGA1UdEQQPMA2CC2ZveG5ld3MuY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIB
+MC4GA1UdHwQnMCUwI6AhoB+GHWh0dHA6Ly95cjIuYy5sZW5jci5vcmcvNTUuY3Js
+MIIBDQYKKwYBBAHWeQIEAgSB/gSB+wD5AHcA2AlVO5RPev/IFhlvlE+Fq7D4/F6H
+VSYPFdEucrtFSxQAAAGgSqA3mQAABAMASDBGAiEAsJWrImpgY4aFVFefAUDoB97+
+z1YUPf4s+N8p2JZJQD0CIQCkwpcndXybYeAemE104fiuPf5TctDsEny5ZZ42J4RR
+hwB+AKgmy+MKxjUSRlM/4GXxTxnZbhkIE8Qd2W15ALMSPFUnAAABoEqgN/8ACAAA
+BQAnoVAFBAMARzBFAiEAtnB6e3+YZiJfQTE8un9ZNbnl0fT+qP3kUMCSeSeM2REC
+ICsRIKwhgQ02xaavs0PUNL6MUyZq6vEpOp69DHjuoY5nMA0GCSqGSIb3DQEBCwUA
+A4IBAQANpANWnIzrBpwJQ5zAqx+ntYhDiF0WjbtlR8Vk2tekuGaDcScs9bbrAvTv
+ctmLqmh7Vt01WR4wJy53l4itxjyZlIKxcI0sBOkDdqtpQkm6SFnvaKrHWw13cJWJ
+3+Jd0DXRTNdx0BZgG3xoc8gqhe92Z1Ui2ZN2YuJOOQOhlsMddVZ3LUKhItUw06px
+2eKuQL+hdgVpxdEPF2Voswp55G0TP4M7KlXt6fOjLPJ6W4RUk2vuDsHMvEGBly37
+n5GSkHpAQF1jEkG/9t9un8Xw3kO9DdaCt2i6TL9m0pWkTR3EMsyMhHtpmyHpXARf
+FAZxtds4m9glMEBab30UukAGNXAq
+-----END CERTIFICATE-----
+subject=CN=foxnews.com
+issuer=C=US, O=Let's Encrypt, CN=YR2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 5685 bytes and written 1564 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 78D6F17D101AE58D65E22CA9768A0394FFEECEA5BC7E1EDF88E569FF2C9E9344
+    Session-ID-ctx: 
+    Resumption PSK: 7462279E87C6E139A59469D52535737B623DC13C1ED422D924020462305DDBFA
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
+    0010 - 72 07 c3 fa 59 3f a9 12-33 90 58 c0 70 80 18 b6   r...Y?..3.X.p...
+    0020 - 81 8c 08 8c ee 7e 83 dd-13 02 ba 54 6c 7b 7a 7a   .....~.....Tl{zz
+    0030 - bb 40 db 51 9a 66 ca 1c-4a f2 2e ef 76 57 8a 96   .@.Q.f..J...vW..
+    0040 - 11 ee f3 c4 dc d7 22 20-b9 f5 99 5a 3a c1 55 99   ......" ...Z:.U.
+    0050 - 2f 3b 54 18 5f a6 bc 36-36 47 47 d4 d5 9a 90 d0   /;T._..66GG.....
+    0060 - b0 fc c8 65 b1 4e 26 29-d2 c8 6c 2e 4f cb 23 d8   ...e.N&)..l.O.#.
+    0070 - e9 c5 aa c0 24 33 5d 1b-b0 c2 95 81 6d 78 84 da   ....$3].....mx..
+    0080 - b9 f6 58 96 45 e9 43 91-bb b7 98 93 3b 74 13 f1   ..X.E.C.....;t..
+    0090 - 2d bc f1 09 db c4 fd 81-16 27 1f bf 3c 6e 4f be   -........'..<nO.
+
+    Start Time: 1792921702
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

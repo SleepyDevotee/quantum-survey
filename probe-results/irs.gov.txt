@@ -1,0 +1,99 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=District of Columbia, O=Department of Treasury, CN=irs.gov
+   i:C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2
+   a:PKEY: RSA, 4096 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug 12 00:00:00 2026 GMT; NotAfter: Feb 26 23:59:59 2027 GMT
+ 1 s:C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Dec 11 00:00:00 2024 GMT; NotAfter: Dec 10 23:59:59 2027 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+ 3 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Feb  1 00:00:00 2010 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+nwSgc7YhFvSkxDpFRUiNbhkYCpYo3xU=
+-----END CERTIFICATE-----
+subject=C=US, ST=District of Columbia, O=Department of Treasury, CN=irs.gov
+issuer=C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pkcs1_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 7554 bytes and written 1622 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 409F73297542C76CE827EB109E4B2EB4D792922674095F6218E9F7EBEC5BFE45
+    Session-ID-ctx: 
+    Master-Key: A343305FF31DBCC26B61385FC72F4F4CCEC7ADDD0E944036573AEF5323E4DEEE07B653F563735FE55DCA2C79BCA9A390
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1792921616
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

@@ -1,0 +1,109 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=District of Columbia, O=Department of Energy, CN=*.energy.gov
+   i:C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2
+   a:PKEY: RSA, 4096 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 21 00:00:00 2026 GMT; NotAfter: Dec  5 23:59:59 2026 GMT
+ 1 s:C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Dec 11 00:00:00 2024 GMT; NotAfter: Dec 10 23:59:59 2027 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+ 3 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Feb  1 00:00:00 2010 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIKIjCCCIqgAwIBAgIRALulSgQa6o8pugiwlpS5Na4wDQYJKoZIhvcNAQELBQAw
+UTELMAkGA1UEBhMCQ0ExGDAWBgNVBAoTD0VudHJ1c3QgTGltaXRlZDEoMCYGA1UE
+AxMfRW50cnVzdCBPViBUTFMgSXNzdWluZyBSU0EgQ0EgMjAeFw0yNjA1MjEwMDAw
+MDBaFw0yNjEyMDUyMzU5NTlaMGIxCzAJBgNVBAYTAlVTMR0wGwYDVQQIExREaXN0
+cmljdCBvZiBDb2x1bWJpYTEdMBsGA1UEChMURGVwYXJ0bWVudCBvZiBFbmVyZ3kx
+FTATBgNVBAMMDCouZW5lcmd5LmdvdjCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCC
+AgoCggIBANb+FZEIN13/ubJInp2F2T4GnZY3EeSWszqXFE23pGzPup3pZytjMdRi
+VM0oZaWT27HsPqOHQnhL9MZLxh3L/hc2JaVUcxdhAn8iS/jQLDCHhLGGroflkOzU
+NOKnsIkxglM5DCEOrjKgGgzyBponXD0rnzesL1dBxPiuC/uNzaWwiETPPX0Rxt7L
+Lzum9HKAw2ZlK+Qz2XaoyLSjqyq+BXQRVZ4Si0vHWd0wVLRDQZ1ppkYIcHkuGOcV
+t52eTrd59Z8nqBQjPPPy+byrjqCWe7q8ECcsIhuTzs4HnbjoaXNvlAxx3Up0VO2N
+KKkCyacjKAFq6BjdG2GKgiKee533HV0pDUIDEYWQKoEncHsH7s2xavzUM/IFKF0+
+rEWCTtcCa9RSdDd8sVYUtwIOXl2dMO4oCul1LqrfTddhnSIkOOg8NQjjpnoGmrcp
+6i1oRN+/wr3AfL6ZqUIrNHlt2Zt7xKtsz1koj7Hf1RXujGjnUWFaKYzuSLymdrvw
+L6g8rp7J12ui6j0xnKQkjZ3pMMxD9amUMS8ukI445IJ6Wp8gZbEV6Vu9wDa7HxnN
+CKdP6Hf68RFpss+MNxFNDnA+vxr5Cyad8D9l/Di0orqwXcGLOy+F5tdARy0rdz4c
+Z331KGRnRwkSluVRfUPVggvBDY6d8Yu6CACBbhC6O3xcEPeFEF/3AgMBAAGjggVi
+MIIFXjAfBgNVHSMEGDAWgBQX0a8AdPlV+1I32IR2C1sSilBaxTAdBgNVHQ4EFgQU
+B/cRBzZ51cSUnX5WF/U5lkcPeYEwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQC
+MAAwEwYDVR0lBAwwCgYIKwYBBQUHAwEwEwYDVR0gBAwwCjAIBgZngQwBAgIwRQYD
+VR0fBD4wPDA6oDigNoY0aHR0cDovL2NybC5zZWN0aWdvLmNvbS9FbnRydXN0T1ZU
+TFNJc3N1aW5nUlNBQ0EyLmNybDB1BggrBgEFBQcBAQRpMGcwQAYIKwYBBQUHMAKG
+NGh0dHA6Ly9jcnQuc2VjdGlnby5jb20vRW50cnVzdE9WVExTSXNzdWluZ1JTQUNB
+Mi5jcnQwIwYIKwYBBQUHMAGGF2h0dHA6Ly9vY3NwLnNlY3RpZ28uY29tMIIBhwYK
+KwYBBAHWeQIEAgSCAXcEggFzAXEAdwDXbX0Q0af1d8LH6V/XAL/5gskzWmXh0LMB
+cxfAyMVpdwAAAZ5K5mE0AAAEAwBIMEYCIQC38fOMiG/7U3Qlj5tNXYErFZHsdtUZ
+cqFmGMipuPyesQIhAL4Zi4x9fVIwbyUoxu9M3AWEPKVqhAJ5rY4ZUNaI6QJdAHYA
+yKPEf8ezrbk1awE/anoSbeM6TkOlxkb5l605dZkdz5oAAAGeSuZhewAABAMARzBF
+AiEAs00JFuDYTrdabe/ZldV54vekIBjJXA9iswZjBCQZo0wCIE1lGJJtzKlLxulu
+fDN3Ydkqw32O0WBsOemxjMrVzT7iAH4AbP5QGUOoXqkWvFLRM+TcyR7xQRx9JYQg
+0XOAnhgY6zoAAAGeSuZi/gAIAAAFAAyb5r0EAwBHMEUCIQCHkC+UAsNmiVySB2k8
+cEyvCzQCcsIkv34t0onpTOIiKgIgFhmNYNerQk0fLh17/nrNIbL7YgmdNeekOzWU
+umCDY+owggKJBgNVHREEggKAMIICfIIMKi5lbmVyZ3kuZ292ggkqLmRvZS5nb3aC
+B2RvZS5nb3aCCmVuZXJneS5nb3aCE3d3dy5ibG9nLmVuZXJneS5nb3aCEnd3dy5j
+aW8uZW5lcmd5LmdvdoIad3d3LmNpdmlscmlnaHRzLmVuZXJneS5nb3aCHHd3dy5j
+b25ncmVzc2lvbmFsLmVuZXJneS5nb3aCGHd3dy5kaXZlcnNpdHkuZW5lcmd5Lmdv
+doIdd3d3LmRvZWRpZ2l0YWxhcmNoaXZlLmRvZS5nb3aCDnd3dy5lbS5kb2UuZ292
+ghF3d3cuZ2MuZW5lcmd5LmdvdoIRd3d3LmlnLmVuZXJneS5nb3aCE3d3dy5qb2Jz
+LmVuZXJneS5nb3aCGXd3dy5tYW5hZ2VtZW50LmVuZXJneS5nb3aCHXd3dy5taW5v
+cml0eWltcGFjdC5lbmVyZ3kuZ292ghN3d3cubmVwYS5lbmVyZ3kuZ292ghN3d3cu
+bm5zYS5lbmVyZ3kuZ292ghF3d3cub2UuZW5lcmd5LmdvdoIPd3d3Lm9oYS5kb2Uu
+Z292ghJ3d3cub2hhLmVuZXJneS5nb3aCEXd3dy5waS5lbmVyZ3kuZ292ghV3d3cu
+cG9saWN5LmVuZXJneS5nb3aCJHd3dy5yZWNvdmVyeWNsZWFyaW5naG91c2UuZW5l
+cmd5LmdvdoITd3d3LnNjaWVuY2UuZG9lLmdvdoIWd3d3LnNjaWVuY2UuZW5lcmd5
+LmdvdoITd3d3LnNlYWIuZW5lcmd5LmdvdoIZd3d3LnNtYWxsYnVzaW5lc3MuZG9l
+LmdvdoIcd3d3LnNtYWxsYnVzaW5lc3MuZW5lcmd5LmdvdjANBgkqhkiG9w0BAQsF
+AAOCAYEAMLQFBx3itvOPZjxM3LwQSaAns/eT1ZQ6+JhAnraYRn9JZvn3jQuTbOi2
+ZabzBRAij154oMXgiNux17VN2QE/vabBf683YjY7F/AokNtwMg0cIJChbKZNsPGO
+266G2DLH5WzcaHvX14goy/xrkHiB6xM+w+8ggTDbDeRYA1mKzXcIy2zDbjSBwq5T
+ITLqiOyiOfxq2Y6/PEMI0i4yCuXL9H7fPvcV6bKOoKxmFDNY7riQMvY/7chEB/dx
+wmNhZ2Z4bBfYv03LxvQ1suVE0kiJWYjz2GefoJNW5ju19pKPUyWqrfiqd9anFM2k
+boSw24cShwl64wOZcypdrdSIV1sZs+fBnygKgHwE8MUdrLAhdIyQQVXZ+/erO4UM
+HwWxTb+EGccksGFckawHJHuFlTv202DMNLucOD0OxfevEPEUqm84fOKe0eyD9v0F
+rhCirTiwGorpvOpTlxMfqfD3Oa9Nc7jQxqJORoYK4d4b965+/Q6NOG5c/ba2aOhX
+HgDizkkj
+-----END CERTIFICATE-----
+subject=C=US, ST=District of Columbia, O=Department of Energy, CN=*.energy.gov
+issuer=C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2
+---
+No client certificate CA names sent
+---
+SSL handshake has read 7561 bytes and written 2073 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is AES256-GCM-SHA384
+Protocol: TLSv1.2
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : AES256-GCM-SHA384
+    Session-ID: 1EB7FBAA5F1E5272D18AED6AD83AFACAC3FE1A6F2D2B5EFEA409FFFBE3E25CD9
+    Session-ID-ctx: 
+    Master-Key: A821B87A36803A94C161693E41D99A50ADB81587877E4B17ACE2BED4F12992017AD3EA8F0055222C5157962F4C9D19A6
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1792921621
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

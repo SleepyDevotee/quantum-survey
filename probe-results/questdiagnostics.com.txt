@@ -1,0 +1,113 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=New Jersey, L=Secaucus, O=Quest Diagnostics Incorporated, CN=questdiagnostics.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jun 24 00:00:00 2026 GMT; NotAfter: Jan  8 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIJEzCCB/ugAwIBAgIQBkf96Qjk34Kss3ikS+GpTzANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjYw
+NjI0MDAwMDAwWhcNMjcwMTA4MjM1OTU5WjB9MQswCQYDVQQGEwJVUzETMBEGA1UE
+CBMKTmV3IEplcnNleTERMA8GA1UEBxMIU2VjYXVjdXMxJzAlBgNVBAoTHlF1ZXN0
+IERpYWdub3N0aWNzIEluY29ycG9yYXRlZDEdMBsGA1UEAxMUcXVlc3RkaWFnbm9z
+dGljcy5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC7GhWMN3Ve
+uftPrP5A6rBYiOBHlUcorxSkSv+dOgudezWUpApizK1n2EndNtVoJwp9zCjPy0L7
+UsifT5lXgWWiuHydcj2lKJyjVLz9aEG10dNaZzBQSlGcpx0Tc41h6cDEFQPaK4gw
+0p9Zat66YLUvcha2gDjvPj28R7VD2lTnsZ6n6vL1/hghFvhIf2kI1j2Y3RR1T5xc
++hsXftvq+Hxq8+D9+9cRVwMg5GXeEeDRjnfbhp+tdimVyY8HZXI3e1LboIuuygIQ
+KGwIXtexhehaSZLaPNWxnWMk9aVYo0qEokSfRvw78W41UOyTrdKS8+qaDCo+xnDy
+JxRCJHotwkarAgMBAAGjggWxMIIFrTAfBgNVHSMEGDAWgBR0hYDAZsffN97PvSk3
+qgMdvu3NFzAdBgNVHQ4EFgQUCqYFtFao5glqXwm03eFC+ns48J4wggJJBgNVHREE
+ggJAMIICPIIUcXVlc3RkaWFnbm9zdGljcy5jb22CD1JlcHJvU291cmNlLmNvbYIT
+d3d3LlJlcHJvU291cmNlLmNvbYIKZXhhbW9uZS5jYYIOd3d3LmV4YW1vbmUuY2GC
+FWNsZXZlbGFuZGhlYXJ0bGFiLmNvbYIZd3d3LmNsZXZlbGFuZGhlYXJ0bGFiLmNv
+bYILZXhhbW9uZS5jb22CD3d3dy5leGFtb25lLmNvbYIVYmx1ZXByaW50Z2VuZXRp
+Y3MuY29tghl3d3cuYmx1ZXByaW50Z2VuZXRpY3MuY29tgg1teWV4YW1vbmUuY29t
+ghF3d3cubXlleGFtb25lLmNvbYINYW1lcmlwYXRoLmNvbYIRd3d3LmFtZXJpcGF0
+aC5jb22CF2Rlcm1wYXRoZGlhZ25vc3RpY3MuY29tght3d3cuZGVybXBhdGhkaWFn
+bm9zdGljcy5jb22CFW1lZGZ1c2lvbnNlcnZpY2VzLmNvbYIZd3d3Lm1lZGZ1c2lv
+bnNlcnZpY2VzLmNvbYIaZXhwZXJpZW5jZS5oYXlzdGFja21yZC5jb22CHnd3dy5l
+eHBlcmllbmNlLmhheXN0YWNrbXJkLmNvbYIPaGF5c3RhY2ttcmQuY29tghN3d3cu
+aGF5c3RhY2ttcmQuY29tgg1waGVub3BhdGguY29tghF3d3cucGhlbm9wYXRoLmNv
+bYIVYXRoZW5hZGlhZ25vc3RpY3MuY29tghl3d3cuYXRoZW5hZGlhZ25vc3RpY3Mu
+Y29tMD4GA1UdIAQ3MDUwMwYGZ4EMAQICMCkwJwYIKwYBBQUHAgEWG2h0dHA6Ly93
+d3cuZGlnaWNlcnQuY29tL0NQUzAOBgNVHQ8BAf8EBAMCBaAwEwYDVR0lBAwwCgYI
+KwYBBQUHAwEwgZ8GA1UdHwSBlzCBlDBIoEagRIZCaHR0cDovL2NybDMuZGlnaWNl
+cnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzJUTFNSU0FTSEEyNTYyMDIwQ0ExLTEuY3Js
+MEigRqBEhkJodHRwOi8vY3JsNC5kaWdpY2VydC5jb20vRGlnaUNlcnRHbG9iYWxH
+MlRMU1JTQVNIQTI1NjIwMjBDQTEtMS5jcmwwgYcGCCsGAQUFBwEBBHsweTAkBggr
+BgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tMFEGCCsGAQUFBzAChkVo
+dHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRHbG9iYWxHMlRMU1JT
+QVNIQTI1NjIwMjBDQTEtMS5jcnQwDAYDVR0TAQH/BAIwADCCAX0GCisGAQQB1nkC
+BAIEggFtBIIBaQFnAHUATGPcmOWcHauI9h6KPd6uj6tEozd7X5uUw/uhnPzBviYA
+AAGe+vSOcwAABAMARjBEAiABikM6CCjyhlEU/stOxTIA7m2cz4dgnHbOmhZuTHGH
+kwIgGbqr0oZcDaEvPcVogL26y42rCdeSRT8BZG5bDhYMVaYAdgDW1Y2p0BdT82pK
+oMdXSQKv68fcLNOM2fdkyAyJGR6fAgAAAZ769I4eAAAEAwBHMEUCIHuDa/LRgcEQ
+FRResC+2FVa5Z4p97PEN8IIkzpcBERCSAiEAzTVqwbTnhYb5MvijXRcLZNZhL6gO
+A4UpZpObtIaZYPsAdgBEwr0M6RQOZKXJSgGTClqhuzWXDgDuERaJaCocRNe1ZgAA
+AZ769I3AAAAEAwBHMEUCIQCct+AuzIp1ql3LkupKaCaeMcTadozfbySaL4YYYNQh
+ZQIgVvDjhP2j/PBExhV3vQJPvjz+F2QtYuNx+PRL8Z6O7wIwDQYJKoZIhvcNAQEL
+BQADggEBACujPERA/4p2x2rIvSRoig/1voL6Jku1NGqfAmRBwKU0+oMyRe9Kndmg
+OgHyk3TijRWx+OoYSNwdeg7+dOTUUkqdSAcc/Dx7cGIeTEzNUsX/bWUdG6ZSz/Jl
+3yHb1f9dBpTYMtb+Tf0yyRzia/frt1F5BHyYqoGzN+1uYIdaqOgmMzk5gunLkh0T
+YF2QSmL5XV5cOe5uJPaw9Wg2i4M+MPyYDV1XGQBEHJ1EoEbwaDOgdO2NdrHaKFgl
+Ffk3K4TKFCa+zgM+wPuJ/xL9H0JIjzni3Fi50OSSFBUxGUNbgFJ0qUtZxhmLkeaX
+p114CVznCCiQwELJ9+OtI8iy8sPssnk=
+-----END CERTIFICATE-----
+subject=C=US, ST=New Jersey, L=Secaucus, O=Quest Diagnostics Incorporated, CN=questdiagnostics.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: rsa_pkcs1_sha512
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 4248 bytes and written 1635 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 30E0397D6F8081FA7E8F3B1F2B76FF9B3B8CC063985EDB1E336164884F95E697
+    Session-ID-ctx: 
+    Master-Key: 2A4C694E9469A6B43AFDAF01AF1D794B8AF4F7A10116454FCDF1275C0C31AD19F2BBAAC5CFA0588C3CEB7466FA3E22D3
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - fa 78 ba aa d6 f7 1c fa-b9 71 ed 78 5d 4e 15 a9   .x.......q.x]N..
+    0010 - 73 10 f9 45 fb 84 66 9b-ef 72 ed be d1 a7 cd 54   s..E..f..r.....T
+    0020 - 71 a3 59 fb 06 fa 87 7b-58 7e a3 dd 0d c4 eb 9d   q.Y....{X~......
+    0030 - 53 a0 c7 46 4c 79 34 0c-1d 9f 04 49 28 83 63 9c   S..FLy4....I(.c.
+    0040 - bf 93 7e d2 c0 a7 e4 ed-62 be b0 16 c4 15 fd 14   ..~.....b.......
+    0050 - 36 f6 d2 ae 8c 25 89 bc-6f de b1 72 e3 c1 d6 4c   6....%..o..r...L
+    0060 - 08 ad 7c 5c 9a 6c b2 b1-6c 16 29 b5 8a 06 81 09   ..|\.l..l.).....
+    0070 - 1f 74 3d cd 6d 76 2d 3f-88 0c 3e cd f0 c3 36 a1   .t=.mv-?..>...6.
+    0080 - 02 6a f4 f9 68 8e c4 1c-19 45 19 0b 09 30 f4 d6   .j..h....E...0..
+    0090 - 57 34 7d 05 86 4c bd b0-4b 20 ac 71 92 87 e5 1a   W4}..L..K .q....
+    00a0 - d9 0e 9f d4 c5 72 72 fa-86 ee b2 68 ab 9e 9b 6d   .....rr....h...m
+    00b0 - 4c eb c7 a5 ed f2 ba ac-1d 3e 87 0b f3 3d 42 57   L........>...=BW
+
+    Start Time: 1792921663
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---
+ECH: NOT CONFIGURED: -103
+---

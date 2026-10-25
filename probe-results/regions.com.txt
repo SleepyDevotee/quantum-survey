@@ -1,0 +1,91 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:serialNumber=F04000006315, jurisdictionC=US, jurisdictionST=Florida, businessCategory=Private Organization, C=US, ST=Alabama, O=Regions Financial Corporation, CN=www.regions.com
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA EV R36
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep 24 00:00:00 2026 GMT; NotAfter: Apr 10 23:59:59 2027 GMT
+ 1 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA EV R36
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Mar 21 23:59:59 2036 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+ 3 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 4 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: RSA, 2048 (bit); sigalg: sha1WithRSAEncryption
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHkDCCBfigAwIBAgIQc8obTLsL5Pk9CTDKlvDouTANBgkqhkiG9w0BAQsFADBg
+MQswCQYDVQQGEwJHQjEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFB1YmxpYyBTZXJ2ZXIgQXV0aGVudGljYXRpb24gQ0EgRVYgUjM2
+MB4XDTI2MDkyNDAwMDAwMFoXDTI3MDQxMDIzNTk1OVowgcYxFTATBgNVBAUTDEYw
+NDAwMDAwNjMxNTETMBEGCysGAQQBgjc8AgEDEwJVUzEYMBYGCysGAQQBgjc8AgEC
+EwdGbG9yaWRhMR0wGwYDVQQPExRQcml2YXRlIE9yZ2FuaXphdGlvbjELMAkGA1UE
+BhMCVVMxEDAOBgNVBAgTB0FsYWJhbWExJjAkBgNVBAoTHVJlZ2lvbnMgRmluYW5j
+aWFsIENvcnBvcmF0aW9uMRgwFgYDVQQDEw93d3cucmVnaW9ucy5jb20wggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC8Gy7SObWtxK6whCw1Al+dOJf4MI5E
+fRVp2hhBSXaSkW+eiJ+13Nj+tNIIhb5M017P2+7nokL44Uts6csoz3a/Gu3lUima
+usX3290GiBpDXqPZwyQY9Ljk2z7ArFg1UFsFNC977e1dpb+wmWz0TuoSt0Y0t0WC
+H24VErOTFKzu9wmXaAvB3NcMwXvzwLqFzjU19HQ/pUeERUvkNPgJnKRlIj5wZbmI
+TC2nVmz3lkHD1BfsyhXcwMOcvYrC7FRK7PwgD1I1jTI3NcCpMGtDxP7OO7pU2GO+
+fyg1C/0Fxrb61n4689aToy3JgjtqF3wHyYTtXeX4rSP+AYmqP4jPhxwvAgMBAAGj
+ggNdMIIDWTAfBgNVHSMEGDAWgBSYLV4ej+tU9Ln/VZWtTMd+pJiuezAdBgNVHQ4E
+FgQUNfkAiUDCVwhWSPb9uBVqcBp5lowwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB
+/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAw
+NQYMKwYBBAGyMQECAQUBMCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5j
+b20vQ1BTMAcGBWeBDAEBMFQGA1UdHwRNMEswSaBHoEWGQ2h0dHA6Ly9jcmwuc2Vj
+dGlnby5jb20vU2VjdGlnb1B1YmxpY1NlcnZlckF1dGhlbnRpY2F0aW9uQ0FFVlIz
+Ni5jcmwwgYQGCCsGAQUFBwEBBHgwdjBPBggrBgEFBQcwAoZDaHR0cDovL2NydC5z
+ZWN0aWdvLmNvbS9TZWN0aWdvUHVibGljU2VydmVyQXV0aGVudGljYXRpb25DQUVW
+UjM2LmNydDAjBggrBgEFBQcwAYYXaHR0cDovL29jc3Auc2VjdGlnby5jb20wJwYD
+VR0RBCAwHoIPd3d3LnJlZ2lvbnMuY29tggtyZWdpb25zLmNvbTCCAYcGCisGAQQB
+1nkCBAIEggF3BIIBcwFxAHcA1tWNqdAXU/NqSqDHV0kCr+vH3CzTjNn3ZMgMiRke
+nwIAAAGg0jn0BgAABAMASDBGAiEA+fAQko6VgCBhnpmA87451aod6TqatPOmV/03
+42fgtGACIQDQyuMzYtsf2VP79oa7Lwa15kEedu7Kchf3qQSfgVHe0wB2AGBMmq96
+f3dfAdQG/JINyJnrCxx9+MlSG/r6F3c7l4vJAAABoNI59LgAAAQDAEcwRQIhAMJM
+HtJ3nkO/DWYcYx5Qua3TAZ3tDpAtSKdd4HJK/DBXAiA3+Lykozti6iZ+tAD6amV+
+kM7uGzJICtp6ratp1dI8EwB+AKKBABhzThduHUfglUDzgbpUZpfNY6hDUHFuuAlO
+2vENAAABoNI59I4ACAAABQAT8TLgBAMARzBFAiEAstcv2caNyvmID8fvZZgslbRv
+DetZCZUqH9uCtSyYZqoCIFT0JOyHg9l7S0LXDiIQWk9v6CJRRlNmUGdBUnpLXzXe
+MA0GCSqGSIb3DQEBCwUAA4IBgQAC+LwJ9obw3M4kjVE29EUTfZEVl/DpTR8JOVSA
+Np9f2S+zwfFVr+4m0/48zkA39upYDg4FiCDKnFzl1LYkV3E/cnZCFkxZznj8GLWy
+HFarPzZG6motOKy0LCn1DxnltOJvBaX+cbDrdj5dKpmYaqwTnAYbsVc83FteyxdZ
+cSu37a/5ya5lcruXC/34CEpr8ASkbFMmrbwOxHEFzOaCi1wKYy+bHhz83J09JA7s
+KvSH5MFKz1EVVNFta+TzZ0CxYqb+uWKJ8nfIUqU+8PQsix+yiaD1J3iQSD3/naCy
+0aLzcVy60mrnQ3vmhNNLDrI+S4/AnpFLTfMWSNjNRQ/C10Ie1QXZl6dcSwrb3o4n
+HKgSdG3YzFehUreXg/Tud8BajEfxEWUi6EluxVZ62U/LU70SmhQXJlMcL/bzTWgq
+7F1hLfUHc75dLNGjaovn+eQOQXs/jg5ozhV/WtJAQwf5Iy1fKqKb/uxABRwrqQdP
+q5Kh5/sUjMtgx8vgP9kJ5c0Enng=
+-----END CERTIFICATE-----
+subject=serialNumber=F04000006315, jurisdictionC=US, jurisdictionST=Florida, businessCategory=Private Organization, C=US, ST=Alabama, O=Regions Financial Corporation, CN=www.regions.com
+issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA EV R36
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 9387 bytes and written 1564 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

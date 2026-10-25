@@ -1,0 +1,80 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=Florida, O=University of Florida, CN=www.ufl.edu
+   i:C=US, O=Internet2, CN=InCommon RSA Server CA 2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jan  5 00:00:00 2026 GMT; NotAfter: Feb  5 23:59:59 2027 GMT
+ 1 s:C=US, O=Internet2, CN=InCommon RSA Server CA 2
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Nov 16 00:00:00 2022 GMT; NotAfter: Nov 15 23:59:59 2032 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG7TCCBVWgAwIBAgIRAKFcgPWDxLF6Usp/Cr4EcNAwDQYJKoZIhvcNAQELBQAw
+RDELMAkGA1UEBhMCVVMxEjAQBgNVBAoTCUludGVybmV0MjEhMB8GA1UEAxMYSW5D
+b21tb24gUlNBIFNlcnZlciBDQSAyMB4XDTI2MDEwNTAwMDAwMFoXDTI3MDIwNTIz
+NTk1OVowVTELMAkGA1UEBhMCVVMxEDAOBgNVBAgTB0Zsb3JpZGExHjAcBgNVBAoT
+FVVuaXZlcnNpdHkgb2YgRmxvcmlkYTEUMBIGA1UEAxMLd3d3LnVmbC5lZHUwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDKjuz8oh6dmnPrS9YFKkb05vJp
+g7+MypTjEoOGciC4ntgRuzQGkc4yDFy+G5UQR7MmW75bZLLD+Xca3yr0Cuiq/Pw4
+y1l0Fn9mfgSoR1i2iU1GuKTsBqMpk9c/kQ1xVHJw0Sa0mNFyacbaoR9hagquQpyp
+poAtgYdbHSxGB+ZYUGGes+qkpFOBeqyE1vZBA3P/THff6KBpItnAvhFK/QPiqWBU
+bzFUoDiocoDkz/WByJrM89KuMDnxdq9YC5BPPI0C6rbyg3bSJrlSJ2nlLlfUwT1J
+xRnK42ZaoeEDwpFfXkFGnKPEzUqTpDaxByWrT1SdqpuYfSE70HxkuchRY24XAgMB
+AAGjggNHMIIDQzAfBgNVHSMEGDAWgBTvTACSpvt2Ll6V4slfhxsZ1U3i2TAdBgNV
+HQ4EFgQU55H01HO4KiDcWnpuIPtgUjx+4LUwDgYDVR0PAQH/BAQDAgWgMAwGA1Ud
+EwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARC
+MEAwNAYLKwYBBAGyMQECAmcwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdv
+LmNvbS9DUFMwCAYGZ4EMAQICMEAGA1UdHwQ5MDcwNaAzoDGGL2h0dHA6Ly9jcmwu
+c2VjdGlnby5jb20vSW5Db21tb25SU0FTZXJ2ZXJDQTIuY3JsMHAGCCsGAQUFBwEB
+BGQwYjA7BggrBgEFBQcwAoYvaHR0cDovL2NydC5zZWN0aWdvLmNvbS9JbkNvbW1v
+blJTQVNlcnZlckNBMi5jcnQwIwYIKwYBBQUHMAGGF2h0dHA6Ly9vY3NwLnNlY3Rp
+Z28uY29tMIIBjgYKKwYBBAHWeQIEAgSCAX4EggF6AXgAdQBgTJqven93XwHUBvyS
+DciZ6wscffjJUhv6+hd3O5eLyQAAAZuOwfzZAAAEAwBGMEQCIH2XWAts93OzmYcE
+hveNBr32tupSqtDP/cbTLKS4kbfQAiB3GrjQFO68AbXB0pKihWlZa+sSTZ8jOUYu
+7wEsggCrUQB/AI7KRwus3mrzogawpHqEt0b+H8a/lT4l5ptO5AJI88boAAABm47B
+/4IACAAABQABFVXDBAMASDBGAiEA/weGckTkuXYx9msrnALds5vnkBZsSak+PBMw
+jenUuAYCIQCn+nopdAbGFWsvCvX5tdNIjDN9moUluZeP1w68It8/fAB+AFlubDOG
+lLJZcqJWyKDo3ZBKdugIPdqHOwEIOCgUPO5ZAAABm47B/KEACAAABQAACBy8BAMA
+RzBFAiEAm88kH1EJaHVJGV26XeNtKW+5Dn5Z4yJSx6CqIfTwUoQCIGsM1gyydf0l
+SMkVq+XxS514cplWalHuo2EsSL+pkRSdMDMGA1UdEQQsMCqCC3d3dy51ZmwuZWR1
+ghJvbnNpdGUud3d3LnVmbC5lZHWCB3VmbC5lZHUwDQYJKoZIhvcNAQELBQADggGB
+AExG5xFHD4qbEA8ZCrQ5v5akA7XBy200d5fQrr8AYRSai2gPpJGecJXqbEMQjJWO
+7Rx3yV+6Yt9pf52rt8Rdah+DHCS8dOs9DE1TJ4y64R8AvSkfxBBke1aZoBs5dqCA
+VZqTAMXvHSQLUM6jmws59j777UouKIRyhfCCWbDxWocQQzvMlti/XP8Ej1Zt3rih
+wevdcZuhUAAS6DSco86OMIreAWHDoGyWrSvj9JypGHddSklUEawaSpUp1iWYkUcK
+xjfBuLVVoEfuGLObnLd3k1zso/dWXKFPEH5ZPluF0feMAmhu8WSrgqp1+J1oi4DF
+LYRPESVB/889AUtu0ewRspMFD0dRw6V98lyL1xrv4ePldGxCMfsxgNh5waCC0Bm3
+SxbzvceZtriTzMSRziFovMQ6P7KCgjzCZ640jlaxvQKoROwq/ywmGBXMX4yJdXxS
+CmAUVJrfFKYIAk0NJn3mdEhdhJuewcpssATHOwbzTKJC+lHol8B6a47KZjKp7vPQ
+pg==
+-----END CERTIFICATE-----
+subject=C=US, ST=Florida, O=University of Florida, CN=www.ufl.edu
+issuer=C=US, O=Internet2, CN=InCommon RSA Server CA 2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5467 bytes and written 1888 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

@@ -1,0 +1,91 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=yale.edu
+   i:C=US, O=Certainly, CN=Certainly Intermediate R1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct 13 01:13:25 2026 GMT; NotAfter: Nov 12 01:13:24 2026 GMT
+ 1 s:C=US, O=Certainly, CN=Certainly Intermediate R1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Root Certificate Authority - G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jun 22 00:00:00 2022 GMT; NotAfter: Jun 21 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFCzCCA/OgAwIBAgISeG4ukVR0vU+Nw7HbW8X6JFH6MA0GCSqGSIb3DQEBCwUA
+MEUxCzAJBgNVBAYTAlVTMRIwEAYDVQQKEwlDZXJ0YWlubHkxIjAgBgNVBAMTGUNl
+cnRhaW5seSBJbnRlcm1lZGlhdGUgUjEwHhcNMjYxMDEzMDExMzI1WhcNMjYxMTEy
+MDExMzI0WjATMREwDwYDVQQDEwh5YWxlLmVkdTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAN0nx2sEAT0wBnmq34zijT1Lar6rH5HByCiC52hxkanZfQwt
+4afnRFLUw3uswAhKQpDOH2/1erIdLMuPFMbfEmMurCCf3Nnzs+Z20XpeMeo03jTd
+zTb6i8HTx83cXtxZVBrv2jMN/iTy6fooDG0ef/UvLREmKRFEVI5iKdWEI5vQ2J+1
+J/3koRLuEMHaEBohrTRmw/piz52nN+BtH3rlddC7TZdsxKFikkfuq3lJqHuTBvtY
+ewb+ZLXjkqgxcX66oRKkWx4bLNoN3xfaxoO6GF2peL5jgR8hJrQ/2pvmuj0Dw2iP
+6cougWI2QYWn1jGDBRN2LQzh1uyAy8X3090725MCAwEAAaOCAiUwggIhMA4GA1Ud
+DwEB/wQEAwIFoDATBgNVHSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0G
+A1UdDgQWBBTEqVaHbaEpqpwSCbWi/59LsEJ3szAfBgNVHSMEGDAWgBS9l53fodgb
+JZnjDAQGiWQS12UkxzA3BggrBgEFBQcBAQQrMCkwJwYIKwYBBQUHMAKGG2h0dHA6
+Ly9pbnQtcjEuY2VydGFpbmx5LmNvbTATBgNVHREEDDAKggh5YWxlLmVkdTATBgNV
+HSAEDDAKMAgGBmeBDAECATBCBgNVHR8EOzA5MDegNaAzhjFodHRwOi8vY3Jscy5j
+ZXJ0YWlubHkuY29tLzE3MTgyMjYyNDUzMDAyNTE0LzcuY3JsMIIBAwYKKwYBBAHW
+eQIEAgSB9ASB8QDvAHUA1219ENGn9XfCx+lf1wC/+YLJM1pl4dCzAXMXwMjFaXcA
+AAGhMwfcJAAABAMARjBEAiAnvXo+c9PStohQoY6+r8R1DR8eBWUZuKIge05KdVet
+zgIgBzaiO5df2nbimBK2YCDcAJBvuE9xuw3dOm6ZQz/4/hQAdgDCMX5XRRmjRe5/
+ON6ykEHrx8IhWiK/f9W1rXaa2Q5SzQAAAaEzB949AAAEAwBHMEUCIQC7nShCExeP
+8NjgUNX2ZuNJC6tUQpaKE3R7ZAvg4/aMcQIgJGO/4oYG6Yxj6s1YaCAJ2yvX5ut4
+fpdE8tSSEnlv0lMwDQYJKoZIhvcNAQELBQADggEBAIEVloXPfVRASAch1mGEiy8Y
+JFzFCcp7mEQR3GPpodeq5EohSYuodmVxpC8B6wJ2voqCiBvNM2qee9rkPHNkC72W
+jVuu48ZvDzVl1XnsGKEnqncwqKK4xbzvFX8WM0FdAXGpxp07aA3GfgyLurVuCbiL
+13n9b/PcGZ/LR1v9DNor18UQRGEO6ZyzKD1/OzG/ae1/vclpNgnFOiztjAPeP/I4
+56l8Ppulwzo9baZwlZl4NO+JfP0bDyjUovdDDssyxzzEZMjLMlDSPBSCdPG3EkR4
+YZ7mzhSzyuo24zZazSDYNSrC77kjev9GkQL+HAc5kzGX5nMSfnjwWGS/ByGGNew=
+-----END CERTIFICATE-----
+subject=CN=yale.edu
+issuer=C=US, O=Certainly, CN=Certainly Intermediate R1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3137 bytes and written 1582 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: FD67835E51E17AD68A4A904A3467E536E88B4BBB4CFEDC973181D46026E3FFED
+    Session-ID-ctx: 
+    Master-Key: 31BC86E86DB8472345A06E1BDF4A0DBC49830929D63C170B1A03E3788F5B25DCCD0694433907ACD9741B2A71552A43E6
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
+    0010 - a8 f7 22 78 c3 04 f0 ec-ee 2a 49 1c 59 10 ec 09   .."x.....*I.Y...
+    0020 - 1a 01 34 16 5c bd 15 82-bd 04 a8 48 6c e3 94 92   ..4.\......Hl...
+    0030 - c6 26 61 ce 7c cf b4 94-cb 14 25 70 5b 56 06 05   .&a.|.....%p[V..
+    0040 - ef 01 e5 f6 c8 38 59 91-13 29 42 c7 7b 3b a8 f2   .....8Y..)B.{;..
+    0050 - 2c 0c a0 fb 6f 9e b2 8b-b9 c6 55 5c bc b4 d2 79   ,...o.....U\...y
+    0060 - cb 45 78 1c 78 25 1a c5-1e e3 de dc 3d 6b 2c bc   .Ex.x%......=k,.
+    0070 - bf e2 b5 74 8f cd 45 0f-cb 5b f9 6a 2f df 2c b2   ...t..E..[.j/.,.
+    0080 - 10 b1 46 06 80 ec e4 80-95 0e 40 31 d7 d3 8c 49   ..F.......@1...I
+    0090 - e1 ac 3f 68 8a eb 2e 2f-c2 60 1e cd c8 f6 a3 60   ..?h.../.`.....`
+    00a0 - e9 18 69 c9 e9 1a 98 68-7d 65 c6 43 d4 f2 4a da   ..i....h}e.C..J.
+    00b0 - f6 a0 95 c6 cd 70 1c 41-64 4d 4a a2 c8 71 58 1a   .....p.AdMJ..qX.
+
+    Start Time: 1792921600
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

@@ -1,0 +1,61 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=umich.edu
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Sep 17 04:14:24 2026 GMT; NotAfter: Dec 16 05:14:22 2026 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: EC, (secp384r1); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDZjCCAwygAwIBAgIQeFNA2uIthqMOQVOdwuKDIjAKBggqhkjOPQQDAjA7MQsw
+CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
+VQQDEwNXRTEwHhcNMjYwOTE3MDQxNDI0WhcNMjYxMjE2MDUxNDIyWjAUMRIwEAYD
+VQQDEwl1bWljaC5lZHUwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAT1c5TMqmZF
+wDNA8maXHXhBJtLtL6wynF2la86lL9eC+lcEaUJqbKfAGVc4E3Hhnvk0cegVsW40
+XTZ3QsayLaoPo4ICFzCCAhMwDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQMMAoGCCsG
+AQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFM9/zCdn4Z8NhBfYwq32ni4k
+BIVUMB8GA1UdIwQYMBaAFJB3kjVnxP+ozKnme9mAeXvMk/k4MDUGCCsGAQUFBwEB
+BCkwJzAlBggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd2UxLmNydDAUBgNV
+HREEDTALggl1bWljaC5lZHUwEwYDVR0gBAwwCjAIBgZngQwBAgEwNgYDVR0fBC8w
+LTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd2UxL1lPUmg3VXBKTHA0LmNybDCC
+AQIGCisGAQQB1nkCBAIEgfMEgfAA7gB1ANgJVTuUT3r/yBYZb5RPhauw+Pxeh1Um
+DxXRLnK7RUsUAAABoK3Jl2AAAAQDAEYwRAIgYs4A5xq3PXUvR/D97irXk5/8wBK4
+9/g1vxXJKibQ4VsCIHjA5iJhoTXXwWt0aqMkQvnk95G6euqkSxL4tlOmBg5iAHUA
+wjF+V0UZo0XufzjespBB68fCIVoiv3/Vta12mtkOUs0AAAGgrcmXNAAABAMARjBE
+AiB659pcofICD+GMY9xCQtA/zYKMNpGOmj42iGw0/NN4ewIgEn1DPdbqCnIkWD06
+psQbkk9NBJXSIPczisoOycAW9yEwCgYIKoZIzj0EAwIDSAAwRQIgOItVkMoIuFlg
+LqF7wMnCfoJ6qI78hFzVDyHgRscqQD8CIQDVPiW7EY5DzeEf4FVqr2J1cKRnH6DT
+esa9kh1LHQjX1Q==
+-----END CERTIFICATE-----
+subject=CN=umich.edu
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 3849 bytes and written 1578 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

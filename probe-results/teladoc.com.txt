@@ -1,0 +1,62 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=teladoc.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct 19 20:43:53 2026 GMT; NotAfter: Jan 17 21:43:50 2027 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: EC, (secp384r1); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDjTCCAzOgAwIBAgIQUhk1eMceMywOeQ8YBip6ejAKBggqhkjOPQQDAjA7MQsw
+CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
+VQQDEwNXRTEwHhcNMjYxMDE5MjA0MzUzWhcNMjcwMTE3MjE0MzUwWjAWMRQwEgYD
+VQQDEwt0ZWxhZG9jLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABEhSzU5u
+D5Pcu1P17aAsGEHTGJQKbRJ9/JF1Dm7fA31rzGlMFy/bOQzAL62OoNLZepcHV9Fl
+CTAJU3YrFetMGiGjggI8MIICODAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYI
+KwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUdt2Li8n/R9sc+VM8jqOt
+4Zle48AwHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+TgwNQYIKwYBBQUH
+AQEEKTAnMCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93ZTEuY3J0MC8G
+A1UdEQQoMCaCC3RlbGFkb2MuY29tghdldmVudHMuZGF0YS50ZWxhZG9jLmNvbTAT
+BgNVHSAEDDAKMAgGBmeBDAECATA2BgNVHR8ELzAtMCugKaAnhiVodHRwOi8vYy5w
+a2kuZ29vZy93ZTEvLVpCQmJjdUd1UTAuY3JsMIIBDAYKKwYBBAHWeQIEAgSB/QSB
++gD4AHUAHJ9oLOn68EVpUPgbloqH3dsyENhM5siy44JSSsTPWZ8AAAGhVh7/XwAA
+BAMARjBEAiBSdwcdGh8uY4F/wNcwLJ0KfMdEFYhxnUY/UjuuoaybkwIgArwfFMBe
+SLnYIIQDgXBEwA18l6bC2rZk4DVDCNxdZn0AfwBZbmwzhpSyWXKiVsig6N2QSnbo
+CD3ahzsBCDgoFDzuWQAAAaFWHwGpAAgAAAUAELNrIQQDAEgwRgIhAPReHDrYfiM6
+A3KOo+R98uMojJvclb1jg4n9WKALDMj7AiEAsj5Ccx1vbLi4LOqly6JOqhtX//SF
+I02HknhxGXFItD4wCgYIKoZIzj0EAwIDSAAwRQIhAJ8s18kGkHNG8T7hqor68y9o
+EOkFPGP9X2grlYKRKMLdAiB/UhfW/0qzNgbhOa2mfh8xOtxmMMgwXHMwC73yZd4t
+yw==
+-----END CERTIFICATE-----
+subject=CN=teladoc.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 3888 bytes and written 1580 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

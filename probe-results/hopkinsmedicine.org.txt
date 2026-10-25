@@ -1,0 +1,66 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=hopkinsmedicine.org
+   i:C=US, O=Let's Encrypt, CN=YE1
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Sep 26 05:18:25 2026 GMT; NotAfter: Dec 25 05:18:24 2026 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=YE1
+   i:C=US, O=ISRG, CN=Root YE
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
+ 2 s:C=US, O=ISRG, CN=Root YE
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X2
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+ 3 s:C=US, O=Internet Security Research Group, CN=ISRG Root X2
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: EC, (secp384r1); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDqzCCAzGgAwIBAgISBnHKBlhSUtvuuTgEZsh4b4a3MAoGCCqGSM49BAMDMDMx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNZ
+RTEwHhcNMjYwOTI2MDUxODI1WhcNMjYxMjI1MDUxODI0WjAeMRwwGgYDVQQDExNo
+b3BraW5zbWVkaWNpbmUub3JnMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEvWPj
+UU8TXXUGFewfWChXAnMqpvZoCM82Qi3TQKoCv0Jljh46RHcVwL1xGYi3QTGEkVTB
+13zz8MRJ0U/n2yMT4KOCAjgwggI0MA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAK
+BggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQyzpciM6wgwxEGN6mi
+L5/Pl+pquDAfBgNVHSMEGDAWgBS7IMpHC/7X5Zz5jwkqo4w3RbG82DAzBggrBgEF
+BQcBAQQnMCUwIwYIKwYBBQUHMAKGF2h0dHA6Ly95ZTEuaS5sZW5jci5vcmcvMDUG
+A1UdEQQuMCyCFSouaG9wa2luc21lZGljaW5lLm9yZ4ITaG9wa2luc21lZGljaW5l
+Lm9yZzATBgNVHSAEDDAKMAgGBmeBDAECATAuBgNVHR8EJzAlMCOgIaAfhh1odHRw
+Oi8veWUxLmMubGVuY3Iub3JnLzU2LmNybDCCAQwGCisGAQQB1nkCBAIEgf0EgfoA
++AB2AK9niDtXsE7dj6bZfvYuqOuBCsdxYPAkXlXWDC/nhYc6AAABoNxcDjYAAAQD
+AEcwRQIhAKEgG1SpOQjlO5kMFnFnbTs29YwS4omZEC7YdqcERMi+AiATrtT8L/PB
+Kw4K1M3h/uIsCdcBO9q58cYBWHTxfWei1QB+ABqLnWsP/r+BtHk5xtIxCobW0QLU
+8EbiGCyd419eJiXvAAABoNxcESwACAAABQBFUXBaBAMARzBFAiEAkl5G9LKvYm8g
+6uimkSAPKLv+5FGygc5+fEbMNeV4WxQCIHYinyk10fNt2mUgmR/Oo53Ahbiw8QVA
+rMSn7LGw8u7UMAoGCCqGSM49BAMDA2gAMGUCMQCXC6+rq/isrWoIV+1OOQ7EAxaO
+jK42JNILUO2pBj9Fy0ajF6EyQqwsHKlIX3ABGWQCMDrum7FwHcWxgjUwRaITpHPL
+klMMZK3CEQpubpJc+823qTkJMbmSPc9r6e5mXMnh2A==
+-----END CERTIFICATE-----
+subject=CN=hopkinsmedicine.org
+issuer=C=US, O=Let's Encrypt, CN=YE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 4833 bytes and written 1588 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

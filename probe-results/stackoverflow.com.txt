@@ -1,0 +1,66 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=stackoverflow.com
+   i:C=US, O=Let's Encrypt, CN=YE1
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Oct 13 12:11:50 2026 GMT; NotAfter: Jan 11 12:11:49 2027 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=YE1
+   i:C=US, O=ISRG, CN=Root YE
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
+ 2 s:C=US, O=ISRG, CN=Root YE
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X2
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+ 3 s:C=US, O=Internet Security Research Group, CN=ISRG Root X2
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: EC, (secp384r1); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDpzCCAyygAwIBAgISBcBnDjPZ4PhZFErAxFScEleJMAoGCCqGSM49BAMDMDMx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNZ
+RTEwHhcNMjYxMDEzMTIxMTUwWhcNMjcwMTExMTIxMTQ5WjAcMRowGAYDVQQDExFz
+dGFja292ZXJmbG93LmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABAC5o2uo
+QVsUA/e+rrOXAHumoNaC5Sr1pWxylAujAvHty8athVhhnjcOf3JiyAc3K0YFm/hs
+0trjpS/zKVzXogujggI1MIICMTAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYI
+KwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUDnyvvbI7ttdElEZQWbxh
+73mmeEMwHwYDVR0jBBgwFoAUuyDKRwv+1+Wc+Y8JKqOMN0WxvNgwMwYIKwYBBQUH
+AQEEJzAlMCMGCCsGAQUFBzAChhdodHRwOi8veWUxLmkubGVuY3Iub3JnLzAxBgNV
+HREEKjAoghMqLnN0YWNrb3ZlcmZsb3cuY29tghFzdGFja292ZXJmbG93LmNvbTAT
+BgNVHSAEDDAKMAgGBmeBDAECATAuBgNVHR8EJzAlMCOgIaAfhh1odHRwOi8veWUx
+LmMubGVuY3Iub3JnLzEwLmNybDCCAQ0GCisGAQQB1nkCBAIEgf4EgfsA+QB2AAAa
+XRocLZN1tkhVePgvcaGubu85fSl8iuMVe8re4aAeAAABoTVipvMAAAQDAEcwRQIh
+AJb2IKcm0PvSx0z+Qulc3arVAggygP1tuTk7xjnP1gXBAiAePBq4tjUk9pclTeiX
+aPAbwGi+pl17PPIff3bqiI1j9QB/ABqLnWuN15HRzQVJ7bYDVdYGtk+tMNtx/niP
+D8fI+8SxAAABoTVirIsACAAABQAIEbanBAMASDBGAiEArSIUvYDeiGB1KEI0iP8g
+ok7xwYHp8P1Z5w4nLOMeKusCIQC0VRH/ARHlTdBI9zzrcRyFqVPfXBwN+Acp+XNB
+1iX41DAKBggqhkjOPQQDAwNpADBmAjEAxgDD+XoQ0tWghyXKke976aLq2UE1DS0w
+IHHzONKlQ9i4WANzmtpRa+TaF6tsI3DHAjEAtIo+evKejLbrtLRJGcw/34NtJIM5
+1JA/JD7tN5UEZqJcnVcp51BNZ51qDGeSl+mR
+-----END CERTIFICATE-----
+subject=CN=stackoverflow.com
+issuer=C=US, O=Let's Encrypt, CN=YE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 4828 bytes and written 1586 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

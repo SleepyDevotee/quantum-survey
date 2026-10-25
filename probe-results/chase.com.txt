@@ -1,0 +1,76 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:jurisdictionC=US, jurisdictionST=Delaware, businessCategory=Private Organization, serialNumber=691011, C=US, ST=New York, L=New York, O=JPMorgan Chase & Co., CN=www.chase.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep  8 00:00:00 2026 GMT; NotAfter: Mar 25 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jul  2 12:42:50 2020 GMT; NotAfter: Jul  2 12:42:50 2030 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHDDCCBfSgAwIBAgIQAYtFoObMloA3C/RIDIVxejANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMR4wHAYDVQQDExVE
+aWdpQ2VydCBFViBSU0EgQ0EgRzIwHhcNMjYwOTA4MDAwMDAwWhcNMjcwMzI1MjM1
+OTU5WjCByjETMBEGCysGAQQBgjc8AgEDEwJVUzEZMBcGCysGAQQBgjc8AgECEwhE
+ZWxhd2FyZTEdMBsGA1UEDwwUUHJpdmF0ZSBPcmdhbml6YXRpb24xDzANBgNVBAUT
+BjY5MTAxMTELMAkGA1UEBhMCVVMxETAPBgNVBAgTCE5ldyBZb3JrMREwDwYDVQQH
+EwhOZXcgWW9yazEdMBsGA1UECgwUSlBNb3JnYW4gQ2hhc2UgJiBDby4xFjAUBgNV
+BAMTDXd3dy5jaGFzZS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQDBzTB+xlCH4AL+TVM2BStliKJVjAmQIq0INE6WbSadkESDUIBV5jQb6cIThHOo
+Y5VOP1EE9NQIXQPOM8FLBInVbJip/IsyXQ3G3wtiDlzNI2wRMIRQV16mY5xGzOHh
+9I1ATRTbt+o+Hd1mKBcCEHQfv26UqBQNQpfyH98hlLFnOPNUuu7mMY66yeTXQQl4
+gL0lPcKc1JbsCxA5cuVmlvTgLRRbVj+tbcVR30jhOUXNQwJkLiOT3f/qH0w9Bx/J
+9v3rkIVHhElp8GverG4n5fg8f2G3JpNbyw3CowcF3SNFosBwNM9s17jScllVzEMs
+qn+iOOM/hltguED83moAlCchAgMBAAGjggNxMIIDbTAfBgNVHSMEGDAWgBRqTlC/
+mGidW3sgddRZAXlIZpIyBjAdBgNVHQ4EFgQUk2xT4IQffgDzRM19aJfsBzxTY9Uw
+NgYDVR0RBC8wLYINd3d3LmNoYXNlLmNvbYIJY2hhc2UuY29tghF3d3ctbmRjLmNo
+YXNlLmNvbTBKBgNVHSAEQzBBMAsGCWCGSAGG/WwCATAyBgVngQwBATApMCcGCCsG
+AQUFBwIBFhtodHRwOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwDgYDVR0PAQH/BAQD
+AgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjB1BgNVHR8EbjBsMDSg
+MqAwhi5odHRwOi8vY3JsMy5kaWdpY2VydC5jb20vRGlnaUNlcnRFVlJTQUNBRzIu
+Y3JsMDSgMqAwhi5odHRwOi8vY3JsNC5kaWdpY2VydC5jb20vRGlnaUNlcnRFVlJT
+QUNBRzIuY3JsMHMGCCsGAQUFBwEBBGcwZTAkBggrBgEFBQcwAYYYaHR0cDovL29j
+c3AuZGlnaWNlcnQuY29tMD0GCCsGAQUFBzAChjFodHRwOi8vY2FjZXJ0cy5kaWdp
+Y2VydC5jb20vRGlnaUNlcnRFVlJTQUNBRzIuY3J0MAwGA1UdEwEB/wQCMAAwggF8
+BgorBgEEAdZ5AgQCBIIBbASCAWgBZgB1AExj3JjlnB2riPYeij3ero+rRKM3e1+b
+lMP7oZz8wb4mAAABoH7thxsAAAQDAEYwRAIgMjoYcCy5s1Xtui0cwolRGSIiYxX8
+6J0DU6KPfx4zfukCIHipjKiYiFiid6F8oQQW8MSBx2hQNIMDwze8xs7y2POMAHYA
+1tWNqdAXU/NqSqDHV0kCr+vH3CzTjNn3ZMgMiRkenwIAAAGgfu2HEQAABAMARzBF
+AiBS1kZCwRANQ5NB3giepmE2YZi+wD64xOFCMhdVYsu2YgIhAImUbEjSUs0PU8wd
+xN4pomXH/eoDVfe4oiympLLCvZ5pAHUAHJ9oLOn68EVpUPgbloqH3dsyENhM5siy
+44JSSsTPWZ8AAAGgfu2H4gAABAMARjBEAiAjyACG97dqhGXsN1C5eylilpKWxH4I
+6DZYcLL9D8O22QIgOx0PiQWugISgNw8dIfeQUMMAksVuHjxc9e4BZ0Uqn+4wDQYJ
+KoZIhvcNAQELBQADggEBAD5yB8+krGf15cUzHGtzxuK4rPOKQ1Hd/xuKTABuKunk
+JM5JCcG0cVamYUfYSdhItEuYf1uP5iKpRD0fBFXDwO8g0YoL4ywq1jUGju0uFgYx
+ttH1xP01K0SJtcAi398lSY1gslpLqepq2e2qPnAhn09cCHuw0o6l6mZxOemimgNr
+TBcdNfmPDM7pUrb+Fzl6zMEhu76fbTWiKqsiDh1DLs2YJjbudjH/tM6YVjZjFiLO
+baz+9v/G4nYq0MXSS8faNhBDp2p1+pXXEsRQW3k4+u91A0G5n0kMJafaHjBoG1Tl
+NolNG/JwO7OkxIxBBTexlDokMyiPsbcs0F8UKb618GU=
+-----END CERTIFICATE-----
+subject=jurisdictionC=US, jurisdictionST=Delaware, businessCategory=Private Organization, serialNumber=691011, C=US, ST=New York, L=New York, O=JPMorgan Chase & Co., CN=www.chase.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 3823 bytes and written 1909 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

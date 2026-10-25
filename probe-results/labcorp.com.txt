@@ -1,0 +1,61 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=labcorp.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Sep  2 14:07:53 2026 GMT; NotAfter: Dec  1 15:07:50 2026 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: EC, (secp384r1); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDbjCCAxOgAwIBAgIQITfnDturwU0TVeuYaFn0UzAKBggqhkjOPQQDAjA7MQsw
+CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
+VQQDEwNXRTEwHhcNMjYwOTAyMTQwNzUzWhcNMjYxMjAxMTUwNzUwWjAWMRQwEgYD
+VQQDEwtsYWJjb3JwLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABCHpPyUJ
+uFrj0+WFt4HQ4VTUSKYUCMamEO2iI7zrvmBhpV229fQg0x4c11oNBdtwOVbAHAiG
+LQt2bGy9L0SeJXKjggIcMIICGDAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYI
+KwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUMXXgPRGovQmbO8xch/FW
+2aON8eIwHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+TgwNQYIKwYBBQUH
+AQEEKTAnMCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93ZTEuY3J0MBYG
+A1UdEQQPMA2CC2xhYmNvcnAuY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIBMDYGA1Ud
+HwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29nL3dlMS8tZVFMRDBSMkxCRS5j
+cmwwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwCUTkOH+uzB74HzGSQmqBhlAcfT
+XzgCAT9yZ31VNy4Z2AAAAaBiqZKGAAAEAwBIMEYCIQCuErOEWTjHDYIEzlcnFwE/
+1md22yCiBftjD/dwxVIDoAIhANaip/9/snH7HDPVGi7pmOwh2PKpObshKerZah3f
+ipi8AHYA2AlVO5RPev/IFhlvlE+Fq7D4/F6HVSYPFdEucrtFSxQAAAGgYqmO9gAA
+BAMARzBFAiEApep4k3hqlteY8mZHsa8svdl2cmS1vUQ79xJTRA6y4BICIG9E6LB6
+hdBzNN5JroJhHn5SZR9jEF+rLSWrmQ6qIeBwMAoGCCqGSM49BAMCA0kAMEYCIQDE
+DfQuBxuxi7qFOtTwGlzD9e2tkEE4/5jzYls3wabqKgIhALyWxz5ZR1Qe0xs2eArP
+wOW8L6EOEzBMpy+nyWMHqiG8
+-----END CERTIFICATE-----
+subject=CN=labcorp.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 3859 bytes and written 1580 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

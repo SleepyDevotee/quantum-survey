@@ -1,0 +1,76 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:jurisdictionC=US, jurisdictionST=Delaware, businessCategory=Private Organization, serialNumber=7995969, C=US, ST=Massachusetts, L=Boston, O=Fidelity Investments LLC, CN=www.fidelity.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct 19 00:00:00 2026 GMT; NotAfter: May  5 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jul  2 12:42:50 2020 GMT; NotAfter: Jul  2 12:42:50 2030 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHEDCCBfigAwIBAgIQBZvcEdj3yYMS26/8GuN5mDANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMR4wHAYDVQQDExVE
+aWdpQ2VydCBFViBSU0EgQ0EgRzIwHhcNMjYxMDE5MDAwMDAwWhcNMjcwNTA1MjM1
+OTU5WjCB1TETMBEGCysGAQQBgjc8AgEDEwJVUzEZMBcGCysGAQQBgjc8AgECEwhE
+ZWxhd2FyZTEdMBsGA1UEDwwUUHJpdmF0ZSBPcmdhbml6YXRpb24xEDAOBgNVBAUT
+Bzc5OTU5NjkxCzAJBgNVBAYTAlVTMRYwFAYDVQQIEw1NYXNzYWNodXNldHRzMQ8w
+DQYDVQQHEwZCb3N0b24xITAfBgNVBAoTGEZpZGVsaXR5IEludmVzdG1lbnRzIExM
+QzEZMBcGA1UEAxMQd3d3LmZpZGVsaXR5LmNvbTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBANUvylk1ZHHIFPql+eCBjtoByzS9u8EdJHtazgJYkv9Mvi09
+oywALT1NmA4uqvablA/d5wuQcBhkZAkZCf3vYt9jWsf6I7yqix0rzlG0+89Kapvp
+j0Bx3rod8CFLlzHQI57OfQ4u1rM2JWAyEf14R9ahg0mb05eL/vuL1tCGd7wJbL7f
++/8/HoSwFOvFqadOn1UoAF9k7EEs4ayzRiMI+HTRi6NpPxwrC2EgFj6ylHETYmR3
+IQI8m1zgsWjl9tvcU79JT5ZzRMfQQqEqcXujDHwiWzqCOcCfIplaEVAwtVacM4Da
+dEn5peYjnIBjxF7ibKDbUzk06hDLzm87CicxPDkCAwEAAaOCA2owggNmMB8GA1Ud
+IwQYMBaAFGpOUL+YaJ1beyB11FkBeUhmkjIGMB0GA1UdDgQWBBQxg2WmGTguVemS
++JZwm6QXKLwnQjApBgNVHREEIjAgghB3d3cuZmlkZWxpdHkuY29tggxmaWRlbGl0
+eS5jb20wSgYDVR0gBEMwQTALBglghkgBhv1sAgEwMgYFZ4EMAQEwKTAnBggrBgEF
+BQcCARYbaHR0cDovL3d3dy5kaWdpY2VydC5jb20vQ1BTMA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIweQYDVR0fBHIwcDA2oDSg
+MoYwaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0RVZSU0FDQUcyLTEu
+Y3JsMDagNKAyhjBodHRwOi8vY3JsNC5kaWdpY2VydC5jb20vRGlnaUNlcnRFVlJT
+QUNBRzItMS5jcmwwcwYIKwYBBQUHAQEEZzBlMCQGCCsGAQUFBzABhhhodHRwOi8v
+b2NzcC5kaWdpY2VydC5jb20wPQYIKwYBBQUHMAKGMWh0dHA6Ly9jYWNlcnRzLmRp
+Z2ljZXJ0LmNvbS9EaWdpQ2VydEVWUlNBQ0FHMi5jcnQwDAYDVR0TAQH/BAIwADCC
+AX4GCisGAQQB1nkCBAIEggFuBIIBagFoAHUATGPcmOWcHauI9h6KPd6uj6tEozd7
+X5uUw/uhnPzBviYAAAGhVH0QTQAABAMARjBEAiA7oOnZeCMvA2pSDhQusFJ74yOu
+bouU787xbUnvh1nFTgIgMGqfFTiGsJG18Vl6FLH0Xntk/BE/9/t3VlqjhIJjdkcA
+dgDW1Y2p0BdT82pKoMdXSQKv68fcLNOM2fdkyAyJGR6fAgAAAaFUfRBdAAAEAwBH
+MEUCIQC6P8f04QQyFmEtX86m98XPJeqkOJFqLT/+aZSWL3/29QIgf9VJOZK1Bx/q
+mPAHtXT6fjr2HHpAlpcgNpZR9tu/oXsAdwBEwr0M6RQOZKXJSgGTClqhuzWXDgDu
+ERaJaCocRNe1ZgAAAaFUfRCPAAAEAwBIMEYCIQC2zq2DcMWcyQk3ZMkoQJBGRfCA
+R2XA4Lyi48x+47iwJwIhAIxdC4UaTcs3lMg+cqEaQ1AawginnnS8dfzXrgdg4JVA
+MA0GCSqGSIb3DQEBCwUAA4IBAQB0MVy5UErKLGzucRb9HgTS7O+LPjYSMSaFF515
+qwfY0SegQcNtBNdKls7tppkx9exxgZU8LuEoVIq+LUAIDAPhndntJEjSbSuYpfoT
+fu/MybswhNznL4NCfEDhq1thJU3tpv9N3XmdvBuxZRGzhsUf9NWm3iDBJ1ghvKnA
+hqX0XmGggRo5hUVVL3RR4XHlV+6cpY8ZTDEN5eyOcUxXa/A+e5uF08BBXprs+G7/
+XmLlpt6GzNd/lM7UBf7i+N3aQ7UgoBZIiiqSOOOW//ZqWImVR70YT9auTtpp4eiI
+G3d16J6rczS+jaHwxscPm4GJ1cni1XXhLtr7Uu1tSw55cgro
+-----END CERTIFICATE-----
+subject=jurisdictionC=US, jurisdictionST=Delaware, businessCategory=Private Organization, serialNumber=7995969, C=US, ST=Massachusetts, L=Boston, O=Fidelity Investments LLC, CN=www.fidelity.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 4809 bytes and written 1581 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

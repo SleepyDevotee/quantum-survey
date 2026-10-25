@@ -1,0 +1,105 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=www.nih.gov
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Feb  5 15:04:58 2026 GMT; NotAfter: Feb 15 15:47:15 2027 GMT
+ 1 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May  3 07:00:00 2011 GMT; NotAfter: May  3 07:00:00 2031 GMT
+ 2 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   i:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jan  1 07:00:00 2014 GMT; NotAfter: May 30 07:00:00 2031 GMT
+ 3 s:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   i:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   a:PKEY: RSA, 2048 (bit); sigalg: sha1WithRSAEncryption
+   v:NotBefore: Jun 29 17:06:20 2004 GMT; NotAfter: Jun 29 17:06:20 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIII0jCCB7qgAwIBAgIJAL0whxw09Q4PMA0GCSqGSIb3DQEBCwUAMIG0MQswCQYD
+VQQGEwJVUzEQMA4GA1UECBMHQXJpem9uYTETMBEGA1UEBxMKU2NvdHRzZGFsZTEa
+MBgGA1UEChMRR29EYWRkeS5jb20sIEluYy4xLTArBgNVBAsTJGh0dHA6Ly9jZXJ0
+cy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5LzEzMDEGA1UEAxMqR28gRGFkZHkgU2Vj
+dXJlIENlcnRpZmljYXRlIEF1dGhvcml0eSAtIEcyMB4XDTI2MDIwNTE1MDQ1OFoX
+DTI3MDIxNTE1NDcxNVowFjEUMBIGA1UEAxMLd3d3Lm5paC5nb3YwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDWI7qpNmHNgChu9E+oEhygcltQp0aWunCh
+8scnAK/h0aAkEoY/tMZQb4ZrdMl+vkzwKwXuIxzA5OvU4YgYgJp59+DaKKvJSPS2
+mMZ6NzQNN/cESV5QCH9REr88IYyMXIgFBioNZ64h4KvOR0ayCkAO52mXkYarIL9t
+ArIXuvNekF61B3u1I7BkROTeAgh2bK31zHnahoZsQlJmVv0Gak1EtraO30WEQ5U/
+ssMFRptXpcoXkkHfeDIg/SMT1tCXvEFrTuiVTHdOZjYk495cXEqWcyHo6ARFZgqY
+P7c8ZxvvPLvOd3+966hmh+jJu80/2k3Y7sm+5nokCC6n+un7KGQTAgMBAAGjggWC
+MIIFfjAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjAOBgNVHQ8BAf8EBAMCBaAwOQYDVR0fBDIwMDAuoCygKoYoaHR0cDovL2NybC5n
+b2RhZGR5LmNvbS9nZGlnMnMxLTcyMDc4LmNybDBdBgNVHSAEVjBUMAgGBmeBDAEC
+ATBIBgtghkgBhv1tAQcXATA5MDcGCCsGAQUFBwIBFitodHRwOi8vY2VydGlmaWNh
+dGVzLmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMHYGCCsGAQUFBwEBBGowaDAkBggr
+BgEFBQcwAYYYaHR0cDovL29jc3AuZ29kYWRkeS5jb20vMEAGCCsGAQUFBzAChjRo
+dHRwOi8vY2VydGlmaWNhdGVzLmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvZ2RpZzIu
+Y3J0MB8GA1UdIwQYMBaAFEDCvSeOzDSDMKIz1/tss/C0LIDOMIICaQYDVR0RBIIC
+YDCCAlyCDXNhbHVkLm5paC5nb3aCFWRldnRlc3Rkb21haW4ubmloLmdvdoIXc3Rh
+Z2V0ZXN0ZG9tYWluLm5paC5nb3aCGHN0YWdldGVzdGRvbWFpbjYubmloLmdvdoIY
+c3RhZ2V0ZXN0ZG9tYWluNS5uaWguZ292ghN0ZXN0ZG9tYWluMi5uaWguZ292ghhz
+dGFnZXRlc3Rkb21haW4yLm5paC5nb3aCGHN0YWdldGVzdGRvbWFpbjcubmloLmdv
+doILd3d3Lm5paC5jb22CFmRldnRlc3Rkb21haW43Lm5paC5nb3aCHmNsaW5pY2Fs
+cmVzZWFyY2h0cmlhbHMubmloLmdvdoILd3d3Lm5paC5nb3aCB25paC5nb3aCGHN0
+YWdldGVzdGRvbWFpbjQubmloLmdvdoIWZGV2dGVzdGRvbWFpbjQubmloLmdvdoIU
+bmV3c2luaGVhbHRoLm5paC5nb3aCFmRldnRlc3Rkb21haW42Lm5paC5nb3aCEnRl
+c3Rkb21haW4ubmloLmdvdoIYc3RhZ2V0ZXN0ZG9tYWluMy5uaWguZ292ghJ3d3cu
+aGVhbHRoLm5paC5nb3aCE3Rlc3Rkb21haW4zLm5paC5nb3aCFmRldnRlc3Rkb21h
+aW4yLm5paC5nb3aCEW5paHJlY29yZC5uaWguZ292ggduaWguY29tghZkZXZ0ZXN0
+ZG9tYWluMy5uaWguZ292ghhuaWhwbGFpbmxhbmd1YWdlLm5paC5nb3aCFmRldnRl
+c3Rkb21haW41Lm5paC5nb3aCDmhlYWx0aC5uaWguZ292MB0GA1UdDgQWBBTsc3go
+5lXl8ZiNeORi76YX85S+eTCCAX4GCisGAQQB1nkCBAIEggFuBIIBagFoAHYA1tWN
+qdAXU/NqSqDHV0kCr+vH3CzTjNn3ZMgMiRkenwIAAAGcLlXIKwAABAMARzBFAiEA
+8AJ7tEammfK+P7yW1b7j5gdXyEl3RldXd0gXcy5O8psCIBqayNB9iPfDIRerflOB
+zi22okolWfdMifQupdPCwSNKAHYAYEyar3p/d18B1Ab8kg3ImesLHH34yVIb+voX
+dzuXi8kAAAGcLlXKQAAABAMARzBFAiEA7CeV3qeS27Me/HFuoIibWTYFhid2JRLY
+9x3Sux+dl7UCIEqwnb95v7VSVkaT5CtjcP0FnTIk8O27cw41wi7XPpg2AHYATGPc
+mOWcHauI9h6KPd6uj6tEozd7X5uUw/uhnPzBviYAAAGcLlXLKQAABAMARzBFAiAz
+w7HhjKm0CbajGjnJhbst2AW0KbrqDEuCXN6jtRV9WwIhAKIIvgNpvBUMTIZ/Jw+Y
+rEhVZge+sJScv/9FqDfciwzDMA0GCSqGSIb3DQEBCwUAA4IBAQBBetFLhH/WY919
+dd2aNn5BWrnL9FpXN8QE4tj5Mk8YeTOPYL905B3swQ1GyArawyv9X1Vj8bZ8rpxW
+Q7MCr5uHj3HhTrGr0xWDDnAUqAJ3+toZvgFUyrHVKJrPLIg/VYcPkUgXmcl5mh1I
+5oR9mtFvjcJwfwZpWpOKXA7SIMFrxBqSgW9iHR2FWnnGwMJbwjNwGxvpCXWKjC+h
+6r0v8fTDrha7XPHpNHW85ZDd/LgaeDWyaOlpq+oSycKi+Wv8j6mZgskJeZqlM8zI
+/T25Z/NfX6Y31T4JB3nLzl7/Sl/3LmJcl0A0KjmqsCqf1e72NDFjh913X5b7/akK
+1MABK1rr
+-----END CERTIFICATE-----
+subject=CN=www.nih.gov
+issuer=C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pkcs1_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 6201 bytes and written 1622 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: BE04A17FD209D423264CE220B9D1FC2A70A838DCFB9EFB76ED03457D8A614C3B
+    Session-ID-ctx: 
+    Master-Key: D110747599FE396C7850E8F25864369B1A160DD9E2E0BD7B84085E53F5E241BA4C8A3B0B6D9FF49FC46B146F8B10E41B
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1792921610
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

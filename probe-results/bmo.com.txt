@@ -1,0 +1,109 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:jurisdictionC=CA, businessCategory=Private Organization, serialNumber=1841-04-18, C=CA, ST=Ontario, L=Scarborough, O=Bank of Montreal, CN=bmo.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Feb 19 00:00:00 2026 GMT; NotAfter: Feb 13 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jul  2 12:42:50 2020 GMT; NotAfter: Jul  2 12:42:50 2030 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIMjDCCC3SgAwIBAgIQDu7gYMEUcLSl3hpIiECnxTANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMR4wHAYDVQQDExVE
+aWdpQ2VydCBFViBSU0EgQ0EgRzIwHhcNMjYwMjE5MDAwMDAwWhcNMjcwMjEzMjM1
+OTU5WjCBqzETMBEGCysGAQQBgjc8AgEDEwJDQTEdMBsGA1UEDwwUUHJpdmF0ZSBP
+cmdhbml6YXRpb24xEzARBgNVBAUTCjE4NDEtMDQtMTgxCzAJBgNVBAYTAkNBMRAw
+DgYDVQQIEwdPbnRhcmlvMRQwEgYDVQQHEwtTY2FyYm9yb3VnaDEZMBcGA1UEChMQ
+QmFuayBvZiBNb250cmVhbDEQMA4GA1UEAxMHYm1vLmNvbTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAMGQPTMHKNhdwkJJJxLL0qj5CGCzotxqqBfTgt4V
+c8MeDUwblCjgS0WlvkC0rcl1IIWm60JUL55GVnOmlsII+VEQKYs3Jq99j6JETEue
+/JobeIbi5ysf75yoPnwgON5QNzZqpMtMOctRlUQsUIQQK4mIW9rV168OyxulM1vC
+sjoCZTsR0rqyqtU5l2ePbN+qu4JXeqSGea3zpTEEszfpO1K7gGi+JbfKP1ZA9Hsh
+ACjLAZw0E4a6b8jOwjIlGhFLxFoy25f70Fth8VnlN7Xs9765nXFaIT0UQvVZQTGd
+eyZ6SYO2AVDVsCLo7qmjHlW4F+FfpDYFQU8HMTU/71C1tCUCAwEAAaOCCRAwggkM
+MB8GA1UdIwQYMBaAFGpOUL+YaJ1beyB11FkBeUhmkjIGMB0GA1UdDgQWBBTQSpk8
+hF0t9eBjEbTIrTU02JDvATCCBdIGA1UdEQSCBckwggXFggdibW8uY29tghFncmVl
+bi5iYnguYm1vLmNvbYIdMTA3MS1jbGFhcy5maW5hbmNpYWwtc3Zjcy5jb22CImJs
+dWUuMTA3MS1jbGFhcy5maW5hbmNpYWwtc3Zjcy5jb22CI2dyZWVuLjEwNzEtY2xh
+YXMuZmluYW5jaWFsLXN2Y3MuY29tghlibW9iYW5xdWVwcml2ZWVoYXJyaXMuY29t
+ghlkaW5lcnNkZXRhaWxzZW5kaXJlY3QuY29tghBsaWduZWRhY3Rpb24uY29tghNi
+bW9pbnZlc3RvcmVsaW5lLmNhghdpbnZlc3Rpc3NlbWVudGd1aWRlLmNvbYITYm1v
+aW52ZXN0b3JsaW5lLm9yZ4IKYm1vZXRmcy5oa4IXZGluZXJzZGV0YWlsc29ubGlu
+ZS5jb22CCWJtb3NwLmNvbYIMbWl3ZWFsdGguY29tggxjdGNteWNmby5jb22CCmJt
+b3Bwbi5jb22CF2hhcnJpc2RldGFpbHNvbmxpbmUuY29tggptaWJhbmsuY29tgh5i
+bW90cnVzdGFuZGN1c3RvZHlzZXJ2aWNlcy5jb22CE2Jtb2xpZ25lZGFjdGlvbi5u
+ZXSCFUJNT1Nwb25zb3JGaW5hbmNlLmNvbYIQbW9uYm1vdm95YWdlLmNvbYITYm1v
+aW52ZXN0b3JsaW5lLm5ldIIJbWllZmMuY29tghRibW9kZXRhaWxzb25saW5lLmNv
+bYIMYm1vZm9uZHMuY29tgg1taXdlYmZsZXguY29tghtibW9oYXJyaXNwcml2YXRl
+YmFua2luZy5jb22CBmJtby5oa4IPaW52ZXN0b3JsaW5lLmNhghZibW9kZXRhaWxz
+ZW5kaXJlY3QuY29tgghibW8ubW9iaYIPbXlibW90cmF2ZWwuY29tght0aGVjaXR5
+b2ZjYWxnYXJ5ZGV0YWlscy5jb22CEmJtb2ludmVzdG9ybGluZS5jYYITZ3VpZGVk
+aW52ZXN0aW5nLmNvbYIPYm1vbXl0cmF2ZWwuY29tghJiYW5rb2Ztb250cmVhbC5j
+b22CE2Jtb25lc2JpdHRidXJucy5jb22CCmZ4LmJtby5jb22CEG1pcmV0aXJlbWVu
+dC5jb22CEmJtb211dHVhbGZ1bmRzLmNvbYIUYm1vZWFwcGxpY2F0aW9ucy5jb22C
+CWJtb25iLmNvbYIbYm1vdGFmdC1oYXJ0bGV5c2VydmljZXMuY29tgh5ibW9oYXJy
+aXNmaW5hbmNpYWxhZHZpc29ycy5jb22CG2Jtb25vdGZvcnByb2ZpdHNlcnZpY2Vz
+LmNvbYIGYm1vLmNhgg1ibW9oYXJyaXMuY29tgglibW9jbS5jb22CD2Jtb2ZsZXhw
+b3J0LmNvbYILbWl0cnVzdC5jb22CE2Jtb2xpZ25lZGFjdGlvbi5vcmeCE215Ym1v
+cmV0aXJlbWVudC5jb22CHmhhcnJpc3ByaXZhdGViYW5rc3RhYmlsaXR5LmNvbYIL
+bWliYW5rLm1vYmmCDnd3dy5meC5ibW8uY29tgg9kZW1hbmRlc2Jtby5jb22CF2Jt
+b3dlYWx0aG1hbmFnZW1lbnQuY29tggt3d3cuYm1vLmNvbYIPd3d3LmJtb2FsdG8u
+Y29tggtibW9hbHRvLmNvbYIQd3d3LmFsdG8uYm1vLmNvbYIMYXV0aC5ibW8uY29t
+ghFibHVlLmF1dGguYm1vLmNvbYISZ3JlZW4uYXV0aC5ibW8uY29tggtiYnguYm1v
+LmNvbYIQYmx1ZS5iYnguYm1vLmNvbYIJbXljZm8uY29tghBpbnZlc3RvcmxpbmUu
+Y29tgg9oYXJyaXNteWNmby5jb22CE2Jtb2xpZ25lZGFjdGlvbi5jb22CDmhhcnJp
+c2JhbmsuY29tghNibW9pbnZlc3RvcmxpbmUuY29tghlibW9yZXRpcmVtZW50c2Vy
+dmljZXMuY29tggtibW9mbGV4LmNvbTBKBgNVHSAEQzBBMAsGCWCGSAGG/WwCATAy
+BgVngQwBATApMCcGCCsGAQUFBwIBFhtodHRwOi8vd3d3LmRpZ2ljZXJ0LmNvbS9D
+UFMwDgYDVR0PAQH/BAQDAgWgMBMGA1UdJQQMMAoGCCsGAQUFBwMBMHUGA1UdHwRu
+MGwwNKAyoDCGLmh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEVWUlNB
+Q0FHMi5jcmwwNKAyoDCGLmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9EaWdpQ2Vy
+dEVWUlNBQ0FHMi5jcmwwcwYIKwYBBQUHAQEEZzBlMCQGCCsGAQUFBzABhhhodHRw
+Oi8vb2NzcC5kaWdpY2VydC5jb20wPQYIKwYBBQUHMAKGMWh0dHA6Ly9jYWNlcnRz
+LmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEVWUlNBQ0FHMi5jcnQwDAYDVR0TAQH/BAIw
+ADCCAYcGCisGAQQB1nkCBAIEggF3BIIBcwFxAHcATGPcmOWcHauI9h6KPd6uj6tE
+ozd7X5uUw/uhnPzBviYAAAGcdu6K8gAABAMASDBGAiEA+BPc53pITcvBpGZ242qL
+XMFZGNEGBBbbjVnlwGGSgk0CIQDqSbcjfmmjGHYx1TI51EyCDYOjagGlzqubgrmQ
+yhVx3QB1AETCvQzpFA5kpclKAZMKWqG7NZcOAO4RFoloKhxE17VmAAABnHbui4YA
+AAQDAEYwRAIgGdaqKh3X4D1vKOiqoMECqLNVB0QTqOuyAPKRD7ibZRECIB4PaUvu
+6vdSZVaiUuQp+vebbySsoJoTNPUKhrO+wM7aAH8AjspHC6zeavOiBrCkeoS3Rv4f
+xr+VPiXmm07kAkjzxugAAAGcdu6LtgAIAAAFAALgZS0EAwBIMEYCIQDJsuJbNL6i
+dRb3n8BikpsFJRSoVXmv0EVVfXseXPUEIQIhAL64vKYI9d7Hh+AU318kv3h5O0bE
+/iOPNt3/ft09wPjVMA0GCSqGSIb3DQEBCwUAA4IBAQAnIkeVlOkH2oV+D2i46D7v
+pKPHWHS34Zx49HLYmgx6aMGBT9r/PcNRgW2sWQkupPWX16j5cigHXPVkTnZgxAk0
+EkbyE6mef1vdxK8vHM8Z6urn+Gih2AfGeuuttrB8p6qoKLhzqTs0bjYF/wDzUge9
+Cic4hpzG7EvyNSryBs2m7a+hrrSjhiW/8K2rCQCepHm+3xtFaGzaSgy/KbYUGT9v
+uuUOfjCyqC34PjYV2HEmqO1DUYbjBnHaIxFX7pgR4DVy6venlc3piGVQ2Zp4olso
+bfTcOc9wO6xtvJsEnGXXfTPMfFEHHS23XXMXzPjEGKj4KkshWDyuaDjXJh4qJ+x3
+-----END CERTIFICATE-----
+subject=jurisdictionC=CA, businessCategory=Private Organization, serialNumber=1841-04-18, C=CA, ST=Ontario, L=Scarborough, O=Bank of Montreal, CN=bmo.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 7132 bytes and written 1576 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

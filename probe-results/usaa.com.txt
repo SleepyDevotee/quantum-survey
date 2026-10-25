@@ -1,0 +1,82 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:jurisdictionC=US, businessCategory=Private Organization, serialNumber=1447376, C=US, ST=Texas, L=San Antonio, O=United Services Automobile Association, CN=www.usaa.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct  7 00:00:00 2026 GMT; NotAfter: Apr 23 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jul  2 12:42:50 2020 GMT; NotAfter: Jul  2 12:42:50 2030 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIIPDCCBySgAwIBAgIQBlVALM7XmlhRXd3mBvPscTANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMR4wHAYDVQQDExVE
+aWdpQ2VydCBFViBSU0EgQ0EgRzIwHhcNMjYxMDA3MDAwMDAwWhcNMjcwNDIzMjM1
+OTU5WjCBwTETMBEGCysGAQQBgjc8AgEDEwJVUzEdMBsGA1UEDwwUUHJpdmF0ZSBP
+cmdhbml6YXRpb24xEDAOBgNVBAUTBzE0NDczNzYxCzAJBgNVBAYTAlVTMQ4wDAYD
+VQQIEwVUZXhhczEUMBIGA1UEBxMLU2FuIEFudG9uaW8xLzAtBgNVBAoTJlVuaXRl
+ZCBTZXJ2aWNlcyBBdXRvbW9iaWxlIEFzc29jaWF0aW9uMRUwEwYDVQQDEwx3d3cu
+dXNhYS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC40cBKFrme
+O9rXoG6SQfMrdugRh/OCsXZAoyRUUlmqNlgMgToic3jZ8vGSTQuZuPv3aX7xwZFg
+faB96oAGiyue7zNJmtV8MDbPDHSvg6k7TBSH2XezK0abGf/69wXVdGTLjsdPDztm
+lcIRsnI2cfCPcVgp3UuR8Nj3SEBVFEwv5HaMLn57c5AjqpeUxzcFeFP9Qwn59Kmz
+SaTuM0YHlguPCgDvPpgQgjT5bA234PGIlapUkk92bT0BlAlkL9BZppNI/7F3SL0x
+eNFdq7giBEcm4Qmv3ALWbKiZ4H9kSpFhLxu4Wpw3eTszNegwaldBspaWMsR1SeAb
+CMd54FbRSUOzAgMBAAGjggSqMIIEpjAfBgNVHSMEGDAWgBRqTlC/mGidW3sgddRZ
+AXlIZpIyBjAdBgNVHQ4EFgQUbNsxWJK6ss8+7RwmNZPhWk/4kP8wggF3BgNVHREE
+ggFuMIIBaoIMd3d3LnVzYWEuY29tggxhcGkudXNhYS5jb22CFWFwaS51c2FhaW5z
+dXJhbmNlLmNvbYIOYXBpLWEudXNhYS5jb22CEGNvbnRlbnQudXNhYS5jb22CDmd1
+ZXN0LnVzYWEuY29tghFoZWFkbGVzcy51c2FhLmNvbYIKbC51c2FhLmNvbYIJbC51
+c2FhLnVzghFwYXJ0bmVycy51c2FhLmNvbYIKcy51c2FhLmNvbYIPc2VjdXJlLnVz
+YWEuY29tghFzaG9wcGluZy51c2FhLmNvbYIPc3RhdGljLnVzYWEuY29tghJzdGF0
+aWNpbnQudXNhYS5jb22CCHVzYWEuY29tggx1c2FhbGFicy5jb22CDHdsZS51c2Fh
+LmNvbYILd3MudXNhYS5jb22CFXd3dy5wYXJ0bmVycy51c2FhLmNvbYIVd3d3LnVz
+YWFpbnN1cmFuY2UuY29tghB3d3cudXNhYWxhYnMuY29tMEoGA1UdIARDMEEwCwYJ
+YIZIAYb9bAIBMDIGBWeBDAEBMCkwJwYIKwYBBQUHAgEWG2h0dHA6Ly93d3cuZGln
+aWNlcnQuY29tL0NQUzAOBgNVHQ8BAf8EBAMCBaAwEwYDVR0lBAwwCgYIKwYBBQUH
+AwEwdQYDVR0fBG4wbDA0oDKgMIYuaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL0Rp
+Z2lDZXJ0RVZSU0FDQUcyLmNybDA0oDKgMIYuaHR0cDovL2NybDQuZGlnaWNlcnQu
+Y29tL0RpZ2lDZXJ0RVZSU0FDQUcyLmNybDBzBggrBgEFBQcBAQRnMGUwJAYIKwYB
+BQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTA9BggrBgEFBQcwAoYxaHR0
+cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0RVZSU0FDQUcyLmNydDAM
+BgNVHRMBAf8EAjAAMIIBfAYKKwYBBAHWeQIEAgSCAWwEggFoAWYAdQBMY9yY5Zwd
+q4j2Hoo93q6Pq0SjN3tfm5TD+6Gc/MG+JgAAAaEW8OLrAAAEAwBGMEQCIG3vwaP/
+oBH2UrpD1VJ1oYMKqYMqMyEBSy8WgnF64t7fAiAZghOD/dYvS57GG3SzFj0wSFvk
+JIJBjyLfFyQoldvfhAB1AETCvQzpFA5kpclKAZMKWqG7NZcOAO4RFoloKhxE17Vm
+AAABoRbw4wcAAAQDAEYwRAIgKqGIckExqVYoFvCu7ESP91mEJqpNkCYbDWfraGIQ
+O8ACICC+jcSGMLH0xAdjgJ31f50Hul+3GPV+evDYe1VxXBfXAHYAHJ9oLOn68EVp
+UPgbloqH3dsyENhM5siy44JSSsTPWZ8AAAGhFvDjjwAABAMARzBFAiBUzEr3Oep4
+nU5vhx3LrbWo82S+JvELMz6l8sk6qAQ6AQIhAPKG7zf5icj+tUCAkgeAvfH4bR9N
+IcdG5i6R/zhAeR8nMA0GCSqGSIb3DQEBCwUAA4IBAQBhM6518wNd+AadYK1hVO1M
+xaipfiHpB0Lmc9hZT9sAzprVd7brcx+br3WAHLPmWcFf0Pbd5RYdiGMwJCKFqNaG
+1iSm6s/aYC8cZid+T8etbPZ62HlTwAJw6ziuRxgRSMhm1mbWS+91OARCYNVa6eGG
+e95RPzEdFfPoD5H9cCBXChldwofnkfBXO69aZpqWHue/WUUvfXq7jLAPW2Ik9nQc
+OiJmP+nba8lmxdghApBrE0g2qw8XKvV6Nh7Sw1PFmlZzn9z2/pdrn02wo6bFIPce
+vodRCkBDbOkX/qhdF08hRzjr/9fD5nK1ip4WwoTi52DTOyZXGuKNFhWXNlsX3N4s
+-----END CERTIFICATE-----
+subject=jurisdictionC=US, businessCategory=Private Organization, serialNumber=1447376, C=US, ST=Texas, L=San Antonio, O=United Services Automobile Association, CN=www.usaa.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 5109 bytes and written 1577 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

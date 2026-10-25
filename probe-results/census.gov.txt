@@ -1,0 +1,87 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=District of Columbia, L=Washington, O=U.S. Census Bureau, CN=www.census.gov
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep 16 00:00:00 2026 GMT; NotAfter: Apr  2 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG7jCCBdagAwIBAgIQBU8SEK0E18lajnyNyvxn8TANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjYw
+OTE2MDAwMDAwWhcNMjcwNDAyMjM1OTU5WjB3MQswCQYDVQQGEwJVUzEdMBsGA1UE
+CBMURGlzdHJpY3Qgb2YgQ29sdW1iaWExEzARBgNVBAcTCldhc2hpbmd0b24xGzAZ
+BgNVBAoTElUuUy4gQ2Vuc3VzIEJ1cmVhdTEXMBUGA1UEAxMOd3d3LmNlbnN1cy5n
+b3YwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDTw0gK5IOUf+oif6ZG
+8mOTJOy1kmSDlG6WxOx1CpFYrQy0HvBkzybzJo/ZrT0VJhyM5fdLZTR72GtqSdLt
+qjvV5cD5H0IkA1eomyjKQqdBpNaFTt2NOVyajdVpJRq9JaIInfOd5sJ2shbIjC6/
+0qi6zduo0lwHSByXG3WJMMxQofvOJR2A4kKRp3sZk2I4CXw9M0lSbbDBtox5zQzR
+qFs0j6hG1ms+8TxlE3kUMe6U4lor6Pohiwe1ps+WI8zSKdAhdillepVQatUQuCND
+XQGuJVe7uGlP/WsInHg+ifnqgrDDYo1iXb8DNoXP6iamtd8XnWOWJXiGwqRMnbEd
+2knFAgMBAAGjggOSMIIDjjAfBgNVHSMEGDAWgBR0hYDAZsffN97PvSk3qgMdvu3N
+FzAdBgNVHQ4EFgQUxImTxQ3JsSYTd+gs1Q8LoPVx6ScwJQYDVR0RBB4wHIIOd3d3
+LmNlbnN1cy5nb3aCCmNlbnN1cy5nb3YwPgYDVR0gBDcwNTAzBgZngQwBAgIwKTAn
+BggrBgEFBQcCARYbaHR0cDovL3d3dy5kaWdpY2VydC5jb20vQ1BTMA4GA1UdDwEB
+/wQEAwIFoDATBgNVHSUEDDAKBggrBgEFBQcDATCBnwYDVR0fBIGXMIGUMEigRqBE
+hkJodHRwOi8vY3JsMy5kaWdpY2VydC5jb20vRGlnaUNlcnRHbG9iYWxHMlRMU1JT
+QVNIQTI1NjIwMjBDQTEtMS5jcmwwSKBGoESGQmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0
+LmNvbS9EaWdpQ2VydEdsb2JhbEcyVExTUlNBU0hBMjU2MjAyMENBMS0xLmNybDCB
+hwYIKwYBBQUHAQEEezB5MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2Vy
+dC5jb20wUQYIKwYBBQUHMAKGRWh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9E
+aWdpQ2VydEdsb2JhbEcyVExTUlNBU0hBMjU2MjAyMENBMS0xLmNydDAMBgNVHRMB
+Af8EAjAAMIIBhAYKKwYBBAHWeQIEAgSCAXQEggFwAW4AdQBMY9yY5Zwdq4j2Hoo9
+3q6Pq0SjN3tfm5TD+6Gc/MG+JgAAAaCq74QZAAAEAwBGMEQCIBR+l1o7ygBiIZdy
+mQj2EkJX33zcLo0KD4zCp5hNZZADAiADHYwDaJlmrCsmFUkAkWCoC9UG0HwcXx8W
+1FNvHIHBpgB1ANbVjanQF1Pzakqgx1dJAq/rx9ws04zZ92TIDIkZHp8CAAABoKrv
+hB0AAAQDAEYwRAIgdjGs1xPRDiCJyltADQ+NUJ3Pgo/WOyALyubiGJrSEOACIFpp
+fNvTTr8si+wnXwsTa7eSzopMLrwVQyFVNzKtnGHnAH4AjspHC6zeavOiBrCkeoS3
+Rv4fxr+VPiXmm07kAkjzxugAAAGgqu+EbQAIAAAFAA5FpFMEAwBHMEUCIF6Jb8Rp
+25JJlwUlojtc0mxs00fZWWpoT/7jAgI3Pw2BAiEAoxN9rHx1WM4vydl2bzsmbd+i
+MSXFHSk7ar3t8qF0emQwDQYJKoZIhvcNAQELBQADggEBAII498eSJglTVQpDj+Qk
+fJIY+kvrctVIXJsz55HVTL7YVA+GIAGIMtsqxLurqyL05C8ELUF/Pp1MOlQInEk4
+EdP2/8Wf/1Dcbh0wCwbayBHJCuxyhSo2AYO2PeLNsiRp4jtuuE3trFzsnVJ9CkVI
+/mJJM5urX1hPp96idGQprT2VJMhfjJygkFlEuPyj0le5gGQ/jWkaIhOwYe5QHhA6
++gMPwjA2meTR+gDZmQvK9keDg43R6gkp2vVdYStiH2fjnDJgBVZFgqPKMT81TZg4
+t4zzfSso60RvdVgKAf6FLinFpCmqNVqIDzFx2bls4olVxcLrlP9wStRPJ0dW6CcQ
+mwk=
+-----END CERTIFICATE-----
+subject=C=US, ST=District of Columbia, L=Washington, O=U.S. Census Bureau, CN=www.census.gov
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pkcs1_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 3518 bytes and written 1625 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 5396FC39372B80ED5AFEF941BC124912CE4AD85D0524DCE84F10085ACFE2D964
+    Session-ID-ctx: 
+    Master-Key: 7E8FF8C58DF75537004EBC5ADDCD6B36B1DC45C103CBB2F4D979F8FE3B253F57EF0AEF3836ADC8917AAE9B2643D75916
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1792921619
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

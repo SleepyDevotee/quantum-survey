@@ -1,0 +1,88 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=District of Columbia, L=Washington, O=United States Department of Health and Human Services, CN=hhs.gov
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Dec  1 00:00:00 2025 GMT; NotAfter: Dec 21 23:59:59 2026 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIJWjCCCEKgAwIBAgIQCaDfZh5r1Pf59MM/9g1DdTANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjUx
+MjAxMDAwMDAwWhcNMjYxMjIxMjM1OTU5WjCBkzELMAkGA1UEBhMCVVMxHTAbBgNV
+BAgTFERpc3RyaWN0IG9mIENvbHVtYmlhMRMwEQYDVQQHEwpXYXNoaW5ndG9uMT4w
+PAYDVQQKEzVVbml0ZWQgU3RhdGVzIERlcGFydG1lbnQgb2YgSGVhbHRoIGFuZCBI
+dW1hbiBTZXJ2aWNlczEQMA4GA1UEAxMHaGhzLmdvdjCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBALpIkwIdVPBdSv9oD+3zl2UYjENQW00Wr0jueFm/b1yc
+QzESYKhtNUi7b7fGbJAOikY2wm21nnUr5zpNE9/nc4I5ngKZt66vnyUgs3qDgkpA
+/g8HWNlxYYUYPujQJuOrYo2fo5tl/QMs3aDO94bpEaxxUn623Ig/0RVNpvFAvMIq
+bYqq6vdY4f+aD5rPUT8RSs/cN6vQydSMo3b708k9gHDqrrs5l/kOsE/o4Y5SHnri
+poXXS37+DxycVi8b51w2o18iVhy1ixVoMr17u+8YAA0yFblwKQOmidFxFK14hh/B
+B6k6oC/080ER0qHCCiT2HSk4jJ+VMpvqGrFo0qkwyIcCAwEAAaOCBeEwggXdMB8G
+A1UdIwQYMBaAFHSFgMBmx9833s+9KTeqAx2+7c0XMB0GA1UdDgQWBBQdO/3nVr2h
+y1oUhxy4E8bSIfxgCDCCAm0GA1UdEQSCAmQwggJgggdoaHMuZ292gghkaGhzLmdv
+doIMd3d3LmRoaHMuZ292gg9wYW5kZW1pY2ZsdS5nb3aCEHN0b3BidWxseWluZy5n
+b3aCCWFnaW5nLmdvdoIOZm9vZHNhZmV0eS5nb3aCEWJldG9iYWNjb2ZyZWUuZ292
+gg90aGVyZWFsY29zdC5nb3aCC2ZpdG5lc3MuZ292gg93d3cuZml0bmVzcy5nb3aC
+EGdsb2JhbGhlYWx0aC5nb3aCEnN1cmdlb25nZW5lcmFsLmdvdoIWd3d3LnN1cmdl
+b25nZW5lcmFsLmdvdoIQdGhpc2ZyZWVsaWZlLmdvdoILdG9iYWNjby5nb3aCC29w
+aW9pZHMuZ292gg5vcmdhbmRvbm9yLmdvdoISZXZlcnl0cnljb3VudHMuZ292ghJs
+b3dlcmRydWdjb3N0cy5nb3aCFnd3dy5sb3dlcmRydWdjb3N0cy5nb3aCGmVzcGFu
+b2wubG93ZXJkcnVnY29zdHMuZ292gh53d3cuZXNwYW5vbC5sb3dlcmRydWdjb3N0
+cy5nb3aCGHd3dy52aXNmb3J2YWNjaW5hdGVkLmdvdoIUdmlzZm9ydmFjY2luYXRl
+ZC5nb3aCD2ZyZXNoZW1waXJlLmdvdoISYWFuaHBpaGVyaXRhZ2UuZ292ghZ3d3cu
+YWFuaHBpaGVyaXRhZ2UuZ292ghptZWRpY2FtZW50b3NiYWpvcHJlY2lvLmdvdoIe
+d3d3Lm1lZGljYW1lbnRvc2Jham9wcmVjaW8uZ292ggx2YWNjaW5lcy5nb3aCEHd3
+dy52YWNjaW5lcy5nb3YwPgYDVR0gBDcwNTAzBgZngQwBAgIwKTAnBggrBgEFBQcC
+ARYbaHR0cDovL3d3dy5kaWdpY2VydC5jb20vQ1BTMA4GA1UdDwEB/wQEAwIFoDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwgZ8GA1UdHwSBlzCBlDBIoEag
+RIZCaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzJUTFNS
+U0FTSEEyNTYyMDIwQ0ExLTEuY3JsMEigRqBEhkJodHRwOi8vY3JsNC5kaWdpY2Vy
+dC5jb20vRGlnaUNlcnRHbG9iYWxHMlRMU1JTQVNIQTI1NjIwMjBDQTEtMS5jcmww
+gYcGCCsGAQUFBwEBBHsweTAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNl
+cnQuY29tMFEGCCsGAQUFBzAChkVodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20v
+RGlnaUNlcnRHbG9iYWxHMlRMU1JTQVNIQTI1NjIwMjBDQTEtMS5jcnQwDAYDVR0T
+AQH/BAIwADCCAX8GCisGAQQB1nkCBAIEggFvBIIBawFpAHcA1219ENGn9XfCx+lf
+1wC/+YLJM1pl4dCzAXMXwMjFaXcAAAGa23BD+QAABAMASDBGAiEAxQyjayG2vV2N
+dXtb9kIapugN9IMGxOfXPPXg0t5eXAoCIQCSG0Yw9k3z2UuFDlZrKMiRnywIh8Ia
+UvawrRN5QNg5QAB2AMijxH/Hs625NWsBP2p6Em3jOk5DpcZG+ZetOXWZHc+aAAAB
+mttwRHMAAAQDAEcwRQIhAJdbqcN3XFzfOHipyF+UHwrQRLcU4k5fRPxQkEISAYjO
+AiAUcglojmhQGvsrABCt+/OCOnZvrhx0OejjedESet/2hQB2AMIxfldFGaNF7n84
+3rKQQevHwiFaIr9/1bWtdprZDlLNAAABmttwRBMAAAQDAEcwRQIhAPriA2ni2Lbo
+6BafjDvSsciunLMBfBtoN0MUDwuTZ740AiA9pQsD8y54O+GtOPIq7M69FQxRzF5x
+RSIFcTIFfkHbxDANBgkqhkiG9w0BAQsFAAOCAQEAINf+UGqmK4kWyD0WiPZiliPh
+sgYNVxAMZ63CxHlBxhzdzJEqLuq//5yGQLiuVQ8fGOAvAmv+sUTQOovQ7EqMYae+
+3okzwjn2IEjyG3dHfxA9MbBetA6ah0SpJfpLjwnkXOxQLUy9m1EkSeMATNAaQ0bC
+eAHkfi3KOuDGZMWG88Aw5sqfPrSkjCgBizdBFtnRDR9okzwpwpP5ZzxeWHt1ZftW
+uB6+N77m+wEbL2G3y+hfLv0ZlQ9nPeknzwNhfyxjshlqVD4RjOE1i+KURI+hPS8v
+ZMKxp9+6pAjk7qDGdcE17l/X6B0QrecuDQb24VZjCRGfWIXtNL3FxcHFuegGNA==
+-----END CERTIFICATE-----
+subject=C=US, ST=District of Columbia, L=Washington, O=United States Department of Health and Human Services, CN=hhs.gov
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4284 bytes and written 1888 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

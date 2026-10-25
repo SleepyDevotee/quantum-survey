@@ -1,0 +1,62 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=clevelandclinic.org
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct 13 20:41:21 2026 GMT; NotAfter: Jan 11 21:41:18 2027 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: EC, (secp384r1); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDnzCCA0WgAwIBAgIRALPxZXTb0YEQDm2BKOg3QU0wCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI2MTAxMzIwNDEyMVoXDTI3MDExMTIxNDExOFowHjEcMBoG
+A1UEAxMTY2xldmVsYW5kY2xpbmljLm9yZzBZMBMGByqGSM49AgEGCCqGSM49AwEH
+A0IABKi5bhRBlFJRoQlZX5lWRzYZmtsbR2VX2XrYoCmRk4sMgHV4fra5WIZCGMpQ
+x9dA5d2QL4D+7hm6h6d2JnkARU6jggJFMIICQTAOBgNVHQ8BAf8EBAMCB4AwEwYD
+VR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQULjbHvnC+
+NDWWMtbapSdCIoWIbwYwHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+Tgw
+NQYIKwYBBQUHAQEEKTAnMCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93
+ZTEuY3J0MDgGA1UdEQQxMC+CE2NsZXZlbGFuZGNsaW5pYy5vcmeCGGpvYnMuY2xl
+dmVsYW5kY2xpbmljLm9yZzATBgNVHSAEDDAKMAgGBmeBDAECATA2BgNVHR8ELzAt
+MCugKaAnhiVodHRwOi8vYy5wa2kuZ29vZy93ZTEvREJjSFEzRkdVMW8uY3JsMIIB
+DAYKKwYBBAHWeQIEAgSB/QSB+gD4AHYATGPcmOWcHauI9h6KPd6uj6tEozd7X5uU
+w/uhnPzBviYAAAGhNzaE8QAABAMARzBFAiEAy+/XZaF1iIFynlZK1bZ5p1P3j2hE
+IG/yc+PJJOBE1ZACIF+aTfSpgX1ssIurIfdiACgvA4eOz3WtP7bDsSzz7K5yAH4A
+ooEAGHNOF24dR+CVQPOBulRml81jqENQcW64CU7a8Q0AAAGhNzaGXgAIAAAFACMB
+8toEAwBHMEUCIQClg8Ohe/xsN2ivdcr/hoL7vlqy0Dsjpn50QRxXFUopAQIgRQ2p
+o9ah5Sz/vtuYip0OZzAErkxDdokUxp4cJ/aG9RQwCgYIKoZIzj0EAwIDSAAwRQIg
+QvhjYskdnA8rvOqGpOLHHQwZMFmUTVPjeykQRW3ZXjQCIQCbdD8+2qK4duRyDK9+
+zSAEj8eH2/6bS1QrIEdT1juNig==
+-----END CERTIFICATE-----
+subject=CN=clevelandclinic.org
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 3907 bytes and written 1588 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

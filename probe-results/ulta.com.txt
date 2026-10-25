@@ -1,0 +1,81 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=Illinois, L=Bolingbrook, O=Ulta Inc., CN=www.ulta.com
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug 21 00:00:00 2026 GMT; NotAfter: Mar  7 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Nov  2 12:23:37 2017 GMT; NotAfter: Nov  2 12:23:37 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHHzCCBgegAwIBAgIQCtlAE1acef51hcy510svFDANBgkqhkiG9w0BAQsFADBg
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR8wHQYDVQQDExZHZW9UcnVzdCBUTFMgUlNBIENBIEcx
+MB4XDTI2MDgyMTAwMDAwMFoXDTI3MDMwNzIzNTk1OVowYTELMAkGA1UEBhMCVVMx
+ETAPBgNVBAgTCElsbGlub2lzMRQwEgYDVQQHEwtCb2xpbmdicm9vazESMBAGA1UE
+ChMJVWx0YSBJbmMuMRUwEwYDVQQDEwx3d3cudWx0YS5jb20wggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQC076rrcNg9mVuvMWSjHNyfbhAhKrbdJoxL6P/l
+XKi3OabDNwEVl93joKdrO35J31BqtjsNvPTLFSRII9peWBnhYnM35H5MQgb2anAY
+KrbBxWGEMJBOIfiH3iGdMWXcd1opLdEQXkw/MNCEuasMN7EjgTSlFcUb2/f+3CSg
+ZlD2mNMaTu37rpkThzTAX9ffg+eSu19drk2t8yfMGIAe80rB7otydC5GnKLL+PMR
+t5bw69dUVfgktFqgK0HWjnhpydR8I44kqE0S5201qOnk6lrdAXzLAkUCXv5u0B+4
++05XCYq3Sv7PP8BygXQ8TcKvh1yh21i6iw4CmXOfh1skBCwpAgMBAAGjggPSMIID
+zjAfBgNVHSMEGDAWgBSUT9Rdi+Sk4qaA/v3Y+QDvo74CVzAdBgNVHQ4EFgQUkvQc
+mqNpbfEJneSZUDp5ll0X9D8wgdwGA1UdEQSB1DCB0YIMd3d3LnVsdGEuY29tggxh
+cGkudWx0YS5jb22CF2JlYXV0eXNlcnZpY2VzLnVsdGEuY29tghhjb252ZXJzYXRp
+b24udWx0YWluYy5jb22CD2ltYWdlcy51bHRhLmNvbYIObWVkaWEudWx0YS5jb22C
+EW1lZGlhLnVsdGFpbmMuY29tghJwb3AudWx0YWJlYXV0eS5jb22CEXNlcnZpY2Vz
+LnVsdGEuY29tghB1Ym1lZGlhLnVsdGEuY29tggh1bHRhLmNvbYIJdWx0YS5zaG9w
+MD4GA1UdIAQ3MDUwMwYGZ4EMAQICMCkwJwYIKwYBBQUHAgEWG2h0dHA6Ly93d3cu
+ZGlnaWNlcnQuY29tL0NQUzAOBgNVHQ8BAf8EBAMCBaAwEwYDVR0lBAwwCgYIKwYB
+BQUHAwEwPwYDVR0fBDgwNjA0oDKgMIYuaHR0cDovL2NkcC5nZW90cnVzdC5jb20v
+R2VvVHJ1c3RUTFNSU0FDQUcxLmNybDB2BggrBgEFBQcBAQRqMGgwJgYIKwYBBQUH
+MAGGGmh0dHA6Ly9zdGF0dXMuZ2VvdHJ1c3QuY29tMD4GCCsGAQUFBzAChjJodHRw
+Oi8vY2FjZXJ0cy5nZW90cnVzdC5jb20vR2VvVHJ1c3RUTFNSU0FDQUcxLmNydDAM
+BgNVHRMBAf8EAjAAMIIBfwYKKwYBBAHWeQIEAgSCAW8EggFrAWkAdwBMY9yY5Zwd
+q4j2Hoo93q6Pq0SjN3tfm5TD+6Gc/MG+JgAAAaAmTYP4AAAEAwBIMEYCIQCYhsYt
+ODPM/ElCAC54+xPD9j5uav1EyURk7pxaAMNdZAIhAK2pWduC14b9rit2feWTBDbY
++e53/U5MMpzxoSGWz4ZdAHYA1tWNqdAXU/NqSqDHV0kCr+vH3CzTjNn3ZMgMiRke
+nwIAAAGgJk2EBQAABAMARzBFAiBtzlaElGTToqC88gUzLZxxGUtpRwCKF9R1Hu03
+fHhBvwIhAOULdDwILItIs7hPhAfysF5CFF3twLVuHKmZgjP9ZnjlAHYARMK9DOkU
+DmSlyUoBkwpaobs1lw4A7hEWiWgqHETXtWYAAAGgJk2ERAAABAMARzBFAiAuWOYh
+KX1MBxyKWRNsAHQOmdHZ52Zle06cQgg+urhfMgIhAJb1EMW4hVLTw5oJtbMVpkmI
+ZgEUikntjuKAZehRRHpOMA0GCSqGSIb3DQEBCwUAA4IBAQCqW726UZHqPE1vzCOW
+TLi/zUbNNqBKZxR5IQOqOC1bHRtgGsc6rxI0ji6ljmwUgvhZGjxaubNPexKnGdnf
+O4LuhVfEvFSHDuGt4uNkiY0wQ3M6lzgkuOnPw7wQKkGKOti36rK58iIQEbrS/ux2
+9/NZY7X1hNm+jCQ1n27/ho+6tqNb1CTl3n51dTGSD3F0DwP3yqLQoWF+CPLGA3lx
+Tg+GTU6C6EHhDX5tCB6s0h7XhuOIs45pJYqvdNrXOzct4OrEgoOoqepOsgwZeqjY
+XRz7WhhUtIaLDSUxCEBZIw/jbE6wIOgrO0VDc3GCRMiJY/zwqdZCU/re1sd/4yOY
+LnY0
+-----END CERTIFICATE-----
+subject=C=US, ST=Illinois, L=Bolingbrook, O=Ulta Inc., CN=www.ulta.com
+issuer=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
+---
+Acceptable client certificate CA names
+O=OpenAI, CN=OpenAI-Root-CA
+O=OpenAI, CN=OpenAI-Connectors-mTLS-CA
+Requested Signature Algorithms: ecdsa_secp256r1_sha256:ecdsa_secp384r1_sha384:ecdsa_secp521r1_sha512:ed25519:ed448:rsa_pss_pss_sha256:rsa_pss_pss_sha384:rsa_pss_pss_sha512:rsa_pss_rsae_sha256:rsa_pss_rsae_sha384:rsa_pss_rsae_sha512:rsa_pkcs1_sha256:rsa_pkcs1_sha384:rsa_pkcs1_sha512:ecdsa_sha224:ecdsa_sha1:rsa_pkcs1_sha224:rsa_pkcs1_sha1
+Shared Requested Signature Algorithms: ecdsa_secp256r1_sha256:ecdsa_secp384r1_sha384:ecdsa_secp521r1_sha512:ed25519:ed448:rsa_pss_pss_sha256:rsa_pss_pss_sha384:rsa_pss_pss_sha512:rsa_pss_rsae_sha256:rsa_pss_rsae_sha384:rsa_pss_rsae_sha512:rsa_pkcs1_sha256:rsa_pkcs1_sha384:rsa_pkcs1_sha512
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 4829 bytes and written 1607 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

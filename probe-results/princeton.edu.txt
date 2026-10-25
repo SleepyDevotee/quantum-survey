@@ -1,0 +1,93 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=New Jersey, O=The Trustees of Princeton University, CN=princeton.edu
+   i:C=US, O=InCommon, LLC, CN=InCommon RSA OV SSL CA 3
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 28 00:00:00 2026 GMT; NotAfter: Dec 12 23:59:59 2026 GMT
+ 1 s:C=US, O=InCommon, LLC, CN=InCommon RSA OV SSL CA 3
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Nov  6 00:00:00 2025 GMT; NotAfter: Nov  5 23:59:59 2035 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+ 3 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Feb  1 00:00:00 2010 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGojCCBQqgAwIBAgIRAPL9yuKQdcQ7qXBE2SmJtxwwDQYJKoZIhvcNAQELBQAw
+SDELMAkGA1UEBhMCVVMxFjAUBgNVBAoTDUluQ29tbW9uLCBMTEMxITAfBgNVBAMT
+GEluQ29tbW9uIFJTQSBPViBTU0wgQ0EgMzAeFw0yNjA1MjgwMDAwMDBaFw0yNjEy
+MTIyMzU5NTlaMGkxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpOZXcgSmVyc2V5MS0w
+KwYDVQQKEyRUaGUgVHJ1c3RlZXMgb2YgUHJpbmNldG9uIFVuaXZlcnNpdHkxFjAU
+BgNVBAMTDXByaW5jZXRvbi5lZHUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQDpJD6C9lVuZlGkOud7AhtRn1l3/OHXhd0W1/y7eFRoEkB272+6EjpBoxjf
+W3Fcuz7hIm9WV/CRDmLwAHOcGf+S9pgCcOnj8soHQC+2rvPBzJTmmLy+OcCLZS2C
+klwMAHjWBbNTOIYxNRisU/fb503hnKMzTmux7m4y4UblCXnIFOV0LRDIZFMT6dsz
+c+Kek/GsIMwHltWlvm5ghMEyzQhJFVR1f2yLEPrslJ9DEPs2uS0/uOAT+lulv3eV
+ZqeQVbG5WOKzx/zGwQAiD+n/3gEfKN4f+v+qcYmHABlmulNusPTt5WxZsHe+yIzH
+SWlIm7OI+2FDyRiItwlcffvE1cyRAgMBAAGjggLkMIIC4DAfBgNVHSMEGDAWgBTa
+Ijc/5dN02tl5PtFybdWTSyA3rzAdBgNVHQ4EFgQUbagTE97IKsLR5G7rJ1PCmOOy
+efIwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwEwYDVR0lBAwwCgYIKwYB
+BQUHAwEwEwYDVR0gBAwwCjAIBgZngQwBAgIwPwYDVR0fBDgwNjA0oDKgMIYuaHR0
+cDovL2NybC5zZWN0aWdvLmNvbS9JbkNvbW1vblJTQU9WU1NMQ0EzLmNybDBvBggr
+BgEFBQcBAQRjMGEwOgYIKwYBBQUHMAKGLmh0dHA6Ly9jcnQuc2VjdGlnby5jb20v
+SW5Db21tb25SU0FPVlNTTENBMy5jcnQwIwYIKwYBBQUHMAGGF2h0dHA6Ly9vY3Nw
+LnNlY3RpZ28uY29tMBgGA1UdEQQRMA+CDXByaW5jZXRvbi5lZHUwggGIBgorBgEE
+AdZ5AgQCBIIBeASCAXQBcgB2ANdtfRDRp/V3wsfpX9cAv/mCyTNaZeHQswFzF8DI
+xWl3AAABnm7lka4AAAQDAEcwRQIhAN61dHfZWFVROHEpIEqgSqvzBP7F24tyhLuA
+mhqUYdXPAiBkSMHDlmicH1GDeGbCnkgr5zl4gUf0F4kwGKUqEs61nAB3AMijxH/H
+s625NWsBP2p6Em3jOk5DpcZG+ZetOXWZHc+aAAABnm7lkg0AAAQDAEgwRgIhAL2S
+am4dddm8HUjZssIcjy0mBJOr2PZKuLOXamgAPuoqAiEAxoTFna3MxnE/b9ruw4/n
+t2lGESpMjWReGRPo7brr2h4AfwBs/lAZQ6heqRa8UtEz5NzJHvFBHH0lhCDRc4Ce
+GBjrOgAAAZ5u5ZUJAAgAAAUADceOMwQDAEgwRgIhAN8j0vDpS5hk2M+AYVeWLAMH
+lQ0cAGKFBLdDCqn/ng7dAiEAqDdu88qrZKtE56EuoUBihXPC80zccSrP0Xim57fA
+FNQwDQYJKoZIhvcNAQELBQADggGBACDOrf6b0wzzF5gkIgzOPfEsuicZjjP3GvXW
+7u9qjAoCUfg90x7D21fPqT6QmTGzO7zXy9cQ4hh30drOyNfhMoYjxrhIGV4azfMR
+6/+npxy7AyBtRT3tA1P4qYTSlproMwvqe2strCChmbi4C7jzAUMj0ajq0pHkSCYb
+gv0uNny9NjTWgOy79r3fQ3CVf7UNlCdGJMcpypdkeC9GwEiMgNuPXRkMz54ma2jA
+2Qfnw+9ygd50mY5mUiHvigmvajmwKD5ZRQfv2GdzqS5itv8KmOkL0T4HBWZEGc+H
+bJmj8+nsYZ7bSUY8srfSsa9LqQbSn862EcX0E1x7A9sZPNDEZpG91kRqEeQdjv23
+yDibs/gqlUdBzrJCFo8I2buzESJprNSw2fVNMNLIo7H1fXYEn7tu0YG19jOD4Q3h
+6AdxXAtbptThhulybApci6Va/Gp+lCk3WpGHIDisV3+Can6rfvDwsG82PFVnnG/H
+xue1yKjiaHitwR8Lzs4sa6sG+NykKg==
+-----END CERTIFICATE-----
+subject=C=US, ST=New Jersey, O=The Trustees of Princeton University, CN=princeton.edu
+issuer=C=US, O=InCommon, LLC, CN=InCommon RSA OV SSL CA 3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pkcs1_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 6990 bytes and written 1628 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 94E3E60C09C67A91BDEB3050B34F62588A9231E3CE9F7B5F0225C38F005F32E9
+    Session-ID-ctx: 
+    Master-Key: 93E0CDED883BF62944B3150EDCC08A8978CE665F3982896D587B78832B0D8833188DBF7661312F25245BFE4D16B93C1B
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1792921598
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

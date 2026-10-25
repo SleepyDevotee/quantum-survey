@@ -1,0 +1,92 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=Ohio, O=The Kroger Co., CN=kroger.com
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jun 26 00:00:00 2026 GMT; NotAfter: Jan 10 23:59:59 2027 GMT
+ 1 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Mar 21 23:59:59 2036 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+ 3 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIIfjCCBuagAwIBAgIQU6WhtrEn9KgkwYM8UIZQ6DANBgkqhkiG9w0BAQsFADBg
+MQswCQYDVQQGEwJHQjEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFB1YmxpYyBTZXJ2ZXIgQXV0aGVudGljYXRpb24gQ0EgT1YgUjM2
+MB4XDTI2MDYyNjAwMDAwMFoXDTI3MDExMDIzNTk1OVowSjELMAkGA1UEBhMCVVMx
+DTALBgNVBAgTBE9oaW8xFzAVBgNVBAoTDlRoZSBLcm9nZXIgQ28uMRMwEQYDVQQD
+Ewprcm9nZXIuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoATK
+tLCO9OAIAn99kr9AcrpBA1Edz251qUWCcPb1CQB41mVDo1MUHkDMQMtvnrQNP2TH
+cn8CsCpH3p27SFKrQdVEBuOoMfp6zvBWgjX9Y8fOE28Ymj7YvhWD86OEMFl2E4QM
+e1Jf16J0aedlm4zcuzCLWM0Qp1TbWBoSpe15OlhsRtb1KixtqLpWMzX9e6a8GssU
+DOmmlcba1qb3iwW/MFmWDj8WTF4Nbccln1/Np8Y2gZgPZUWCuEQUbubQW4CiRAmq
+8O9I3NmCDpC2J+HOq852NNKeWfzqYWGJ6k7o6WTEW5umT8b3y+Vl9Uzka+4jHnor
+62pTg/ujijZS9Lp7xQIDAQABo4IEyDCCBMQwHwYDVR0jBBgwFoAU42Z0u3BojSxd
+Tg6mSo+bNyKcgpIwHQYDVR0OBBYEFKc7ncbb/NJSBtYahWHpZfrS9tlKMA4GA1Ud
+DwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjBKBgNVHSAEQzBBMDUGDCsGAQQBsjEBAgEDBDAlMCMGCCsGAQUFBwIB
+FhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwBAgIwVAYDVR0fBE0wSzBJ
+oEegRYZDaHR0cDovL2NybC5zZWN0aWdvLmNvbS9TZWN0aWdvUHVibGljU2VydmVy
+QXV0aGVudGljYXRpb25DQU9WUjM2LmNybDCBhAYIKwYBBQUHAQEEeDB2ME8GCCsG
+AQUFBzAChkNodHRwOi8vY3J0LnNlY3RpZ28uY29tL1NlY3RpZ29QdWJsaWNTZXJ2
+ZXJBdXRoZW50aWNhdGlvbkNBT1ZSMzYuY3J0MCMGCCsGAQUFBzABhhdodHRwOi8v
+b2NzcC5zZWN0aWdvLmNvbTCCAY4GCisGAQQB1nkCBAIEggF+BIIBegF4AHYAHJ9o
+LOn68EVpUPgbloqH3dsyENhM5siy44JSSsTPWZ8AAAGfBTcjSgAABAMARzBFAiEA
+u77AN1NA/l9KmgfjhlL7ofjhnBdDQQFWZzxBQo1q6UACICzKf93Zrb2eOUGC9jmx
+H35eQA/5+Ltf3lDVgwOnAgKMAH4AjspHC6zeavOiBrCkeoS3Rv4fxr+VPiXmm07k
+AkjzxugAAAGfBTcjzgAIAAAFAASZN7YEAwBHMEUCIDK8KTxgyBgGWDK0uuzSLkVl
+7RMInHd/2Kfpw2f3gbfcAiEAkELCRsFrnoMF2yA+wb0KTXhPA96kAXRqje6sIQXS
+amEAfgBZbmwzhpSyWXKiVsig6N2QSnboCD3ahzsBCDgoFDzuWQAAAZ8FNyQKAAgA
+AAUAAEBNrwQDAEcwRQIgKT2jvH5OxfLLikh0r1x9R3ZQbvJm54+xSz1mypS0YQMC
+IQCwjsiDyI5d9vyI06UNEpaZjt9yiLyQBHh8FWz7mvjVwjCCAYgGA1UdEQSCAX8w
+ggF7ggprcm9nZXIuY29tgg5iYWtlcnNwbHVzLmNvbYIOY2l0eW1hcmtldC5jb22C
+CWNvcHBzLmNvbYILZGlsbG9ucy5jb22CDWZvb2Q0bGVzcy5jb22CC2Zvb2RzY28u
+Y29tggtmb29kc2NvLm5ldIINZnJlZG1leWVyLmNvbYIMZnJ5c2Zvb2QuY29tggpn
+ZXJiZXMuY29tghBoYXJyaXN0ZWV0ZXIuY29tghhoYXJyaXN0ZWV0ZXJwaGFybWFj
+eS5jb22CDWpheWNmb29kcy5jb22CD2tpbmdzb29wZXJzLmNvbYIMbWFyaWFub3Mu
+Y29tgg9tZXRyb21hcmtldC5uZXSCD293ZW5zbWFya2V0LmNvbYIMcGF5LWxlc3Mu
+Y29tgg1waWNrbnNhdmUuY29tgglwcHNyeC5jb22CB3FmYy5jb22CCnJhbHBocy5j
+b22CFXNtaXRoc2Zvb2RhbmRkcnVnLmNvbYITdGhlbGl0dGxlY2xpbmljLmNvbTAN
+BgkqhkiG9w0BAQsFAAOCAYEAlsjCSAQgOasiLbeU9/5J7FUXW4OM+Vp58dE/DyZI
+p7SL0xS714FHHt2xscL5XfSGXIziEnNVOklxTYvXjs7N0X0W2tPiaMwyjxGipGvv
++ZRz+azxq4keJc7/aOMTOec6WzXTepJvvbbM6FstTXESqXaGrgy480XW5bv0BbE/
+FlotEdYELWv67hYbOrI7BjYJx6c9kqmaw5KG8R5dNzh7cbLWR5IWmi/qPEhctJlB
+NJGs5j4/w26geR8phYIWZxf1TZvKk7AKg5WURYKi6LynO//eut+JZEyrVDXFXSUe
+t9fuvbt61EDmwiAULq4coWmnCdcwAvVia1hsUF7vXwwIqhx7j+sSWHGko2gkppC6
+uwlAxTEISCZAdIvM6UClyP4iA3cIm59YKJO6yXn1RSZdVAiL3vebLdYzpYXvJTxb
+uadVbw4k9vUvtq9sQv40sJH4iMao4hu+BHtEP8B4r9jFRwhHxWXiWY7JwJyTx9lD
+OhvNdUwM1mw9GGlJQz4I5ikJ
+-----END CERTIFICATE-----
+subject=C=US, ST=Ohio, O=The Kroger Co., CN=kroger.com
+issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 7577 bytes and written 1911 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

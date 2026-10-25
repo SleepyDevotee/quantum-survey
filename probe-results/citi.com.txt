@@ -1,0 +1,133 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:jurisdictionC=US, jurisdictionST=Delaware, businessCategory=Private Organization, serialNumber=2154254, C=US, ST=New York, L=New York, O=Citigroup Inc., CN=www.citi.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep 24 00:00:00 2026 GMT; NotAfter: Apr 10 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jul  2 12:42:50 2020 GMT; NotAfter: Jul  2 12:42:50 2030 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIMjTCCC3WgAwIBAgIQBowkJ/tfeubnxcMStNnr6DANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMR4wHAYDVQQDExVE
+aWdpQ2VydCBFViBSU0EgQ0EgRzIwHhcNMjYwOTI0MDAwMDAwWhcNMjcwNDEwMjM1
+OTU5WjCBxDETMBEGCysGAQQBgjc8AgEDEwJVUzEZMBcGCysGAQQBgjc8AgECEwhE
+ZWxhd2FyZTEdMBsGA1UEDwwUUHJpdmF0ZSBPcmdhbml6YXRpb24xEDAOBgNVBAUT
+BzIxNTQyNTQxCzAJBgNVBAYTAlVTMREwDwYDVQQIEwhOZXcgWW9yazERMA8GA1UE
+BxMITmV3IFlvcmsxFzAVBgNVBAoTDkNpdGlncm91cCBJbmMuMRUwEwYDVQQDEwx3
+d3cuY2l0aS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC2UBJm
+n4M3ROFofGemo47maKEdv5zSD8z9cVop4cbPASCgmR/SdvCYVlAMG5+xOEyi+GZw
+YdWecivnSEckOMkRSeXLyQsefmejUqXx9oHumwyam+m2PQW14rgAf1oAmi0A/fOU
+jLX10ncY4z6j4pDP6uGGqBuwwpkBVq7CUrFPA87r6H89lnjsXO88vIsFJEAWrTnx
+qdZgPQbqVls1JTwt8kSH0KyZsUPHKHnbC48zw0w2pEhQwK+fZCSXM9gJA9JKd0Pw
+TgWL0mNgLM2gtRKu9XNLqwZk1PI2LiO21aQe1EbiJGCoM2hC7zeKBRvCjGR/Ff26
+ZVXb2z5TRIZWIBDtAgMBAAGjggj4MIII9DAfBgNVHSMEGDAWgBRqTlC/mGidW3sg
+ddRZAXlIZpIyBjAdBgNVHQ4EFgQUHFNkBV2ww2V5gQmAa/KsAmg4LgEwggXBBgNV
+HREEggW4MIIFtIIMd3d3LmNpdGkuY29tgg1hY2NpdHJhZGUuY29tghBhY2NpdHJh
+ZGUuY29tLm14ggtiYW5hbWV4LmNvbYISYmxvZy5jaXRpZ3JvdXAuY29tghVjYXJl
+ZXJzLmNpdGlncm91cC5jb22CCmNpdGkuY28uaWSCCGNpdGkuY29tggtjaXRpYmFu
+ay5hZYIOY2l0aWJhbmsuY28uaWSCDmNpdGliYW5rLmNvLmtygg5jaXRpYmFuay5j
+by50aIIOY2l0aWJhbmsuY28udWuCDGNpdGliYW5rLmNvbYIPY2l0aWJhbmsuY29t
+LmNugg9jaXRpYmFuay5jb20uaGuCD2NpdGliYW5rLmNvbS5zZ4IPY2l0aWJhbmsu
+Y29tLnZuggtjaXRpYmFuay5jeoILY2l0aWJhbmsuaHWCC2NpdGliYW5rLnBsggtj
+aXRpYmFuay5za4IRY2l0aWJhbmtvbmxpbmUucGyCDWNpdGljYXJkcy5jb22CDmNp
+dGlkaXJlY3QuY29tggpjaXRpZnguY29tgg9jaXRpZnhwdWxzZS5jb22CDmNpdGln
+b2xkLmNvLmtygg9jaXRpZ29sZC5jb20uaGuCD2NpdGlnb2xkLmNvbS5zZ4ILY2l0
+aWdvbGQucGyCDWNpdGlncm91cC5jb22CDGNpdGlncm91cC5qcIIPY2l0aW1hbmFn
+ZXIuY29tghBjaXRpcGF5LmNpdGkuY29tghRjaXRpdGhhbmt5b3VjYXJkLmNvbYIO
+Y2l0aXRyYXZlbC5jb22CEGNpdGl2ZWxvY2l0eS5jb22CHGV1cm9wZS5jaXRpZ29s
+ZC5jaXRpYmFuay5jb22CDmZpbmRteWNpdGkuY29tghRob21lb3duZXJzdXBwb3J0
+LmNvbYIUaW52ZXN0bWVudHMuY2l0aS5jb22CDGlwYi5jaXRpLmNvbYISaXBiLmNp
+dGliYW5rLmNvLnVrghBpcGIuY2l0aWJhbmsuY29tgg9pcGIuY2l0aWJhbmsuZXWC
+DmlwYnVzLmNpdGkuY29tgiBpcGJ1c2NsaWVudGFwcHJlY2lhdGlvbi5jaXRpLmNv
+bYIbcmVjb2duaXRpb25wcm9ncmFtLmNpdGkuY29tgg9zZWN1cmUuY2l0aS5jb22C
+EXVuaXZlcnNhbGNhcmQuY29tghB3b3JrZGF5LmNpdGkuY29tghZ3d3cuYmxvZy5j
+aXRpZ3JvdXAuY29tghl3d3cuY2FyZGJlbmVmaXRzLmNpdGkuY29tghl3d3cuY2Fy
+ZWVycy5jaXRpZ3JvdXAuY29tgg53d3cuY2l0aS5jby5pZIIPd3d3LmNpdGliYW5r
+LmFlghJ3d3cuY2l0aWJhbmsuY28uaWSCE3d3dy5jaXRpYmFuay5jb20udHeCD3d3
+dy5jaXRpYmFuay5jeoIPd3d3LmNpdGliYW5rLmh1gg93d3cuY2l0aWJhbmsuc2uC
+EHd3dy5jaXRpZ3JvdXAuanCCE3d3dy5jaXRpbWFuYWdlci5jb22CFHd3dy5jaXRp
+cGF5LmNpdGkuY29tghh3d3cuY2l0aXRoYW5reW91Y2FyZC5jb22CEnd3dy5jaXRp
+dHJhdmVsLmNvbYIgd3d3LmV1cm9wZS5jaXRpZ29sZC5jaXRpYmFuay5jb22CGHd3
+dy5pbnZlc3RtZW50cy5jaXRpLmNvbYIQd3d3LmlwYi5jaXRpLmNvbYIWd3d3Lmlw
+Yi5jaXRpYmFuay5jby51a4IUd3d3LmlwYi5jaXRpYmFuay5jb22CE3d3dy5pcGIu
+Y2l0aWJhbmsuZXWCEnd3dy5pcGJ1cy5jaXRpLmNvbYIkd3d3LmlwYnVzY2xpZW50
+YXBwcmVjaWF0aW9uLmNpdGkuY29tghF3d3cuc2VhcnNjYXJkLmNvbYIVd3d3LnVu
+aXZlcnNhbGNhcmQuY29tgg13d3c0LmNpdGkuY29tMEoGA1UdIARDMEEwCwYJYIZI
+AYb9bAIBMDIGBWeBDAEBMCkwJwYIKwYBBQUHAgEWG2h0dHA6Ly93d3cuZGlnaWNl
+cnQuY29tL0NQUzAOBgNVHQ8BAf8EBAMCBaAwEwYDVR0lBAwwCgYIKwYBBQUHAwEw
+dQYDVR0fBG4wbDA0oDKgMIYuaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL0RpZ2lD
+ZXJ0RVZSU0FDQUcyLmNybDA0oDKgMIYuaHR0cDovL2NybDQuZGlnaWNlcnQuY29t
+L0RpZ2lDZXJ0RVZSU0FDQUcyLmNybDBzBggrBgEFBQcBAQRnMGUwJAYIKwYBBQUH
+MAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTA9BggrBgEFBQcwAoYxaHR0cDov
+L2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0RVZSU0FDQUcyLmNydDAMBgNV
+HRMBAf8EAjAAMIIBgAYKKwYBBAHWeQIEAgSCAXAEggFsAWoAdwBMY9yY5Zwdq4j2
+Hoo93q6Pq0SjN3tfm5TD+6Gc/MG+JgAAAaDRAkxTAAAEAwBIMEYCIQD76PG3LuK2
+WzVLeNx4OAa1NiP0E1+UCiYpITbBwwZ/PAIhAPDa3K0aftf85sZ6/nmuGOX3vvLz
+KtjQqRo55vM+hzW9AHYA1tWNqdAXU/NqSqDHV0kCr+vH3CzTjNn3ZMgMiRkenwIA
+AAGg0QJMWwAABAMARzBFAiAOcndeywgPFNIxc50Lu6HLurnPVqtL5SzfB9wpSKo5
+VgIhAIWzGTHd8Z2qkzI0LNMOyEKmAGYn4RtwMXDTui63Lp7GAHcARMK9DOkUDmSl
+yUoBkwpaobs1lw4A7hEWiWgqHETXtWYAAAGg0QJMkgAABAMASDBGAiEAh6MeLDSa
+/kWLWNZMtf51KpalZgj9cgpmtLxWqGtDKK8CIQDHRmbzw7ZLwLKWHqaAS3tKoN9Y
+sMJ5yuWCjQYv7HFoezANBgkqhkiG9w0BAQsFAAOCAQEASC/yMTx+XWLN4myUQqvc
+xj+9qxFXFjot0sOcvTsjydx8vhKNHKRtlgpKpXIrLq8KOrL8Gs5aysuNBwTYWls+
+Yj3lq5IwCvSJawq1iDNzJFg0/bJF+D+r051Pjdk6MrhIJrh/9v9pPvequd7Txvpl
+wZZLGbseQC5YLATtmbo6CfQajZR3tghi9YIUY7Teo/cQn6H/dhtG3nmrm0Q/kznX
+u5dBvktFhBbkllVCD8WKdc/5sex80XdbmS4+U9AgNTKCfL43L5Cmka3vg5jtE+UY
+9Ghj+5ifni8anOd1KJAV8aqf53ruYgxncfp6RFO8QbkJq7KP+32PeumHRUJ37f/J
+gw==
+-----END CERTIFICATE-----
+subject=jurisdictionC=US, jurisdictionST=Delaware, businessCategory=Private Organization, serialNumber=2154254, C=US, ST=New York, L=New York, O=Citigroup Inc., CN=www.citi.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5241 bytes and written 1590 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 80CABF49A4704E8ABF0FACBAE90DE927453B50D10B43D174D4723B2DCF77A0F6
+    Session-ID-ctx: 
+    Master-Key: BB91A0182CCB15E37EFA957DF6FEB791D0CF3EB9E70145CBADBDE629EDDDF2497059B78A1230AF4EA9FB6DBCDFCD9A3C
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 83100 (seconds)
+    TLS session ticket:
+    0000 - 00 00 3c fa fc 28 81 02-f5 2d 91 03 f8 61 12 57   ..<..(...-...a.W
+    0010 - bc a9 f5 e3 a3 91 56 52-ae f1 b5 9f 69 dd ed 68   ......VR....i..h
+    0020 - 82 c5 22 4b 38 78 e9 72-8f ff 69 41 bd 82 27 f4   .."K8x.r..iA..'.
+    0030 - dc f7 27 51 ba d0 e5 f2-0f 59 56 7b 39 4c 92 5c   ..'Q.....YV{9L.\
+    0040 - e0 47 e7 80 15 fe 90 a5-31 83 91 1b 62 41 2a 69   .G......1...bA*i
+    0050 - 7d 24 63 c3 22 b1 3d 8c-31 e3 54 9b f7 87 09 4e   }$c.".=.1.T....N
+    0060 - df 2c 6b c1 2a cb cf f3-92 d0 52 57 51 dd 06 e7   .,k.*.....RWQ...
+    0070 - a3 87 d5 6d fe 24 38 f6-62 aa e3 56 fa b6 15 2a   ...m.$8.b..V...*
+    0080 - 1f 28 1f 98 54 0f c0 19-21 99 f6 5e 36 45 8a 74   .(..T...!..^6E.t
+    0090 - 6a 91 7f 8c d5 0b 3c 7d-20 f3 07 09 81 4e ec d8   j.....<} ....N..
+    00a0 - 91 02 24 8a fa 74 74 1b-bc d9 bc 4f 05 52 12 4a   ..$..tt....O.R.J
+    00b0 - 6c cc 4a 43 2d 2a 45 ac-23 f5 22 13 ff d6 91 c8   l.JC-*E.#.".....
+    00c0 - 8f ca 03 9a d3 02 18 bd-4c da 46 dd 69 5b 22 12   ........L.F.i[".
+
+    Start Time: 1792921640
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

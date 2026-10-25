@@ -1,0 +1,82 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=North Carolina, L=Charlotte, O=Truist Bank, CN=w3.truist.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: EC, (prime256v1); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jul 17 00:00:00 2026 GMT; NotAfter: Jan 31 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHbjCCBlagAwIBAgIQCUuwDZbTp6uh9wJLseQc3zANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjYw
+NzE3MDAwMDAwWhcNMjcwMTMxMjM1OTU5WjBoMQswCQYDVQQGEwJVUzEXMBUGA1UE
+CBMOTm9ydGggQ2Fyb2xpbmExEjAQBgNVBAcTCUNoYXJsb3R0ZTEUMBIGA1UEChML
+VHJ1aXN0IEJhbmsxFjAUBgNVBAMTDXczLnRydWlzdC5jb20wWTATBgcqhkjOPQIB
+BggqhkjOPQMBBwNCAAR+6q4CQpwSxvdPnozOCJlHB2AhUg++5LqThol2foH3aYf/
+04eKYhwI/wx0W7RPN2vKHKDN86LDDGUaXHansMpOo4IE7DCCBOgwHwYDVR0jBBgw
+FoAUdIWAwGbH3zfez70pN6oDHb7tzRcwHQYDVR0OBBYEFJC4h3dhQ6jUTTdYuLzm
+OB7M5XadMIIBeQYDVR0RBIIBcDCCAWyCDXczLnRydWlzdC5jb22CGHd3dy5kaWFz
+LmJhbmsudHJ1aXN0LmNvbYIPYXV0aC50cnVpc3QuY29tghxkZXJpdmF0aXZlc3Bv
+cnRhbC50cnVpc3QuY29tgh9yZW1vdGVkZXBvc2l0Y2FwdHVyZS50cnVpc3QuY29t
+ghRkaWFzLmJhbmsudHJ1aXN0LmNvbYIfZGlhcy5kaWdpdGFsY29tbWVyY2UudHJ1
+aXN0LmNvbYIgdHJlYXN1cnltYW5hZ2VyLWxvZ2luLnRydWlzdC5jb22CF2RpYXMu
+c2ZnLXdlYi50cnVpc3QuY29tghdkaWFzLm9uZXZpZXcudHJ1aXN0LmNvbYIQYXV0
+aGMudHJ1aXN0LmNvbYIad3d3LndlYnZhdWx0d2ViLnRydWlzdC5jb22CFHRtcHdy
+ZXNldC50cnVpc3QuY29tggpUcnVpc3QuY29tghZ3ZWJ2YXVsdHdlYi50cnVpc3Qu
+Y29tMD4GA1UdIAQ3MDUwMwYGZ4EMAQICMCkwJwYIKwYBBQUHAgEWG2h0dHA6Ly93
+d3cuZGlnaWNlcnQuY29tL0NQUzAOBgNVHQ8BAf8EBAMCA4gwHQYDVR0lBBYwFAYI
+KwYBBQUHAwEGCCsGAQUFBwMCMIGfBgNVHR8EgZcwgZQwSKBGoESGQmh0dHA6Ly9j
+cmwzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2JhbEcyVExTUlNBU0hBMjU2MjAy
+MENBMS0xLmNybDBIoEagRIZCaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL0RpZ2lD
+ZXJ0R2xvYmFsRzJUTFNSU0FTSEEyNTYyMDIwQ0ExLTEuY3JsMIGHBggrBgEFBQcB
+AQR7MHkwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBRBggr
+BgEFBQcwAoZFaHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xv
+YmFsRzJUTFNSU0FTSEEyNTYyMDIwQ0ExLTEuY3J0MAwGA1UdEwEB/wQCMAAwggF+
+BgorBgEEAdZ5AgQCBIIBbgSCAWoBaAB2AExj3JjlnB2riPYeij3ero+rRKM3e1+b
+lMP7oZz8wb4mAAABn3Hu/KEAAAQDAEcwRQIhAKTgjQWvDO2dkej0C87YhQJiBsQF
+7Y0VnPeCCjd0Ufl6AiBpx1qFGSOUlO7A6vUvw5w8PsyKzHyqD5wu0j9vEz3hbwB2
+AETCvQzpFA5kpclKAZMKWqG7NZcOAO4RFoloKhxE17VmAAABn3Hu/N0AAAQDAEcw
+RQIgTbb7uuJMT3aWQK8uBLmKXGZwUBslfykd6RkxkejHilcCIQD3fuYu4csW8uKs
+WkW1G/LojZcDVJJEssZKumqWVc22uwB2AByfaCzp+vBFaVD4G5aKh93bMhDYTObI
+suOCUkrEz1mfAAABn3Hu/P8AAAQDAEcwRQIgOA1bX8mFwyPmjaqlZrxXSldEyUff
+NwGQ49ZCmPdjsm8CIQCJZb13fXM07HBjfxUCeH5OuaWily/AtfMPdwzM5/UkSjAN
+BgkqhkiG9w0BAQsFAAOCAQEAnlYVIJrH8LUYzW0Y3jHibcKAgynyLLNiHqBXqksy
+tiWaxRXwr5i9m2qfBLgNRcfUt/dHQzmeHKZtaj15OISkzTHFbnkiwK09byOCn4em
+Z1DtV0SDgl8BEiYwMegeMV0cVFB7fAwXTrCnSJ28HvfsPe7xEpBkBpvJKhYMbYi6
+Kvrb/q7V+DQnuL9M8W+zKoaHczyK3BLdoccM6f7O/BLGqFw3TWwPndYC5aF6yitM
+Rb0szrh+DN6zJBD7PWsLEVJ6B4UcwbSSIeJ7JMTjTzEthedUghqNh/kti116MadE
+9yVW/w/DAr4g6c/vRtdiTzipJk7R3tAZmuBF+tS9BpB/DA==
+-----END CERTIFICATE-----
+subject=C=US, ST=North Carolina, L=Charlotte, O=Truist Bank, CN=w3.truist.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 5521 bytes and written 1579 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

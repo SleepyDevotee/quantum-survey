@@ -1,0 +1,121 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=le.prod.webmd.com
+   i:C=US, O=Let's Encrypt, CN=YR2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct  2 00:08:16 2026 GMT; NotAfter: Dec 31 00:08:15 2026 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=YR2
+   i:C=US, O=ISRG, CN=Root YR
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
+ 2 s:C=US, O=ISRG, CN=Root YR
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: RSA, 4096 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIMuTCCC6GgAwIBAgISBTlBha3JmIypGAqSq9zpYxtSMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNZUjIwHhcNMjYxMDAyMDAwODE2WhcNMjYxMjMxMDAwODE1WjAcMRowGAYDVQQD
+ExFsZS5wcm9kLndlYm1kLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAN7Xst6gXDYhoTlxpTNaHTiD8rEmKki5JWtb5CNYo0DXqxQOSLxEAmrJIV4p
+qljIw5JfMjbeEDPGlBfrt/S0JhCr6j5N8jQ/pOutkJ9PIwTh6f2hh5DDTxkHuS4K
+pGTySvHxGwfPnBpUtZUe57xY5jNQ/ToaEATSALzVw85w2rnDb0rIOK1DnnZUA3gx
+ZS2gnxNzPMyJZyr1eljMAnViQKZ50Zc4wszCU0+rvohm5NB0qk3j/uU9oZtK1qbA
+JBmpKfTkSptlMmJulUn3lMwyisT9oIMLy6JZITX48cWp/cM3nG/BlxNQjN+EzqgJ
+wnIpF+NIAcsMWNNuJJXBkI6sRM0CAwEAAaOCCdwwggnYMA4GA1UdDwEB/wQEAwIF
+oDATBgNVHSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTb
+9CAkeYeUb0X8keH90lieoqynAzAfBgNVHSMEGDAWgBRAFS0mee0yIJ7fmnId1jIf
+gQyBDDAzBggrBgEFBQcBAQQnMCUwIwYIKwYBBQUHMAKGF2h0dHA6Ly95cjIuaS5s
+ZW5jci5vcmcvMIIH1wYDVR0RBIIHzjCCB8qCCyouZGVyaWdvLnVzghAqLmZyYW1l
+c2RhdGEuY29tggwqLmtyYW1lcy5jb22CFCoua3JhbWVzb25kZW1hbmQuY29tghIq
+LmtyYW1lc29ubGluZS5jb22CFCoua3JhbWVzc3RheXdlbGwuY29tghEqLmtyYW1l
+c3ZpZGVvLmNvbYIPKi5sYTEud2VibWQuY29tgg0qLm0ud2VibWQuY29tghAqLm1h
+MS5rcmFtZXMuY29tghgqLm1hMS5rcmFtZXNvbmRlbWFuZC5jb22CFioubWExLmty
+YW1lc29ubGluZS5jb22CGCoubWExLmtyYW1lc3N0YXl3ZWxsLmNvbYIVKi5tYTEu
+a3JhbWVzdmlkZW8uY29tghUqLm1hMS5tZWRpY2luZW5ldC5jb22CHyoubWExLnN0
+YXl3ZWxsaGVhbHRobGlicmFyeS5jb22CHyoubWExLnN0YXl3ZWxsa25vd2xlZGdl
+YmFzZS5jb22CISoubWExLnN0YXl3ZWxsc29sdXRpb25zb25saW5lLmNvbYIPKi5t
+YTEud2VibWQuY29tghEqLm1lZGljaW5lbmV0LmNvbYIRKi5tZWRpcXVhbGl0eS5u
+ZXSCDioubWVkc2NhcGUuY29tgg4qLm1lZHNjYXBlLm9yZ4IUKi5tZWRzY2FwZXN0
+YXRpYy5jb22CCSoubW5naC5jb4IUKi5teWZyYW1lZ2FsbGVyeS5jb22CFSoucHJl
+dmlldy5tLndlYm1kLmNvbYITKi5wcmV2aWV3LndlYm1kLmNvbYIWKi5wcm9kZGV2
+Lm1lZHNjYXBlLmNvbYIWKi5wcm9kZGV2Lm1lZHNjYXBlLm9yZ4IcKi5wcm9kZGV2
+Lm1lZHNjYXBlc3RhdGljLmNvbYIUKi5zdGFnaW5nLmtyYW1lcy5jb22CHCouc3Rh
+Z2luZy5rcmFtZXNvbmRlbWFuZC5jb22CGiouc3RhZ2luZy5rcmFtZXNvbmxpbmUu
+Y29tghwqLnN0YWdpbmcua3JhbWVzc3RheXdlbGwuY29tghkqLnN0YWdpbmcua3Jh
+bWVzdmlkZW8uY29tghUqLnN0YWdpbmcubS53ZWJtZC5jb22CFiouc3RhZ2luZy5t
+ZWRzY2FwZS5jb22CFiouc3RhZ2luZy5tZWRzY2FwZS5vcmeCHCouc3RhZ2luZy5t
+ZWRzY2FwZXN0YXRpYy5jb22CIyouc3RhZ2luZy5zdGF5d2VsbGhlYWx0aGxpYnJh
+cnkuY29tgiMqLnN0YWdpbmcuc3RheXdlbGxrbm93bGVkZ2ViYXNlLmNvbYIlKi5z
+dGFnaW5nLnN0YXl3ZWxsc29sdXRpb25zb25saW5lLmNvbYITKi5zdGFnaW5nLndl
+Ym1kLmNvbYIbKi5zdGF5d2VsbGhlYWx0aGxpYnJhcnkuY29tghsqLnN0YXl3ZWxs
+a25vd2xlZGdlYmFzZS5jb22CHSouc3RheXdlbGxzb2x1dGlvbnNvbmxpbmUuY29t
+ghwqLnN0Zy1tYTEua3JhbWVzb25kZW1hbmQuY29tghoqLnN0Zy1tYTEua3JhbWVz
+b25saW5lLmNvbYIcKi5zdGctbWExLmtyYW1lc3N0YXl3ZWxsLmNvbYIZKi5zdGct
+bWExLmtyYW1lc3ZpZGVvLmNvbYIjKi5zdGctbWExLnN0YXl3ZWxsaGVhbHRobGli
+cmFyeS5jb22CIyouc3RnLW1hMS5zdGF5d2VsbGtub3dsZWRnZWJhc2UuY29tgiUq
+LnN0Zy1tYTEuc3RheXdlbGxzb2x1dGlvbnNvbmxpbmUuY29tghIqLnN0cHJvZC53
+ZWJtZC5jb22CCyoud2VibWQuY29tgglkZXJpZ28udXOCDmZkYi5yeGxpc3QuY29t
+gg5mcmFtZXNkYXRhLmNvbYIaaW1hZ2VzLmVtZWRpY2luZWhlYWx0aC5jb22CE2lt
+YWdlcy5vbmhlYWx0aC5jb22CEWltYWdlcy5yeGxpc3QuY29tgg9pbWcubWVkc2Nh
+cGUuZnKCFmltZy5tZWRzY2FwZW1lZGl6aW4uZGWCEmtyYW1lc29uZGVtYW5kLmNv
+bYIQa3JhbWVzb25saW5lLmNvbYIPa3JhbWVzdmlkZW8uY29tghFsZS5wcm9kLndl
+Ym1kLmNvbYIPbWVkaWNpbmVuZXQuY29tggxtZWRzY2FwZS5jb22CDG1lZHNjYXBl
+Lm9yZ4IHbW5naC5jb4IbbW9iaWxlYmV0YS53ZWJtZHBhcnRuZXIubmV0ghBzZjJh
+aW0ud2VibWQubmV0giNzdGFnaW5nLm1vYmlsZWNvbm5lY3Rpb25zLndlYm1kLmNv
+bYIhc3RhZ2luZy5wYXRpZW50am91cm5leXMud2VibWQuY29tghlzdGF5d2VsbGtu
+b3dsZWRnZWJhc2UuY29tghtzdGF5d2VsbHNvbHV0aW9uc29ubGluZS5jb22CCXdl
+Ym1kLmNvbYIUd3d3LmRvY3Rvci53ZWJtZC5jb22CF3d3dy5lbWVkaWNpbmVoZWFs
+dGguY29tghB3d3cub25oZWFsdGguY29tgg53d3cucnhsaXN0LmNvbYIcd3d3LnNw
+b25zb3Jjb250ZW50LndlYm1kLmNvbYIcd3d3LnN5bXB0b21jaGVja2VyLndlYm1k
+LmNvbTATBgNVHSAEDDAKMAgGBmeBDAECATAuBgNVHR8EJzAlMCOgIaAfhh1odHRw
+Oi8veXIyLmMubGVuY3Iub3JnLzgzLmNybDCCAQwGCisGAQQB1nkCBAIEgf0EgfoA
++AB2AMijxH/Hs625NWsBP2p6Em3jOk5DpcZG+ZetOXWZHc+aAAABoPomQcgAAAQD
+AEcwRQIhAP7AuvH/u5ZOYh82Xho68+TNaTX3hcOS/v9oln5JT31WAiAXIdxvaJCp
+YT7bfXvRKIf/m8EHaOcBl8dPLhJRTrlRlAB+ABqLnWsP/r+BtHk5xtIxCobW0QLU
+8EbiGCyd419eJiXvAAABoPomQqwACAAABQBHXKN8BAMARzBFAiEAzCAoBtqdKaLv
+zoGF7zeplstZ/Pff2t7Pstx52OIj+FYCIDx2BZ9NGSkRRB+SuMmta/TwYX87z0KU
+UdZF9DYDJH4wMA0GCSqGSIb3DQEBCwUAA4IBAQC/7hHUZqLtFLyeY61vnZSQGHRN
+e5GzyGxPUDhhRjpN9jx3KxH/pSVgCPDTb8L+cAEtLaY3jBEyPRlfXTW1t7h4Y1tl
+uDZCwam5jvXOT4mq9DT2YwJbria5vwrWxckDnpbTG/AdDPUB0BENbc1TnATP7jcH
+cq8+6h/t2auhuvzr/sJVLaCjOV8XPlzAFbMDjpkvbSuzfLUiw9QWt287V9JukV/M
+vDq32nVT2VcL/sniHZ0movXUx9r27Mqajlw1svWLxtfrXEqOW9uqXjzc5w2xERiB
+igaumg4Xn+yvGTHcaopMRRKgfGAW5pquMqPkRCIAoenDPJXJWHYFrrNiHbFe
+-----END CERTIFICATE-----
+subject=CN=le.prod.webmd.com
+issuer=C=US, O=Let's Encrypt, CN=YR2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pkcs1_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 6518 bytes and written 1624 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 
+    Session-ID-ctx: 
+    Master-Key: 9E4B5DB58FD73562951EDFE983337DEB421EE978E7A5CFE38C4AA8CED56774204A66A8A81FDB069E2F723780E559013B
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1792921655
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

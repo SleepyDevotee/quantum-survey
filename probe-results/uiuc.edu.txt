@@ -1,0 +1,84 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=Illinois, O=University of Illinois, CN=illinois.edu
+   i:C=US, O=Internet2, CN=InCommon RSA Server CA 2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Nov  6 00:00:00 2025 GMT; NotAfter: Dec  7 23:59:59 2026 GMT
+ 1 s:C=US, O=Internet2, CN=InCommon RSA Server CA 2
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Nov 16 00:00:00 2022 GMT; NotAfter: Nov 15 23:59:59 2032 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 3 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: RSA, 2048 (bit); sigalg: sha1WithRSAEncryption
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHAzCCBWugAwIBAgIRAKmRXFtnZG97j0QYkMJIFPQwDQYJKoZIhvcNAQELBQAw
+RDELMAkGA1UEBhMCVVMxEjAQBgNVBAoTCUludGVybmV0MjEhMB8GA1UEAxMYSW5D
+b21tb24gUlNBIFNlcnZlciBDQSAyMB4XDTI1MTEwNjAwMDAwMFoXDTI2MTIwNzIz
+NTk1OVowWDELMAkGA1UEBhMCVVMxETAPBgNVBAgTCElsbGlub2lzMR8wHQYDVQQK
+ExZVbml2ZXJzaXR5IG9mIElsbGlub2lzMRUwEwYDVQQDEwxpbGxpbm9pcy5lZHUw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDwp4uYfNpmKKnennmhJJga
+tYF6z447JmbqnNazMXYDgES3rwUkxbOuS4QRIZisYg1bMEA6acQYGqgNyx+HNW+x
+lwsHhQFeuSp1tBckKCkUW7ceOmlqC/ItWV9aSF/oxCGmpGxDbIOKsanlgo2DfE7/
+pjT8juu4dO+CncspbAQJ+XGIB0xVYIE6XG4QG+s3fJFqJ3xX7F2FSMOK7UrfmGBU
+gIhThvDPyWYRPjsOTe/4FvyO7cA8vjOZ+QCxbFH4hjKyTBUNhi5upBWJcKDVJgqT
+g5dG8+Ls4tUfXGf0aKGQ3ZKvQddlZnpnSDia2qZCkd9YKDJw2lkyAY6flu4sVALT
+AgMBAAGjggNaMIIDVjAfBgNVHSMEGDAWgBTvTACSpvt2Ll6V4slfhxsZ1U3i2TAd
+BgNVHQ4EFgQUg+3HyXn+B5Bhyqo4J+NydLLr4+wwDgYDVR0PAQH/BAQDAgWgMAwG
+A1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1Ud
+IARCMEAwNAYLKwYBBAGyMQECAmcwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0
+aWdvLmNvbS9DUFMwCAYGZ4EMAQICMEAGA1UdHwQ5MDcwNaAzoDGGL2h0dHA6Ly9j
+cmwuc2VjdGlnby5jb20vSW5Db21tb25SU0FTZXJ2ZXJDQTIuY3JsMHAGCCsGAQUF
+BwEBBGQwYjA7BggrBgEFBQcwAoYvaHR0cDovL2NydC5zZWN0aWdvLmNvbS9JbkNv
+bW1vblJTQVNlcnZlckNBMi5jcnQwIwYIKwYBBQUHMAGGF2h0dHA6Ly9vY3NwLnNl
+Y3RpZ28uY29tMIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgAdQDYCVU7lE96/8gW
+GW+UT4WrsPj8XodVJg8V0S5yu0VLFAAAAZpbPXBAAAAEAwBGMEQCIHs/+7hdCWq6
+jqFP2b5ceSRNz1EbIBwzOmokKjC07CrsAiB5T4ULYeJOCIpSCK7mm8Ct/pauzdL1
+536/5lDNy/QTNQB2AK9niDtXsE7dj6bZfvYuqOuBCsdxYPAkXlXWDC/nhYc6AAAB
+mls9cJsAAAQDAEcwRQIhAL7SVGECmTRET8Z+Cq6LP6GzrzUJtfV9JDC4UaY60mEJ
+AiBjfRNcY6+vGACIvAfIvOYtcI6ExyArSzR8d074sf/NngB3AKyrMHBs6+yEMfQT
+0vSRXxEeQiRDsfKmjE88KzunHgLDAAABmls9b9UAAAQDAEgwRgIhAP6Iar/iJ3jd
+SqrjUNtZUYmon6R89pjQexPjS9aLGYwXAiEA1ptGcGJF1U606xx0EIOiVrg1pHih
+RaD6eKfTJZTzDGMwVgYDVR0RBE8wTYIMaWxsaW5vaXMuZWR1ghNhc3NldHMuaWxs
+aW5vaXMuZWR1ggh1aXVjLmVkdYIQd3d3LmlsbGlub2lzLmVkdYIMd3d3LnVpdWMu
+ZWR1MA0GCSqGSIb3DQEBCwUAA4IBgQB1lgqQrGMjQp0nNqLTdXqswx4YBq88KZ3M
+6rzwtK+4QCTJntaGyuwlSyAK+2iayznSEzktkWGObdPcFqzyKGBGhHAwaWUnWofC
+9NuvE+fpPGaJoJ6zj9Cw9BRjePlF7vjIlpq+hZAppfQXFFUJNljmYWkma/un5BVw
+OOhH2dqW0NZ+s893kyvzm5XEoOdcW0tm+lQb/efuuRuQt9ofAj4I8CDbDT/WClSY
+EyJaBLg98CSeLUw05SttghntE0+TlM23uyaKbPtD6nlRhB4y+/XKPV3IFePM7vht
+kWtBzRL42ACY1yvUXI/+5JsIeNVeelX4YBA30YlQ6GmhdtAjXKHKgZwRnXhqrvOp
+5Ft4SJU/CLl1/AhNMzRZkReoHSpuc726YPa0IzRJU3F6O6gdjbZdqddGJuRtJf8y
+oCcmSl04kDXM3VAVoGueCBfznuHs9XiSgo51j4XYR0uxWkV6SUwBz0G1i40Uf34Z
+KG53N+/sB4CcnEa/LpmTNqjDBGWLMYc=
+-----END CERTIFICATE-----
+subject=C=US, ST=Illinois, O=University of Illinois, CN=illinois.edu
+issuer=C=US, O=Internet2, CN=InCommon RSA Server CA 2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 6572 bytes and written 1890 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

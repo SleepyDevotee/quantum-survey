@@ -1,0 +1,79 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=Texas, L=Westlake, O=Charles Schwab & Co., Inc., CN=www.schwab.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug  4 00:00:00 2026 GMT; NotAfter: Feb 18 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG6jCCBdKgAwIBAgIQB68ci7fyrgOuiAVbBIfTJDANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjYw
+ODA0MDAwMDAwWhcNMjcwMjE4MjM1OTU5WjBuMQswCQYDVQQGEwJVUzEOMAwGA1UE
+CBMFVGV4YXMxETAPBgNVBAcTCFdlc3RsYWtlMSMwIQYDVQQKDBpDaGFybGVzIFNj
+aHdhYiAmIENvLiwgSW5jLjEXMBUGA1UEAxMOd3d3LnNjaHdhYi5jb20wggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDQKcFpvd9O/y47p/JlkompGCJRL7UY
+oCZ8VxMmYmKneY5zSuCAwPrTgXVWd2dqBscT1s67yORwn7uQ1+AJ/hhYdDJ2nAn0
+1vN6s8MULqqAmWPJzY835XvV/Ph2i5I3jW4+jzWqwV27QQXwepYb1AMTY3w5cH9W
+gXb7xWu1Ihy1DfEdi1+zyOXBVGdo0XeUnRtbDsyjcQTU2ejV2BNDfevl1xLivJvV
+qXGVasp5M+T2tLwim/lRFTu2ICF69VaZMtqzizsAGcZFSlZbg98QNYL5D8Cou+89
+UJb8UeKpOubYtRSfEPJw/toEUPuw7BOaMM71cIs9n1v9J4xtEO0ow9VVAgMBAAGj
+ggOXMIIDkzAfBgNVHSMEGDAWgBR0hYDAZsffN97PvSk3qgMdvu3NFzAdBgNVHQ4E
+FgQU2U8YapuTKn2aj0tsOlJla9j2GtcwJQYDVR0RBB4wHIIOd3d3LnNjaHdhYi5j
+b22CCnNjaHdhYi5jb20wPgYDVR0gBDcwNTAzBgZngQwBAgIwKTAnBggrBgEFBQcC
+ARYbaHR0cDovL3d3dy5kaWdpY2VydC5jb20vQ1BTMA4GA1UdDwEB/wQEAwIFoDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwgZ8GA1UdHwSBlzCBlDBIoEag
+RIZCaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzJUTFNS
+U0FTSEEyNTYyMDIwQ0ExLTEuY3JsMEigRqBEhkJodHRwOi8vY3JsNC5kaWdpY2Vy
+dC5jb20vRGlnaUNlcnRHbG9iYWxHMlRMU1JTQVNIQTI1NjIwMjBDQTEtMS5jcmww
+gYcGCCsGAQUFBwEBBHsweTAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNl
+cnQuY29tMFEGCCsGAQUFBzAChkVodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20v
+RGlnaUNlcnRHbG9iYWxHMlRMU1JTQVNIQTI1NjIwMjBDQTEtMS5jcnQwDAYDVR0T
+AQH/BAIwADCCAX8GCisGAQQB1nkCBAIEggFvBIIBawFpAHYATGPcmOWcHauI9h6K
+Pd6uj6tEozd7X5uUw/uhnPzBviYAAAGfznLWSwAABAMARzBFAiEA5agIAqYXzE3c
+PK4MWw4GC9mGj2kpuNdySxv4hL5ppi0CID3B8QHqx9ZzF0CtBwN4gpEBTgHtJOgG
+PUZopXoQtajhAHcA1tWNqdAXU/NqSqDHV0kCr+vH3CzTjNn3ZMgMiRkenwIAAAGf
+znLWUgAABAMASDBGAiEA9BQqIgrxjXGzQPk65T3x5NeNlK55Sf4g/ZqduFCq63UC
+IQDdbEJWOqTBanQ6JQJwVwjE2JCAzCXfwnrg9vebi7K4IwB2AByfaCzp+vBFaVD4
+G5aKh93bMhDYTObIsuOCUkrEz1mfAAABn85y1x0AAAQDAEcwRQIhAMfDFOE1GgPg
+Sk8zGAffofSmcHvob69Mdy3Q8UBVqYUQAiAZLD/qIZYk6K/fEtaCgAUHcVkEKnnL
+F3hpfE/1akzlfjANBgkqhkiG9w0BAQsFAAOCAQEArks2sRau/zBvtwxU2ALWRCKz
+U4gpacF730ze8KR8WCwGh/VusrR+7WO/F7Rf3KV00hOr200gqUXuw5MbEvdtiBG0
+isHTjzHma2optKPgP4i9W+kqj6Wp2Ln2/A2BluFlKytklZmDVp5HmEoACjI9rESA
+mI25a9X/q/KqujlDVEX/Xe9IUACKFp5DnkYm3t6gqPxlHoHBT0STdGak9FwRhm4A
+XzMWN6aysq9/fR/u9fhWC2KDAiNKSMvQ8VST1CdlpjMVSDRwkG33e+IXOc4liGAg
+2zuLvie8S0iXv0Zp/hdAXROFNex9Bp/F7a8JO56/xzDiz6a9PioQVQawNE5NWQ==
+-----END CERTIFICATE-----
+subject=C=US, ST=Texas, L=Westlake, O=Charles Schwab & Co., Inc., CN=www.schwab.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 4592 bytes and written 1911 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

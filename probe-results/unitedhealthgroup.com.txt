@@ -1,0 +1,123 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=Minnesota, O=UnitedHealth Group Inc., CN=prd-sparq.uhg.com
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep 21 00:00:00 2026 GMT; NotAfter: Apr  7 23:59:59 2027 GMT
+ 1 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Mar 21 23:59:59 2036 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIJLzCCB5egAwIBAgIRAN6eHqgaHIwvqeMGxFC7vfUwDQYJKoZIhvcNAQELBQAw
+YDELMAkGA1UEBhMCR0IxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBQdWJsaWMgU2VydmVyIEF1dGhlbnRpY2F0aW9uIENBIE9WIFIz
+NjAeFw0yNjA5MjEwMDAwMDBaFw0yNzA0MDcyMzU5NTlaMF8xCzAJBgNVBAYTAlVT
+MRIwEAYDVQQIEwlNaW5uZXNvdGExIDAeBgNVBAoTF1VuaXRlZEhlYWx0aCBHcm91
+cCBJbmMuMRowGAYDVQQDExFwcmQtc3BhcnEudWhnLmNvbTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAMP6LQwPyjILovH4qwFjs6k+/TDy9nDLwHGmLoNN
+KiMb65RX4uTlxKF64piL6pgliGA92hotQCOTmtKwmqTBkRtaRMqSeZHoa2E7EIPr
+LmX/XSQRnKtvD01w0F3hUqZKOcj12f+naJ1Nb6428zbfbTaTgSNYw1JSAQZTmDlw
+KiSJ2+R/+oIebsQoyvCvYPPJC4Wji4dXXvTXiHgb+Rg16qbJMgV2C0Jxrq2L37SV
+Q1HHoz1ZbFx5tQktjiGMAUiW9OTdJekI6WzFqO/xoun9zhLbFgP6mysu5mOo8VZg
+xoRnEYur32wM+i1OJ7MJ+rDtOgMsk6v88DxbBRu6ArNANhkCAwEAAaOCBWMwggVf
+MB8GA1UdIwQYMBaAFONmdLtwaI0sXU4OpkqPmzcinIKSMB0GA1UdDgQWBBSug5gX
+rhYGYUfaIDCXowu7V0s6wTAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAT
+BgNVHSUEDDAKBggrBgEFBQcDATBKBgNVHSAEQzBBMDUGDCsGAQQBsjEBAgEDBDAl
+MCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwBAgIw
+VAYDVR0fBE0wSzBJoEegRYZDaHR0cDovL2NybC5zZWN0aWdvLmNvbS9TZWN0aWdv
+UHVibGljU2VydmVyQXV0aGVudGljYXRpb25DQU9WUjM2LmNybDCBhAYIKwYBBQUH
+AQEEeDB2ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LnNlY3RpZ28uY29tL1NlY3Rp
+Z29QdWJsaWNTZXJ2ZXJBdXRoZW50aWNhdGlvbkNBT1ZSMzYuY3J0MCMGCCsGAQUF
+BzABhhdodHRwOi8vb2NzcC5zZWN0aWdvLmNvbTCCAjUGA1UdEQSCAiwwggIoghFw
+cmQtc3BhcnEudWhnLmNvbYIaY2ZjYS51bml0ZWRoZWFsdGhncm91cC5jb22CGnBy
+ZC1zdXN0YWluYWJpbGl0eS51aGcuY29tggtwcmQudWhnLmNvbYIZcHJkLnVuaXRl
+ZGhlYWx0aGdyb3VwLmNvbYIUcHJldmlldy1wcm9kLnVoZy5jb22CDXNwYXJxLnVo
+Zy5jb22CFnN1c3RhaW5hYmlsaXR5LnVoZy5jb22CB3VoZy5jb22CGnVuaXRlZGhl
+YWx0aGZvdW5kYXRpb24uY29tghp1bml0ZWRoZWFsdGhmb3VuZGF0aW9uLm5ldIIa
+dW5pdGVkaGVhbHRoZm91bmRhdGlvbi5vcmeCFXVuaXRlZGhlYWx0aGdyb3VwLmNv
+bYIVdW5pdGVkaGVhbHRoZ3JvdXAubmV0ghV1bml0ZWRoZWFsdGhncm91cC5vcmeC
+FndlbGNvbWV3ZWJzaXRlLnVoZy5jb22CC3d3dy51aGcuY29tgh53d3cudW5pdGVk
+aGVhbHRoZm91bmRhdGlvbi5jb22CHnd3dy51bml0ZWRoZWFsdGhmb3VuZGF0aW9u
+Lm5ldIIed3d3LnVuaXRlZGhlYWx0aGZvdW5kYXRpb24ub3Jnghl3d3cudW5pdGVk
+aGVhbHRoZ3JvdXAuY29tghl3d3cudW5pdGVkaGVhbHRoZ3JvdXAubmV0ghl3d3cu
+dW5pdGVkaGVhbHRoZ3JvdXAub3JnMIIBhgYKKwYBBAHWeQIEAgSCAXYEggFyAXAA
+dgBEwr0M6RQOZKXJSgGTClqhuzWXDgDuERaJaCocRNe1ZgAAAaDCffrXAAAEAwBH
+MEUCIQCm5Pp3qvhH0w5XuTJSRJfNJEbaOlzL4J6DEsPihnGOqgIgMpFYCKq/eUbm
+w7rsBA2kkLimuubGG2jXKuvc9iXo2g0AdQBgTJqven93XwHUBvySDciZ6wscffjJ
+Uhv6+hd3O5eLyQAAAaDCffsJAAAEAwBGMEQCIHw/IINm3Y6rNNxqUcHqxQPs8BVF
+cyIEOhfHznuvOGxxAiAn7T7MMOnbOrmm6361+oCTQf09BZECVoFO/h3xPfWT4QB/
+AKKBABhzThduHUfglUDzgbpUZpfNY6hDUHFuuAlO2vENAAABoMJ9/GYACAAABQAR
+UFNUBAMASDBGAiEA/GIXU8SnZwdIlVdBnRw32/FlfNsj6pWkGmDzNGl6Sb4CIQD+
+aou65V7HEOfbbJUkltd9eskSFAJonVW1C+t+rS/cETANBgkqhkiG9w0BAQsFAAOC
+AYEAEfaHh+m6lRAwqq9da2fSdkipS5Tlp2PVuOC8IoqH897udDKBh7gUQPfKYbcP
+lRuvtHYa1Den/jxpebe8ehJvA3+1E0eYzbJJ2O4U6crLBnC0fHKb53nkV5tavuj1
+JhUv+1LGaSjffwe6UeTOEm6tuoqmbvl8JjI2QsYokHIlgtqqsLQQ1ykuGmtEygsS
+7VLgsB93PIxEeYZO9cvq5utpU5gl63SQLCwr/ltq3G0l7bAtFjXxbrzVLzlBnSo5
+Q8XWDPI9p3zzF+rD5Ucs2YJ6WvqptPeZ+kwVSbmYYtzy3vM+36G0ZtxNjZdTxF7R
+Tdc1JUgy8FjtR+cUz00JJh0TztI7cAvgqIfoEdBInOLVrl8Q8BseaBjunsCcVivm
+UP+BPY6wfQb7xwiJYz/owzn+ZxIICiLp23NorQbqTWZJsSKgFKkoFySFxi5uWNXY
+TlKzMeS3l00SoouWToeMUpevSfO+8hDZYOWPHmaYKxsNbWVoXtq4OjuNC7deZ7bg
+8Lft
+-----END CERTIFICATE-----
+subject=C=US, ST=Minnesota, O=UnitedHealth Group Inc., CN=prd-sparq.uhg.com
+issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 7302 bytes and written 1574 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: E057374455C03B9EBB12CACA99D45CDB1B3144EE8E6240D7983A26E471901094
+    Session-ID-ctx: 
+    Resumption PSK: B582E32EAA848D9C5F18D4D310D7ABA8B3E402BD7AA8A38027495E9BCD19F42C
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
+    0010 - e8 96 3e 6a ab 7f a0 d2-aa 7c 27 20 68 0e 09 54   ..>j.....|' h..T
+    0020 - ab 7a 21 18 f8 2b de 1b-f9 af 60 07 5f 51 29 9b   .z!..+....`._Q).
+    0030 - 01 fc b5 0f 0a 54 76 74-14 6e 0f cd 45 ca 90 4f   .....Tvt.n..E..O
+    0040 - c6 a5 da 7f ef db cd b9-cb ab e3 85 fc ee 30 16   ..............0.
+    0050 - 56 1f 95 8f bd 99 bf ea-55 f8 20 5b fe 45 78 de   V.......U. [.Ex.
+    0060 - 7b 79 1f b5 a9 7a bb 9e-81 df 50 44 3f 56 33 b6   {y...z....PD?V3.
+    0070 - b5 50 ba 43 02 86 53 82-e3 52 4b ab cb 12 93 56   .P.C..S..RK....V
+    0080 - 6b 7f 8d 2f b5 49 99 e0-26 2e 3c 88 e8 1e 87 e2   k../.I..&.<.....
+    0090 - cd ff e5 79 c2 53 06 c4-91 e8 91 65 18 f5 b5 98   ...y.S.....e....
+
+    Start Time: 1792921668
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

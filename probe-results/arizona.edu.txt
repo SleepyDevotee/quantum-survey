@@ -1,0 +1,108 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=arizona.edu
+   i:C=US, O=Let's Encrypt, CN=YR2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct  3 22:22:16 2026 GMT; NotAfter: Jan  1 22:22:15 2027 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=YR2
+   i:C=US, O=ISRG, CN=Root YR
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
+ 2 s:C=US, O=ISRG, CN=Root YR
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: RSA, 4096 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGjDCCBXSgAwIBAgISBtrlZsLLV0em7UsiuGManzfbMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNZUjIwHhcNMjYxMDAzMjIyMjE2WhcNMjcwMTAxMjIyMjE1WjAWMRQwEgYDVQQD
+Ewthcml6b25hLmVkdTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANTI
+ohtQtMPS3zXs2GXxZ5usAu2EFlj0teDUA9MOIIMHlA/981lV/83HaEFSuX4YX7ld
+Sh9LkyVxnl3ruN8q6PVcofbIGmijCF3uDwPfNNwGeAHUFe7QAtudzvVPS1ZYuP6i
+dvM8thjuoBPtvh2P6a3nPILKlz7ela+rjDynYVJCO8Y77S1j1c1QVDlM0S3zZMrh
+/ff5C4gzlR41eNIqIFxMWW4W4AURYH9qOcMxTpyiSnAemqoIDEt7NIxoQp1wnuY5
+cvMnLhqllRcBhbpbC4BNGjSDke4ebk65gW7FiYDnOiFFlTy2Hoc5frzZYSbjzEq+
+X6QP2exQ0NVrTeIRQ+sCAwEAAaOCA7UwggOxMA4GA1UdDwEB/wQEAwIFoDATBgNV
+HSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSCom89Vkxz
+ljXYIlvuf+uFN8aieDAfBgNVHSMEGDAWgBRAFS0mee0yIJ7fmnId1jIfgQyBDDAz
+BggrBgEFBQcBAQQnMCUwIwYIKwYBBQUHMAKGF2h0dHA6Ly95cjIuaS5sZW5jci5v
+cmcvMIIBsAYDVR0RBIIBpzCCAaOCFmFkbWlzc2lvbnMuYXJpem9uYS5lZHWCC2Fy
+aXpvbmEuZWR1gg9iYWUuYXJpem9uYS5lZHWCFGJlYXJkb3duLmFyaXpvbmEuZWR1
+ghhkZWdyZWVzZWFyY2guYXJpem9uYS5lZHWCFWRpdmVyc2l0eS5hcml6b25hLmVk
+dYIXbmV2ZXJzZXR0bGUuYXJpem9uYS5lZHWCFHN0dWRlbnRzLmFyaXpvbmEuZWR1
+ghR0cmFuc2Zlci5hcml6b25hLmVkdYIUdWFmb3J5b3UuYXJpem9uYS5lZHWCEXZp
+c2l0LmFyaXpvbmEuZWR1ghl2aXNpdG9yY2VudGVyLmFyaXpvbmEuZWR1ghh2aXNp
+dG9yZ3VpZGUuYXJpem9uYS5lZHWCGnd3dy5hZG1pc3Npb25zLmFyaXpvbmEuZWR1
+gg93d3cuYXJpem9uYS5lZHWCG3d3dy5uZXZlcnNldHRsZS5hcml6b25hLmVkdYIY
+d3d3LnVhZm9yeW91LmFyaXpvbmEuZWR1gh13d3cudmlzaXRvcmNlbnRlci5hcml6
+b25hLmVkdTATBgNVHSAEDDAKMAgGBmeBDAECATAuBgNVHR8EJzAlMCOgIaAfhh1o
+dHRwOi8veXIyLmMubGVuY3Iub3JnLzkyLmNybDCCAQwGCisGAQQB1nkCBAIEgf0E
+gfoA+AB1AEaiOWfGDbZGh8ZvPfmZlHaTpqYRIIRX1VXn49Ch2bZGAAABoQQR8PoA
+AAQDAEYwRAIgBz+jffhWyH8Ta/kA+9PjxP9R9JaWi08Dq/TE4sbvIE4CIHaRsIDb
+y7wNB2PH4xUjLm0KfYrTXc8QCwSlD3I4YeegAH8AGouda43XkdHNBUnttgNV1ga2
+T60w23H+eI8Px8j7xLEAAAGhBBHy3AAIAAAFAAUMo0QEAwBIMEYCIQDgKTLpph9m
+MYjRxHrRZfZrpHnFWSjHcvk/UWIyBpEPsAIhAKvg/d7ZkwotYGEUK2PXvI1DIkw6
+bSKmNIVipvvBTjr/MA0GCSqGSIb3DQEBCwUAA4IBAQANGEwmKqLriaZEZRjyMCX/
+MUz23QoDZ0IfsUjcKqAGCvSFGz8+p9qcYmrkCki6ZROO0uC0vdFSfzZySo6BLUVk
+8axMPs0tlv4v894gcbKb9xj2iEftyXSHyHSoi51ta9RTwqqH8YHXbUcfCw9TIxIt
+6cwWrfo+lMv+u0OoIyrPtCMtuQA89Ci44JWPZjVgkHQbkPntikbswmN7nACl/Knc
+H7FghlPwYF3kjXfcPnrIZr4X2M+4d5GWMb4v7i+F450Wp6hbHedriasImHwCKYd1
+0vywI0uT60sGGujvxu8pW62umHcpDAdpN96uOF3mfaVtV/TVTpm5lfDvR4m8tu8S
+-----END CERTIFICATE-----
+subject=CN=arizona.edu
+issuer=C=US, O=Let's Encrypt, CN=YR2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 6096 bytes and written 1564 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 694AFC1CF50A6DB9D3ED6787FFE32874DBA23B5D4A3C8CBADB8788422D3D8C1B
+    Session-ID-ctx: 
+    Resumption PSK: 9C04E5C6E1F3C20130582B4592F468C3893D79E369A82ABE3B6CAB408698BA5F
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
+    0010 - 17 b7 4a c4 e5 fa 7f b6-9a 54 27 35 7f 4d c6 91   ..J......T'5.M..
+    0020 - 30 84 28 27 d2 fc f0 ec-10 89 76 52 1a 23 ab d9   0.('......vR.#..
+    0030 - 86 10 65 f3 5d 82 0e f5-bf d9 ed d7 ce 89 d6 e9   ..e.]...........
+    0040 - d0 46 a2 dd ab e9 01 4e-8e 48 84 da a9 0b 12 6e   .F.....N.H.....n
+    0050 - 72 e7 05 a6 66 cb 9f 38-a6 f8 6b ae e0 dc 3b d9   r...f..8..k...;.
+    0060 - 6e 64 e5 f5 80 03 3a 27-9d 80 4d f5 c8 9b 57 b6   nd....:'..M...W.
+    0070 - 26 50 8e cc 29 37 b4 1c-34 2d 89 54 95 25 1f 58   &P..)7..4-.T.%.X
+    0080 - 86 ec 8a 1a 27 e4 1b f8-5a 89 ae af 06 99 e1 85   ....'...Z.......
+    0090 - 0f 0a bb f6 e4 03 5a 6f-06 99 d7 12 5e 74 3a a7   ......Zo....^t:.
+
+    Start Time: 1792921609
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 8192
+---
+read R BLOCK

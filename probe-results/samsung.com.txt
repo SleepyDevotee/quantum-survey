@@ -1,0 +1,96 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=KR, ST=Gyeonggi-do, O=SAMSUNG ELECTRONICS CO,.LTD, CN=*.samsung.com
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct  6 00:00:00 2026 GMT; NotAfter: Apr 22 23:59:59 2027 GMT
+ 1 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Mar 21 23:59:59 2036 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+ 3 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Feb  1 00:00:00 2010 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHKjCCBZKgAwIBAgIRAIZZ2FLk7UgMwXvHsGT0zVgwDQYJKoZIhvcNAQELBQAw
+YDELMAkGA1UEBhMCR0IxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBQdWJsaWMgU2VydmVyIEF1dGhlbnRpY2F0aW9uIENBIE9WIFIz
+NjAeFw0yNjEwMDYwMDAwMDBaFw0yNzA0MjIyMzU5NTlaMGExCzAJBgNVBAYTAktS
+MRQwEgYDVQQIEwtHeWVvbmdnaS1kbzEkMCIGA1UEChMbU0FNU1VORyBFTEVDVFJP
+TklDUyBDTywuTFREMRYwFAYDVQQDDA0qLnNhbXN1bmcuY29tMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqDhRyHY5cW8nb/Mf5XrtfvkEa6z+yaWI0zSr
+SM+3Oco2dC5tYm/ZoMKRabV3mIhkMdzhiZxWiSaQ2t95afhK0us/na9LOqq/eJo5
+5uDHfvSqMdRcAfA1F8Dtg4fcjE++gIMhBj2uW7t2QYe5h02HG2JREI2jsrKAJ28u
+G+CgBfZ1bQNdG5HnuNuwB7LxME560xYXZJhmeIPqZYWIE1hj/Eq8PTgHPbrDkjbx
+KBa1Tye+9KIPQXKAziXkN0tlW6r61OgZk00MJTyzgW/Cq2HzUX3z0phEYEjX6jYh
+ER/yghE4q7EVNOL0LEfAIudxAAS2+Bz/eQegChRAvVcrm2SmEQIDAQABo4IDXDCC
+A1gwHwYDVR0jBBgwFoAU42Z0u3BojSxdTg6mSo+bNyKcgpIwHQYDVR0OBBYEFAgZ
+HEqRnwd7YZquCqbNA3LHoMyLMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAA
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBKBgNVHSAEQzBBMDUGDCsG
+AQQBsjEBAgEDBDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQ
+UzAIBgZngQwBAgIwVAYDVR0fBE0wSzBJoEegRYZDaHR0cDovL2NybC5zZWN0aWdv
+LmNvbS9TZWN0aWdvUHVibGljU2VydmVyQXV0aGVudGljYXRpb25DQU9WUjM2LmNy
+bDCBhAYIKwYBBQUHAQEEeDB2ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LnNlY3Rp
+Z28uY29tL1NlY3RpZ29QdWJsaWNTZXJ2ZXJBdXRoZW50aWNhdGlvbkNBT1ZSMzYu
+Y3J0MCMGCCsGAQUFBzABhhdodHRwOi8vb2NzcC5zZWN0aWdvLmNvbTAlBgNVHREE
+HjAcgg0qLnNhbXN1bmcuY29tggtzYW1zdW5nLmNvbTCCAYcGCisGAQQB1nkCBAIE
+ggF3BIIBcwFxAHcA1tWNqdAXU/NqSqDHV0kCr+vH3CzTjNn3ZMgMiRkenwIAAAGh
+EZFJoAAABAMASDBGAiEAoTPT0vlIPrYWF8JVsR5tJGkHM2NsouHzmhADAWUBHh8C
+IQDJeUpXfZnj6zKrZ/xOi48d4ET7ldgnxku67H/EGLZqOQB2AO3a64FcYyE0SbR7
+5Qd5BavQ2TFHwnrFFGs7xY5D6bbHAAABoRGRShMAAAQDAEcwRQIhAOCzSXtaqhvM
+KFDxBZFbzttPeBZd+tVN+aUOL0LFEc0ZAiAkFSt5EZXRnM1XPoLeJijWNo0qnj0i
+3qVdRJZCKAy30AB+AFlubDOGlLJZcqJWyKDo3ZBKdugIPdqHOwEIOCgUPO5ZAAAB
+oRGRS/IACAAABQAIV+1HBAMARzBFAiA2Ex+ZRwwvnx3UyWip3HI6GrLOn5lRtE80
+kUbvRqE+wAIhAPya+IrSPIEylZvziP9mLjrRLOs9TB8ouMWbQlgfWzCJMA0GCSqG
+SIb3DQEBCwUAA4IBgQBepGU5KjleU5pFfTELR3bYD5ztu8PW38rGgHbaXs9Fe3gT
+NtIq0oNHSgfR6hynjgas7+BwOisRmHq000g8B5vZpdrTJZPZZGTX6VmcfhiDP8uN
+ilVAo9zvJYNDYd6FXojILDZdoWgmX8NVc6CzQptNRc69UPwyx6Fzil9O7gAepPgE
+KcX1ETU0H8LZIjAuKXnl1jf2u2bOng1td7TuwZJXs7kKyCBqPy8HlGcan5hxiIpx
+wFzFVTnmP+3iSBOXZEivu7IWWz3FBeGP8EusWrjnyY2y5UD5ZoktFF1pDQgyleTs
+xEF1qI+HL0CiCS9VndYg9xU/XuxvOgnR1okREPKevXJgT2tQN1LDIRz5otSM1xeM
+ldNNx7XgVDSFDeJpHYOsms+gV/7wcIRyXCeqAiBiT0YoYwy1pczLs9TN7J0cTo/f
+XMG9PIPnzELJbHgqAm6BDIDSbFDhohNEz6Tp5649eScE3v5veSTr59KisXv55fe4
+xslZbW2FqNweGrTpfpk=
+-----END CERTIFICATE-----
+subject=C=KR, ST=Gyeonggi-do, O=SAMSUNG ELECTRONICS CO,.LTD, CN=*.samsung.com
+issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pkcs1_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 7167 bytes and written 1626 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: A07FD309D523264D49078891FD2B8E96BA505A83E23F5AC9C2C9570B4C3B5E25
+    Session-ID-ctx: 
+    Master-Key: D7CB67082BA282355050AA3BAFE9392F8F32A45086A24F73A00E13F25A9B5896064769EE56DB15B6EFB1BC4FE3CD5F90
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1792921673
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

@@ -1,0 +1,76 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=New York, L=New York, O=Yahoo Holdings Inc., CN=yahoo.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: EC, (prime256v1); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct  7 00:00:00 2026 GMT; NotAfter: Dec 30 23:59:59 2026 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep 24 00:00:00 2020 GMT; NotAfter: Sep 23 23:59:59 2030 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHATCCBemgAwIBAgIQCWKE16EmIuXrk/gTdI0CETANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjYx
+MDA3MDAwMDAwWhcNMjYxMjMwMjM1OTU5WjBlMQswCQYDVQQGEwJVUzERMA8GA1UE
+CBMITmV3IFlvcmsxETAPBgNVBAcTCE5ldyBZb3JrMRwwGgYDVQQKExNZYWhvbyBI
+b2xkaW5ncyBJbmMuMRIwEAYDVQQDEwl5YWhvby5jb20wWTATBgcqhkjOPQIBBggq
+hkjOPQMBBwNCAAQjVaBNP9KcNUWdEGzBJ4DSwkG4x8wFKSXw9shPfLfAErpQ/yj5
+ia2gNle9KDtJclFoNq8OewZ6OKF9/a8YqcqYo4IEgjCCBH4wHwYDVR0jBBgwFoAU
+dIWAwGbH3zfez70pN6oDHb7tzRcwHQYDVR0OBBYEFAVZOVUxFF6ib4xJRSi/qOAQ
+AqicMIIBFwYDVR0RBIIBDjCCAQqCCXlhaG9vLmNvbYIPdHcucmQueWFob28uY29t
+ggpzLnlpbWcuY29tggxtYnAueWltZy5jb22CD2hrLnJkLnlhaG9vLmNvbYIWZnIt
+Y2Eucm9nZXJzLnlhaG9vLmNvbYIQZGRsLmZwLnlhaG9vLmNvbYITY2Eucm9nZXJz
+LnlhaG9vLmNvbYIPY2EubXkueWFob28uY29tgg1icmIueWFob28ubmV0ghBhZGQu
+bXkueWFob28uY29tggsqLnlhaG9vLmNvbYIPKi53d3cueWFob28uY29tghEqLm1l
+ZGlhLnlhaG9vLmNvbYIPKi5hdHQueWFob28uY29tgg4qLmFtcC55aW1nLmNvbTA+
+BgNVHSAENzA1MDMGBmeBDAECAjApMCcGCCsGAQUFBwIBFhtodHRwOi8vd3d3LmRp
+Z2ljZXJ0LmNvbS9DUFMwDgYDVR0PAQH/BAQDAgOIMBMGA1UdJQQMMAoGCCsGAQUF
+BwMBMIGfBgNVHR8EgZcwgZQwSKBGoESGQmh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNv
+bS9EaWdpQ2VydEdsb2JhbEcyVExTUlNBU0hBMjU2MjAyMENBMS0xLmNybDBIoEag
+RIZCaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzJUTFNS
+U0FTSEEyNTYyMDIwQ0ExLTEuY3JsMIGHBggrBgEFBQcBAQR7MHkwJAYIKwYBBQUH
+MAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBRBggrBgEFBQcwAoZFaHR0cDov
+L2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzJUTFNSU0FTSEEy
+NTYyMDIwQ0ExLTEuY3J0MAwGA1UdEwEB/wQCMAAwggGABgorBgEEAdZ5AgQCBIIB
+cASCAWwBagB2AMIxfldFGaNF7n843rKQQevHwiFaIr9/1bWtdprZDlLNAAABoRPK
+4Z4AAAQDAEcwRQIgWBBfwqV59QPyLmFiuh89+PsSwt4jrQXGteTUnb4oLDcCIQDS
+NF697VzQu58yk8AaeeQwBSiXplPTW+JZus49NqmPNgB3ANdtfRDRp/V3wsfpX9cA
+v/mCyTNaZeHQswFzF8DIxWl3AAABoRPK4XMAAAQDAEgwRgIhAKrbVxTrVKpcps34
+e7+IY6lGaUe/w/qvYkY+5toI4y62AiEA5iOTE8IFU+T3mWgryHvf8Izt92UwV4XN
+HU5BkXZgYNMAdwCUTkOH+uzB74HzGSQmqBhlAcfTXzgCAT9yZ31VNy4Z2AAAAaET
+yuGlAAAEAwBIMEYCIQDfavnVJUFJSSijmPkNtnlGdrbtqWWuS37JjjjVNgwFgwIh
+AMlTVU7XXMcDgRxx1gG8lNu+SAm43g931pw7Jn4OGWxQMA0GCSqGSIb3DQEBCwUA
+A4IBAQAAz08lDvL0Iw36JS92uXkYuzF7OU2/lp+elvD+l0lCmjG8kTAjhtq3AJJR
+wkWi4Dg4FIwxnUuyWDj3nbtbm58+yHvdpaCcFIJHaS/oeNAMeXqbs1TOYRoXx67N
+BwKCBYXNOX71g5xYGkXdqIxjfOG/H5VXXQ8yfimmod2PIm8XML1DWRTRY9y7oTkN
+gZPBLwGmIcwNpfDA6MdGsOM3bXeiU4AeYzyDyxQLj7ZZ5QQLBfVSqY3kLhYR+qaQ
+iLfo5xmTzwYSIWVkENUwHvI2ggZjtiShftwKV8TyulTIRO/Q/eftK7t4+Ov/FqhQ
+ocHxEXCb0Z5blNhFn6//bxLwdYsj
+-----END CERTIFICATE-----
+subject=C=US, ST=New York, L=New York, O=Yahoo Holdings Inc., CN=yahoo.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3525 bytes and written 1876 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

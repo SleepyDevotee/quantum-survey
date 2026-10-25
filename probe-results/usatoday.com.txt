@@ -1,0 +1,111 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=usatoday.com
+   i:C=US, O=Let's Encrypt, CN=YR2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct  1 05:59:34 2026 GMT; NotAfter: Dec 30 05:59:33 2026 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=YR2
+   i:C=US, O=ISRG, CN=Root YR
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
+ 2 s:C=US, O=ISRG, CN=Root YR
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: RSA, 4096 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG7TCCBdWgAwIBAgISBiQU9yvZnvc3qB5+Uu3DLBD8MA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNZUjIwHhcNMjYxMDAxMDU1OTM0WhcNMjYxMjMwMDU1OTMzWjAXMRUwEwYDVQQD
+Ewx1c2F0b2RheS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC+
+kkBrtUncDDU4s5Vm2UJY6fABarz37fpQevXPx5LMbXgpauv+gY0sxoK4gxbIHudZ
+rcWBvkFhEUvgNo0yAHlFIQbb7SG733aGhgg8zB0m76pep98r8lP2e0zw9bUC1IkP
+xfkHbsqBGd83/nvBDwKjcxQF0OoQ9q2qrujupNSaYOrQ/yyYXnrVqHfGg/o76r0V
+UQ17ETA605nS5xwZr1CM0z8AmlYFqlWG+ld4757nmNn8NzIgbQhdVJgg2exL937Z
+d2iwO3GlYVPCRkg9FzUH0R6cEaBaPJxZmbqqI1UR677okM5H4CVvgSMQMMr8JiMK
+19qkNT5xg1C5Af8Es+kfAgMBAAGjggQVMIIEETAOBgNVHQ8BAf8EBAMCBaAwEwYD
+VR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUoeK6l3Mv
+jqny15jWw1Fd0o2YLd0wHwYDVR0jBBgwFoAUQBUtJnntMiCe35pyHdYyH4EMgQww
+MwYIKwYBBQUHAQEEJzAlMCMGCCsGAQUFBzAChhdodHRwOi8veXIyLmkubGVuY3Iu
+b3JnLzCCAg8GA1UdEQSCAgYwggICggkqLmFwcC5jb22CDyouYXpjZW50cmFsLmNv
+bYIQKi5jaW5jaW5uYXRpLmNvbYIXKi5kZXNtb2luZXNyZWdpc3Rlci5jb22CESou
+ZGV0cm9pdG5ld3MuY29tggsqLmZyZWVwLmNvbYIRKi5nYW5uZXR0LWNkbi5jb22C
+FCouZ2FubmV0dGRpZ2l0YWwuY29tggsqLmdjaW9uLmNvbYIOKi5pbmR5c3Rhci5j
+b22CDiouanNvbmxpbmUuY29tghEqLm5vcnRoamVyc2V5LmNvbYIQKi50ZW5uZXNz
+ZWFuLmNvbYIOKi51c2F0b2RheS5jb22CHCoudXNhdG9kYXluZXR3b3Jrc2Vydmlj
+ZS5jb22CB2FwcC5jb22CDWF6Y2VudHJhbC5jb22CDmNpbmNpbm5hdGkuY29tghVk
+ZXNtb2luZXNyZWdpc3Rlci5jb22CD2RldHJvaXRuZXdzLmNvbYIJZnJlZXAuY29t
+gg9nYW5uZXR0LWNkbi5jb22CEmdhbm5ldHRkaWdpdGFsLmNvbYIJZ2Npb24uY29t
+ggxpbmR5c3Rhci5jb22CDGpzb25saW5lLmNvbYIPbm9ydGhqZXJzZXkuY29tgg50
+ZW5uZXNzZWFuLmNvbYIMdXNhdG9kYXkuY29tghp1c2F0b2RheW5ldHdvcmtzZXJ2
+aWNlLmNvbTATBgNVHSAEDDAKMAgGBmeBDAECATAvBgNVHR8EKDAmMCSgIqAghh5o
+dHRwOi8veXIyLmMubGVuY3Iub3JnLzEyNS5jcmwwggEMBgorBgEEAdZ5AgQCBIH9
+BIH6APgAfwCigQAYc04Xbh1H4JVA84G6VGaXzWOoQ1BxbrgJTtrxDQAAAaD2QYrW
+AAgAAAUAGVrj9QQDAEgwRgIhAIUysIhO3byEEWfNajTo7NdTN5BEmUnmUYr6unoz
+v6hgAiEA5JOI0o7SH4w5pSbNkn2Ki3e576JvL04nis3M6Gn984gAdQDYCVU7lE96
+/8gWGW+UT4WrsPj8XodVJg8V0S5yu0VLFAAAAaD2QZArAAAEAwBGMEQCICZ4pbXx
+laa0MbaT3tav+Uw08YIayi0humTNveKdzXNXAiBJYVuQCk07IaEZm3m4cI0fV9sH
+BmxGL5I4NjEYRdOUDTANBgkqhkiG9w0BAQsFAAOCAQEAGbhK5zZtbt/1tIS/wR7o
+RuLG609l5E1vsQTafe3xwSThwTmhljMTw6BoA23c1YUUMM5UXeVuK7n1z6ekA6hh
+knmhHHAHeMZu828RtEDOpZuxbfRbV2SwqqiqyMTQU4q86XQnhCNKjOQF3lNYcIma
+VGi90GUH5DZfIruUlyScXA7SCUT34wlsg3vHyeGjb4h4KOdWf5HmOZayYfrycJXZ
+B9gyxAWu6uNU9eII1s4BeCtfcWhQgUwkt4JdBLwatbq3Lpgd1rptE+LHszosq1BW
+te8xiq8QPMVBIRhU80QzO3UhXi3fvQwDA1u3+iX2ojPeRykBUCR4pK7+QfahZ7xL
+IA==
+-----END CERTIFICATE-----
+subject=CN=usatoday.com
+issuer=C=US, O=Let's Encrypt, CN=YR2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 6193 bytes and written 1565 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 01167365ACA733E4368393A11583E9BC08D41642624651C1BA2032C2D182FB9E
+    Session-ID-ctx: 
+    Resumption PSK: B91B81A2CFEFB398F38BD13BA244771ABB1F59C1423666031494398E2FB8C6EF
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
+    0010 - 4c 4b 31 70 9c 3e c4 3d-2e 6f 21 aa 99 51 c5 2b   LK1p.>.=.o!..Q.+
+    0020 - cb 67 eb 52 ec 6d d7 01-93 89 0a 39 dd 09 80 50   .g.R.m.....9...P
+    0030 - 39 00 f6 c6 b8 98 7e 7c-84 b1 ce 13 4d da 4d 2a   9.....~|....M.M*
+    0040 - 3f bf f6 21 a9 f1 c4 24-d9 89 36 1a 8f a3 52 de   ?..!...$..6...R.
+    0050 - 1a e7 e4 dc 42 60 b3 e7-6e 11 a9 ad 91 74 a0 d5   ....B`..n....t..
+    0060 - ac 98 e0 0c ac 1f 4f 07-1d bb 01 bd 82 44 b9 24   ......O......D.$
+    0070 - f1 44 6f a8 af 1e a6 96-61 bf f1 23 a2 b5 63 69   .Do.....a..#..ci
+    0080 - 49 73 4b 53 af e7 65 95-15 29 4e 66 9c 5a 79 74   IsKS..e..)Nf.Zyt
+    0090 - a2 b0 4c 24 b0 12 87 bc-20 15 c0 5d a1 8c e0 19   ..L$.... ..]....
+
+    Start Time: 1792921704
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 8192
+---
+read R BLOCK

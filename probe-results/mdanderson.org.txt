@@ -1,0 +1,96 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=Texas, O=The University of Texas M.D. Anderson Cancer Center, CN=www.mdanderson.org
+   i:C=US, O=Internet2, CN=InCommon RSA Server CA 2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct 31 00:00:00 2025 GMT; NotAfter: Dec  1 23:59:59 2026 GMT
+ 1 s:C=US, O=Internet2, CN=InCommon RSA Server CA 2
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Nov 16 00:00:00 2022 GMT; NotAfter: Nov 15 23:59:59 2032 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIICjCCBnKgAwIBAgIRAPtG6cajzqezD70uRxgMUtQwDQYJKoZIhvcNAQELBQAw
+RDELMAkGA1UEBhMCVVMxEjAQBgNVBAoTCUludGVybmV0MjEhMB8GA1UEAxMYSW5D
+b21tb24gUlNBIFNlcnZlciBDQSAyMB4XDTI1MTAzMTAwMDAwMFoXDTI2MTIwMTIz
+NTk1OVoweDELMAkGA1UEBhMCVVMxDjAMBgNVBAgTBVRleGFzMTwwOgYDVQQKEzNU
+aGUgVW5pdmVyc2l0eSBvZiBUZXhhcyBNLkQuIEFuZGVyc29uIENhbmNlciBDZW50
+ZXIxGzAZBgNVBAMTEnd3dy5tZGFuZGVyc29uLm9yZzCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBANOEGpvrKR1B6mSrCmP2zlw63xbrECCGXqPlZk0ImiUi
+/y7LHPuASGUUnq+0hR9pxs/MQkf/uXWGQsDVotimTbV5pIIaYvsH91YwL1cKoirV
+Iqu9BVQ3UtdFA+lloc5vbiZDYGT69lyXNWCQ5FZ8nnGILJxWFiQFVyaHN/CpoAaf
+O5vKs/zd1Vg46IU0+bws2IL3j6aSBdVbUKUBGxXX2sh6zXlD58WOKMgekhXGD475
+EE/ZlTsfvJ2Ntdx53UNTx460aIjQq3lW7o9WwPa2IkVK0uXZ5qIDrgvrj+AOV5Wl
+MrZOJCpYW4GJMLdWnTIAzNuCyxKY0kNUWCBc7TsdYkECAwEAAaOCBEEwggQ9MB8G
+A1UdIwQYMBaAFO9MAJKm+3YuXpXiyV+HGxnVTeLZMB0GA1UdDgQWBBQd9yTTDn/S
+oPnYtyzfGYoFWnxO0jAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIx
+AQICZzAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZn
+gQwBAgIwQAYDVR0fBDkwNzA1oDOgMYYvaHR0cDovL2NybC5zZWN0aWdvLmNvbS9J
+bkNvbW1vblJTQVNlcnZlckNBMi5jcmwwcAYIKwYBBQUHAQEEZDBiMDsGCCsGAQUF
+BzAChi9odHRwOi8vY3J0LnNlY3RpZ28uY29tL0luQ29tbW9uUlNBU2VydmVyQ0Ey
+LmNydDAjBggrBgEFBQcwAYYXaHR0cDovL29jc3Auc2VjdGlnby5jb20wggF9Bgor
+BgEEAdZ5AgQCBIIBbQSCAWkBZwB2ANgJVTuUT3r/yBYZb5RPhauw+Pxeh1UmDxXR
+LnK7RUsUAAABmjqQtJcAAAQDAEcwRQIgYEnP/GL5/aeR+mQL1r5tHyGSl9GcjQTI
+o6nb+cd2W9gCIQCAaywHZcIU066NgCKZExe80RgIpP4BDEmr+m1WWRTWLwB2AK9n
+iDtXsE7dj6bZfvYuqOuBCsdxYPAkXlXWDC/nhYc6AAABmjqQtVoAAAQDAEcwRQIh
+ANw7IodEUe6BsNfWR2ownw0vSxn4InsFvo3Lf7wffa+xAiAcqZofzOHQBpo3NBzu
+v9s9qUKWgh3hBtF0tRScMEh9zQB1AKyrMHBs6+yEMfQT0vSRXxEeQiRDsfKmjE88
+KzunHgLDAAABmjqQtHwAAAQDAEYwRAIgfkVNFoZCb46yLB1DfP9RyoR7jQH2QEUH
+MYDrJoCqaJ0CIGXkcR5KyTV2yrgH9lG8WKhFJtMU5a1afMnv1qJRgzggMIIBPAYD
+VR0RBIIBMzCCAS+CEnd3dy5tZGFuZGVyc29uLm9yZ4IVYWNjZXNzLm1kYW5kZXJz
+b24ub3JngghjNHFpLm5ldIITY2FuY2VybW9vbnNob3RzLm9yZ4IOY2FuY2Vyd2lz
+ZS5vcmeCFmZhY3VsdHkubWRhbmRlcnNvbi5vcmeCE2pvYnMubWRhbmRlcnNvbi5v
+cmeCF21ha2luZ2NhbmNlcmhpc3RvcnkuY29tgg5tZGFuZGVyc29uLm9yZ4IbbWRh
+bmRlcnNvbnByb3RvbnRoZXJhcHkuY29tghRvbmx5cG9zc2libGVoZXJlLm9yZ4IM
+d3d3LmM0cWkubmV0ght3d3cubWFraW5nY2FuY2VyaGlzdG9yeS5jb22CH3d3dy5t
+ZGFuZGVyc29ucHJvdG9udGhlcmFweS5jb20wDQYJKoZIhvcNAQELBQADggGBAF05
+8NUjVtgrGzxSsu8h/DeCNCslLEKLtC2gUzbc4Kujxx6VkgIo2x8G+PiRH7wf4cVY
+ewK21lyuJZWcAN+hQCu/8MXTPeJO+X7yLKGrd99ghftv+ctME1QwqbPtD2nVA1x9
+df8+XbwEYDQGGVhgyL0KwkbYBmo1AEDbqzs58VfrGOBHP56p/OCy2pTEWZ5j7JD+
+6ioEvZIThz38hkRlV0tMh3DDC1LowoKb3+FxY5pIgDWDAdc5y9g1nd5iIekbSNix
+ciCUcnD6lDia2XQOiB7uYSVzcPYYATGQBaSjp+GwNqmTs1eCp/794XydYnrfxvMH
+TvMw7OW8g9dYNYN7l7Eu9T2KThfJ1BvlQ9uk/JIyKl3/+s+AGq8MznsvwNhaip9r
+pxkzLBwTQv3bOrBEMMR+F09afqr+bEY+lVYO99AEQzGUW+UJQJGnbg75AJoZzqpX
+o9NYzdIiOjzAiE+vnFvKXtUFGhEWMry+GnehrvsMRYZxVWHMJ6l+zE36N+ijSw==
+-----END CERTIFICATE-----
+subject=C=US, ST=Texas, O=The University of Texas M.D. Anderson Cancer Center, CN=www.mdanderson.org
+issuer=C=US, O=Internet2, CN=InCommon RSA Server CA 2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pkcs1_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 5604 bytes and written 1629 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: EE74516F0378851256BC4ACDE841AC1C8AD50381482337D57493956DBAD1FC2B
+    Session-ID-ctx: 
+    Master-Key: 41FE68B505D51976630F997627D9EC16B2D789C530A066017FD0775671C39D299DEEFEBD7E2BBC0B0D8EEC76515497BC
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1792921666
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

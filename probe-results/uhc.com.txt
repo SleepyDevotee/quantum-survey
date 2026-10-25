@@ -1,0 +1,160 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=Minnesota, O=UnitedHealth Group Inc., CN=www.uhc.com
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep 17 00:00:00 2026 GMT; NotAfter: Apr  3 23:59:59 2027 GMT
+ 1 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Mar 21 23:59:59 2036 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+ 3 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Feb  1 00:00:00 2010 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIQUTCCDrmgAwIBAgIQBWcn7mSmHg6VRm5XQ/pbHjANBgkqhkiG9w0BAQsFADBg
+MQswCQYDVQQGEwJHQjEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFB1YmxpYyBTZXJ2ZXIgQXV0aGVudGljYXRpb24gQ0EgT1YgUjM2
+MB4XDTI2MDkxNzAwMDAwMFoXDTI3MDQwMzIzNTk1OVowWTELMAkGA1UEBhMCVVMx
+EjAQBgNVBAgTCU1pbm5lc290YTEgMB4GA1UEChMXVW5pdGVkSGVhbHRoIEdyb3Vw
+IEluYy4xFDASBgNVBAMTC3d3dy51aGMuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEA3wxsiwDvQPTJY2QGRoOGAS5GpWn8L00gNVlyWIIe3Ub++5JN
+0YAYyKu+yOrOxvNPrwnlAJgkW5Kc+mqqVzfSFd/g+yF0qfZRNC03QY0VlGjcFsAq
+rqlg6ZyUi/OAjq7EDboVoPsC8BufCBic0XUQkmj/hTI4JOLhDz6/znJeC+YQZTtc
+uaWvQqgmnbFYuAUXd72sNw0I8IwutYREiZwvMP3/2V2TBbZmbzLfUlpEHT+nHVyO
+bXisyS5x9ftZYvCT/oFtFiqNapbVvGYlyb0b6iPtHyc6BPl7lxCJgdWKqm2FCbDQ
+Z4uZIzVkvVanf9oFKAU6EJbZmO0XCgwGa7UsEQIDAQABo4IMjDCCDIgwHwYDVR0j
+BBgwFoAU42Z0u3BojSxdTg6mSo+bNyKcgpIwHQYDVR0OBBYEFINOUJ05xWGGzEeB
+Vz9D/RCOAc4gMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMBMGA1UdJQQM
+MAoGCCsGAQUFBwMBMEoGA1UdIARDMEEwNQYMKwYBBAGyMQECAQMEMCUwIwYIKwYB
+BQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECAjBUBgNVHR8E
+TTBLMEmgR6BFhkNodHRwOi8vY3JsLnNlY3RpZ28uY29tL1NlY3RpZ29QdWJsaWNT
+ZXJ2ZXJBdXRoZW50aWNhdGlvbkNBT1ZSMzYuY3JsMIGEBggrBgEFBQcBAQR4MHYw
+TwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuc2VjdGlnby5jb20vU2VjdGlnb1B1Ymxp
+Y1NlcnZlckF1dGhlbnRpY2F0aW9uQ0FPVlIzNi5jcnQwIwYIKwYBBQUHMAGGF2h0
+dHA6Ly9vY3NwLnNlY3RpZ28uY29tMIIJXAYDVR0RBIIJUzCCCU+CC3d3dy51aGMu
+Y29tghphY2NvdW50YWJsZWNhcmVhbnN3ZXJzLmNvbYILYW9uLnVoYy5jb22CDmFz
+c2V0cy51aGMuY29tghNiZWFzbWFydHBhdGllbnQuY29tghpibG9nLm1lZGljYXJl
+bWFkZWNsZWFyLmNvbYIkYmxvZy5zdGFnZS1tZWRpY2FyZW1hZGVjbGVhci51aGMu
+Y29tgg1icmFuZC51aGMuY29tgg5icm9rZXIudWhjLmNvbYITY29tcHJhcGxhbmVz
+YWNhLmNvbYISY29uc3VsdGFudC51aGMuY29tghJkZXNpZ253aXRoY2FyZS5jb22C
+F2Rldi11aGNleGNoYW5nZS51aGMuY29tgg9kaWdpdGFsLnVoYy5jb22CC2UtaS51
+aGMuY29tghVlaS1hbXMtb3JpZ2luLnVoYy5jb22CGWVpLWFtcy1zdGctb3JpZ2lu
+LnVoYy5jb22CDmVpLWFtcy51aGMuY29tghJlaS1kZXZlbG9wLnVoYy5jb22CEGVp
+LWdyZWVuLnVoYy5jb22CDWVpLXFhLnVoYy5jb22CEGVpLXN0YWdlLnVoYy5jb22C
+EGVtcGxveWVyLnVoYy5jb22CDmVuZ2FnZS51aGMuY29tghRlcy11aGMtc3RhZ2Uu
+dWhjLmNvbYIKZXMudWhjLmNvbYISZXZlcnlwcmVnbmFuY3kuY29tghJnZXR1aGNl
+eGNoYW5nZS5jb22CDWdyZWVuLnVoYy5jb22CE2hlYWx0aGlubnVtYmVycy5jb22C
+EWhlYWx0aHlhdGNvbGEuY29tghJtLnByb2QtYXBwLnVoYy5jb22CCW0udWhjLmNv
+bYIVbWVkaWNhcmVleHBsaWNhZG8uY29tghVtZWRpY2FyZW1hZGVjbGVhci5jb22C
+Dm1lcmNlci51aGMuY29tghVteWNob2ljZW5vdGNoYW5jZS5jb22CFm5ld3Nyb29t
+LXN0YWdlLnVoYy5jb22CEG5ld3Nyb29tLnVoYy5jb22CIm9mZmxpbmUtYmxvZy5t
+ZWRpY2FyZW1hZGVjbGVhci5jb22CIW9mZmxpbmUtbWVkaWNhcmVtYWRlY2xlYXIu
+dWhjLmNvbYINb25lbmV0cHBvLmNvbYIQcHJvZC1hcHAudWhjLmNvbYIacmV0aXJl
+ZS1hbXMtb3JpZ2luLnVoYy5jb22CHnJldGlyZWUtYW1zLXN0Zy1vcmlnaW4udWhj
+LmNvbYITcmV0aXJlZS1hbXMudWhjLmNvbYITcmV0aXJlZS1kZXYudWhjLmNvbYIV
+cmV0aXJlZS1ncmVlbi51aGMuY29tghJyZXRpcmVlLXFhLnVoYy5jb22CFXJldGly
+ZWUtc3RhZ2UudWhjLmNvbYIPcmV0aXJlZS51aGMuY29tghtzaG9wYWZmb3JkYWJs
+ZWNhcmVwbGFucy5jb22CE3Nob3B1aGNhY2FwbGFucy5jb22CEHNvdXJjZTR3b21l
+bi5jb22CH3N0YWdlLW1lZGljYXJlbWFkZWNsZWFyLnVoYy5jb22CGXN0YWdlLXVo
+Y2V4Y2hhbmdlLnVoYy5jb22CGHRlc3QtdWhjZXhjaGFuZ2UudWhjLmNvbYIXdWhj
+LWFtcy1vZmZsaW5lLnVoYy5jb22CG3VoYy1hbXMtc3RnLW9mZmxpbmUudWhjLmNv
+bYIPdWhjLWN0Yy51aGMuY29tgg91aGMtZGV2LnVoYy5jb22CD3VoYy1lbHIudWhj
+LmNvbYIVdWhjLWdwZC1ncmVlbi51aGMuY29tghd1aGMtZ3BkLXByZXZpZXcudWhj
+LmNvbYIOdWhjLXFhLnVoYy5jb22CFXVoYy1zdGFnZS1hd3MudWhjLmNvbYIRdWhj
+LXN0YWdlLnVoYy5jb22CB3VoYy5jb22CD3VoY2FjYXBsYW5zLmNvbYIPdWhjZXhj
+aGFuZ2UuY29tghJ1aGNnZW5lcmF0aW9ucy5jb22CDXVoY2xhdGluby5jb22CDnVo
+Y3ByZW1pdW0uY29tgg51aGNyZXRpcmVlLmNvbYIPdWhjdG9nZXRoZXIuY29tghR1
+bml0ZWRoZWFsdGhjYXJlLmNvbYIXdW5pdGVkaGVhbHRocHJlbWl1bS5jb22CD3d3
+dy1hbXMudWhjLmNvbYIPd3d3LWF3cy51aGMuY29tgh53d3cuYWNjb3VudGFibGVj
+YXJlYW5zd2Vycy5jb22CF3d3dy5iZWFzbWFydHBhdGllbnQuY29tghF3d3cuYnJh
+bmQudWhjLmNvbYIXd3d3LmNvbXByYXBsYW5lc2FjYS5jb22CFnd3dy5kZXNpZ253
+aXRoY2FyZS5jb22CEnd3dy5lbmdhZ2UudWhjLmNvbYIWd3d3LmV2ZXJ5cHJlZ25h
+bmN5LmNvbYIWd3d3LmdldHVoY2V4Y2hhbmdlLmNvbYIXd3d3LmhlYWx0aGlubnVt
+YmVycy5jb22CFXd3dy5oZWFsdGh5YXRjb2xhLmNvbYIWd3d3Lm0ucHJvZC1hcHAu
+dWhjLmNvbYINd3d3Lm0udWhjLmNvbYIZd3d3Lm1lZGljYXJlZXhwbGljYWRvLmNv
+bYIZd3d3Lm1lZGljYXJlbWFkZWNsZWFyLmNvbYIZd3d3Lm15Y2hvaWNlbm90Y2hh
+bmNlLmNvbYIld3d3Lm9mZmxpbmUtbWVkaWNhcmVtYWRlY2xlYXIudWhjLmNvbYIR
+d3d3Lm9uZW5ldHBwby5jb22CFHd3dy5wcm9kLWFwcC51aGMuY29tgh93d3cuc2hv
+cGFmZm9yZGFibGVjYXJlcGxhbnMuY29tghd3d3cuc2hvcHVoY2FjYXBsYW5zLmNv
+bYIUd3d3LnNvdXJjZTR3b21lbi5jb22CI3d3dy5zdGFnZS1tZWRpY2FyZW1hZGVj
+bGVhci51aGMuY29tghN3d3cudWhjYWNhcGxhbnMuY29tghN3d3cudWhjZXhjaGFu
+Z2UuY29tghZ3d3cudWhjZ2VuZXJhdGlvbnMuY29tghF3d3cudWhjbGF0aW5vLmNv
+bYISd3d3LnVoY3ByZW1pdW0uY29tghJ3d3cudWhjcmV0aXJlZS5jb22CE3d3dy51
+aGN0b2dldGhlci5jb22CGHd3dy51bml0ZWRoZWFsdGhjYXJlLmNvbYIbd3d3LnVu
+aXRlZGhlYWx0aHByZW1pdW0uY29tMIIBiAYKKwYBBAHWeQIEAgSCAXgEggF0AXIA
+dwAcn2gs6frwRWlQ+BuWiofd2zIQ2EzmyLLjglJKxM9ZnwAAAaCvrKaGAAAEAwBI
+MEYCIQCkyqw/BPIRa1tsu2nxozd5t8xcHAH3DDZ3aAWLN7804AIhANWC0Q9Ldw3D
+AeRIcGyebqXqCEJH0mTNNEMsoWbVNGgTAH8AWW5sM4aUsllyolbIoOjdkEp26Ag9
+2oc7AQg4KBQ87lkAAAGgr6ynugAIAAAFAATKs20EAwBIMEYCIQDgE4aFjk4nFOTe
+lsyVnZkK5ES9MlNwq3SbcVMB/QRpygIhAL5LOrsRl0ybIed93UqJVanTbjpss2SG
+a0jFgSj71WSdAHYARqI5Z8YNtkaHxm89+ZmUdpOmphEghFfVVefj0KHZtkYAAAGg
+r6yobwAABAMARzBFAiAMoISCAgaIc1OGibl4lNH+is5WUlOIF/+sqvMGmHSodQIh
+ANF5tUeJ8arxA5xGZw2tm3f0AK4clAIPjhIdZg1NJakCMA0GCSqGSIb3DQEBCwUA
+A4IBgQCl+49bqH9Dft2Xn+NQ4U+iFSK1zpaDu6K7exHgfAa9qDjO3ebqPxd9y2gv
+eQMWzHfD0VwAuFLvDGNXVQl1TNpqjO2nxsO7t2BLFaMyDwQx/sUW72egCiaOHagd
+aYSVlyCX3Nwg7LauHGxcB+pi8xaWwIUoTGAF1GbBa05DPfeGZ+Xhnlp2J9B/py25
+E7hONYMhHHquOy2wGV8MgIEnCXIz8TM0Dp+EwRNxzO2bpGZ9N7q15n9saarAzyPv
+HfeYfz/fcr6liTU0BoAX/wcyvy5x8y+DTkGjnJdtIc8iy751+JS4WgkdPWIj5KMw
+I59cST+0j2e9kYG599XmnRYdKCcRwCsIRcFH0MA2uoOmQu+d+EJPZYzAmtJ76oyp
+DeuYAQl1/dYNh6Gh9WuNDswFMEiitWUxpXtu911l0iRX45ppF+BkB9AzRxYa5UOX
+TubQRunFDEx+agcgLQdUQWd5C8ryjMnvS/QBXEpTHZ/PskWcxw+36Gbu9cXqeNko
++QaEl64=
+-----END CERTIFICATE-----
+subject=C=US, ST=Minnesota, O=UnitedHealth Group Inc., CN=www.uhc.com
+issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: rsa_pkcs1_sha512
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 9691 bytes and written 1622 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: CDF94D2C0206EE55689BBCFF60A83B4F79BE1E7D011FF59C99D3ED1A284E8B77
+    Session-ID-ctx: 
+    Master-Key: 985E50E12A2C97FE61A4ED78D2148E522A7FBB2B6401C63A755DD4B54FCB7825F3DBD055BEEBE4E32C9D5D8297AE091A
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - f1 59 6d f9 4d db e0 42-b7 75 8e 73 f4 22 d6 27   .Ym.M..B.u.s.".'
+    0010 - a0 c5 f8 8d 80 2e d0 b7-16 bf 28 10 9f 59 b8 f0   ..........(..Y..
+    0020 - 3d 6b 08 93 9a 13 6d 0e-32 d0 d6 8f 93 9b a8 67   =k....m.2......g
+    0030 - 13 10 ad 11 8b e6 48 f5-80 db e5 4e 30 4b 97 6f   ......H....N0K.o
+    0040 - 11 9a 39 40 c4 03 5f 44-bc 41 fd 95 1c f2 af ea   ..9@.._D.A......
+    0050 - d5 03 4b cd 7b 96 4c 26-89 a9 f6 ab f5 0f 7a 7a   ..K.{.L&......zz
+    0060 - 81 8d ca a9 32 e1 56 67-ae a7 7f 13 08 ef 86 9c   ....2.Vg........
+    0070 - c4 0f 5d af f4 f3 b9 51-fd 83 02 59 68 19 34 ea   ..]....Q...Yh.4.
+    0080 - b2 47 10 d1 54 17 7b d0-f4 fd 22 d5 7f fb 3f c7   .G..T.{..."...?.
+    0090 - 36 aa 29 bb 66 a7 2c eb-57 63 e4 8e 93 07 32 09   6.).f.,.Wc....2.
+    00a0 - 5e de cd 25 ed 16 ce bc-52 af d3 35 c8 6c e2 49   ^..%....R..5.l.I
+    00b0 - a7 d6 ac d5 49 d4 99 7a-5e d5 6b 8d c5 35 c7 29   ....I..z^.k..5.)
+
+    Start Time: 1792921657
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---
+ECH: NOT CONFIGURED: -103
+---

@@ -1,0 +1,71 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=mychart.com
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep 30 00:00:00 2026 GMT; NotAfter: Mar 30 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Nov  2 12:23:37 2017 GMT; NotAfter: Nov  2 12:23:37 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGFjCCBP6gAwIBAgIQDG4F4rbYGbR1FhU8jUSFUzANBgkqhkiG9w0BAQsFADBg
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR8wHQYDVQQDExZHZW9UcnVzdCBUTFMgUlNBIENBIEcx
+MB4XDTI2MDkzMDAwMDAwMFoXDTI3MDMzMDIzNTk1OVowFjEUMBIGA1UEAxMLbXlj
+aGFydC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDwmvZHU5fY
++Jkp23lLCt/T8HMTMaAEhNATwh2DTmLI0YEJ/k0on7EBKZXJp2MtGS7Exb6F2oAD
+BC9hLmzxzukRy9MCBkJqSd80rwjrFJCxS+FOVjAuU2AN9n+rLm/xrE+ovTO6TFBJ
+eNW3S86jmGa3jgx6WbIQzi32Ciy5StycvFdwMlFtHJ1obdzXbCoBa7CiWk6NaJOZ
+2wQfBA9RiKqybrYF5FoWIQO7VXzNkELVBBA7SvZhqjz97U0KqdnCpixrK7gxSib3
+bTJV0UY7Kus0gk2b+Dkgy/Ew2jaJZnuq/p0g1a9ySI8bVaiYENtY6OpJGDGsv9do
+4AF0X8dvJCg9AgMBAAGjggMUMIIDEDAfBgNVHSMEGDAWgBSUT9Rdi+Sk4qaA/v3Y
++QDvo74CVzAdBgNVHQ4EFgQUyrS6g5uYwH1PSbeCOw8mSixgRjAwFgYDVR0RBA8w
+DYILbXljaGFydC5jb20wPgYDVR0gBDcwNTAzBgZngQwBAgEwKTAnBggrBgEFBQcC
+ARYbaHR0cDovL3d3dy5kaWdpY2VydC5jb20vQ1BTMA4GA1UdDwEB/wQEAwIFoDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwPwYDVR0fBDgwNjA0oDKgMIYu
+aHR0cDovL2NkcC5nZW90cnVzdC5jb20vR2VvVHJ1c3RUTFNSU0FDQUcxLmNybDB2
+BggrBgEFBQcBAQRqMGgwJgYIKwYBBQUHMAGGGmh0dHA6Ly9zdGF0dXMuZ2VvdHJ1
+c3QuY29tMD4GCCsGAQUFBzAChjJodHRwOi8vY2FjZXJ0cy5nZW90cnVzdC5jb20v
+R2VvVHJ1c3RUTFNSU0FDQUcxLmNydDAMBgNVHRMBAf8EAjAAMIIBfgYKKwYBBAHW
+eQIEAgSCAW4EggFqAWgAdQBMY9yY5Zwdq4j2Hoo93q6Pq0SjN3tfm5TD+6Gc/MG+
+JgAAAaDyzmDzAAAEAwBGMEQCIH/UbDrFHJvWTgFer90J7egkGtIToLFzp9CxdJuS
+U0V1AiBYzQs9ACLVxugZNU6PAEmPq8PW5Ol6pBfs3G8fOdMMEAB2ANbVjanQF1Pz
+akqgx1dJAq/rx9ws04zZ92TIDIkZHp8CAAABoPLOYOYAAAQDAEcwRQIgE0QkMLWG
+8GqDGegSl3qpaiMS4xFGGV9ep+kx7qF5ddICIQCcDSyTH1jmMSEfrCWG4SQLySwe
+QrUn023yP+7lcg+M/wB3AETCvQzpFA5kpclKAZMKWqG7NZcOAO4RFoloKhxE17Vm
+AAABoPLOYIwAAAQDAEgwRgIhALHGBwkk/LGN4CT8J1tqgwzUvXYzkaXmwK5m4uVm
+dGOOAiEA7ByqXBC8sFjm3DPjFfeVKYGj3e3rRnj+Qw+eF5SWSUcwDQYJKoZIhvcN
+AQELBQADggEBADhnFf25CFHzRqkbBF6RS/v2rZQIyYX+IIiXWMUtbULOsiRzocrj
+H4Hl9KW+JbN+hsmBY7M02Z8urtAVePoWJ1zh9wePSxK56M+8Nh3cdB3cyyDKAerP
+GENazZ+DYexuPCKHbfhexZPnny4tM0XgoK10yHtkg0jHhIvXH7iVS0I6cm+QqQqG
+h7667D3ly0D/fAei3pxG2DeCCgM568Fb6u+1P29viV186PHAF+1X5fzOhmJYG3dX
+IdI1y9SDYI4qgbHHnM9MvRsRHpAKRf+IUvv4TmtYl/60XpLVmZ7Sg89qok2uniJH
+oUcRGdTehM9MvrF6UV3B4AlnduWgx11ngrs=
+-----END CERTIFICATE-----
+subject=CN=mychart.com
+issuer=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 3352 bytes and written 1929 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

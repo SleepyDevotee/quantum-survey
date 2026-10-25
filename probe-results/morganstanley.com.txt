@@ -1,0 +1,112 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=New York, O=Morgan Stanley, CN=www.morganstanley.com
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R40
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct 14 00:00:00 2026 GMT; NotAfter: Apr 30 23:59:59 2027 GMT
+ 1 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R40
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: May 14 00:00:00 2025 GMT; NotAfter: May 13 23:59:59 2040 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+ 3 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Feb  1 00:00:00 2010 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHNzCCBZ+gAwIBAgIQJyztDAYj1jtBNmD9RRg0WjANBgkqhkiG9w0BAQsFADBg
+MQswCQYDVQQGEwJHQjEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFB1YmxpYyBTZXJ2ZXIgQXV0aGVudGljYXRpb24gQ0EgT1YgUjQw
+MB4XDTI2MTAxNDAwMDAwMFoXDTI3MDQzMDIzNTk1OVowWTELMAkGA1UEBhMCVVMx
+ETAPBgNVBAgTCE5ldyBZb3JrMRcwFQYDVQQKEw5Nb3JnYW4gU3RhbmxleTEeMBwG
+A1UEAxMVd3d3Lm1vcmdhbnN0YW5sZXkuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAmKE3PmVBHl7zlP2SjIVbAEa5z/LIqRgpbNqNEX7ugX5P7fU+
+l0tJARFYtcFPo0ABSaWG9J4FGpklwNGLqc+NA8csAQu44ipSqcsnvO/AJ1sbvtKw
+F1xJfrszqxoEuJOhJMRQxfbyR/US9gF2zGPfC1TpeOtUDqK+gxhkDwB2T/FSyfZA
+HJ/BxtBtyoZ0NeSYOFqFmys21YzmEJH3k8ULpILiEdQ7VjoFEz6bc9Va3QBpP0Eq
+AaJjNb+bo0a5bI8vsLYpBZKa+ojNCgulj6y/p9eU2u7LlwImmvqpPxtSMRt3IYx4
+UuP66/WZWH0yfEm75xDuwUeWS70LE3cjCIBpDQIDAQABo4IDcjCCA24wHwYDVR0j
+BBgwFoAUe+JJoWC0u+hC5sanVBEcYWRTVdEwHQYDVR0OBBYEFId+6lORoEIPEKvD
+IIXKqfQN0r0eMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMBMGA1UdJQQM
+MAoGCCsGAQUFBwMBMBMGA1UdIAQMMAowCAYGZ4EMAQICMFQGA1UdHwRNMEswSaBH
+oEWGQ2h0dHA6Ly9jcmwuc2VjdGlnby5jb20vU2VjdGlnb1B1YmxpY1NlcnZlckF1
+dGhlbnRpY2F0aW9uQ0FPVlI0MC5jcmwwgYQGCCsGAQUFBwEBBHgwdjBPBggrBgEF
+BQcwAoZDaHR0cDovL2NydC5zZWN0aWdvLmNvbS9TZWN0aWdvUHVibGljU2VydmVy
+QXV0aGVudGljYXRpb25DQU9WUjQwLmNydDAjBggrBgEFBQcwAYYXaHR0cDovL29j
+c3Auc2VjdGlnby5jb20wfQYDVR0RBHYwdIIVd3d3Lm1vcmdhbnN0YW5sZXkuY29t
+ghFtb3JnYW5zdGFubGV5LmNvbYIGbXMuY29tghxvcmlnaW4td3d3Lm1vcmdhbnN0
+YW5sZXkuY29tggp3d3cubXMuY29tghZ3d3cyLm1vcmdhbnN0YW5sZXkuY29tMIIB
+hgYKKwYBBAHWeQIEAgSCAXYEggFyAXAAdgDW1Y2p0BdT82pKoMdXSQKv68fcLNOM
+2fdkyAyJGR6fAgAAAaE3+kH9AAAEAwBHMEUCIQCP3x1APZ44PeSXABAbzxg0I+CX
+fsx3DYgXMNqaNg4oVAIgEH/1DZBqCj4cqoXI9KYQ1t/Jdv8e7fg62UzelMO9JYEA
+fgBZbmwzhpSyWXKiVsig6N2QSnboCD3ahzsBCDgoFDzuWQAAAaE3+kKRAAgAAAUA
+DMicVAQDAEcwRQIhAN4zECbwczChk5CCjZ9CfyA4MTjZjApjgAZdoPAhBR0lAiBE
+AilM697rYgItNnHvD2w61gOmYGHEi+kyN3GpCO3xZgB2AO3a64FcYyE0SbR75Qd5
+BavQ2TFHwnrFFGs7xY5D6bbHAAABoTf6QncAAAQDAEcwRQIhAJWc8PbA59jtR2i6
+3zdXc9Gc9AXG34X70RUFV6gJnNTiAiBUrR3TiNSvDl7OMe4wfacE7lsLkCr7CQUJ
+ev8dsnCpAzANBgkqhkiG9w0BAQsFAAOCAYEAFpy13asqA3wygW8eZqMCuDQ22weT
+cMV3ITMSRc8i+YQrAP4kEccsJh9YmSoliKtWiA6R2flQsUOx69DQIDTQiTfIX24x
+8ntBn//CIN5hlGpaBfUMwBKKyh0dnOdWZm0oDYvQ7hFCHixldcXFVMmSeOzJ6CIb
+NkXm4Fjwxe4J86UqSdai81lGIgiyFAK/hGF8uRMMH6J9LVC13jm7GhmcdRcV0UoZ
+HxaIA21i/DHftcDvZIP/G5+4Nxj/nMFpoL7aN2Kgp06RuSSfzzWEOWoC/5nboTJ5
+rBMt/VlQPQeFb/cXaJqUSxy9kRvCUOJQifYFkuAkm4tNiu8ZN9a7OMcPesUUFxK7
+HyD8E/vAKfJfP3HBq7QOKwWdVDnVUSxAa7ZzFKDGXFsnyjB7ZEqOuHNVE9uA41ID
+Ix/Dueqr2h8kr+vfLZ2UeG0CpH+wjCfhdXo+2ctid9T+Br3Hsp6+0qbBhTyUX/iU
+nAyDzshMn4qOTd/OVRTW48cc2EGvNgQX7LSW
+-----END CERTIFICATE-----
+subject=C=US, ST=New York, O=Morgan Stanley, CN=www.morganstanley.com
+issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R40
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 7331 bytes and written 1599 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 218A21C6C7AB2152EFB650FF1C4DB5665B91673D23B87999A2EF33955E908CEE
+    Session-ID-ctx: 
+    Master-Key: 88A7AC467FEF5ED6B32F8C59DA5D7DB5919054B6249AA74F7D4AC02977DF71EF080FACEAA5EDA2F8830280294FCBA1A7
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 83100 (seconds)
+    TLS session ticket:
+    0000 - 00 00 03 79 b0 4c 6f fd-50 a1 b3 3b f9 85 88 89   ...y.Lo.P..;....
+    0010 - b2 95 66 06 46 7d 92 50-c2 d9 33 4f 26 8e d3 46   ..f.F}.P..3O&..F
+    0020 - 34 dd c8 cd 77 c4 12 89-62 20 8b 98 d6 a2 23 cb   4...w...b ....#.
+    0030 - ab dc 80 0e ed 1e f9 85-24 5f 6a b6 c3 12 19 9f   ........$_j.....
+    0040 - 4a 9b ee ef 00 57 37 7d-a6 77 d5 6a b3 57 d8 ee   J....W7}.w.j.W..
+    0050 - 67 ac 54 6e d5 3a 7d 67-2e b3 8e aa 6a 5d 9e 2b   g.Tn.:}g....j].+
+    0060 - 2e d4 d3 77 ee 1c e9 b4-78 30 42 4a 53 ab 70 23   ...w....x0BJS.p#
+    0070 - db dd 22 1a b1 8e f0 08-33 c9 47 8b 67 92 f8 27   ..".....3.G.g..'
+    0080 - 27 4e c1 65 2e a0 68 a8-52 f0 86 1b c6 9e 06 44   'N.e..h.R......D
+    0090 - bc a5 12 99 5c cd 67 be-a1 17 92 66 9d 1c da 24   ....\.g....f...$
+    00a0 - d1 96 1b 24 de af c8 39-bf 3d d0 4a 70 9a f9 7e   ...$...9.=.Jp..~
+    00b0 - fa 94 d7 4a b6 c7 bb 9e-9e 61 23 11 38 8d e0 46   ...J.....a#.8..F
+    00c0 - be dc 61 f6 68 e1 71 69-58 f3 79 ad 60 ac 95 4d   ..a.h.qiX.y.`..M
+
+    Start Time: 1792921644
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

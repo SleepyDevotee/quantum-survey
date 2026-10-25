@@ -1,0 +1,100 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=docker.com
+   i:C=US, O=Let's Encrypt, CN=YR1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep 28 09:34:18 2026 GMT; NotAfter: Dec 27 09:34:17 2026 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=YR1
+   i:C=US, O=ISRG, CN=Root YR
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
+ 2 s:C=US, O=ISRG, CN=Root YR
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: RSA, 4096 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFADCCA+igAwIBAgISBpi4oWEgW+40LcvzkmyPiPz5MA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNZUjEwHhcNMjYwOTI4MDkzNDE4WhcNMjYxMjI3MDkzNDE3WjAVMRMwEQYDVQQD
+Ewpkb2NrZXIuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1Mii
+G1C0w9LfNezYZfFnm6wC7YQWWPS14NQD0w4ggweUD/3zWVX/zcdoQVK5fhhfuV1K
+H0uTJXGeXeu43yro9Vyh9sgaaKMIXe4PA9803AZ4AdQV7tAC253O9U9LVli4/qJ2
+8zy2GO6gE+2+HY/prec8gsqXPt6Vr6uMPKdhUkI7xjvtLWPVzVBUOUzRLfNkyuH9
+9/kLiDOVHjV40iogXExZbhbgBRFgf2o5wzFOnKJKcB6aqggMS3s0jGhCnXCe5jly
+8ycuGqWVFwGFulsLgE0aNIOR7h5uTrmBbsWJgOc6IUWVPLYehzl+vNlhJuPMSr5f
+pA/Z7FDQ1WtN4hFD6wIDAQABo4ICKjCCAiYwDgYDVR0PAQH/BAQDAgWgMBMGA1Ud
+JQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFIKibz1WTHOW
+NdgiW+5/64U3xqJ4MB8GA1UdIwQYMBaAFB8vNb5GFILNQLGueSxVePr31Gj7MDMG
+CCsGAQUFBwEBBCcwJTAjBggrBgEFBQcwAoYXaHR0cDovL3lyMS5pLmxlbmNyLm9y
+Zy8wJQYDVR0RBB4wHIIKZG9ja2VyLmNvbYIOd3d3LmRvY2tlci5jb20wEwYDVR0g
+BAwwCjAIBgZngQwBAgEwLwYDVR0fBCgwJjAkoCKgIIYeaHR0cDovL3lyMS5jLmxl
+bmNyLm9yZy8xMjIuY3JsMIIBDQYKKwYBBAHWeQIEAgSB/gSB+wD5AH8ARq+GPTs+
+5Z+ld96oJF02sNntIqIj9GF3QSKUUu6VUF8AAAGg55MLXwAIAAAFADcguYcEAwBI
+MEYCIQCU7Ae/XVPe97SYVnRDhi05lBeIH/Da/p/df92tPfbjHAIhANFjpALB1vxW
+Hb/D9dmkn59yiMKg6sXs4JhF5jBrR3NHAHYAyzj3FYl8hKFEX1vB3fvJbvKaWc1H
+CmkFhbDLFMMUWOcAAAGg55MiWgAABAMARzBFAiAxN2QT02BiNOOdMju964ohtWbg
++/nrEQVymMj1c0TOsgIhAJpS1y5RNPt0IsjJZgLTrWhPPYXf941JsElX7CwekPCR
+MA0GCSqGSIb3DQEBCwUAA4IBAQAQJ9H9iGu43F7r+Jtiu/kVjjSAQ+fAbgIfZUTO
+ch3J/n5e+2SrB48+2HfHr7Td71ckzR46ynesb67PR3EANqmdgB1WrNWmh0kqSfwI
+s7xzB3lt5Iho3hL0IBFz3lZ7kEJhQJGUUly1X0J2bRcabf1wrJpgGZRtZUQqUiUM
+Um4X7gFvTrO+8KcNwJqrORvASxm5rfeNrql4owphZLIOOYT+GG9jFEEs4dcMHQTs
+M3RYKF0Dw0Fb5KqvSKmyN2ALI+GvF9RVaqBb7OAsKa9VfQFVJlMt2XLrJbjr+4ns
+eEBVXiiwlYrs18Z6KjrOPxQVNiHyjUoFiyxVuvwhxNBkcC6z
+-----END CERTIFICATE-----
+subject=CN=docker.com
+issuer=C=US, O=Let's Encrypt, CN=YR1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 5701 bytes and written 1563 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: DEAF5E0EFB08F84D82D6A35A9C0CAAF0800B2990145C05EC7B9E24435B56EA6A
+    Session-ID-ctx: 
+    Resumption PSK: D00062C8E93BB0509E1E133B72E66B4E5B8A69A1D76BF173D5A04F8AABF3EE55
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
+    0010 - 94 dc 7e 7f 5b 13 1b 02-6f 53 8b 42 23 37 fa 8c   ..~.[...oS.B#7..
+    0020 - b0 4b 88 b3 e0 95 8c 26-3c 81 d8 b6 b6 da 0c 57   .K.....&<......W
+    0030 - 4f b5 af 3a 32 89 74 78-ba 63 27 5c 07 a5 65 95   O..:2.tx.c'\..e.
+    0040 - f5 61 3a 07 70 8f 14 22-17 c6 ae 70 e5 2a 32 77   .a:.p.."...p.*2w
+    0050 - 95 ed 36 b0 d1 29 22 d9-4e 88 89 31 72 26 85 6b   ..6..)".N..1r&.k
+    0060 - 74 75 9d 0d 37 da f1 a9-ed ac c4 37 f1 a7 fa 42   tu..7......7...B
+    0070 - 9d bc d4 db 72 51 e8 10-47 cc 76 83 cc cf 14 f8   ....rQ..G.v.....
+    0080 - ec b8 85 ee 83 a3 8a 7f-d8 09 07 03 48 ea 4e 47   ............H.NG
+    0090 - de a9 10 10 e0 3b 36 35-07 60 b2 37 a8 b1 78 e1   .....;65.`.7..x.
+
+    Start Time: 1792921679
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 8192
+---
+read R BLOCK

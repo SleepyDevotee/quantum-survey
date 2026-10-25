@@ -1,0 +1,84 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:serialNumber=351364, jurisdictionC=US, jurisdictionST=Ohio, businessCategory=Private Organization, C=US, ST=Ohio, O=Huntington Bancshares Incorporated, CN=huntington.com
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA EV E36
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Sep 24 00:00:00 2026 GMT; NotAfter: Apr 10 23:59:59 2027 GMT
+ 1 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA EV E36
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root E46
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Mar 21 23:59:59 2036 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root E46
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust ECC Certification Authority
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+ 3 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust ECC Certification Authority
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust ECC Certification Authority
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Feb  1 00:00:00 2010 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHBjCCBqygAwIBAgIQdAGomqT6gGCI/TSk0y/J8jAKBggqhkjOPQQDAjBgMQsw
+CQYDVQQGEwJHQjEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQDEy5T
+ZWN0aWdvIFB1YmxpYyBTZXJ2ZXIgQXV0aGVudGljYXRpb24gQ0EgRVYgRTM2MB4X
+DTI2MDkyNDAwMDAwMFoXDTI3MDQxMDIzNTk1OVowgb4xDzANBgNVBAUTBjM1MTM2
+NDETMBEGCysGAQQBgjc8AgEDEwJVUzEVMBMGCysGAQQBgjc8AgECEwRPaGlvMR0w
+GwYDVQQPExRQcml2YXRlIE9yZ2FuaXphdGlvbjELMAkGA1UEBhMCVVMxDTALBgNV
+BAgTBE9oaW8xKzApBgNVBAoTIkh1bnRpbmd0b24gQmFuY3NoYXJlcyBJbmNvcnBv
+cmF0ZWQxFzAVBgNVBAMTDmh1bnRpbmd0b24uY29tMFkwEwYHKoZIzj0CAQYIKoZI
+zj0DAQcDQgAEcmF6Vd2sdPwttQJmG5h0nm1gze75sdfSeKS1qDpapYIEH5UcFGRu
+Rg/h30bXCPzbxa5P4H2VWrhYt1MFCHNmAqOCBOcwggTjMB8GA1UdIwQYMBaAFOJx
+Zsc65Qa2XZtBChVqLcWx5jd0MB0GA1UdDgQWBBR8EjRneiWAQqhlCNZsG2gupeZS
+xzAOBgNVHQ8BAf8EBAMCB4AwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEF
+BQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA1BgwrBgEEAbIxAQIBBQEwJTAjBggr
+BgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwBwYFZ4EMAQEwVAYDVR0f
+BE0wSzBJoEegRYZDaHR0cDovL2NybC5zZWN0aWdvLmNvbS9TZWN0aWdvUHVibGlj
+U2VydmVyQXV0aGVudGljYXRpb25DQUVWRTM2LmNybDCBhAYIKwYBBQUHAQEEeDB2
+ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LnNlY3RpZ28uY29tL1NlY3RpZ29QdWJs
+aWNTZXJ2ZXJBdXRoZW50aWNhdGlvbkNBRVZFMzYuY3J0MCMGCCsGAQUFBzABhhdo
+dHRwOi8vb2NzcC5zZWN0aWdvLmNvbTCCAbEGA1UdEQSCAagwggGkgg5odW50aW5n
+dG9uLmNvbYIUYXBwbHkuaHVudGluZ3Rvbi5jb22CHWJ1c2luZXNzb25saW5lLmh1
+bnRpbmd0b24uY29tgiFidXNpbmVzc29ubGluZWRlbW8uaHVudGluZ3Rvbi5jb22C
+LGJ1c2luZXNzb25saW5laW50ZXJhY3RpdmVkZW1vLmh1bnRpbmd0b24uY29tghNi
+eW9kLmh1bnRpbmd0b24uY29tggloYmdvLm1vYmmCEG0uaHVudGluZ3Rvbi5jb22C
+Gm1haW50ZW5hbmNlLmh1bnRpbmd0b24uY29tghxvbmxpbmViYW5raW5nLmh1bnRp
+bmd0b24uY29tghJwaHlzaWNpYW5sb2Fucy5jb22CE3BoeXNpY2lhbnNsb2Fucy5j
+b22CFnByZXZpZXcuaHVudGluZ3Rvbi5jb22CGnNlbGZzZXJ2aWNlLmh1bnRpbmd0
+b24uY29tghJ3d3cuaHVudGluZ3Rvbi5jb22CFnd3dy5waHlzaWNpYW5sb2Fucy5j
+b22CF3d3dy5waHlzaWNpYW5zbG9hbnMuY29tMIIBhQYKKwYBBAHWeQIEAgSCAXUE
+ggFxAW8AdQBgTJqven93XwHUBvySDciZ6wscffjJUhv6+hd3O5eLyQAAAaDT3ZjB
+AAAEAwBGMEQCIFvuMadJL3KNoiWck4ieMb/GZ3qmru8EkcTk+ua3+YrjAiA1FAyr
+gXIcHznHUJZkXMsggaU5y56mHMm0lBFBP/bIEwB+AFlubDOGlLJZcqJWyKDo3ZBK
+dugIPdqHOwEIOCgUPO5ZAAABoNPdmLsACAAABQAFiVlrBAMARzBFAiA3JmlVq7G7
+SIZGQYeTrGeQjUnoRsKs0bqwRhvfz89QkQIhALqyhBCJi3EK0CP+9wML3Q48HiA1
+C/Je5wuM1OGBYKlAAHYA1tWNqdAXU/NqSqDHV0kCr+vH3CzTjNn3ZMgMiRkenwIA
+AAGg092aAwAABAMARzBFAiEA2sc0kkz7Lm5qGY3GZQF6sxQ24/9SOHtxG0UhMK6A
+YGgCIHM/lt1zPF0dljrUGtx8Spne+UNbruzJ9hxQRE+70NJ7MAoGCCqGSM49BAMC
+A0gAMEUCICHFsc8qtJRcS/tAbEaG8WDioHEdt7A0blFNTfl5yePFAiEA9aAmY3bI
+ylSK9QhSLYyShbIv3RSXUUm+y2fPStK96Q4=
+-----END CERTIFICATE-----
+subject=serialNumber=351364, jurisdictionC=US, jurisdictionST=Ohio, businessCategory=Private Organization, C=US, ST=Ohio, O=Huntington Bancshares Incorporated, CN=huntington.com
+issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA EV E36
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 5648 bytes and written 1583 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

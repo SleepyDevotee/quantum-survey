@@ -1,0 +1,69 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=mozilla.org
+   i:C=US, O=Google Trust Services, CN=WR3
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep 14 09:15:07 2026 GMT; NotAfter: Dec 13 10:07:59 2026 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WR3
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: RSA, 4096 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jun 19 00:00:42 2020 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE+jCCA+KgAwIBAgIQErPd1e6q0dAQZV5Bks19XTANBgkqhkiG9w0BAQsFADA7
+MQswCQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQww
+CgYDVQQDEwNXUjMwHhcNMjYwOTE0MDkxNTA3WhcNMjYxMjEzMTAwNzU5WjAWMRQw
+EgYDVQQDEwttb3ppbGxhLm9yZzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBALOD55LL4jPDpyPHuer2vtUY/igbNyvD5q/vHxj2b7K3XZgki2ZTQSiCfHBD
+8bq6VWVOtAuqiBIqbU5T0YWClHG8ENhXZBnT8sj728wfmZCW15S/pmu4WQW9smYQ
+qjElJ6DnspwYtcL204d6k0I+2VXF5QYPrLXysHPL1bxOM4Plrx8guX6fvr5mEFl1
+6xARNGWE60bUiOwroN1ZhXboi81WKDeLxkubsePl9ZDLsEv44TMCXAb2Ftx8Hdao
+vmhLxYFSGnTA8Q8MAZQ6tG3UReoIoRcsMRMiasLtinebAiUb32hszHEq2D+kkmV6
+xPlmbnkn/7UK+W/6Md+BbinEH1kCAwEAAaOCAh0wggIZMA4GA1UdDwEB/wQEAwIF
+oDATBgNVHSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSP
+qFsF9pmqptoNK3pe+IZBumbvrjAfBgNVHSMEGDAWgBTHgfX9jojZADxNY6JQMSSg
+ziP+IzA1BggrBgEFBQcBAQQpMCcwJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5n
+b29nL3dyMy5jcnQwFgYDVR0RBA8wDYILbW96aWxsYS5vcmcwEwYDVR0gBAwwCjAI
+BgZngQwBAgEwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd3Iz
+L183U2RSdGoyV3JJLmNybDCCAQYGCisGAQQB1nkCBAIEgfcEgfQA8gB3ANgJVTuU
+T3r/yBYZb5RPhauw+Pxeh1UmDxXRLnK7RUsUAAABoJ9p1F0AAAQDAEgwRgIhAKPc
+abAa+TyHJ9tHdZTk5auRxBs1hXY3NdBtcNjc9gBIAiEAt5vE57DqiMzD+qW45VuX
+ywBsDD7s2b6a+WhkurcQSYgAdwB0251Y99R+nf14ehYqmRwYz2mNp8cpkYyaGLBF
+DbpEvAAAAaCfadSkAAAEAwBIMEYCIQDsVyatFikikXXQhip3qyZgnSSynaaDB4lR
+m+o127RkdAIhAINJEsBZjKmBdvLs8sa9cX3HIHZpiCRa+E0a0KtW9SSyMA0GCSqG
+SIb3DQEBCwUAA4IBAQB4DTJdjv5eSnkq8i93DmXLjmJqLUHcvGqKD4hDHQYGDY/A
+ewxmDzMOptr8YyY1DlCdkpDb2s7EzjLf7JnMU0aQLZEsfgN95jNENca8UJEff4k1
+IiQldffMPGWoZoC1aYOHunats8Su7rNYvyhN8cYdv+Rh+a7GH1Tq5pX2fn4j9730
+dYMGfvXEdZsTI5UgYolbhp+g57+wVEs6PBGtghkyLoKaBEaDtaedc2j3ekMNQU+w
+M5tJQxBjFjGnvCNqL1mtB2XnGM6LoIIAFOs2mjfCd7IjZ9QHIXy3NUqeDS7VNhEj
+eciasL6l1yZ1OOgEcQ3bIH0gkBayaojWPrIM9rzr
+-----END CERTIFICATE-----
+subject=CN=mozilla.org
+issuer=C=US, O=Google Trust Services, CN=WR3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 5547 bytes and written 1580 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

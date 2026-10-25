@@ -1,0 +1,96 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=District of Columbia, O=Department of Treasury, CN=treasury.gov
+   i:C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct  8 00:00:00 2025 GMT; NotAfter: Nov  8 23:59:59 2026 GMT
+ 1 s:C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Dec 11 00:00:00 2024 GMT; NotAfter: Dec 10 23:59:59 2027 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Mar 21 23:59:59 2046 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIH7zCCBlegAwIBAgIRAPuWLh3Isd1BXWtaLv/CS7cwDQYJKoZIhvcNAQELBQAw
+UTELMAkGA1UEBhMCQ0ExGDAWBgNVBAoTD0VudHJ1c3QgTGltaXRlZDEoMCYGA1UE
+AxMfRW50cnVzdCBPViBUTFMgSXNzdWluZyBSU0EgQ0EgMjAeFw0yNTEwMDgwMDAw
+MDBaFw0yNjExMDgyMzU5NTlaMGQxCzAJBgNVBAYTAlVTMR0wGwYDVQQIExREaXN0
+cmljdCBvZiBDb2x1bWJpYTEfMB0GA1UEChMWRGVwYXJ0bWVudCBvZiBUcmVhc3Vy
+eTEVMBMGA1UEAxMMdHJlYXN1cnkuZ292MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAlfCaj+ggxOKPr6+5kUWMDs5sSxcaQ3di4uhx/NcaRaaKuyeToIXb
+hHBnaNwr6o5Pj1wBRo0EAbBKfeRfrnu/p8EYkjiBKZ4aKpf7OAxoAEzFsjyJ8b2/
+K+X8kBZ73ctWgDigwqZkTs/z2nrhUIHLzD+DfCvDKm5xNZ24Xoknh8fnbU0ieYx4
+61algogm3msmS4EtnWX8HVMwdB7PNzWi8rbNK1HicoXA7fUFirI8ShKcjK5t9Nlz
+W3Oyz+dRh1xWBzoXlF1gugpqy8HHhY+aE4ipD76hyiYXDFBJ+m4w58cq1bqKWnE0
+jv58UwqzdwyQfKlk4LgVlSX3g8B9pDzd9wIDAQABo4IELTCCBCkwHwYDVR0jBBgw
+FoAUF9GvAHT5VftSN9iEdgtbEopQWsUwHQYDVR0OBBYEFIuh00dBor+O24xXfw0l
+8X2WJScSMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQG
+CCsGAQUFBwMBBggrBgEFBQcDAjATBgNVHSAEDDAKMAgGBmeBDAECAjBFBgNVHR8E
+PjA8MDqgOKA2hjRodHRwOi8vY3JsLnNlY3RpZ28uY29tL0VudHJ1c3RPVlRMU0lz
+c3VpbmdSU0FDQTIuY3JsMHUGCCsGAQUFBwEBBGkwZzBABggrBgEFBQcwAoY0aHR0
+cDovL2NydC5zZWN0aWdvLmNvbS9FbnRydXN0T1ZUTFNJc3N1aW5nUlNBQ0EyLmNy
+dDAjBggrBgEFBQcwAYYXaHR0cDovL29jc3Auc2VjdGlnby5jb20wggF/BgorBgEE
+AdZ5AgQCBIIBbwSCAWsBaQB2ANgJVTuUT3r/yBYZb5RPhauw+Pxeh1UmDxXRLnK7
+RUsUAAABmcNQtPQAAAQDAEcwRQIhAPFzksRjAFcEG8SabrERKGr4RkfL8y2QH9E2
+WklH9hNvAiAtLQ2nxK6w1Jc0iwIyiSPZKqGHMb+XHODW91MB7Y0u+gB3AK9niDtX
+sE7dj6bZfvYuqOuBCsdxYPAkXlXWDC/nhYc6AAABmcNQtEUAAAQDAEgwRgIhAM+j
+E86w77e0shSzuK2YqlsKn1v0avag8V0AtYZ/d5e8AiEA8wErlRlvsmWXaj21GeMv
+obrkh1+WC2FBqCCpmgSupPcAdgCsqzBwbOvshDH0E9L0kV8RHkIkQ7HypoxPPCs7
+px4CwwAAAZnDULN7AAAEAwBHMEUCIQCutc0bhc2RTYiToimWV61izkVexubm7qyG
+W3SIgdpNVAIgSxSSiNb0HqwyRwuqILeYurV7Udk+Q+lzL9++yD6crS8wggFSBgNV
+HREEggFJMIIBRYIMdHJlYXN1cnkuZ292ggdhbWEuZ292ggxjZGZpZnVuZC5nb3aC
+CWNmaXVzLmdvdoIHZmZiLmdvdoIVZmluYW5jaWFscmVzZWFyY2guZ292ghZmaW5h
+bmNpYWxzdGFiaWxpdHkuZ292gghmc29jLmdvdoIHaXJzLmdvdoIYbWFraW5naG9t
+ZWFmZm9yZGFibGUuZ292ggdtaGEuZ292gglteWlyYS5nb3aCC215bW9uZXkuZ292
+ggl0aWd0YS5nb3aCDnRpcHMudGlndGEuZ292ghl0cmFuc3BhcmVuY3kudHJlYXN1
+cnkuZ292ggl0cmVhcy5nb3aCD3VzYXNwZW5kaW5nLmdvdoILdXN0cmVhcy5nb3aC
+DXd3dy5jZml1cy5nb3aCDXd3dy50aWd0YS5nb3aCEHd3dy50cmVhc3VyeS5nb3Yw
+DQYJKoZIhvcNAQELBQADggGBAJtj/6J+nMFei3aBMyNHNh47gUHPIqyNDDPCTj7N
+R/WCq5IPV8TaT0r/D+TzmrG/iancwNNqoT13LfAZgZhhFYGzViumdOACSBn4k0Z9
+eLk8TKLqmNfxZXGwnfmJ2klr0fgadc882DPx+duax7AQxTaQJlQjsvAR8ijr3lvd
+BcnPKY9nla28l0904KeRLCLNiWedcDw0KPyw7R+0TWt5KSSyxXmwz41E9AHtI5Df
++0j99QCmeNncbJOYoSHIgKVHfb54ytA3/HlkiyHThZatq47kJMEP0ulH90+Z/cDF
+LZZghATgzDjBqeM2wNTgvVYxemRWzGjdiH7xWaMMSK5ZreZK5LLuTnM/AdzzaA9p
+uoGJQmc7dVt90kJdL4DII2rGD5HwJ/WYb/tDAcEVofZzd16gypzAxmL/UgWRxQcJ
+XJ5j2fHqs5nFINn4zFQ4qhIbTlMP2sPNaR8FSVFuIHtMqIOLpxo0ohWzFlUH4M/T
+45Hr6oHWZE/KwopsEHuDG51JbA==
+-----END CERTIFICATE-----
+subject=C=US, ST=District of Columbia, O=Department of Treasury, CN=treasury.gov
+issuer=C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pkcs1_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 5570 bytes and written 1627 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: EC5BFE45E0BF12481462935B8947FA1293C626A26647A4AF50ADEB77D857CAA1
+    Session-ID-ctx: 
+    Master-Key: F41A6465484491B2440848966BC5D8F96FCDE7B230EA0EF6184F6ABED600F3E49B2902761C7044C139827D8908AAC6DA
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1792921636
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

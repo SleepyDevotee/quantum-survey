@@ -1,0 +1,104 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=QA, ST=Ad Dawḩah, O=Al Jazeera Media Network, CN=*.aljazeera.com
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct  9 00:00:00 2025 GMT; NotAfter: Nov  3 23:59:59 2026 GMT
+ 1 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Mar 21 23:59:59 2036 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHJDCCBYygAwIBAgIQByqisw8cbNAb94RCtxNcuDANBgkqhkiG9w0BAQsFADBg
+MQswCQYDVQQGEwJHQjEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFB1YmxpYyBTZXJ2ZXIgQXV0aGVudGljYXRpb24gQ0EgT1YgUjM2
+MB4XDTI1MTAwOTAwMDAwMFoXDTI2MTEwMzIzNTk1OVowYDELMAkGA1UEBhMCUUEx
+FDASBgNVBAgMC0FkIERhd+G4qWFoMSEwHwYDVQQKExhBbCBKYXplZXJhIE1lZGlh
+IE5ldHdvcmsxGDAWBgNVBAMMDyouYWxqYXplZXJhLmNvbTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBANm1HRXxUdgmgbeoaAWWbSsfb9X+cLbs+lGKnVNb
+BtRXGTzhkpVEt8Wsmqy6pUrrEC7Oe4DV53bAY8sAPEXZujsT8yQVLmmuAk9X9V1q
+MUxP/RbMCfVT6pCvSkqlC5vsWU6xEElHeF8iH2tdATEq6+aSIlszXFuswbDlJOTO
+m9YLFyEiNubRVxLw7oJW3Yi0Us7sGfAEUWdbXYz6ueAREKChNTOFvkynXbYDQ2IU
+K/f+8JAY40vuuvZTT58PjmXxCSRhroSUZaKQ/+qXYFvLmee4QrFff4KnTuMGR/OF
+NUIxlWo07vfl/QEPr3f0DVrS+noHZdMCGMtkeAjTZZHkrC0CAwEAAaOCA1gwggNU
+MB8GA1UdIwQYMBaAFONmdLtwaI0sXU4OpkqPmzcinIKSMB0GA1UdDgQWBBSS2GaZ
+WyO6d6wHDbWVxt1y58hWfzAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSgYDVR0gBEMwQTA1BgwrBgEE
+AbIxAQIBAwQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMw
+CAYGZ4EMAQICMFQGA1UdHwRNMEswSaBHoEWGQ2h0dHA6Ly9jcmwuc2VjdGlnby5j
+b20vU2VjdGlnb1B1YmxpY1NlcnZlckF1dGhlbnRpY2F0aW9uQ0FPVlIzNi5jcmww
+gYQGCCsGAQUFBwEBBHgwdjBPBggrBgEFBQcwAoZDaHR0cDovL2NydC5zZWN0aWdv
+LmNvbS9TZWN0aWdvUHVibGljU2VydmVyQXV0aGVudGljYXRpb25DQU9WUjM2LmNy
+dDAjBggrBgEFBQcwAYYXaHR0cDovL29jc3Auc2VjdGlnby5jb20wKQYDVR0RBCIw
+IIIPKi5hbGphemVlcmEuY29tgg1hbGphemVlcmEuY29tMIIBfwYKKwYBBAHWeQIE
+AgSCAW8EggFrAWkAdgDYCVU7lE96/8gWGW+UT4WrsPj8XodVJg8V0S5yu0VLFAAA
+AZnISM7eAAAEAwBHMEUCIEkyNbwUdUGxC8uBRoBe+SUCTGBayNy49nRxBDFho94J
+AiEA2purt15tO9wKtn9DGkNeZh2/guWm7b7w8RGZ2GbNEPYAdgCvZ4g7V7BO3Y+m
+2X72LqjrgQrHcWDwJF5V1gwv54WHOgAAAZnISM9sAAAEAwBHMEUCIE/0GyotRsN3
+ofcJeUlONslkG5yPPX79PKGgR1ZeedkHAiEAuBWIg+aROqhb+Z9J6h57tC98EZ2E
+1n69MkeEtIOqJZIAdwCsqzBwbOvshDH0E9L0kV8RHkIkQ7HypoxPPCs7px4CwwAA
+AZnISM5uAAAEAwBIMEYCIQCzDOsmoEf8czztmSjqHkXOmgTldxp1SjD0k9s6sFRO
+mQIhAPtG3qJusNXpt5Ig8iblhVblQVAHrsvGZTt8OcThVZzgMA0GCSqGSIb3DQEB
+CwUAA4IBgQApNMnIwwbXvdyw2s3Zc8PJ1EOO+FZFwTPE2OE1rKxP4iPX8qchUfZ2
+ic2tIwUtvsyrEZ2vo9ewxJTX98mwx79YI/0b1qMnbhOKmjvqqlzZjR4LNROgVYQ1
+2yDJlvemPOWYWl92qZXpf3u4sX2Sh978Ua5eVthD4xGSt/oLXK7l69EtxFpxVj9j
+SUpS8W/Sa1Ve25z4n9648UDhY98Blk2RSPZE/V8MCGGWHPZvCOn25u8e0cz59PUV
+uMPcg/ghpstUeTbE18D6Y+m7rZZLTcnwOcKmqc2O92c1kfR3wAiWq61kb6mOXzgP
+SO71FnO12++rjj1xr/Y+tLMEkPfk7M+WVIaoBEVmi0RUOr8IFXTteHtCq4b7bYAq
+lK/0o5VcTfNhC27bhJrJB7Lupv75hr2AwkNhpdpI3uQJ/8uJNryBK8NqJJ4n0Nhc
+ySqlfbBY4cTh+UvPOEi88EsUqb/jRhqkkwEpq6dvTif2/GVnLBwmAN9kEgORsvPR
+5QMQx2zzSVU=
+-----END CERTIFICATE-----
+subject=C=QA, ST=Ad Dawḩah, O=Al Jazeera Media Network, CN=*.aljazeera.com
+issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pkcs1_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 5813 bytes and written 1628 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: B3E6FA5B54EB72CBDB711F906AD2D1273AD2527D315DC30F5E614E2A092C63F7
+    Session-ID-ctx: 
+    Master-Key: FD32FA1113A7A9738A01CFF970429B7A2913FF2C79E134709E53EE08CAE053E97150C1FACA3649F5E389AE025EACFB2D
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 43585 (seconds)
+    TLS session ticket:
+    0000 - 01 17 6a 46 bf 95 1d 4e-7f e7 5b 74 21 d9 1c 50   ..jF...N..[t!..P
+    0010 - d4 ad bd 0a f6 17 10 9c-86 97 d6 2c 99 ef d0 3c   ...........,...<
+    0020 - a8 09 b3 28 78 95 ae a2-23 9d 89 df f7 0a 59 ea   ...(x...#.....Y.
+    0030 - f1 d4 0c 95 11 5b 74 e6-cd a6 39 59 89 f7 86 c1   .....[t...9Y....
+    0040 - fe 73 35 70 19 98 12 9e-4a 30 93 dc 90 ca bc e8   .s5p....J0......
+    0050 - fb 60 e8 d0 ee 5f d7 26-1a 3c 3f 55 ed 39 f4 b1   .`..._.&.<?U.9..
+    0060 - 8c c6 24 f6 3f a8 d6 ec-0a 4a 67 07 9e e6 98 10   ..$.?....Jg.....
+    0070 - 25 56 24 ad 1f a9 d6 42-00 37 a1 d8 16 64 fe 4c   %V$....B.7...d.L
+    0080 - 4b 0b 0e 51 15 1c a4 45-7e fa                     K..Q...E~.
+
+    Start Time: 1792921709
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

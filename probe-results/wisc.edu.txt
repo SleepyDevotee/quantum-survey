@@ -1,0 +1,69 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=wisc.edu
+   i:C=US, O=Let's Encrypt, CN=YR2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct  5 05:37:00 2026 GMT; NotAfter: Jan  3 05:36:59 2027 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=YR2
+   i:C=US, O=ISRG, CN=Root YR
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
+ 2 s:C=US, O=ISRG, CN=Root YR
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: RSA, 4096 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE6TCCA9GgAwIBAgISBeOBYCWm0vPmEAGylXbhIGTZMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNZUjIwHhcNMjYxMDA1MDUzNzAwWhcNMjcwMTAzMDUzNjU5WjATMREwDwYDVQQD
+Ewh3aXNjLmVkdTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMUDHYln
+wmjGO6MgqSjWXa+ky8aON2ZR+laCfLbhtuDNTY+XQU68T0TNfNrMPRkRY+PM61HH
+UTxWLW73EnILSrpEFzegWVMF1B41qNs8X7PzPX77IZXIZNqOEWG1sBXxheY/Ev1s
+G4Qhzbod7VHQvUo+JY0MEAdcGTxFsPRpVZwc2/16TxRATKt1gMHC2usTHZS6DKIj
+GHyC7kGi3qVkFvnzMY/Iew7+Pr60obOAFw5DODW8ABEVzW40dUDF5KuAsR1AZc14
+tbiaGSMnrpibNH8xl4IUCgNwtHNSPbUR3osd9QmqhawwSQIGjVj1W08ieCT0wwkl
+pe4iSM465eQ6FH0CAwEAAaOCAhUwggIRMA4GA1UdDwEB/wQEAwIFoDATBgNVHSUE
+DDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSuKuu5OH5LljRZ
+2fE5y6W3KGI2JzAfBgNVHSMEGDAWgBRAFS0mee0yIJ7fmnId1jIfgQyBDDAzBggr
+BgEFBQcBAQQnMCUwIwYIKwYBBQUHMAKGF2h0dHA6Ly95cjIuaS5sZW5jci5vcmcv
+MBMGA1UdEQQMMAqCCHdpc2MuZWR1MBMGA1UdIAQMMAowCAYGZ4EMAQIBMC4GA1Ud
+HwQnMCUwI6AhoB+GHWh0dHA6Ly95cjIuYy5sZW5jci5vcmcvOTAuY3JsMIIBCwYK
+KwYBBAHWeQIEAgSB/ASB+QD3AHYARqI5Z8YNtkaHxm89+ZmUdpOmphEghFfVVefj
+0KHZtkYAAAGhCsZPNAAABAMARzBFAiA5Zcq+aWhywlaxj4gdwoD/nNgQ4HGN/uCI
+8pGz3gUvRwIhAN2C92h5bGy/MdvjCcv5sSaWKyj1gZCr8c0SO+4x3rjFAH0AjspH
+C6zeavOiBrCkeoS3Rv4fxr+VPiXmm07kAkjzxugAAAGhCsZSlQAIAAAFAByF8/cE
+AwBGMEQCIAS5uRuZfm6DKZVV3F3i8vqqgveFkSIFuh43BFjgXU8FAiATz2EMMWmo
+CSqWJ+HORHI26Rwqb33W7h2RadT8x3O+UjANBgkqhkiG9w0BAQsFAAOCAQEAiTxh
+ZzNRSfafzx2HbaaqHsgABe7N/uUn9EH5Zg4AWnMArCXmKnFdst+yGxqolLsBvKmk
+0/CQ8tn5+3r0bmFdrixSLfct8IzYqLU68dwU94GEJNpKQ8StAzigEIMBOV6eVdTB
+A0qO5CMGgSjq78QbsOa+t34V0NzCPUnin/x2qvrE4eJMSJV8C/DgnKPxLNE8F4La
+RXXZ25g0XuhzBNGJ65rXBAuAOoLL9pcxH2mIIpB9rZWgy7bSF5QzAE52qQbdd7/q
+38QzMZJ74O/PAybCvsaJC/48/gd2cP/fEX8KoX70vA0ntPMbJlHqtv9ivuNKbi58
+wnrd5jtAiDMvEV+tFw==
+-----END CERTIFICATE-----
+subject=CN=wisc.edu
+issuer=C=US, O=Let's Encrypt, CN=YR2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4682 bytes and written 1874 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

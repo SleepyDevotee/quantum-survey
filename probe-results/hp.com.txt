@@ -1,0 +1,106 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=California, L=Palo Alto, O=HP Inc, CN=hpcom-pro-domain-cloudfront-13.hpcloud.hp.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct  1 00:00:00 2026 GMT; NotAfter: Apr 17 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIL4TCCCsmgAwIBAgIQB1J2Snk4fhZ1nwxPwfVxxDANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjYx
+MDAxMDAwMDAwWhcNMjcwNDE3MjM1OTU5WjB/MQswCQYDVQQGEwJVUzETMBEGA1UE
+CBMKQ2FsaWZvcm5pYTESMBAGA1UEBxMJUGFsbyBBbHRvMQ8wDQYDVQQKEwZIUCBJ
+bmMxNjA0BgNVBAMTLWhwY29tLXByby1kb21haW4tY2xvdWRmcm9udC0xMy5ocGNs
+b3VkLmhwLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAN5KBx8I
+yTMqKQHTCX2pCy1qtr9StSSoMdZfzNThL1qby4z53/i32jBLMeRbxui/M0Y+G6JK
+6mmJmtzlJvbaC7NUQPfU72aGPxS2VCJKtKJb31jNXQiZ/MWbS0Vtdn+3Dxjt2nhh
+B+cdIgZbcQcb3p6UdTfc21+u9aoTSFzLspP5aJA71HkcEVhxo6mPbu4vYNQZO3qg
+a+SmzVrwC9NMCfDxg5DeUrNsLMu2wpCQkGRKWdOkoBoTCpZeJim9hK6PjNjjUSoU
+9LP+Dmw/qbWhLdIy15xTkgqnbRlpfUhNJy/fzNObZ4FMZoZapJx3Fi5AVMfplocJ
+kP3gV5+dASiThHkCAwEAAaOCCH0wggh5MB8GA1UdIwQYMBaAFHSFgMBmx9833s+9
+KTeqAx2+7c0XMB0GA1UdDgQWBBSoMvPb2Dg6tMWC3T+sTAFg6fkRszCCBQgGA1Ud
+EQSCBP8wggT7gi1ocGNvbS1wcm8tZG9tYWluLWNsb3VkZnJvbnQtMTMuaHBjbG91
+ZC5ocC5jb22CGXdpcmVsZXNzY29sb3JwcmludGVycy5jb22CCnd3dzNocC5jb22C
+EXdlYnByaW50c21hcnQuY29tgg93d3docGRpcmVjdC5jb22CE3d3dy53d3docGRp
+cmVjdC5jb22CCXd3d2hwLmNvbYIRd3d3aHBzaG9wcGluZy5jb22CDnd3dy53d3cz
+aHAuY29tgg13d3cud3d3aHAuY29tghZ0b3VjaHNtYXJ0cHJpbnRlcnMuY29tghV3
+d3cud3d3aHBzaG9wcGluZy5jb22CFXRvdWNoc21hcnRwcmludGVyLmNvbYIJd3d3
+LmhwLmNhggVocC5iZYIJaHAuY29tLm5mggx3d3cuaHAuY28ua2WCCGhwLmNvLnRo
+ggx3d3cuaHAuY28ua3KCCGhwLmNvLmNyggl3d3cuaHAuY2yCDXd3dy5ocC5jb20u
+a26CCXd3dy5ocC5jb4IIaHAuY28ua3KCCWhwLmNvbS5qbYIJd3d3LmhwLmNngg13
+d3cuaHAuY29tLm15ggx3d3cuaHAuY28uamWCCGhwLmNvLmlsghJoMzAxNjcud3d3
+My5ocC5jb22CDHd3dy5ocC5jby52ZYIIaHAuY28udWuCDHd3dy5ocC5jby5teoIM
+d3d3LmhwLmNvLmF0gg13d3cuaHAuY29tLm14gghocC5jby5pZIINd3d3LmhwLmNv
+bS5tdYIPd3d3Lnd3dzgtaHAuY29tgglocC5jb20ubXmCCWhwLmNvbS5teIIMd3d3
+LmhwLmNvLm56ghJoMjA1NDUud3d3Mi5ocC5jb22CDXd3dy5ocC5jb20uam2CCWhw
+LmNvbS5tdYIIaHAuY28udWeCCGhwLmNvLnR6gg13d3cuaHAuY29tLm5mggVocC5h
+bYIJd3d3LmhwLmJlggx3d3cuaHAuY28ucnOCDHd3dy5ocC5jby51a4IJaHAuY29t
+LnBrgghocC5jby5yc4IJaHAuY29tLnBlggx3d3cuaHAuY28uaWSCDXd3dy5ocC5j
+b20uaG6CCWhwLmNvbS5wYYINd3d3LmhwLmNvbS5ocoINd3d3LmhwLmNvbS5sdoII
+aHAuY28uamWCDHd3dy5ocC5jby51Z4IIaHAuY28ubXqCCWhwLmNvbS5ocoIJaHAu
+Y29tLmx2ggx3d3cuaHAuY28uemGCC3d3dzgtaHAuY29tgghocC5jby52ZYIJaHAu
+Y29tLmhugghocC5jby5hdIIJd3d3LmhwLmFtgghocC5jby56YYIJaHAuY29tLmhr
+ggx3d3cuaHAuY28uaWyCBWhwLmNsggVocC5jZ4INd3d3LmhwLmNvbS5wYYIFaHAu
+Y2GCDHd3dy5ocC5jby5jcoIMd3d3LmhwLmNvLnRogghocC5jby5rZYIIaHAuY28u
+bnqCDHd3dy5ocC5jby50eoINd3d3LmhwLmNvbS5oa4IJaHAuY29tLmtugg13d3cu
+aHAuY29tLnBlgg13d3cuaHAuY29tLnBrggVocC5jb4IGaHAuY29tggp3d3cuaHAu
+Y29tggoxMjMuaHAuY29tgg53d3cuMTIzLmhwLmNvbYIVaHBidXNpbmVzc3Jld2Fy
+ZHMuY29tghxocGJ1c2luZXNzcmV3YXJkc3BhcnRuZXIuY29tMD4GA1UdIAQ3MDUw
+MwYGZ4EMAQICMCkwJwYIKwYBBQUHAgEWG2h0dHA6Ly93d3cuZGlnaWNlcnQuY29t
+L0NQUzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMIGfBgNVHR8EgZcwgZQwSKBGoESGQmh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNv
+bS9EaWdpQ2VydEdsb2JhbEcyVExTUlNBU0hBMjU2MjAyMENBMS0xLmNybDBIoEag
+RIZCaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzJUTFNS
+U0FTSEEyNTYyMDIwQ0ExLTEuY3JsMIGHBggrBgEFBQcBAQR7MHkwJAYIKwYBBQUH
+MAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBRBggrBgEFBQcwAoZFaHR0cDov
+L2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzJUTFNSU0FTSEEy
+NTYyMDIwQ0ExLTEuY3J0MAwGA1UdEwEB/wQCMAAwggGABgorBgEEAdZ5AgQCBIIB
+cASCAWwBagB3AExj3JjlnB2riPYeij3ero+rRKM3e1+blMP7oZz8wb4mAAABoPjR
+eBwAAAQDAEgwRgIhAKWHqfcBhAJ5slNw5VADc8x87NOlMG/w0Hy2NaLrAs/NAiEA
+2TNzPW6NiT6PBai/RsLQPnRbekUNnVFIiwT91nONC7IAdwDW1Y2p0BdT82pKoMdX
+SQKv68fcLNOM2fdkyAyJGR6fAgAAAaD40XgLAAAEAwBIMEYCIQDWkDUS4ClxTyGb
+d7JteuYCzyNoIKoOcIV0qpEFiEnJsgIhAIF/Zz9b7hAB7MwozySFiRWrx/mltO44
+wNaF+O6IDrUvAHYARMK9DOkUDmSlyUoBkwpaobs1lw4A7hEWiWgqHETXtWYAAAGg
++NF4JgAABAMARzBFAiBAL6IeHpSs0zvpJQWVoVXJ/hw7850t26e3Gs/x/ar27QIh
+AMvHSQ4NeZprSfUrannvmXSXxRSc+/fSpZgh5mu9dryiMA0GCSqGSIb3DQEBCwUA
+A4IBAQDASTbiNkPNksns13BRcBDpWyDd92+ivOVQzSBZQYy83BLwmN1cmz9mJMHL
+0eezSYEvdOQKd1PtPiv6cOGp72Rwq6B0aeqFTYDm4W6prbvg2+qxTCocGpGTX35B
+7JMdmf52lmgnkfR+EOYlCCQ5KAqOy2fxD9YPUxvyYAOOa2AZ5PWpV5zvmtMK+MqL
+C2Yt5Vn9lGCrUMqhTEqkCa8GKlvtE20QhHtOc3INJj20GGaiMxp2L0hzphX/sBi3
+47xXazIQlEJDrY/q4oN152JwaI9WAtKeQtox9WyF0Yp5LsGCiYeon1HtwYkE7BUp
+N2f9ptsugsyTl1tCqsjDjUt7RDBH
+-----END CERTIFICATE-----
+subject=C=US, ST=California, L=Palo Alto, O=HP Inc, CN=hpcom-pro-domain-cloudfront-13.hpcloud.hp.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 6829 bytes and written 1559 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

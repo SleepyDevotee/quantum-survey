@@ -1,0 +1,100 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=*.frontend.public.atl-paas.net
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M04
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jul 27 00:00:00 2026 GMT; NotAfter: Feb  9 23:59:59 2027 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M04
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug 23 22:26:35 2022 GMT; NotAfter: Aug 23 22:26:35 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIKzDCCCbSgAwIBAgIQDyQ0FpzJGp3nUbwaVFjBqTANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTA0MB4XDTI2MDcyNzAwMDAwMFoXDTI3MDIwOTIzNTk1OVowKTEn
+MCUGA1UEAwweKi5mcm9udGVuZC5wdWJsaWMuYXRsLXBhYXMubmV0MIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwekfgPT6Vp9eXLMBhNscDhrDigkCYJWu
+juvdz+EhFMJKzYGGBer2yRke6lMg4XLZF739rxLcnTBL5u30ZBT/85OuQV+VQcAo
+oPs72IDfJAclsyfirseH7wmSL3EVyYMlhIM2sVDG70zO3bP8m1fcHamwb4JqhSkR
+MYPBVYGyBpKp6aKqf+nBIDTq7YtI9KuJkB7lXnx2UvTGhQ0Sjqja6WWQo0V8tF3r
+KAAtjkgZzdLESuDfBI/c3bpzlJnOTtj5SADbJ1suU7wWaa0JlasX4sD1VsR7ZuAY
+jUTKCZi0gGb7srDcU4Bk1qUlosmJvx+gb3nkyiVO2SPfxBkdq8PvOwIDAQABo4IH
+2zCCB9cwHwYDVR0jBBgwFoAUH1KSYVaCVH+BZtgdPQqqMlyH3QgwHQYDVR0OBBYE
+FBnsrm8TByV+Bn2Z4Cxe2p+rJbjzMIIFFQYDVR0RBIIFDDCCBQiCHiouZnJvbnRl
+bmQucHVibGljLmF0bC1wYWFzLm5ldIINYml0YnVja2V0Lm9yZ4IPKi5iaXRidWNr
+ZXQuY29tgg4qLmJpdGJ1Y2tldC5pb4ISKi50ZWFtd29ya2dyYXBoLmFpgh8qLmRl
+dnNwaGVyZS50b29scy5hdGxhc3NpYW4uY29tgiIqLmRhdGFhcHBzLnNoYXJlZC5h
+dGxhc3NpYW4tM3AuY29tggoqLnJvdm8uY29tggoqLmhhbHAuY29tgghoYWxwLmNv
+bYIYKi5pbnRlcm5hbC5hdGxhc3NpYW4uY29tghBhdGxhc3NpYW4uZGVzaWdugg8q
+LmF0bGFzc2lhbi5jb22CKCoucHJvZC1hcHNlLmZyb250ZW5kLnB1YmxpYy5hdGwt
+cGFhcy5uZXSCJCoudXMtd2VzdC0yLnByb2QucHVibGljLmF0bC1wYWFzLm5ldIIO
+Ki5hdGwtcGFhcy5uZXSCGCoucHJvZC5hdGxhc3NpYW4tZGV2Lm5ldIIeKi5zYm94
+LnNoYXJlZC5hdGxhc3NpYW4tM3AuY29tggxiaXRidWNrZXQuaW+CKCoucHJvZC1l
+YXN0LmZyb250ZW5kLnB1YmxpYy5hdGwtcGFhcy5uZXSCHioucmVtaXgucHJvZC5h
+dGxhc3NpYW4tZGV2Lm5ldIIRdGVhbXdvcmtncmFwaC5jb22CDyouYXRsYXNzaWFu
+LmRldoIoKi5wcm9kLXdlc3QuZnJvbnRlbmQucHVibGljLmF0bC1wYWFzLm5ldIIQ
+dGVhbXdvcmtncmFwaC5haYINYXRsYXNzaWFuLmRldoIxKi5waXBlbGluZXMtcmVt
+b3RlLWFjY2Vzcy5zaGFyZWQuYXRsYXNzaWFuLTNwLmNvbYIHYXBrZy5pb4IMKi50
+cmVsbG8uY29tggp0cmVsbG8uY29tgiAqLmthaXplbi5zaGFyZWQuYXRsYXNzaWFu
+LTNwLmNvbYIQYXRsYXNzaWFuLTNwLmNvbYIbKi5hdGxhc3NpYW4taXNvbGF0ZWQt
+M3AuY29tgg1hdGxhc3NpYW4uY29tgikqLnByb2Qtd2VzdDIuZnJvbnRlbmQucHVi
+bGljLmF0bC1wYWFzLm5ldIIqKi5wcm9kLWV1d2VzdC5mcm9udGVuZC5wdWJsaWMu
+YXRsLXBhYXMubmV0ghMqLnRlYW13b3JrZ3JhcGguY29tghAqLmJ5dGVidWNrZXQu
+b3JnghMqLnByb2QuYXRsLXBhYXMubmV0gi0qLnByb2QtZXVjZW50cmFsLmZyb250
+ZW5kLnB1YmxpYy5hdGwtcGFhcy5uZXSCCGppcmEuY29tgghyb3ZvLmNvbYIpKi5w
+cm9kLWFwc2UyLmZyb250ZW5kLnB1YmxpYy5hdGwtcGFhcy5uZXSCEiouYXRsYXNz
+aWFuLTNwLmNvbYINYml0YnVja2V0LmNvbYIkKi51cy1lYXN0LTEucHJvZC5wdWJs
+aWMuYXRsLXBhYXMubmV0gg8qLmJpdGJ1Y2tldC5vcmeCGWF0bGFzc2lhbi1pc29s
+YXRlZC0zcC5jb22CFiouc3RhdHVzLmF0bGFzc2lhbi5jb22CCSouYXBrZy5pb4IO
+Ynl0ZWJ1Y2tldC5vcmeCCiouamlyYS5jb22CFnB1ZHMucHJvZC5hdGwtcGFhcy5u
+ZXSCGioucHJvZC5wdWJsaWMuYXRsLXBhYXMubmV0MBMGA1UdIAQMMAowCAYGZ4EM
+AQIBMA4GA1UdDwEB/wQEAwIFoDATBgNVHSUEDDAKBggrBgEFBQcDATA7BgNVHR8E
+NDAyMDCgLqAshipodHRwOi8vY3JsLnIybTA0LmFtYXpvbnRydXN0LmNvbS9yMm0w
+NC5jcmwwdQYIKwYBBQUHAQEEaTBnMC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcC5y
+Mm0wNC5hbWF6b250cnVzdC5jb20wNgYIKwYBBQUHMAKGKmh0dHA6Ly9jcnQucjJt
+MDQuYW1hem9udHJ1c3QuY29tL3IybTA0LmNlcjAMBgNVHRMBAf8EAjAAMIIBfgYK
+KwYBBAHWeQIEAgSCAW4EggFqAWgAdgBMY9yY5Zwdq4j2Hoo93q6Pq0SjN3tfm5TD
++6Gc/MG+JgAAAZ+h749UAAAEAwBHMEUCIFhwAOpQhHbjVtjKaQMve+3MMR7+5XxP
+jvnazNZ8PyvNAiEA3voxZx1bkHMdon9l8+xqhppA5pQ6GE0/fZsSyGWhWQ8AdgDW
+1Y2p0BdT82pKoMdXSQKv68fcLNOM2fdkyAyJGR6fAgAAAZ+h749JAAAEAwBHMEUC
+IHgeGmJBUDN9lMH4GSNoWp+DDZryR8vFQyU+NUAW6YYqAiEAsznLu1Ch/94uUZrB
+j6sWh52w0IeZNeWd3rytVZGBQSAAdgAcn2gs6frwRWlQ+BuWiofd2zIQ2EzmyLLj
+glJKxM9ZnwAAAZ+h75APAAAEAwBHMEUCIGxLF+m/nOal1C/kKJep2xyTcnYXBE+r
+qD7DtmGTBA8qAiEAvcKrRoVGED9JE/Ee2y0cqwfikkuA0mEG/VKFUNzuZCwwDQYJ
+KoZIhvcNAQELBQADggEBAHtnW6pbQuOlXhtYMbK4XErvNRihiI5jswzaLX++Oma8
+04Z+D8shJnuHWkWMBQiGwpHQ2oFFHCz0dXeiGZBq/bbWexNulO0Z58XuAdezKlha
+04SnE38/nOB+fzZ0UfKVunaPLNPaT8ESj84DXscEpnb22KIfRjMtpKQiiczXeZ6j
+sD8twHuxHUT9BdQNbrtlMEzKTAc/qZVWO+ifKue1/OufM/JKLudlUaNwpZPpTrzI
+lDO0PsSCGSvdmMhIfTWlJ5rEz+Y3EiYh7d/MCABAJVhkAiCbVK44M9Wi9ForyXTQ
+t/haRmkzVPgjH2dMr78BJHMn0CTlgUDjKetHIegKcpQ=
+-----END CERTIFICATE-----
+subject=CN=*.frontend.public.atl-paas.net
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M04
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 6706 bytes and written 1566 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

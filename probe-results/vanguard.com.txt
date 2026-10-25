@@ -1,0 +1,82 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=www.vanguard.com
+   i:C=US, O=Let's Encrypt, CN=YR2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep 24 06:45:44 2026 GMT; NotAfter: Dec 23 06:45:43 2026 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=YR2
+   i:C=US, O=ISRG, CN=Root YR
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
+ 2 s:C=US, O=ISRG, CN=Root YR
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: RSA, 4096 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHTTCCBjWgAwIBAgISBRCCOeBUj8AJkouM9z7ci18zMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNZUjIwHhcNMjYwOTI0MDY0NTQ0WhcNMjYxMjIzMDY0NTQzWjAbMRkwFwYDVQQD
+ExB3d3cudmFuZ3VhcmQuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAmoqLbjbfm+JOu8EG+cotVU8aX2pnURkUrw1uZ52x7FFg9atlg5B7i7KfhlEW
+HNEcscw43av732uWhjwKTwap5BKVrnp6q008cavZK1jWEOO2c/h1Puk9VtSbAfa2
+NSsNvujJOqWMy72Oxb/rSnFa5pUsj649CdyRjKDw6CFyOK5o80EgOG7FzGrAL/v1
+smIJoH1Bi0Mc61PBfdQyBtTKG4PihTMlB3tLKGYDY8bl23BfHoTU8NXV+UlMUkcX
+twD6s83//LBuxqO9dFSa1KOXPHHi/G166Xi/s83fwA4VUvj2wFZx14AjBmQqJlAD
+SqNb9v2IKrZbm8RkfghlV6hb0QIDAQABo4IEcTCCBG0wDgYDVR0PAQH/BAQDAgWg
+MBMGA1UdJQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFNHj
+ukj9uELGxaPhpSiq9v44gsr6MB8GA1UdIwQYMBaAFEAVLSZ57TIgnt+ach3WMh+B
+DIEMMDMGCCsGAQUFBwEBBCcwJTAjBggrBgEFBQcwAoYXaHR0cDovL3lyMi5pLmxl
+bmNyLm9yZy8wggJrBgNVHREEggJiMIICXoIgYmFsYW5jZS1ieS1kYXRlLndlYi52
+YW5ndWFyZC5jb22CGWJhbGFuY2VzLndlYi52YW5ndWFyZC5jb22CHWMxMW4td2Vi
+LmNkbi53ZWIudmFuZ3VhcmQuY29tghtjaGFsbGVuZ2VzLndlYi52YW5ndWFyZC5j
+b22CG2Nvc3QtYmFzaXMud2ViLnZhbmd1YXJkLmNvbYIjY3VzdG9taXplLXZpZXcu
+Y2RuLndlYi52YW5ndWFyZC5jb22CJmRhc2hib2FyZC1wcmV2aWV3LmNkbi53ZWIu
+dmFuZ3VhcmQuY29tghpkYXNoYm9hcmQud2ViLnZhbmd1YXJkLmNvbYIeZGlzdHJp
+YnV0aW9ucy53ZWIudmFuZ3VhcmQuY29tghlob2xkaW5ncy53ZWIudmFuZ3VhcmQu
+Y29tgidpbnZlc3RtZW50cy1pbmNvbWUuY2RuLndlYi52YW5ndWFyZC5jb22CHW9y
+ZGVyLXN0YXR1cy53ZWIudmFuZ3VhcmQuY29tgiVwZXJzb25hbC1wZXJmb3JtYW5j
+ZS53ZWIudmFuZ3VhcmQuY29tgiVwb3J0Zm9saW93YXRjaC12aWV3cy53ZWIudmFu
+Z3VhcmQuY29tgh9wb3J0Zm9saW93YXRjaC53ZWIudmFuZ3VhcmQuY29tgh10cmFu
+c2FjdGlvbnMud2ViLnZhbmd1YXJkLmNvbYIMdmFuZ3VhcmQuY29tgix3dmUtYXBw
+c2hlbGwtY29tcG9uZW50cy5jZG4ud2ViLnZhbmd1YXJkLmNvbYIQd3d3LnZhbmd1
+YXJkLmNvbTATBgNVHSAEDDAKMAgGBmeBDAECATAuBgNVHR8EJzAlMCOgIaAfhh1o
+dHRwOi8veXIyLmMubGVuY3Iub3JnLzUyLmNybDCCAQ0GCisGAQQB1nkCBAIEgf4E
+gfsA+QB2AMIxfldFGaNF7n843rKQQevHwiFaIr9/1bWtdprZDlLNAAABoNJfSBcA
+AAQDAEcwRQIgEvZclv73/oP7kdynvzI/G60UJTGkvH59lZU9pU8INYoCIQDu3GLb
+KQK8N+/1qOPqyXYU4nSsaVLPNFCfvTxl64DdwQB/AEavhj07PuWfpXfeqCRdNrDZ
+7SKiI/Rhd0EilFLulVBfAAABoNJfSFcACAAABQA0yKqzBAMASDBGAiEA4AMAWsJo
+hkKqusG4gsNRhHemDbPXk+4zoBzoptf9HNECIQDuOt4QxkvxW1p3W8nZ1EC5+va/
+5wXYz/4pZeAdjH3mvDANBgkqhkiG9w0BAQsFAAOCAQEAXpFF8qRhv4AwjqRfzHoi
+jqxpXLwW5/dKK7dPJo5ORBFB0QuFE1QhdMtqnFF4EG0vHSJvAPO0+1fdI+eskTrH
+ABuP5tM6vMEgtEVukdP8lZfB8UDamaIt1+klzNgYFc10xcT5oJcYn6BOsOSMZUY7
+V0pnpo1ZUVs26bjNNAW4R93sCpDxGX6UWEcoYEv9rIXa5y5o7C19McHHfs4TmONl
+5W1EWbg5jIug9yrRGD7EwK2/Ow7hUtuZS4NDz9Nl6ArBN8/sobfcJ/f+7aaXvEC3
+gaPB/ij+DDgV/xnNGwqL2dU7+y7qDlMgiLq9w1CiEK1ca6aYwhl7qjusfNEj8KMD
+fw==
+-----END CERTIFICATE-----
+subject=CN=www.vanguard.com
+issuer=C=US, O=Let's Encrypt, CN=YR2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 6305 bytes and written 1581 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

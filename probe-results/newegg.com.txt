@@ -1,0 +1,90 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=Indiana, L=Indianapolis, O=INOPC Inc., CN=www.usopc.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Sep 15 00:00:00 2026 GMT; NotAfter: Apr  1 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G3
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Apr 14 00:00:00 2021 GMT; NotAfter: Apr 13 23:59:59 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIJljCCCRygAwIBAgIQDkF5DOUxp5PdtvBRNRZVujAKBggqhkjOPQQDAzBZMQsw
+CQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypEaWdp
+Q2VydCBHbG9iYWwgRzMgVExTIEVDQyBTSEEzODQgMjAyMCBDQTEwHhcNMjYwOTE1
+MDAwMDAwWhcNMjcwNDAxMjM1OTU5WjBjMQswCQYDVQQGEwJVUzEQMA4GA1UECBMH
+SW5kaWFuYTEVMBMGA1UEBxMMSW5kaWFuYXBvbGlzMRMwEQYDVQQKEwpJTk9QQyBJ
+bmMuMRYwFAYDVQQDEw13d3cudXNvcGMuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0D
+AQcDQgAEoRQECX7UfnRVZSscD2ASndc3z5xfYiQkVrzhZJMNxJzvn4aRlShaV4di
+780k8OrMkM9y1+CjnQthmuqYzUx14qOCB7owgge2MB8GA1UdIwQYMBaAFIoj655r
+1/k3XfltITl2mqFn3hCoMB0GA1UdDgQWBBQ/ngex2OYgxzJfYLPBwaD2Wq5j/jCC
+BFEGA1UdEQSCBEgwggREgg13d3cudXNvcGMuY29tghNjMS5uZXdlZ2dpbWFnZXMu
+Y29tghNjMi5uZXdlZ2dpbWFnZXMuY29tghljYXJyaWVyY2VudHJhbC5uZXdlZ2cu
+Y29tgg9jaGF0Lm5ld2VnZy5jb22CE2Rvd25sb2FkLm5ld2VnZy5jb22CEGVuaWFj
+Lm5ld2VnZy5jb22CE2VzdW9obmkub25ld2VnZy5jb22CEGZsYXNoLm5ld2VnZy5j
+b22CGGdsb2JhbHNlbGxpbmcubmV3ZWdnLmNvbYIOaGVscC5uZXdlZ2cuY2GCD2hl
+bHAubmV3ZWdnLmNvbYIXaGVscC5uZXdlZ2didXNpbmVzcy5jb22CDWloLm5ld2Vn
+Zy5jb22CE2ltYWdlczEwLm5ld2VnZy5jb22CFGltYWdlczEwLm51dHJlbmQuY29t
+ghVpbWFnZXMxMC5yb3Nld2lsbC5jb22CEmltZ2lvbjQubmV3ZWdnLmNvbYIUaW1r
+Lm5ld2VnZ2ltYWdlcy5jb22CFGludmVzdG9ycy5uZXdlZ2cuY29tggxrYi5uZXdl
+Z2cuY2GCDWtiLm5ld2VnZy5jb22CFWtiLm5ld2VnZ2J1c2luZXNzLmNvbYIJbmV3
+ZWdnLmNhggpuZXdlZ2cuY29tghJuZXdlZ2didXNpbmVzcy5jb22CEG51Z2V0Lm5l
+d2VnZy5jb22CD293czEubmV3ZWdnLmNvbYIScGFydG5lci5uZXdlZ2cuY29tgg1w
+Zi5uZXdlZ2cuY29tghNwbXRjYXJkcy5uZXdlZ2cuY29tghRwcm9tb3Rpb25zLm5l
+d2VnZy5jYYIVcHJvbW90aW9ucy5uZXdlZ2cuY29tgh1wcm9tb3Rpb25zLm5ld2Vn
+Z2J1c2luZXNzLmNvbYIWcHJvbW90aW9ucy5udXRyZW5kLmNvbYIPcHVzaC5uZXdl
+Z2cuY29tghJzZWN1cmUubS5uZXdlZ2cuY2GCE3NlY3VyZS5tLm5ld2VnZy5jb22C
+EHNlY3VyZS5uZXdlZ2cuY2GCEXNlY3VyZS5uZXdlZ2cuY29tghlzZWN1cmUubmV3
+ZWdnYnVzaW5lc3MuY29tghdzZWxsaW5ncGlsb3QubmV3ZWdnLmNvbYIVc3NsLWlt
+YWdlcy5uZXdlZ2cuY29tghNzdGFmZmluZy5uZXdlZ2cuY29tggl1c29wYy5jb22C
+EndhZi1wb2MubmV3ZWdnLmNvbYISd3d3LXRzMS5uZXdlZ2cuY29tghJ3d3ctdHMy
+Lm5ld2VnZy5jb22CDXd3dy5uZXdlZ2cuY2GCDnd3dy5uZXdlZ2cuY29tghZ3d3cu
+bmV3ZWdnYnVzaW5lc3MuY29tghZ3d3cubmV3ZWdnc3RhZmZpbmcuY29tghB3d3cu
+cm9zZXdpbGwuY29tghR3d3cucm9zZXdpbGxob21lLmNvbYIPd3d3Mi5uZXdlZ2cu
+Y29tMD4GA1UdIAQ3MDUwMwYGZ4EMAQICMCkwJwYIKwYBBQUHAgEWG2h0dHA6Ly93
+d3cuZGlnaWNlcnQuY29tL0NQUzAOBgNVHQ8BAf8EBAMCA4gwEwYDVR0lBAwwCgYI
+KwYBBQUHAwEwgZ8GA1UdHwSBlzCBlDBIoEagRIZCaHR0cDovL2NybDMuZGlnaWNl
+cnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzNUTFNFQ0NTSEEzODQyMDIwQ0ExLTIuY3Js
+MEigRqBEhkJodHRwOi8vY3JsNC5kaWdpY2VydC5jb20vRGlnaUNlcnRHbG9iYWxH
+M1RMU0VDQ1NIQTM4NDIwMjBDQTEtMi5jcmwwgYcGCCsGAQUFBwEBBHsweTAkBggr
+BgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tMFEGCCsGAQUFBzAChkVo
+dHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRHbG9iYWxHM1RMU0VD
+Q1NIQTM4NDIwMjBDQTEtMi5jcnQwDAYDVR0TAQH/BAIwADCCAX4GCisGAQQB1nkC
+BAIEggFuBIIBagFoAHYATGPcmOWcHauI9h6KPd6uj6tEozd7X5uUw/uhnPzBviYA
+AAGgompRogAABAMARzBFAiEAp2fZNqORWHd9eMaeZ2os7iPFUxedtxHSFXoYd6/7
+2wkCIESPnxeiPTs5YRKHxxKMylMMtwQ1OUkcrLrJA/nw+uEBAHUARMK9DOkUDmSl
+yUoBkwpaobs1lw4A7hEWiWgqHETXtWYAAAGgompR2AAABAMARjBEAiAuu1riA0i/
+A4vZjr1o2qK1/lMHVWtvCIyDbQLHa49uvwIgSpDKYHLIA5m9IlIFEFquKM6HFtaY
+vlWCyRibOLNP+KQAdwAcn2gs6frwRWlQ+BuWiofd2zIQ2EzmyLLjglJKxM9ZnwAA
+AaCialJXAAAEAwBIMEYCIQDYUsHy2/4nxt56O/a4UPdsrAHmmtyxQCw7HrFCp3/r
+jwIhALbTwgCsdNAUa8k79/Bg9CA/u05iAVq9I3+vEMR0X49fMAoGCCqGSM49BAMD
+A2gAMGUCMBiUuJcZa7g7RopDaZ8KXvZPUc5s7YAy0Lh5FDUlFP4AEC7V85kGfkdC
+3joVYl1WJQIxAIyvEQU+9mH7ujArMo50D4GzycUMmrU11gcfWf4fVVGffgfdiRo4
+02aYA5B1FKj6Hg==
+-----END CERTIFICATE-----
+subject=C=US, ST=Indiana, L=Indianapolis, O=INOPC Inc., CN=www.usopc.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 4804 bytes and written 1563 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

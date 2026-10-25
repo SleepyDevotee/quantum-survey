@@ -1,0 +1,90 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=District of Columbia, L=Washington, O=Federal Trade Commission, CN=www.ftc.gov
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Feb  9 00:00:00 2026 GMT; NotAfter: Feb  8 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Nov  2 12:23:37 2017 GMT; NotAfter: Nov  2 12:23:37 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIJoDCCCIigAwIBAgIQDqISPg6djrxogCeS0E1f3zANBgkqhkiG9w0BAQsFADBg
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR8wHQYDVQQDExZHZW9UcnVzdCBUTFMgUlNBIENBIEcx
+MB4XDTI2MDIwOTAwMDAwMFoXDTI3MDIwODIzNTk1OVowejELMAkGA1UEBhMCVVMx
+HTAbBgNVBAgTFERpc3RyaWN0IG9mIENvbHVtYmlhMRMwEQYDVQQHEwpXYXNoaW5n
+dG9uMSEwHwYDVQQKExhGZWRlcmFsIFRyYWRlIENvbW1pc3Npb24xFDASBgNVBAMT
+C3d3dy5mdGMuZ292MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkjJR
+9FNCRSlGgSj0TWoufHGV5VGbQT479TQtt2khXOwd/RN9v6p7bHN66C9VxX9WfEHr
+erK3VV7w6fESU9V/xnSlURxk4BOGEDmvHNc37KfbxlRU96pv3yIqKAGtipvaIWvT
+Tn14p1NPzPwWTMESC9XTQQrZwl7EpI8WXtCREwPx2tDEAt1TQXCZY6G6itE/TpgS
+A0WvvtXIOV9RIhnecVPRR0QvDyn+oQQumKx/FLtPpkR8mKoM5qa4qzxblXHXHTV3
+9JddaaCyCc4meU/7znG/FeQHJ6aLLpQaz3El0cskXXEmv3czgupQIeaAKS63ntSU
+6s4g/j/tlfAjXyHBZwIDAQABo4IGOjCCBjYwHwYDVR0jBBgwFoAUlE/UXYvkpOKm
+gP792PkA76O+AlcwHQYDVR0OBBYEFPCdX0uoq7uyg6RTaFWPFOMtJwsHMIIDQwYD
+VR0RBIIDOjCCAzaCC3d3dy5mdGMuZ292ghFhbGVydGFlbmxpbmVhLmdvdoIRYnVs
+a29yZGVyLmZ0Yy5nb3aCEmJ1bGtvcmRlcjIuZnRjLmdvdoIQYnVzaW5lc3MuZnRj
+LmdvdoIQY29uc3VtZXIuZnRjLmdvdoIMY29uc3VtZXIuZ292ghJjb25zdW1pZG9y
+LmZ0Yy5nb3aCDmNvbnN1bWlkb3IuZ292ghJkb250c2VydmV0ZWVucy5nb3aCFmVk
+aXQuYnVsa29yZGVyLmZ0Yy5nb3aCFWVkaXQuY29uc3VtZXIuZnRjLmdvdoIRZWRp
+dC5jb25zdW1lci5nb3aCDGVkaXQuZnRjLmdvdoIZZWRpdC5taWxpdGFyeWNvbnN1
+bWVyLmdvdoIUZWRpdC5zdGFnaW5nLmZ0Yy5nb3aCB2Z0Yy5nb3aCB2hzci5nb3aC
+EGxvYWR0ZXN0LmZ0Yy5nb3aCFW1pbGl0YXJ5LmNvbnN1bWVyLmdvdoIUbWlsaXRh
+cnljb25zdW1lci5nb3aCC29pZy5mdGMuZ292ghFvbmd1YXJkb25saW5lLmdvdoIO
+c2VhcmNoLmZ0Yy5nb3aCGXN0YWdpbmcuYnVsa29yZGVyLmZ0Yy5nb3aCGHN0YWdp
+bmcuY29uc3VtZXIuZnRjLmdvdoIUc3RhZ2luZy5jb25zdW1lci5nb3aCD3N0YWdp
+bmcuZnRjLmdvdoIcc3RhZ2luZy5taWxpdGFyeWNvbnN1bWVyLmdvdoIVd3d3LmFs
+ZXJ0YWVubGluZWEuZ292ghV3d3cuYnVsa29yZGVyLmZ0Yy5nb3aCFHd3dy5idXNp
+bmVzcy5mdGMuZ292ghR3d3cuY29uc3VtZXIuZnRjLmdvdoIQd3d3LmNvbnN1bWVy
+LmdvdoIWd3d3LmNvbnN1bWlkb3IuZnRjLmdvdoISd3d3LmNvbnN1bWlkb3IuZ292
+ghZ3d3cuZG9udHNlcnZldGVlbnMuZ292ggt3d3cuaHNyLmdvdoIZd3d3Lm1pbGl0
+YXJ5LmNvbnN1bWVyLmdvdoIYd3d3Lm1pbGl0YXJ5Y29uc3VtZXIuZ292ghV3d3cu
+b25ndWFyZG9ubGluZS5nb3YwPgYDVR0gBDcwNTAzBgZngQwBAgIwKTAnBggrBgEF
+BQcCARYbaHR0cDovL3d3dy5kaWdpY2VydC5jb20vQ1BTMA4GA1UdDwEB/wQEAwIF
+oDATBgNVHSUEDDAKBggrBgEFBQcDATA/BgNVHR8EODA2MDSgMqAwhi5odHRwOi8v
+Y2RwLmdlb3RydXN0LmNvbS9HZW9UcnVzdFRMU1JTQUNBRzEuY3JsMHYGCCsGAQUF
+BwEBBGowaDAmBggrBgEFBQcwAYYaaHR0cDovL3N0YXR1cy5nZW90cnVzdC5jb20w
+PgYIKwYBBQUHMAKGMmh0dHA6Ly9jYWNlcnRzLmdlb3RydXN0LmNvbS9HZW9UcnVz
+dFRMU1JTQUNBRzEuY3J0MAwGA1UdEwEB/wQCMAAwggF/BgorBgEEAdZ5AgQCBIIB
+bwSCAWsBaQB3AExj3JjlnB2riPYeij3ero+rRKM3e1+blMP7oZz8wb4mAAABnD+5
+qQsAAAQDAEgwRgIhAJeb5TT1UynJbtzcMDlE2RHa6xP7v214uVjcdO6lzjEaAiEA
+kJYM1ujvtVtYGC/VfsgIl46YGKFGqRf+cQZi1aSdV8wAdwAcn2gs6frwRWlQ+BuW
+iofd2zIQ2EzmyLLjglJKxM9ZnwAAAZw/uakUAAAEAwBIMEYCIQDzhHRHaOieZv8a
+L1faOtJYMBrhrfLgUQKWGI6V8jd8lAIhAIemkm2671S1Q9Da6eO6PC0KSf1o4bSz
+4bKd1Z9aEzpRAHUAYEyar3p/d18B1Ab8kg3ImesLHH34yVIb+voXdzuXi8kAAAGc
+P7mp8QAABAMARjBEAiBrOoH7uQ8HnKedwv1yX8ba5y5DqoI+1ByCj0AmrqsRzwIg
+RUjsjVeZ6+ccNL6Vt+ruoZKsqw7IXPOGZ4SkDAEFdZUwDQYJKoZIhvcNAQELBQAD
+ggEBAI3IF4HBcKaDaJZuATfOhLHmdcco0afXiQcyYxhNj+RnZBIjOFYIVIzrQEW8
+M2uNbgpOyVwoJ+FshRZWxvrGfqAaGl5DTrxyDawGyNQhtCm5JfYAVdjYPknxsWJt
+2ws02+sXaYN0FBd56okD0sahv7T3p2SEfvfJCux4li20YGLpM0FyK90agkCmjiHa
+NIjbkjeHYeAuW5SrKbDul+9UKhR4pn/DK5jUaAM2I9KYW2oP3dXPe/lnlp1+m4nq
+O52SUW1RKYPzBhsb66Wo3x8oUVrG3oeVRRHj8uEztePFC3mES8HIePZSTWjxJ0bb
+9UR5o9VIp5pfCfQcai75xaQFF44=
+-----END CERTIFICATE-----
+subject=C=US, ST=District of Columbia, L=Washington, O=Federal Trade Commission, CN=www.ftc.gov
+issuer=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 5290 bytes and written 1576 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

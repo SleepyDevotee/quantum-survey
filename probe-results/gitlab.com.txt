@@ -1,0 +1,83 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=gitlab.com
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Apr 26 00:00:00 2026 GMT; NotAfter: Nov 10 23:59:59 2026 GMT
+ 1 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Mar 21 23:59:59 2036 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+ 3 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGzzCCBTegAwIBAgIQATQW7gptkcoGEbo6Tdt29jANBgkqhkiG9w0BAQsFADBg
+MQswCQYDVQQGEwJHQjEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFB1YmxpYyBTZXJ2ZXIgQXV0aGVudGljYXRpb24gQ0EgRFYgUjM2
+MB4XDTI2MDQyNjAwMDAwMFoXDTI2MTExMDIzNTk1OVowFTETMBEGA1UEAxMKZ2l0
+bGFiLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMNkbRxxfbYa
+E6yUZVrkkXJ21I3uUxcEbGXmyopQr4wVpRYXQIAbJfzgw+slKNMV07wFeVwkB9zm
+OeqhvuwZEQlWUdhg8JSVhW0OX+ywN91lO8Fln07+UKoBlvXxItjvvJ7ztnTD283b
++D2DzhauxpMtVAk7Nx9XODJSL5M1y0B8Wqxov6IERD8tGNJ548CpLHBIt4A1hMrV
+mOFFvAhJRJ7u1kpRCXN4+ikOriTscZDRpm/HKo1JYCdDKWQbCzd1+z9tOY3KTyEQ
+0pMd2fnFsQXyBuI6F+4zaqPYluZL14CO/Kr7os3lC6mhLa/oR311pMtt4KR00J2z
+0rIFljGdddkCAwEAAaOCA04wggNKMB8GA1UdIwQYMBaAFGjAEhYYDq/O9oemMlej
+RlFdywcnMB0GA1UdDgQWBBRb7j0QpKS1xQpMzvfdnPv8jc2hVTAOBgNVHQ8BAf8E
+BAMCBaAwDAYDVR0TAQH/BAIwADATBgNVHSUEDDAKBggrBgEFBQcDATBJBgNVHSAE
+QjBAMDQGCysGAQQBsjEBAgIHMCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGln
+by5jb20vQ1BTMAgGBmeBDAECATCBhAYIKwYBBQUHAQEEeDB2ME8GCCsGAQUFBzAC
+hkNodHRwOi8vY3J0LnNlY3RpZ28uY29tL1NlY3RpZ29QdWJsaWNTZXJ2ZXJBdXRo
+ZW50aWNhdGlvbkNBRFZSMzYuY3J0MCMGCCsGAQUFBzABhhdodHRwOi8vb2NzcC5z
+ZWN0aWdvLmNvbTCCAYYGCisGAQQB1nkCBAIEggF2BIIBcgFwAHUA1219ENGn9XfC
+x+lf1wC/+YLJM1pl4dCzAXMXwMjFaXcAAAGdxyacBQAABAMARjBEAiAuNRsdEGVc
+JLgDMEW7z+2je6+sw1G/PZDBzLm/Oz2jkAIgdeSrVZq2gbgmUMvH6V4HR1nVtFwv
+VRO1JQKGboxo6lYAdwDIo8R/x7OtuTVrAT9qehJt4zpOQ6XGRvmXrTl1mR3PmgAA
+AZ3HJpxOAAAEAwBIMEYCIQCldcfmVxL26SKnbGEbSd5CiE1/66CrpiC2d9Z8Rka9
+/wIhAIEydkO5C3Kn8X+N/8rkJXjFU8W3nEiy6Y+X725DCOvfAH4AbP5QGUOoXqkW
+vFLRM+TcyR7xQRx9JYQg0XOAnhgY6zoAAAGdxyaeZwAIAAAFAAi2+pUEAwBHMEUC
+IQDSMpm3Kk3JXnbcCt72MbVInHiuVbRsks046sfGDbz+TgIgKYRVlUPoCzozPPKa
+YIRgfFjxB8kzOSvZU3Sq8jUuf3EweQYDVR0RBHIwcIIKZ2l0bGFiLmNvbYIPYXV0
+aC5naXRsYWIuY29tghRjdXN0b21lcnMuZ2l0bGFiLmNvbYIaZW1haWwuY3VzdG9t
+ZXJzLmdpdGxhYi5jb22CD2dwcmQuZ2l0bGFiLmNvbYIOd3d3LmdpdGxhYi5jb20w
+DQYJKoZIhvcNAQELBQADggGBAFai61Jl16w0B1wEbAHuYqSBpTn1Fm8kQlknbKpo
+W9jRitgeExA0LNv7AP1LayZla0P9NDayUgQjUN5+Z2cJEfx/jnMH4DsfIn9tiWvz
+Vz68hPLFwK6NXxMaoHwXiva+iPUNGGCUxGxgkgtCpro6jZUlV2P6QGuObxGkgkr0
+m4Ts0/W/9lZL2GN0ZRU+NcRikkfYGOnLd7ah+U1jizXLQ9qyw2xNCB7n0B2SuZqH
+rCQDw0Zp6W9j1S2TRN2Dukkv8rNGrpytMJwnaSzfHF/5dsgXLaG8/q2kDmmVihwr
+MhshvgFxbN+eAF7Dkkb2M5gIoamKdIdeHMtIV7nA+y7liv/Bx5peDHCgTfqtPk/p
+JiFDgK+rfwhefV8Sp5o4fRMiFfFs/Lu9cg8oWm7hFTJJnQg7hdaUk/zNkqmUe26o
+QS3B5Zt+BjEGm0CNVoSfKl+itvyCDv/87NrLVSyAduKemhaw2vpHsGMBkSW2NJvg
+VnFLeYtqnfQ+uOFU17Jurvgalg==
+-----END CERTIFICATE-----
+subject=CN=gitlab.com
+issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 8062 bytes and written 1579 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

@@ -1,0 +1,68 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=New York, L=New York, O=Mount Sinai Health System, Inc., CN=*.mountsinai.org
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Jul 24 00:00:00 2026 GMT; NotAfter: Feb  7 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G3
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Apr 14 00:00:00 2021 GMT; NotAfter: Apr 13 23:59:59 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFgTCCBQigAwIBAgIQB55MyRCDTe0CQ4GMJ7+5xzAKBggqhkjOPQQDAzBZMQsw
+CQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypEaWdp
+Q2VydCBHbG9iYWwgRzMgVExTIEVDQyBTSEEzODQgMjAyMCBDQTEwHhcNMjYwNzI0
+MDAwMDAwWhcNMjcwMjA3MjM1OTU5WjB4MQswCQYDVQQGEwJVUzERMA8GA1UECBMI
+TmV3IFlvcmsxETAPBgNVBAcTCE5ldyBZb3JrMSgwJgYDVQQKEx9Nb3VudCBTaW5h
+aSBIZWFsdGggU3lzdGVtLCBJbmMuMRkwFwYDVQQDDBAqLm1vdW50c2luYWkub3Jn
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1waJIzxDot9MAtXAGJ0GqtgkU/AT
+B3HOIhXOk2nDo7yeXzzv7Y5UcXnsaUVCCk8VYfdSXDH3lNEyNxgyQYXq4KOCA5Ew
+ggONMB8GA1UdIwQYMBaAFIoj655r1/k3XfltITl2mqFn3hCoMB0GA1UdDgQWBBQk
+i4OJMafSY6BajOKvFXgG/W53DzArBgNVHREEJDAighAqLm1vdW50c2luYWkub3Jn
+gg5tb3VudHNpbmFpLm9yZzA+BgNVHSAENzA1MDMGBmeBDAECAjApMCcGCCsGAQUF
+BwIBFhtodHRwOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwDgYDVR0PAQH/BAQDAgOI
+MBMGA1UdJQQMMAoGCCsGAQUFBwMBMIGfBgNVHR8EgZcwgZQwSKBGoESGQmh0dHA6
+Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2JhbEczVExTRUNDU0hBMzg0
+MjAyMENBMS0yLmNybDBIoEagRIZCaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL0Rp
+Z2lDZXJ0R2xvYmFsRzNUTFNFQ0NTSEEzODQyMDIwQ0ExLTIuY3JsMIGHBggrBgEF
+BQcBAQR7MHkwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBR
+BggrBgEFBQcwAoZFaHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0
+R2xvYmFsRzNUTFNFQ0NTSEEzODQyMDIwQ0ExLTIuY3J0MAwGA1UdEwEB/wQCMAAw
+ggF9BgorBgEEAdZ5AgQCBIIBbQSCAWkBZwB3AExj3JjlnB2riPYeij3ero+rRKM3
+e1+blMP7oZz8wb4mAAABn5SBObEAAAQDAEgwRgIhALSKuEEEZUds+g+97OGpmTZ+
+uu5YvfCsy9+TqPJOaZEbAiEAizMCtbv0wqoSJqKSFgqhc9Bhr9DG+4Sf0pcMva8f
+yA8AdQDW1Y2p0BdT82pKoMdXSQKv68fcLNOM2fdkyAyJGR6fAgAAAZ+UgTmfAAAE
+AwBGMEQCIDOWK/PdM+cepfC/OLpwTKfok71iF+5gtQiekglwOm1tAiAgvuvj5Nf+
+ycpHIyigRqRNlb+269LN/gsmvAIlEmxQRQB1AETCvQzpFA5kpclKAZMKWqG7NZcO
+AO4RFoloKhxE17VmAAABn5SBOfkAAAQDAEYwRAIgStfPgkLTt5eE1Rz16Z14ZYfH
+RlGdM1hgQ7v82kf6S0gCIHyM8McIRgrGkd1qJn1sDX30Y03X8t4gu2Zu0M5KDeGJ
+MAoGCCqGSM49BAMDA2cAMGQCMHz5V1gBfyFtcC1ygc3aqKham+7gEdBEmOpB8SHS
+Nm2mZt+D/2GgYTjiAmD/M8ygRgIwJjLaLR1bKa6opK/sJL2QrFfqAYBgBmzEfmI4
+z0Mwgt1/dsKRr6MhZkxfoKu006B6
+-----END CERTIFICATE-----
+subject=C=US, ST=New York, L=New York, O=Mount Sinai Health System, Inc., CN=*.mountsinai.org
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 3773 bytes and written 1583 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

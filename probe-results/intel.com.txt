@@ -1,0 +1,94 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=California, O=Intel Corporation, CN=intel.com
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep  3 00:00:00 2026 GMT; NotAfter: Dec  2 23:59:59 2026 GMT
+ 1 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Mar 21 23:59:59 2036 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Mar 21 23:59:59 2046 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIJrTCCCBWgAwIBAgIRAPqqP0FvQjxEWNzQZIzQDP0wDQYJKoZIhvcNAQELBQAw
+YDELMAkGA1UEBhMCR0IxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBQdWJsaWMgU2VydmVyIEF1dGhlbnRpY2F0aW9uIENBIE9WIFIz
+NjAeFw0yNjA5MDMwMDAwMDBaFw0yNjEyMDIyMzU5NTlaMFIxCzAJBgNVBAYTAlVT
+MRMwEQYDVQQIEwpDYWxpZm9ybmlhMRowGAYDVQQKExFJbnRlbCBDb3Jwb3JhdGlv
+bjESMBAGA1UEAxMJaW50ZWwuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEA8Y8DjW8EBj2K39pR33Xv+xG9pnIiXWKCgkCpe3QvHVrZA4+HgaR0baD+
+gI5iIwwGbsKUTxx4Dws7RNjhJ7cT7VXf2tK75Yq40bgJ8ooLiqC9h7XNrbJw442N
+Y8GBUggkXKOGBrYqBOyN+GjKtVj8/tlYodpbDXutlCx5NU8NGHWlKmrcajclyZsz
+HCmzQawSwe5HhTVPbnnWkZwC1F7lxa+NEPN9MzXOeG1l+bQjPpW4itSSMIdSIdWb
+D1FRI/y0c1VPGFapjnclGqix0AInGSjcg40E3EjY7vcGk4ONuc/sbErMgla/Gxge
+Bv+C7gFd+7Wn+co+SpeMJCFpJWLY4QIDAQABo4IF7jCCBeowHwYDVR0jBBgwFoAU
+42Z0u3BojSxdTg6mSo+bNyKcgpIwHQYDVR0OBBYEFAX+T+hV6Xol0li2AA4u4W3u
+KGV/MA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMBMGA1UdJQQMMAoGCCsG
+AQUFBwMBMEoGA1UdIARDMEEwNQYMKwYBBAGyMQECAQMEMCUwIwYIKwYBBQUHAgEW
+F2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECAjBUBgNVHR8ETTBLMEmg
+R6BFhkNodHRwOi8vY3JsLnNlY3RpZ28uY29tL1NlY3RpZ29QdWJsaWNTZXJ2ZXJB
+dXRoZW50aWNhdGlvbkNBT1ZSMzYuY3JsMIGEBggrBgEFBQcBAQR4MHYwTwYIKwYB
+BQUHMAKGQ2h0dHA6Ly9jcnQuc2VjdGlnby5jb20vU2VjdGlnb1B1YmxpY1NlcnZl
+ckF1dGhlbnRpY2F0aW9uQ0FPVlIzNi5jcnQwIwYIKwYBBQUHMAGGF2h0dHA6Ly9v
+Y3NwLnNlY3RpZ28uY29tMIIBDQYKKwYBBAHWeQIEAgSB/gSB+wD5AHYA1219ENGn
+9XfCx+lf1wC/+YLJM1pl4dCzAXMXwMjFaXcAAAGgaBIQ0AAABAMARzBFAiEAxbjn
+vq0uKgqwHSFXSnN7pUuxnQZ8hsHCECwiDtofqaoCIDyUSq+/r495bVBZXLp+L7Kj
+fJytEOt5gKckiqXaIWO5AH8ARq+GPTs+5Z+ld96oJF02sNntIqIj9GF3QSKUUu6V
+UF8AAAGgaBIQ0AAIAAAFACQQJmIEAwBIMEYCIQD8KG7RJpUuIFW5u70+q+/4N0xb
+K1VAMempLjpOE7+KjAIhAMzxrfFV8orOYjXjebmgS5aQgsCJzfkgBQOHLh7cjI8+
+MIIDOQYDVR0RBIIDMDCCAyyCCWludGVsLmNvbYIGMDEub3JnggphY3BpY2Eub3Jn
+ghRiYXJlZm9vdG5ldHdvcmtzLmNvbYINYnV5YWx0ZXJhLmNvbYIMZG1sLWxhbmcu
+b3JnggllYXNpYy5jb22CEGV4cGxvcmVpbnRlbC5jb22CDGdyYW51bGF0ZS5pb4IM
+aW5zaWdodC50ZWNogghpbnRlbC5haYIIaW50ZWwuY2GCCGludGVsLmNuggtpbnRl
+bC5jby5pZIILaW50ZWwuY28uaWyCC2ludGVsLmNvLmpwggtpbnRlbC5jby5rcoIL
+aW50ZWwuY28udWuCC2ludGVsLmNvLnphggxpbnRlbC5jb20uYXWCDGludGVsLmNv
+bS5icoIMaW50ZWwuY29tLnRyggxpbnRlbC5jb20udHeCCGludGVsLmRlgglpbnRl
+bC5kZXaCCGludGVsLmVzgghpbnRlbC5ldYIIaW50ZWwuZnKCCGludGVsLmdngghp
+bnRlbC5pZYIIaW50ZWwuaW6CCGludGVsLml0gghpbnRlbC5sYYIIaW50ZWwubHaC
+CGludGVsLm1lgghpbnRlbC5waIIIaW50ZWwucGyCCGludGVsLnNlgghpbnRlbC5z
+Z4IIaW50ZWwudm6CEGludGVsY2FwaXRhbC5jb22CFmludGVscmVpbWJ1cnNlbWVu
+dC5jb22CEW1lY2NvbnRyb2xsZXIuY29tggxtb3ZpZGl1cy5jb22CDG1vdmlkaXVz
+Lm9yZ4IKb3BlbmNhcy5pb4IPb3BlbmRyb25laWQub3JnggtvcGVudmluby5haYIP
+cGFzc3dvcmRkYXkub3Jnghlwcm9qZWN0Y2lyY3VpdGJyZWFrZXIuY29tghRyZW5k
+ZXJpbmd0b29sa2l0Lm9yZ4IKc2lnb3B0LmNvbYIPc21hcnQtZWRnZS5pbmZvgg1z
+bWFydC1lZGdlLmlvgg5zbWFydC1lZGdlLm5ldIIOc21hcnQtZWRnZS5vcmeCEnNt
+YXJ0LWVkZ2Uuc3lzdGVtc4IOc21hcnRlZGdlLmluZm+CG3RocmVhZGluZ2J1aWxk
+aW5nYmxvY2tzLm9yZzANBgkqhkiG9w0BAQsFAAOCAYEAgv54d4/jWjYtHbJQ7Gls
+ziF19/iAv3EtYnN+D7JwaMTVnd8O1I9VAPwTQAQI1jz0jqWmcrbJLMa1mDscglJ6
+R2WhHbonC2ZYi9WUz73GU4LvzKvHDr/Xdh7DPnQmf1KhN3i6TIAjjFAEt3fuQp0x
+Es3WZ6ox/PO8Geq+mM5iwlQ3iawusKKtDGRR/h5gv6kX0Q6TMyis91ARux+hADAg
+UfLlEjGNCuQqGudOTwxzE69dpDto1eNdqT6mYeu6T1xvunta5OTJJ3RwHx4eui2g
+ab2Z4rnNW18LThJ5+WM+0AMYWH3Tj0o20+ywPlsHFg0hWkjNiQTeLGJzJkG3W9kn
+XoQ3jEqfjN6zxjJzAWsw3f/ZQ8ZEmWJpyXj8oABCYAyMJP81+tALAgSLJhiLlSTb
+8A8Q2nLiW4AYUKDlHQF05wlSIfpIvbxkAVCaswfUnWZMwWK9J9941yEaolqELxzI
+xnSvirrb8J7HWdFfcq33k5pkvEe5f5CkR3xvqNNilNwD
+-----END CERTIFICATE-----
+subject=C=US, ST=California, O=Intel Corporation, CN=intel.com
+issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 6182 bytes and written 1892 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

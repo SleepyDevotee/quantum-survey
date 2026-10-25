@@ -1,0 +1,103 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=District of Columbia, O=United States Department of Labor, CN=*.bls.gov
+   i:C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2
+   a:PKEY: RSA, 4096 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Feb 19 00:00:00 2026 GMT; NotAfter: Mar 22 23:59:59 2027 GMT
+ 1 s:C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Dec 11 00:00:00 2024 GMT; NotAfter: Dec 10 23:59:59 2027 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+ 3 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Feb  1 00:00:00 2010 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIImTCCBwGgAwIBAgIQBAew159+SYKzLYp/FceGnTANBgkqhkiG9w0BAQsFADBR
+MQswCQYDVQQGEwJDQTEYMBYGA1UEChMPRW50cnVzdCBMaW1pdGVkMSgwJgYDVQQD
+Ex9FbnRydXN0IE9WIFRMUyBJc3N1aW5nIFJTQSBDQSAyMB4XDTI2MDIxOTAwMDAw
+MFoXDTI3MDMyMjIzNTk1OVowbDELMAkGA1UEBhMCVVMxHTAbBgNVBAgTFERpc3Ry
+aWN0IG9mIENvbHVtYmlhMSowKAYDVQQKEyFVbml0ZWQgU3RhdGVzIERlcGFydG1l
+bnQgb2YgTGFib3IxEjAQBgNVBAMMCSouYmxzLmdvdjCCAiIwDQYJKoZIhvcNAQEB
+BQADggIPADCCAgoCggIBAOMQkXN4oPEXG5evSY4Fu6GqA3auQ+3zm1LQTV8SYWKQ
+M6y4zWF1GlOqrwr1nUjrHuunamYquJGtzTxgSE4WbQ+GBAY01e/UJtBDeejt/rr2
+9iat17Aof2bFQg/PfLVNF+yHtFsPmjAGZfFwiu4YIzA5bc83JHFjMQJsZjpBgwjy
+qGRFSgYX14CDDGw+udvvRMyEvQ+/MlCWatfo9PGlg9LC/3WPfudMgAaSaj1S92al
+ujUJ8SQbh42yrPAXt61/jO+cXv+U3+ltQ+QgTo1jOTBbzI4zGZQAmTmh65NPJUcF
+JGAJl2+dgj/sp85ve4HJvpq/YNjDVsF0q9/bRwLtpsn6uEt8LfJCuL9LFmI178VS
+sk0SKLJCFxvxHluj18OyNYcqHLbYQ1qO4DDIbBUteZzCnTzVAvW/8OskoE1mu2I1
+HJCv+A1pyndCheAylMwKMeFQM9S9wdBLzSoDN7SsQk1wRJZS8g7Fg0Q+hKjtZrtV
+2K3JkH0RsvO/EgMCHpPfTW2wBQ9miClvSIMERA64SDBH2rpzBfL0Xwp9Zd9bc2Rf
+OfNGoAYi38pjWN/S7b+yjNvDu40kDP0D8ZvxcKRcmf1Vda4+tIn51gYPGJ9U66ka
+HhzyR0ZifTsckjDRV1a1wGTncw/9HhzY3G1qnSYG/4ZtHGuwLmQ0BwQc0Z0BDBHL
+AgMBAAGjggPQMIIDzDAfBgNVHSMEGDAWgBQX0a8AdPlV+1I32IR2C1sSilBaxTAd
+BgNVHQ4EFgQUmDNx5iFMVWVhFhNuVJIywxgIoCcwDgYDVR0PAQH/BAQDAgWgMAwG
+A1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMBMGA1Ud
+IAQMMAowCAYGZ4EMAQICMEUGA1UdHwQ+MDwwOqA4oDaGNGh0dHA6Ly9jcmwuc2Vj
+dGlnby5jb20vRW50cnVzdE9WVExTSXNzdWluZ1JTQUNBMi5jcmwwdQYIKwYBBQUH
+AQEEaTBnMEAGCCsGAQUFBzAChjRodHRwOi8vY3J0LnNlY3RpZ28uY29tL0VudHJ1
+c3RPVlRMU0lzc3VpbmdSU0FDQTIuY3J0MCMGCCsGAQUFBzABhhdodHRwOi8vb2Nz
+cC5zZWN0aWdvLmNvbTCCAY8GCisGAQQB1nkCBAIEggF/BIIBewF5AHYAYEyar3p/
+d18B1Ab8kg3ImesLHH34yVIb+voXdzuXi8kAAAGcdvjNzQAABAMARzBFAiEAmVNv
+KVvzqKUxYISlgeQfk9gskrtHQHptrv4ztFPiGNgCICKAoxYF3Gp4pKY+yfTaL9Pe
+2hgCrHL+d3CsjxKIEKdoAH8AjspHC6zeavOiBrCkeoS3Rv4fxr+VPiXmm07kAkjz
+xugAAAGcdvjQngAIAAAFAALgbAcEAwBIMEYCIQCz1RRxddofxuizs6JgKaHgwgtv
+Xx8C6tEg7NvDGFxpNQIhAJfIxgTw65ZBBW6bV0Cv4YhdmARUhXJ+RXhYrGfDsJxx
+AH4AWW5sM4aUsllyolbIoOjdkEp26Ag92oc7AQg4KBQ87lkAAAGcdvjNugAIAAAF
+AAAqUyQEAwBHMEUCIQDKZpIVUAP/6nxaf1eEJwXFazZlezlFQP6sj+Smyf32twIg
+EUcin3UWi2ofYSHmixdoXA9Ha0UIXCPgtBTrBZ0d134wgeYGA1UdEQSB3jCB24IJ
+Ki5ibHMuZ292ggthcGkuYmxzLmdvdoIHYmxzLmdvdoITYmxzY29tcGRhdGEuYmxz
+LmdvdoIPY2VzZGF0YS5ibHMuZ292ggxkYXRhLmJscy5nb3aCEGRvd25sb2FkLmJs
+cy5nb3aCDGlkY2YuYmxzLmdvdoIPaWRjZmFycy5ibHMuZ292gg9pZGNmYmJzLmJs
+cy5nb3aCEGlkY2ZvZXdzLmJscy5nb3aCEWpvbHRzZGF0YS5ibHMuZ292ghB0cmFp
+bmluZy5ibHMuZ292ggt3d3cuYmxzLmdvdjANBgkqhkiG9w0BAQsFAAOCAYEAHN9X
+OR/asQvwghSS0rO/rtMiMfK0WOpWpE2FL358ayH3b7jIJ0qkaZL5isaVK8qKn4Oa
+Rea2nxp8ioeZGZ3d33+avKkxk/X+GNU0pI0hZ77JJ5a5Gn0JlZqlMIWV0O5Yommx
+o+k+2uFmcyeWuqv3Vk+TxX4HGHbkWz6sSow+qLjr7L15YOKiIRgTidMU5oh3JEY2
+FB/thVLKxPL/uKQtMLn6tQ+12pKS3PmYrd8+s1MZdT792IIXOmTFyWlxU8yRLI16
+gAfEx+mSSco7Bme8mLtHB4Yq/CNSGSRSGwBgZcG17VjGfJXxEze5gds28x/9wH3g
+9hJLKPA5E0cgUZqHuTBTpqwD19YkqpQYP0egbCDgcUPUaBW1IUXH+28OxYG9GdwX
+BTKic/b1DFOi3plgCLJLiwXHEOtNgqmQ6LcKU8y4CMkXhr02OLx6w9SZzK+OpGFP
+giMtYsefediioKyk58Iv4T1b4zLMa+f7fz2qbRdyB10GeFiFWb2g6VtZhXPB
+-----END CERTIFICATE-----
+subject=C=US, ST=District of Columbia, O=United States Department of Labor, CN=*.bls.gov
+issuer=C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pkcs1_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 7768 bytes and written 1622 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 5E24419F72287542C66DB6925BF19C4A1A90D1235A8DC1DFB423E55D2A81EC5B
+    Session-ID-ctx: 
+    Master-Key: 41FC0DFF2283F900EF135B24F59B7059CD3716D91862CA52C15F511653EC2ADA8CDCBA6950575E67798A8A4B14A9F7FC
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1792921618
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

@@ -1,0 +1,72 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=California, L=San Francisco, O=Dropbox, Inc, CN=*.app.dropbox.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Oct  1 00:00:00 2026 GMT; NotAfter: Apr 17 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G3
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Apr 14 00:00:00 2021 GMT; NotAfter: Apr 13 23:59:59 2031 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G3
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G3
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFhjCCBQ2gAwIBAgIQBHtaITZG2DKtxFNQooKH/DAKBggqhkjOPQQDAzBZMQsw
+CQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypEaWdp
+Q2VydCBHbG9iYWwgRzMgVExTIEVDQyBTSEEzODQgMjAyMCBDQTEwHhcNMjYxMDAx
+MDAwMDAwWhcNMjcwNDE3MjM1OTU5WjBtMQswCQYDVQQGEwJVUzETMBEGA1UECBMK
+Q2FsaWZvcm5pYTEWMBQGA1UEBxMNU2FuIEZyYW5jaXNjbzEVMBMGA1UEChMMRHJv
+cGJveCwgSW5jMRowGAYDVQQDDBEqLmFwcC5kcm9wYm94LmNvbTBZMBMGByqGSM49
+AgEGCCqGSM49AwEHA0IABKlYQfVFp3ufiO2+Lfup6dJ/obOcqh2ddI1XpA7+KVXb
+qispNiEYhBRlaMfzYITusghkI9pkU58tuYVdttNYPPKjggOhMIIDnTAfBgNVHSME
+GDAWgBSKI+uea9f5N135bSE5dpqhZ94QqDAdBgNVHQ4EFgQUVRdN/JgkciSt5T7p
+mJMQtMEqo9YwOAYDVR0RBDEwL4IRKi5hcHAuZHJvcGJveC5jb22CDSouZHJvcGJv
+eC5jb22CC2Ryb3Bib3guY29tMD4GA1UdIAQ3MDUwMwYGZ4EMAQICMCkwJwYIKwYB
+BQUHAgEWG2h0dHA6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAOBgNVHQ8BAf8EBAMC
+A4gwEwYDVR0lBAwwCgYIKwYBBQUHAwEwgZ8GA1UdHwSBlzCBlDBIoEagRIZCaHR0
+cDovL2NybDMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzNUTFNFQ0NTSEEz
+ODQyMDIwQ0ExLTIuY3JsMEigRqBEhkJodHRwOi8vY3JsNC5kaWdpY2VydC5jb20v
+RGlnaUNlcnRHbG9iYWxHM1RMU0VDQ1NIQTM4NDIwMjBDQTEtMi5jcmwwgYcGCCsG
+AQUFBwEBBHsweTAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29t
+MFEGCCsGAQUFBzAChkVodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNl
+cnRHbG9iYWxHM1RMU0VDQ1NIQTM4NDIwMjBDQTEtMi5jcnQwDAYDVR0TAQH/BAIw
+ADCCAYAGCisGAQQB1nkCBAIEggFwBIIBbAFqAHcATGPcmOWcHauI9h6KPd6uj6tE
+ozd7X5uUw/uhnPzBviYAAAGg92qIJgAABAMASDBGAiEA92tdxQhemAURlqKXxi/q
+1PCA9A3cLGN8tjXeSWhc39ICIQDruFhIOgR+7+HGTBm16B7/p0jetf4DWmIY8D39
+cGyKIQB2ANbVjanQF1Pzakqgx1dJAq/rx9ws04zZ92TIDIkZHp8CAAABoPdqh/sA
+AAQDAEcwRQIgRbfUWBhazFQj3tXq6al8ONFhf6Ft8bpYeHgmCBE3GJcCIQD4Wgb1
+Hsc7WHOp5D+R0LoCcO6btj10mNvidHOuv4rhfAB3AETCvQzpFA5kpclKAZMKWqG7
+NZcOAO4RFoloKhxE17VmAAABoPdqiDAAAAQDAEgwRgIhANty2cNKd0i4J3IFpaZe
+hlpHQqEZsNq7v56u0a9a6xSKAiEAlgC8TIjyENu2pQc1xk7NyqZH11A7iunfFsHV
++6aaXoIwCgYIKoZIzj0EAwMDZwAwZAIweTc8KCF2oSFluuviInTEuTMQmxDpX8Y+
+LSdGvU6uczRAga0Hmb9CrttH3k9nBQfQAjAX6tDvbgsNMn1MkZcuZ8UpV1QqIe3H
+1LiUoOF0XFPUAq/wqCpuzShbEJ5LLqTytxU=
+-----END CERTIFICATE-----
+subject=C=US, ST=California, L=San Francisco, O=Dropbox, Inc, CN=*.app.dropbox.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3298 bytes and written 1896 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

@@ -1,0 +1,65 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=asu.edu
+   i:C=US, O=Let's Encrypt, CN=YE1
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Sep 29 17:16:20 2026 GMT; NotAfter: Dec 28 17:16:19 2026 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=YE1
+   i:C=US, O=ISRG, CN=Root YE
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
+ 2 s:C=US, O=ISRG, CN=Root YE
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X2
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+ 3 s:C=US, O=Internet Security Research Group, CN=ISRG Root X2
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: EC, (secp384r1); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDfTCCAwKgAwIBAgISBfqNrn7f3srWDHF7sHH0771iMAoGCCqGSM49BAMDMDMx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNZ
+RTEwHhcNMjYwOTI5MTcxNjIwWhcNMjYxMjI4MTcxNjE5WjASMRAwDgYDVQQDEwdh
+c3UuZWR1MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEkLEn+mk++dub26+YOAdp
+cbWdi0HAo8Yf1GKBp2JllDDRasi1SfFRXocNxlJpNA660Dqc3BIQyeSNIGuDYaOW
+JKOCAhUwggIRMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEFBQcDATAM
+BgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQNcYCGnjej8FlrS648DC7fFKvvkjAfBgNV
+HSMEGDAWgBS7IMpHC/7X5Zz5jwkqo4w3RbG82DAzBggrBgEFBQcBAQQnMCUwIwYI
+KwYBBQUHMAKGF2h0dHA6Ly95ZTEuaS5sZW5jci5vcmcvMBIGA1UdEQQLMAmCB2Fz
+dS5lZHUwEwYDVR0gBAwwCjAIBgZngQwBAgEwLgYDVR0fBCcwJTAjoCGgH4YdaHR0
+cDovL3llMS5jLmxlbmNyLm9yZy85OS5jcmwwggEMBgorBgEEAdZ5AgQCBIH9BIH6
+APgAdgDLOPcViXyEoURfW8Hd+8lu8ppZzUcKaQWFsMsUwxRY5wAAAaDuYGlOAAAE
+AwBHMEUCIQD3Q0JYuJNaJZ2bqpAu24n0gEvTnBsIC2nnyfRZkpYIDwIganmCUBbp
+bsOhjEANEdLoJpbW+wzMlyDt0jGX4BNNvQUAfgCigQAYc04Xbh1H4JVA84G6VGaX
+zWOoQ1BxbrgJTtrxDQAAAaDuYGwGAAgAAAUAGB9SmgQDAEcwRQIhAL04S0lDrlJd
+6nDxTPUGR/bnfmdH9jCzYhokbLJ/wzl8AiABG1H3io6Z7md5VHD2qAxLjaZwtp5M
+6rqle479QO8KmzAKBggqhkjOPQQDAwNpADBmAjEA8Ws5sRDMeNgnrTwzcEcVyYba
+FZ61GHDFSgaVL29VduTxHSWVTiOSZn9KeekJCFqOAjEA+/feWB60HKPT5ref7GNX
+/n/j07XVOBgYHmpnk3Pt3OcwksuNvEfIHQ18hc2Kwyr+
+-----END CERTIFICATE-----
+subject=CN=asu.edu
+issuer=C=US, O=Let's Encrypt, CN=YE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 4786 bytes and written 1576 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

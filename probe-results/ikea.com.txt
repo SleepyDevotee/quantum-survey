@@ -1,0 +1,61 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=ikea.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Sep 23 00:30:12 2026 GMT; NotAfter: Dec 22 01:30:11 2026 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: EC, (secp384r1); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDZzCCAw2gAwIBAgIRAIENI5ktWtJzE2o8rLi7xlkwCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI2MDkyMzAwMzAxMloXDTI2MTIyMjAxMzAxMVowEzERMA8G
+A1UEAxMIaWtlYS5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARDI7NNiN7U
+9ks+ON5WOoe26xGIpjGSGszboc9APk/DCRhEX5fduLNFi7OFGjTHMRnBNyjFVG+f
+SLxSpgzT+AFOo4ICGDCCAhQwDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQMMAoGCCsG
+AQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFDLLqa6hie84EJZ/zsO8dAqt
+g+7KMB8GA1UdIwQYMBaAFJB3kjVnxP+ozKnme9mAeXvMk/k4MDUGCCsGAQUFBwEB
+BCkwJzAlBggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd2UxLmNydDATBgNV
+HREEDDAKgghpa2VhLmNvbTATBgNVHSAEDDAKMAgGBmeBDAECATA2BgNVHR8ELzAt
+MCugKaAnhiVodHRwOi8vYy5wa2kuZ29vZy93ZTEvdUtDLTRSZWttVVkuY3JsMIIB
+BAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYA2AlVO5RPev/IFhlvlE+Fq7D4/F6HVSYP
+FdEucrtFSxQAAAGgy+J9fAAABAMARzBFAiAF6LpzHyUMDYCJUSeqpQF2/0d2cu9E
+Eowyq5w7a07T0gIhAO9JEHGkBxf4U1ZpVPO14AfjlmFdD3MWEcXsN27haO//AHYA
+yzj3FYl8hKFEX1vB3fvJbvKaWc1HCmkFhbDLFMMUWOcAAAGgy+KBYwAABAMARzBF
+AiEAiltwMx4NuJK7CmUYG4BlA18Cbd+zXYtoqydKoUMf9VICICVI9CDcHTN1oaEr
+hlDPo8SuQlsrr4Si0gKlpyVnFvdIMAoGCCqGSM49BAMCA0gAMEUCIGskrjsYQroK
+fr1eV0mM/RM3RAU8D0sq+FDMmtgYLobIAiEAtf7MbJSPD6VMqnncLjhQhP9hxpVN
+/mryqTPPYkiIoEg=
+-----END CERTIFICATE-----
+subject=CN=ikea.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 3850 bytes and written 1577 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

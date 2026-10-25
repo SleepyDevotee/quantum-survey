@@ -1,0 +1,76 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=healthgrades.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M04
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jan 16 00:00:00 2026 GMT; NotAfter: Feb 13 23:59:59 2027 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M04
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug 23 22:26:35 2022 GMT; NotAfter: Aug 23 22:26:35 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGOzCCBSOgAwIBAgIQBRlab5VZ1W/hZnhVtS/j5jANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTA0MB4XDTI2MDExNjAwMDAwMFoXDTI3MDIxMzIzNTk1OVowGzEZ
+MBcGA1UEAxMQaGVhbHRoZ3JhZGVzLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBALl8Z4HP3WOoeWB9rXFNXXy0kByBpXCWAhZ88HAFaVGz/FoIs6Jg
+B1e40rMU23GpPBI7UESzLnhcA53ES6gMUAE0smvnEjWuuw3P17FlnnTIJ/zhnTCJ
+jOskeYwgzSEtbclmWikVwUdKtsIGo9C1CRmQP9+Ee5W9rLnq+pNgW+KwgJmKv1AN
+S8urV3YNpnmJpCHG4Ki2N7B6JnJQnoeGGrkSEOOHW7T1Pg8U1/UiVGEIvJhluxel
+Ct4dt41wEw8wh/7atHk812w6RYvkHQqBj2v5C42XBfDbtKPlYkj676Rpy/GSBNyS
+jnXlmenUQSJ7XwWGXPP2v4tb6inMUzTrLJMCAwEAAaOCA1gwggNUMB8GA1UdIwQY
+MBaAFB9SkmFWglR/gWbYHT0KqjJch90IMB0GA1UdDgQWBBTP3YUUPzIsRdQCMb+C
+Je80xzIhXjCBlQYDVR0RBIGNMIGKghBoZWFsdGhncmFkZXMuY29tghpob3NwaXRh
+bHMuaGVhbHRoZ3JhZGVzLmNvbYIoaW50ZXJuYWwuaG9zcGl0YWxzLnVjbXMuaGVh
+bHRoZ3JhZGVzLmNvbYISKi5oZWFsdGhncmFkZXMuY29tghwqLmhvc3BpdGFscy5o
+ZWFsdGhncmFkZXMuY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIBMA4GA1UdDwEB/wQE
+AwIFoDATBgNVHSUEDDAKBggrBgEFBQcDATA7BgNVHR8ENDAyMDCgLqAshipodHRw
+Oi8vY3JsLnIybTA0LmFtYXpvbnRydXN0LmNvbS9yMm0wNC5jcmwwdQYIKwYBBQUH
+AQEEaTBnMC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcC5yMm0wNC5hbWF6b250cnVz
+dC5jb20wNgYIKwYBBQUHMAKGKmh0dHA6Ly9jcnQucjJtMDQuYW1hem9udHJ1c3Qu
+Y29tL3IybTA0LmNlcjAMBgNVHRMBAf8EAjAAMIIBfAYKKwYBBAHWeQIEAgSCAWwE
+ggFoAWYAdQBMY9yY5Zwdq4j2Hoo93q6Pq0SjN3tfm5TD+6Gc/MG+JgAAAZvIjFNp
+AAAEAwBGMEQCIE9THTkIUBbk9pfpigT0UrZLM5gedXFnrNSnPYgfjG0HAiBat3t1
+scE8cCIKzTVO3KCPxuacgR/iNdzmtEqgtAU7rAB2AByfaCzp+vBFaVD4G5aKh93b
+MhDYTObIsuOCUkrEz1mfAAABm8iMU4kAAAQDAEcwRQIgDGZPW+Ixb540n36O8/Db
+qfMBOuSehEAaJehUmam5qxcCIQCJhwIAWv0btV64LkAkO4hxrszqwgqMGHH/3ln6
+igysPgB1AGBMmq96f3dfAdQG/JINyJnrCxx9+MlSG/r6F3c7l4vJAAABm8iMVBkA
+AAQDAEYwRAIgKXRR9Sno8aVetm9jJE3ZfdNoX3ZSaiXZhw7MclrRXtICIBq5NYR4
+3QzyN5LCyfNcvUMSW2Ruyb8fiaqpqWqlpToxMA0GCSqGSIb3DQEBCwUAA4IBAQB5
+LbBqfbKAes2GgigRqEvluC4+WpTg/C8kwyvD5d2ZWpd4yBAkF7yO4e1XWOffPRUq
+ANqZnmjGro3dbZ1un0UDfEj0AWYZXx9DQGXsjGYLbT/S9jrPinNwaTGs5LrCDQka
+eXysBC4vehfgatTIHB7PdNGvrBXDQYkCGHN0WM2ge8RpukC5WBRZZoc17j72LIZF
+k6yIR3tBTq1S2zxcR9FQPEvYTwRml7ca1gcNZcQL1THuennzntsFFQoC8ForGgtl
+FHSgRk23VPgitKqyxpWll4PLuDw10NNCqzsYtTX3cXXxEcKYR1Z7vZNo0cAmoNkz
+W7+gUFRyuVhhIf8iFI2T
+-----END CERTIFICATE-----
+subject=CN=healthgrades.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M04
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 5537 bytes and written 1569 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

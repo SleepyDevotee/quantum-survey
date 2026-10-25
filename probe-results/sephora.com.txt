@@ -1,0 +1,73 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=California, L=San Francisco, O=Sephora USA, Inc., CN=*.sephora.com
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Nov 24 00:00:00 2025 GMT; NotAfter: Nov 23 23:59:59 2026 GMT
+ 1 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Nov  2 12:23:37 2017 GMT; NotAfter: Nov  2 12:23:37 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+x39zTA2tvOfSx5zOWeh896inabOHmN+5
+-----END CERTIFICATE-----
+subject=C=US, ST=California, L=San Francisco, O=Sephora USA, Inc., CN=*.sephora.com
+issuer=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 4478 bytes and written 1580 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

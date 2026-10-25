@@ -1,0 +1,83 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=Illinois, L=Aurora, O=Kohl's, Inc., CN=kohls.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Sep 24 00:00:00 2026 GMT; NotAfter: Apr 10 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G3
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Apr 14 00:00:00 2021 GMT; NotAfter: Apr 13 23:59:59 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIITDCCB9KgAwIBAgIQCVuZ9B5p6tFohAaJLUOD5jAKBggqhkjOPQQDAzBZMQsw
+CQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypEaWdp
+Q2VydCBHbG9iYWwgRzMgVExTIEVDQyBTSEEzODQgMjAyMCBDQTEwHhcNMjYwOTI0
+MDAwMDAwWhcNMjcwNDEwMjM1OTU5WjBcMQswCQYDVQQGEwJVUzERMA8GA1UECBMI
+SWxsaW5vaXMxDzANBgNVBAcTBkF1cm9yYTEVMBMGA1UEChMMS29obCdzLCBJbmMu
+MRIwEAYDVQQDEwlrb2hscy5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARZ
+YNHV4nKRN8OEpQBMM8tXfOQHyV7UB4ekyKuwlt8QehwgJbdJ87R6RTAvpXvZsFB0
+UoKwroiRH32XHoagXqO6o4IGdzCCBnMwHwYDVR0jBBgwFoAUiiPrnmvX+Tdd+W0h
+OXaaoWfeEKgwHQYDVR0OBBYEFCKQCi7G0+5uhSwieloSz9tqQM0zMIIDDQYDVR0R
+BIIDBDCCAwCCCWtvaGxzLmNvbYILKi5rb2hscy5jb22CDyoua3BwLmtvaGxzLmNv
+bYIWYXBpLnBsYXRmb3JtLmtvaGxzLmNvbYIVY3Jtcy5rb2hsc3Jld2FyZHMuY29t
+ghRjc3Iua29obHNyZXdhcmRzLmNvbYIJay1sYWIuY29tghRrb2hsc2NvcnBvcmF0
+aW9uLmNvbYIOa29obHNncmVlbi5jb22CE2tvaGxzZ3JlZW5zY2VuZS5jb22CE2tv
+aGxzcmVhbGVzdGF0ZS5jb22CEGtvaGxzcmV3YXJkcy5jb22CEmtvaGxzc3VwcGxp
+ZXJzLmNvbYIPa29obHN0cmF2ZWwuY29tghZsYXVyZW5jb25yYWRydW53YXkuY29t
+ghhsY2xhdXJlbmNvbnJhZHJ1bndheS5jb22CDGxjcnVud2F5LmNvbYISbS5rb2hs
+c3Jld2FyZHMuY29tghNtZWRpYTEua29obHNpbWcuY29tghNtZWRpYTIua29obHNp
+bWcuY29tgg9teWtvaGxzY2FyZC5jb22CEW15a29obHNjaGFyZ2UuY29tggxvZmZh
+aXNsZS5jb22CEnZpZGVvLmtvaGxzaW1nLmNvbYINd3d3LmstbGFiLmNvbYIYd3d3
+LmtvaGxzY29ycG9yYXRpb24uY29tghJ3d3cua29obHNncmVlbi5jb22CF3d3dy5r
+b2hsc2dyZWVuc2NlbmUuY29tghd3d3cua29obHNyZWFsZXN0YXRlLmNvbYIUd3d3
+LmtvaGxzcmV3YXJkcy5jb22CFnd3dy5rb2hsc3N1cHBsaWVycy5jb22CE3d3dy5r
+b2hsc3RyYXZlbC5jb22CGnd3dy5sYXVyZW5jb25yYWRydW53YXkuY29tghx3d3cu
+bGNsYXVyZW5jb25yYWRydW53YXkuY29tghB3d3cubGNydW53YXkuY29tghN3d3cu
+bXlrb2hsc2NhcmQuY29tghV3d3cubXlrb2hsc2NoYXJnZS5jb22CEHd3dy5vZmZh
+aXNsZS5jb20wPgYDVR0gBDcwNTAzBgZngQwBAgIwKTAnBggrBgEFBQcCARYbaHR0
+cDovL3d3dy5kaWdpY2VydC5jb20vQ1BTMA4GA1UdDwEB/wQEAwIDiDATBgNVHSUE
+DDAKBggrBgEFBQcDATCBnwYDVR0fBIGXMIGUMEigRqBEhkJodHRwOi8vY3JsMy5k
+aWdpY2VydC5jb20vRGlnaUNlcnRHbG9iYWxHM1RMU0VDQ1NIQTM4NDIwMjBDQTEt
+Mi5jcmwwSKBGoESGQmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEds
+b2JhbEczVExTRUNDU0hBMzg0MjAyMENBMS0yLmNybDCBhwYIKwYBBQUHAQEEezB5
+MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wUQYIKwYBBQUH
+MAKGRWh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2JhbEcz
+VExTRUNDU0hBMzg0MjAyMENBMS0yLmNydDAMBgNVHRMBAf8EAjAAMIIBfwYKKwYB
+BAHWeQIEAgSCAW8EggFrAWkAdQBMY9yY5Zwdq4j2Hoo93q6Pq0SjN3tfm5TD+6Gc
+/MG+JgAAAaDQwjtEAAAEAwBGMEQCIBmrIsaOsUxQQLzcRcfRLgKDDptK8Z636MHm
+5vtCNzBUAiBjrYlazF6320WW35EVWFwONih1vgYQCV4jPF5WskerJwB3ANbVjanQ
+F1Pzakqgx1dJAq/rx9ws04zZ92TIDIkZHp8CAAABoNDCOyoAAAQDAEgwRgIhAObp
+TpCHFqVTALIB92sb1970nkYi86Nb3SE8sOl1TyXLAiEAzk4cCsZLF93mSzxZFDHQ
+yEzcUlh2gzAK/3bmIsLN6zkAdwBEwr0M6RQOZKXJSgGTClqhuzWXDgDuERaJaCoc
+RNe1ZgAAAaDQwjteAAAEAwBIMEYCIQCKBE7xQ/Z9vJBJf6dtyAul/RcwR2dFZuB9
+PFqfM0loCAIhALilEoRnwzAl/fkzZL8RLn/y7RDBog+9rdLifeLGpu2BMAoGCCqG
+SM49BAMDA2gAMGUCMDf/EUAXEbJOBb4Xkbdu8gx4CjsrfPHuTlCQ3Nq408oIEw5s
+NAiT9Mq9yO91exAwqwIxANmKr+30ob8IBlW99LYQfXzOYgLWnvCozLXpPDVHx9Nc
+1g6mgvSC6V7diGaZzH3kyA==
+-----END CERTIFICATE-----
+subject=C=US, ST=Illinois, L=Aurora, O=Kohl's, Inc., CN=kohls.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 4489 bytes and written 1578 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

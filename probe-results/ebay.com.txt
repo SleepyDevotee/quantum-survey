@@ -1,0 +1,91 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=California, O=eBay, Inc., CN=ebay.com
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R40
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct  6 00:00:00 2026 GMT; NotAfter: Apr 22 23:59:59 2027 GMT
+ 1 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R40
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: May 14 00:00:00 2025 GMT; NotAfter: May 13 23:59:59 2040 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+ 3 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Feb  1 00:00:00 2010 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIIazCCBtOgAwIBAgIQGf1B5CwWnPJIUR0r7mYKgzANBgkqhkiG9w0BAQsFADBg
+MQswCQYDVQQGEwJHQjEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFB1YmxpYyBTZXJ2ZXIgQXV0aGVudGljYXRpb24gQ0EgT1YgUjQw
+MB4XDTI2MTAwNjAwMDAwMFoXDTI3MDQyMjIzNTk1OVowSjELMAkGA1UEBhMCVVMx
+EzARBgNVBAgTCkNhbGlmb3JuaWExEzARBgNVBAoTCmVCYXksIEluYy4xETAPBgNV
+BAMTCGViYXkuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuDTG
+YDqNIQv0hMyg/1gIIXniRh7oHxx6qX/J2GoOeflRM+4Pr23iYVcNLDcS6eQyINbC
+JIiOe0kFAvgLQdbcZ/SrpavhbO7yeu7A9zjLgfyylQwvpLsfc9aSpnRgt7yiEAMj
+tHsZDZc/062r9ybCjSU5gGxhz386sjRLsBYpkS5Rks2FYVQ/EVi4D2XMmC3qNx/N
+eQ/xYciWL3k5i3wY3fksPrKnVOSEpj1FCkUw0/GbN4a+ZVJKQ3GDHRh/x3MRq59I
+7UKq1zC063Yhg+ysjPDojsncYbSKs9TLYxQ8CWd9Px6+8KBrQdedoYuFfFNPMYHk
+WRVeVNjD+nO1BEXnZQIDAQABo4IEtTCCBLEwHwYDVR0jBBgwFoAUe+JJoWC0u+hC
+5sanVBEcYWRTVdEwHQYDVR0OBBYEFGBLMQ0mTBQmDoMoxe65qkHmv/dvMA4GA1Ud
+DwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMBMGA1UdJQQMMAoGCCsGAQUFBwMBMBMG
+A1UdIAQMMAowCAYGZ4EMAQICMFQGA1UdHwRNMEswSaBHoEWGQ2h0dHA6Ly9jcmwu
+c2VjdGlnby5jb20vU2VjdGlnb1B1YmxpY1NlcnZlckF1dGhlbnRpY2F0aW9uQ0FP
+VlI0MC5jcmwwgYQGCCsGAQUFBwEBBHgwdjBPBggrBgEFBQcwAoZDaHR0cDovL2Ny
+dC5zZWN0aWdvLmNvbS9TZWN0aWdvUHVibGljU2VydmVyQXV0aGVudGljYXRpb25D
+QU9WUjQwLmNydDAjBggrBgEFBQcwAYYXaHR0cDovL29jc3Auc2VjdGlnby5jb20w
+ggG+BgNVHREEggG1MIIBsYIIZWJheS5jb22CDGJlZnIuZWJheS5iZYIMYmVubC5l
+YmF5LmJlggxjYWZyLmViYXkuY2GCCWUtYmF5LmNvbYIIZS1iYXkuaXSCB2ViYXku
+YXSCB2ViYXkuYmWCB2ViYXkuY2GCB2ViYXkuY2iCCmViYXkuY28ubnqCCmViYXku
+Y28udWuCC2ViYXkuY29tLmF1ggtlYmF5LmNvbS5jboILZWJheS5jb20uaGuCC2Vi
+YXkuY29tLm15ggtlYmF5LmNvbS5waIILZWJheS5jb20uc2eCB2ViYXkuZGWCB2Vi
+YXkuZXOCB2ViYXkuZnKCB2ViYXkuaWWCB2ViYXkuaW6CB2ViYXkuaW+CB2ViYXku
+aXSCB2ViYXkubmyCB2ViYXkucGiCB2ViYXkucGyCB2ViYXkudXOCB2ViYXkudm6C
+FHNob3J0dXJpd2ViLmViYXkuY29tgg93d3d3LmViYXkuY28udWuCDXd3d3cuZWJh
+eS5jb22CEHd3d3cuZWJheS5jb20uYXWCDHd3d3cuZWJheS5kZYIMd3d3dy5lYmF5
+Lmluggx3d3d3LmViYXkuaXQwggGGBgorBgEEAdZ5AgQCBIIBdgSCAXIBcAB2ANbV
+janQF1Pzakqgx1dJAq/rx9ws04zZ92TIDIkZHp8CAAABoRInEa0AAAQDAEcwRQIg
+b9mL6ynWbDl9PBh69R2SGpA1K8O3BcxZTg2WEpqzPoYCIQD5poOM3al4n737Nq9Q
+5wlRm6LikQRmMUTX7FE0GZyDggB1AAAaXRocLZN1tkhVePgvcaGubu85fSl8iuMV
+e8re4aAeAAABoRInEbsAAAQDAEYwRAIgB13mt3QGgFOiaQToYB2Y7TBSLS3r3geB
+7fuuxnRPaUsCIHl99hg7dOF1Fc+p8KjpJ1k3LOcNnSSr8LiAGYtXaEOcAH8AGoud
+a43XkdHNBUnttgNV1ga2T60w23H+eI8Px8j7xLEAAAGhEicU7AAIAAAFAAXt+4wE
+AwBIMEYCIQC9a8gNvfrYFjtWAgbtQx7cBjt54dqYDFw69+PQ5EWymAIhAMpQ8Mpn
+ChsWlH1gRtsn7/HqZaJ95OIxsyV6O23LU0GiMA0GCSqGSIb3DQEBCwUAA4IBgQBd
++4T6Xe3Nj67dy9tHNziIUB/BexlbtzcQyakwCI37MzjaHXF5zwUl3/OEwH+dt5VC
+oAQL8FQnfCXyjLNvMGjMJeeh+55FOQdj9TBaT0AiO10UJhAIxdyXW5YbjPYCJ+Gh
+BZtUk0v5LYb2VJ/RVX5gKeZ3hZdp3H4pxrebZ8lvRu06mPxCClrN6BUUjk2NoC1I
+ikIkY10ztT4pB4egRPtJeREVrxHfLaXNCTDdaQmtBEuqZ3ehFEZlLvN51jx3UL+R
+rDfl1W3Hmo2wLrHmqi9qqt9QIzKGmX3Jb2bjm/aGAVkDM8GB3LELS+LDovWF1Tm4
+0Jq3iPwNCRgTEZlxGfKNXJX6psga+UjwJlQP4PTChJXkGtIeHU3t9FynDb/e4F2/
+xnHQodUTsOauKNmXFavRua2JfP6Txh61Dkkb4n4FFdmdLbUyFym3wlJG43XU0OZF
+Kl2YeAkW+hwcPPQUdg0uhNy8q3JbI2w4tzVV002YibKeGXJoM2lOIJwo+ClJpUM=
+-----END CERTIFICATE-----
+subject=C=US, ST=California, O=eBay, Inc., CN=ebay.com
+issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R40
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 8600 bytes and written 1561 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

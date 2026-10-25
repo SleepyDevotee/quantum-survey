@@ -1,0 +1,113 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=nvidia.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M01
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep 20 00:00:00 2026 GMT; NotAfter: Apr  5 23:59:59 2027 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M01
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug 23 22:21:28 2022 GMT; NotAfter: Aug 23 22:21:28 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIILNDCCChygAwIBAgIQB73WJUmxEYXgQFx4PpWbljANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAxMB4XDTI2MDkyMDAwMDAwMFoXDTI3MDQwNTIzNTk1OVowFTET
+MBEGA1UEAxMKbnZpZGlhLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAKYJh3fPMQTxGPW9pQixY9Ev8NIqWi9/A7C9naI7QKV079oWmTZytd9TvOIU
+yeW+8yPyOmSaQw6ZCVKCK8T28UgFeToGPdSJKhDTvZZMbPe/r0Q8sOB1MypjkG8O
+MvMbvgMXPH3jHH3A0+M3wHLUFzMbNPHQRbLJAKj3IJvGIhTWuOxuYHgjv2GJtyUm
+2h/1uihK/sGVwRtm+FyH29gEMBNIQCCF+2gStx3hSVny3VmyCczUGRMoLlhhGJuy
+iEHpHTFEMVkuvEulnQhvbwCBonkcJ+2yU0GN04YqH4nMHkwwj/VaPsb8VhxRwGsW
+4gU5Km1zq6tPUOHNq1o1Dm8zEbMCAwEAAaOCCFcwgghTMB8GA1UdIwQYMBaAFIG4
+DmOKiRIY5fo7O1CVn+blkBOFMB0GA1UdDgQWBBQTJ12aoljZJEIOpKGUerE3Tgdk
+3DCCBZIGA1UdEQSCBYkwggWFggpudmlkaWEuY29tggsqLm52aWRpYS5hZYIOKi5u
+dmlkaWEudHJhZGWCDioubnZpZGlhLndvcmxkgg4qLm52aWRpYS52aWRlb4INKi5u
+dmlkaWEubHV4ZYIOKi5udmlkaWEuZW1haWyCDioubnZpZGlhLnN1Y2tzgg0qLm52
+aWRpYS5zaXRlggsqLm52aWRpYS5pZYIJbnZpZGlhLmRrggxudmlkaWEuY28uaW6C
+EyoubnZpZGlhLnVuaXZlcnNpdHmCCW52aWRpYS5kZYINbnZpZGlhLmNvbS5wbIIJ
+bnZpZGlhLmN6ggpudmlkaWEuYmlkggwqLm52aWRpYS5iaWSCDG52aWRpYS5jby5p
+ZIIRKi5udmlkaWEuY29tcHV0ZXKCD252aWRpYS5ncmFwaGljc4IMKi5udmlkaWEu
+c2V4ggpudmlkaWEub3JnggtudmlkaWEuaW5mb4IKbnZpZGlhLmluY4IQKi5udmlk
+aWEuc3VwcG9ydIILbnZpZGlhLndpa2mCDG52aWRpYS5lbWFpbIINbnZpZGlhLmNv
+bS5icoIPKi5udmlkaWEuY29tLnBsghAqLm52aWRpYS5jb21wYW55ghFudmlkaWEu
+dW5pdmVyc2l0eYIMbnZpZGlhLnZpZGVvgg4qLm52aWRpYS5jby51a4IMbnZpZGlh
+LndvcmxkggtudmlkaWEubmV3c4IRbnZpZGlhLnRlY2hub2xvZ3mCCW52aWRpYS5l
+dYIMKi5udmlkZWEuY29tghEqLm52aWRpYS5zb2Z0d2FyZYINbnZpZGlhLmNvbS51
+YYINKi5udmlkaWEuaW5mb4IOKi5udmlkaWEuY28uYXSCCW52aWRpYS5hZYILKi5u
+dmlkaWEuZXWCCm52aWRpYS5uZXSCDCoubnZpZGlhLm5ldIIJbnZpZGlhLmllgg4q
+Lm52aWRpYS5jby5qcIILKi5udmlkaWEuZGWCEyoubnZpZGlhLmZvdW5kYXRpb26C
+DSoubnZpZGlhLm5ld3OCCyoubnZpZGlhLmRrggwqLm52aWRpYS5jb22CDyoubnZp
+ZGlhLmNvbS5icoINbnZpZGlhLmNvbS50coIMbnZpZGlhLmNvLnVrgg9udmlkaWEu
+Y29tcHV0ZXKCCyoubnZpZGlhLmN6ggxudmlkaWEudHJhZGWCESoubnZpZGlhLmdy
+YXBoaWNzghFudmlkaWEuZm91bmRhdGlvboIMbnZpZGlhLnByZXNzggludmlkaWEu
+Y2iCDG52aWRpYS5jby5qcIILbnZpZGlhLnNpdGWCDyoubnZpZGlhLmdsb2JhbIIM
+bnZpZGlhLmdhbWVzgg5udmlkaWEuY29tcGFueYILKi5udmlkaWEuY2iCDm52aWRp
+YS5zdXBwb3J0ggludmlkaWEuY26CCW52aWRpYS5jYYITKi5udmlkaWEudGVjaG5v
+bG9neYIMbnZpZGlhLnN1Y2tzggsqLm52aWRpYS5jboIKbnZpZGlhLnNleIIMKi5u
+dmlkaWEub3Jngg9udmlkaWEuc29mdHdhcmWCDCoubnZpZGlhLmluY4IMbnZpZGlh
+LmNvLmF0gg8qLm52aWRpYS5jb20udHKCCyoubnZpZGlhLmNhggtudmlkaWEubHV4
+ZYIJbnZpZGlhLmpwgg1udmlkaWEuZ2xvYmFsggsqLm52aWRpYS5qcIIOKi5udmlk
+aWEuZ2FtZXOCDioubnZpZGlhLnByZXNzgg4qLm52aWRpYS5jby5pZIIPKi5udmlk
+aWEuY29tLnVhggludmlkaWEuYmWCCyoubnZpZGlhLmF0ggpudmlkZWEuY29tgg0q
+Lm52aWRpYS53aWtpgg4qLm52aWRpYS5jby5pboIJbnZpZGlhLmF0MBMGA1UdIAQM
+MAowCAYGZ4EMAQIBMA4GA1UdDwEB/wQEAwIFoDATBgNVHSUEDDAKBggrBgEFBQcD
+ATA7BgNVHR8ENDAyMDCgLqAshipodHRwOi8vY3JsLnIybTAxLmFtYXpvbnRydXN0
+LmNvbS9yMm0wMS5jcmwwdQYIKwYBBQUHAQEEaTBnMC0GCCsGAQUFBzABhiFodHRw
+Oi8vb2NzcC5yMm0wMS5hbWF6b250cnVzdC5jb20wNgYIKwYBBQUHMAKGKmh0dHA6
+Ly9jcnQucjJtMDEuYW1hem9udHJ1c3QuY29tL3IybTAxLmNlcjAMBgNVHRMBAf8E
+AjAAMIIBfQYKKwYBBAHWeQIEAgSCAW0EggFpAWcAdQBMY9yY5Zwdq4j2Hoo93q6P
+q0SjN3tfm5TD+6Gc/MG+JgAAAaC+TqTDAAAEAwBGMEQCIFEIva5qNDvgd1HxTqms
+3kErW+7WEPa52Fs5mV5abk8VAiAgxKienXZrPmsos0ajl4FH2XYPBIApuCa2vO2R
+w0BTwwB2AETCvQzpFA5kpclKAZMKWqG7NZcOAO4RFoloKhxE17VmAAABoL5OpPgA
+AAQDAEcwRQIgB2bX80ktgaxQumc4zc6fJ3k9EyQuTiNprEJu0zTuxiYCIQC5xdxz
+x9wFz1zGQDXEWS3oWOt0sTEoSq6Ril2RW4se/QB2AByfaCzp+vBFaVD4G5aKh93b
+MhDYTObIsuOCUkrEz1mfAAABoL5OpRAAAAQDAEcwRQIgEgJW/TiB3HLVVkhh0FgN
+G31+u7cGB7qA9z5bxjw8x5MCIQD9HpACwyr/2bKhHYK1+/J/WO20FVDYh2Q8Vdrh
+ZERsfDANBgkqhkiG9w0BAQsFAAOCAQEAS7IxsB17PACA2oktNr6CGT2rgmW32hSw
+aWTcB2rDx+vpKU1N+XRokAiTs4n4RlLniakCo4G6kNO2EqqiUMYzXWgNxvADeZpN
+ieYeNo4raogevhuVt7Z5T/GkEl3EuvAOhil+rwdIyHsw0XC5t7Vmgf43/RBfghFV
+LJek2I5tu8yu9VT6bOUuWKtEf5mWrb+ziDoMT9gwNtQIfcFVLQd1SXsEJp2AlpXr
+cMQc4fVVmMpjlm2L+8NCQWpBtETXnqSjLlbZmJT4cBizHXv1H2VTq/XxME4RxC3k
+4bZfHtPS7c5IhlHkS4fDVd94RX9qiMx7na9IkFGWe4OPaDJGDTwXWw==
+-----END CERTIFICATE-----
+subject=CN=nvidia.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M01
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pkcs1_sha256
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 5687 bytes and written 1625 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: E71046150AF7130E4B5D2F2B9A606A56B0B0D058654065B3A684D1827459EE7B
+    Session-ID-ctx: 
+    Master-Key: 9A47B09F8B816A9CF02FDE22F3F188495EE373B114043DBF3098AD59ED8C953565FD095503793DFABC28127E19240E22
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1792921678
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---

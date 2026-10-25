@@ -1,0 +1,104 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=New York, L=New York, O=NBCUniversal, LLC, CN=*.nbcnews.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep 14 00:00:00 2026 GMT; NotAfter: Mar 31 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG4DCCBcigAwIBAgIQCPfI7HYca7bM3MlA/4t2MzANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjYw
+OTE0MDAwMDAwWhcNMjcwMzMxMjM1OTU5WjBnMQswCQYDVQQGEwJVUzERMA8GA1UE
+CBMITmV3IFlvcmsxETAPBgNVBAcTCE5ldyBZb3JrMRowGAYDVQQKExFOQkNVbml2
+ZXJzYWwsIExMQzEWMBQGA1UEAwwNKi5uYmNuZXdzLmNvbTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBALuHNsGqHF5OH5sVa1nhhJ9UQ2o/Nvb80QPZArV+
+2NVOz4mktY5TgMJUsIeMlanu1G2sQ+htyRB6+nZ20pZFgtbctAyJQ7JW4VnSoToU
+5DwpmcBdHaPt/jLWhKqvUmPLuhnFIPBEODghC0smWkBUtSokWGM7PAjGkBjscZok
+oEfdUtL6yIpEWIMW0mI8vtkNNoBAW+dOSRHj/0WR7VS57Rfl/Xb6J7kZICyoZtZf
+AC3zqCVgqiHoJ6nTGZbpRQSUmlUrtctoR6oxsaAeY/BlI1aB6FzdqksymbDNtC0w
+IfL5uZSzSx/SW24BfhB5/tYbeBIeLEwp8PW7vKd9pEBLjskCAwEAAaOCA5QwggOQ
+MB8GA1UdIwQYMBaAFHSFgMBmx9833s+9KTeqAx2+7c0XMB0GA1UdDgQWBBQ6lDvx
+uORuDQbBpTxT5zkh8boOBjAlBgNVHREEHjAcgg0qLm5iY25ld3MuY29tggtuYmNu
+ZXdzLmNvbTA+BgNVHSAENzA1MDMGBmeBDAECAjApMCcGCCsGAQUFBwIBFhtodHRw
+Oi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjCBnwYDVR0fBIGXMIGUMEigRqBEhkJodHRw
+Oi8vY3JsMy5kaWdpY2VydC5jb20vRGlnaUNlcnRHbG9iYWxHMlRMU1JTQVNIQTI1
+NjIwMjBDQTEtMS5jcmwwSKBGoESGQmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9E
+aWdpQ2VydEdsb2JhbEcyVExTUlNBU0hBMjU2MjAyMENBMS0xLmNybDCBhwYIKwYB
+BQUHAQEEezB5MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20w
+UQYIKwYBBQUHMAKGRWh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2Vy
+dEdsb2JhbEcyVExTUlNBU0hBMjU2MjAyMENBMS0xLmNydDAMBgNVHRMBAf8EAjAA
+MIIBfAYKKwYBBAHWeQIEAgSCAWwEggFoAWYAdgBMY9yY5Zwdq4j2Hoo93q6Pq0Sj
+N3tfm5TD+6Gc/MG+JgAAAaCeeCP/AAAEAwBHMEUCIQCqXALqwzO0y3HmihkIuf88
+Jl+NvGRZqm82gDzr/1kfxAIgVGLfXMM9tnhTJC9ZX2MYq4rBg0KBqYbP9ov0csfR
+xZ4AdQDW1Y2p0BdT82pKoMdXSQKv68fcLNOM2fdkyAyJGR6fAgAAAaCeeCQOAAAE
+AwBGMEQCIBdxpBU54OJWOOWZOJR88NormApY57yuG/yodVSainKvAiATZl9CoN89
+bee3ZpQd11UWp1AUSXfVqWgeYy+S5vX20wB1AETCvQzpFA5kpclKAZMKWqG7NZcO
+AO4RFoloKhxE17VmAAABoJ54JCgAAAQDAEYwRAIgfMq1LCoEPrgKgbus4LocHElN
+saYr3VqcAGAwacfEz0gCIBLmkGJVt2o0wg829ftriQ7Rq/Z2di7lZh67oJqTGRv6
+MA0GCSqGSIb3DQEBCwUAA4IBAQDIUSgp6a9Nf7prWYhTfslfFoljLgZAQHTtgFJm
+JdQ+G4MgL7wMNa3gKOka3KvN6TICaDoZ4tNsT7v607F6Au65nVrXsBGDwicC5aYS
+c3JPb5rXpdsF/ZuYC49WhrK22SuKgrIcAlI3GWqFCHnmFjMqj6JF9iuRzR91N9YN
+FABIzHMw8evFrZZPw0KWS32V5x2NtHYo1t1c+/Mifn+TQwp6oQkm3gXQlqyyzF4l
+5Gq+ib/rW+bJH1JesQth5snLeEjLz6NIgIKuuUic2LoiXkQNqUlnBCIf7N/y4vmX
+ng4+X5j+qTLbTSZxay1JpKud78jP3g9G2DP3dij7OTmFNK07
+-----END CERTIFICATE-----
+subject=C=US, ST=New York, L=New York, O=NBCUniversal, LLC, CN=*.nbcnews.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: rsa_pkcs1_sha512
+Peer Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 4586 bytes and written 1626 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 7B4A590DB31B8C46051DFEDDF428A4C6A2BE7252859B7E7A8B45415374392EFA
+    Session-ID-ctx: 
+    Master-Key: B13E80D358EBC8C027D279C003F4C3E8D05A9589F04A7D9E85C515257C122E57223B924794CD94B3541B05CB7AD03175
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 28 d7 9b 1f de be 7c 4e-c5 56 55 f3 3c 64 1b aa   (.....|N.VU.<d..
+    0010 - eb c7 42 f9 d7 2f 45 f4-40 64 c7 04 7b 14 83 a0   ..B../E.@d..{...
+    0020 - 07 a6 b3 f2 de 3c 40 22-09 45 8a 93 71 59 9f 79   .....<@".E..qY.y
+    0030 - b5 df be e6 f9 c8 cb 03-54 ef 19 a0 37 d3 ab a2   ........T...7...
+    0040 - b3 2a d7 b4 68 f4 d5 82-1f 2a dc ee 66 3d b5 34   .*..h....*..f=.4
+    0050 - 31 11 91 01 00 f1 ca dc-17 5a 61 70 7a dd 02 a7   1........Zapz...
+    0060 - 66 ae a4 52 76 d2 b4 58-77 ba b2 3b 17 9a 71 d9   f..Rv..Xw..;..q.
+    0070 - 77 04 1a 51 40 b2 2e d6-a0 5c d3 82 7b 00 b9 d0   w..Q@....\..{...
+    0080 - a7 1a 89 04 70 71 77 ef-77 82 52 2e 95 71 6c 0a   ....pqw.w.R..ql.
+    0090 - f3 91 42 15 a8 9f 57 d4-16 ad 46 78 87 48 ff 85   ..B...W...Fx.H..
+    00a0 - 12 4c 9c 30 a2 22 d4 cd-aa 8a ef 36 1c 48 08 94   .L.0.".....6.H..
+
+    Start Time: 1792921706
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---
+ECH: NOT CONFIGURED: -103
+---

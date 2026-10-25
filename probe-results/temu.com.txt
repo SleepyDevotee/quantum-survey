@@ -1,0 +1,112 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=*.temu.com
+   i:C=US, O=GoDaddy.com, CN=GoDaddy TLS Intermediate CA DV - R1v1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jul 15 07:22:32 2026 GMT; NotAfter: Jan 29 07:22:32 2027 GMT
+ 1 s:C=US, O=GoDaddy.com, CN=GoDaddy TLS Intermediate CA DV - R1v1
+   i:C=US, O=GoDaddy.com, CN=GoDaddy TLS Root CA - R1
+   a:PKEY: RSA, 4096 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Aug 28 12:00:00 2025 GMT; NotAfter: Aug 24 11:59:59 2040 GMT
+ 2 s:C=US, O=GoDaddy.com, CN=GoDaddy TLS Root CA - R1
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   a:PKEY: RSA, 4096 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep 24 12:00:00 2025 GMT; NotAfter: Dec 31 23:59:59 2037 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHLDCCBRSgAwIBAgIJAMmIvKILHXWiMA0GCSqGSIb3DQEBCwUAMFMxCzAJBgNV
+BAYTAlVTMRQwEgYDVQQKEwtHb0RhZGR5LmNvbTEuMCwGA1UEAxMlR29EYWRkeSBU
+TFMgSW50ZXJtZWRpYXRlIENBIERWIC0gUjF2MTAeFw0yNjA3MTUwNzIyMzJaFw0y
+NzAxMjkwNzIyMzJaMBUxEzARBgNVBAMMCioudGVtdS5jb20wggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQDfiogRtXJyvCi7Ug/3F9mYxrBeJZPFwbADHkDz
+81NORXevYVuzhq6uttTfXeCIkV5CC1eclzY3vWTjXh6uAIY3+zxFgOcr049AM1cg
+ipWqN1UTUh8cDsIdVrBpPc30qJGnka9UgSPlYk+6mUduCk5dPU/xnLG+i/YkgWZW
+WISzOMYZTRMGmPzHi4qmZL7xzrS2/RNhNt3FY0WnF9nGi7JjEOp7AnH6Lwa3bdCJ
+cu52tVPvkWw4FXftCsl8cKsfD1l+o6Wic9OrlNp4Y8wgsNQY8mSNAtwXrP/JWtMz
+4bZF1VYLBZYxJINM/kQZ+sk0BI71K1c7TUntr7G1PcrCbyjBAgMBAAGjggM/MIID
+OzAMBgNVHRMBAf8EAjAAMBMGA1UdJQQMMAoGCCsGAQUFBwMBMA4GA1UdDwEB/wQE
+AwIFoDA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vY3JsLmdvZGFkZHkuY29tL2dk
+cjF2MWR2X3MxLTkuY3JsMF0GA1UdIARWMFQwCAYGZ4EMAQIBMEgGC2CGSAGG/W0B
+BxcBMDkwNwYIKwYBBQUHAgEWK2h0dHA6Ly9jZXJ0aWZpY2F0ZXMuZ29kYWRkeS5j
+b20vcmVwb3NpdG9yeS8wgYcGCCsGAQUFBwEBBHsweTBRBggrBgEFBQcwAoZFaHR0
+cDovL2NlcnRpZmljYXRlcy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5L2dkX3Rsc19p
+c3N1aW5nX2R2LXIxdjEuY3J0MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5nb2Rh
+ZGR5LmNvbS8wHwYDVR0jBBgwFoAUievnHXnDvts/3I4gsPvkHnw59iswHwYDVR0R
+BBgwFoIKKi50ZW11LmNvbYIIdGVtdS5jb20wHQYDVR0OBBYEFI/6l/heENAUO7t5
+QtAYEqaFMe/PMIIBfwYKKwYBBAHWeQIEAgSCAW8EggFrAWkAdgDW1Y2p0BdT82pK
+oMdXSQKv68fcLNOM2fdkyAyJGR6fAgAAAZ9kp+ZzAAAEAwBHMEUCIQD7eEbimVPe
+af2ZVx1BA1xxl7SCEAtKnJ2DN08qUTWR5gIgQcz/gFCvKXmwp60UFf6Lph2KIumK
+uIinnzvDueQ/0uIAdwBMY9yY5Zwdq4j2Hoo93q6Pq0SjN3tfm5TD+6Gc/MG+JgAA
+AZ9kp+f/AAAEAwBIMEYCIQDmkvKBsPLdH6p5YLRpzUfjNZaS3O2LPwfE0bxj8Qwe
+5gIhAN16/3QMxzVyS7Vd7ZCiNTWjBhMZ0AiJlc1Gj4rNLsmLAHYAYEyar3p/d18B
+1Ab8kg3ImesLHH34yVIb+voXdzuXi8kAAAGfZKfpxQAABAMARzBFAiEA2ng0JOF/
++r3koVySfPNTxAG4uEdJwq7qBWmkw+k2B5YCIBfZ6lV5YzZ8PUSrbTyqGCVs6pZ7
+KWQlSLP5kbjqfdGGMA0GCSqGSIb3DQEBCwUAA4ICAQAM2ROF3isq/mJWYr+42q1h
+20FEFEz4siYniCKvQ7Z+dSRjJobfqRAOZjxHEVKo8rgN9anKdEHrzKQuPCeuZwtP
+/4vEFz98Il8iCnSvAMkcCN9ll4jYJmPPBWqIER0pJNrwLxOciEanZxv0xBESCX0s
+Q6csDFPgOvWsIovjqT2YFFLh9AwnLSjiyDu1lgwN2Vnk1ciFGdhlu/pEwYE5N2ft
+eRye5oy3jdXngdqisjIKGFPVBc2Q9P0o1E+3KXCOsncPQLuir+tB2H/F0uNSHpUo
+xGDcJlAM4gf60n4ufy2rUkxTYcgeujXGKHRQ8VC0KA817OwS01WAKczu3WHZJD2n
+qDHPi7fPMkCXszNMlHZQ3M5+UHq6kzJMDEMd1lNTwU8UAPmr7olTW+CvC00UT8gg
+kKNGjVONx3dHun45Ce4XCOTFX7WrBPcKQXFzbcB2JfyApPpHNDs2C7sMpjtVXJ6I
+BVUcGdQA8dZhWWfbIdNlSncwPOgFLUUrk1KL7mIp58vqrygVx/cx4C5uRvQoW88J
+MVSqPu0I26GoOFGtBtlN/a1ySxd4oZInmXTHERPKOmLV4G6Z3YVclL66DMEc3urQ
+b6toeoIx31ueAr5zW7/Tq2o5lIEtamfPvtp44wmdHm2DrcAW58cVfD87+g5g5M5W
+Vj5cDhD9oPWMt83uXY6fLw==
+-----END CERTIFICATE-----
+subject=CN=*.temu.com
+issuer=C=US, O=GoDaddy.com, CN=GoDaddy TLS Intermediate CA DV - R1v1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 6519 bytes and written 1561 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 997F5667F44BCA2CAA82A2A6B5EF9A1F637AC0915E7FD788A1A1ACF3D3831675
+    Session-ID-ctx: 
+    Resumption PSK: 7089B0BEC54454386BE472C0E0FE90C008C4D915B5A139795D391D9F6FD86B9F
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
+    0010 - 21 2a aa aa e0 ef 9b 76-44 a8 e4 31 99 80 79 22   !*.....vD..1..y"
+    0020 - 8e 03 06 57 00 a9 81 0b-c5 7f ed 9a 4f 45 6d 68   ...W........OEmh
+    0030 - f3 41 ca 43 54 7a 51 c7-24 d4 9a 72 7f be f1 df   .A.CTzQ.$..r....
+    0040 - a0 e5 ce c2 89 4b a2 02-d8 d4 5b 0f 38 a0 69 d0   .....K....[.8.i.
+    0050 - b6 76 02 e9 3e df 67 17-55 a8 ae c8 71 b4 71 d9   .v..>.g.U...q.q.
+    0060 - b2 ab 71 2a 7b 55 d2 fc-dc 7e 8f ab 8f e2 61 f1   ..q*{U...~....a.
+    0070 - 4b ab 1f 6b f5 4f 66 88-de a7 9f 82 02 c8 6a 46   K..k.Of.......jF
+    0080 - c2 f4 14 71 fc c4 c7 b9-3e b3 90 4c ec a6 3b 03   ...q....>..L..;.
+    0090 - 51 dd d4 99 41 2d 5a 65-55 ea 5b 8c 1e f6 fe e6   Q...A-ZeU.[.....
+
+    Start Time: 1792921682
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

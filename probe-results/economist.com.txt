@@ -1,0 +1,61 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=economist.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct 11 04:48:05 2026 GMT; NotAfter: Jan  9 05:48:02 2027 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: EC, (secp384r1); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDgTCCAyigAwIBAgIQZ+X+xA6gn7gT4gmYXWvz9DAKBggqhkjOPQQDAjA7MQsw
+CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
+VQQDEwNXRTEwHhcNMjYxMDExMDQ0ODA1WhcNMjcwMTA5MDU0ODAyWjAYMRYwFAYD
+VQQDEw1lY29ub21pc3QuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEmme2
+KdUtrNuIxasKTDhqnAsk2MQDAmSvAGfLC74jamNRDKoSNF9Rseo90B0oWixRNEeR
+NHktpa85AdfjuBfigqOCAi8wggIrMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAK
+BggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTcDvnSjgObBFW1//Gw
+meewfd22MzAfBgNVHSMEGDAWgBSQd5I1Z8T/qMyp5nvZgHl7zJP5ODA1BggrBgEF
+BQcBAQQpMCcwJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQw
+KQYDVR0RBCIwIIINZWNvbm9taXN0LmNvbYIPKi5lY29ub21pc3QuY29tMBMGA1Ud
+IAQMMAowCAYGZ4EMAQIBMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5n
+b29nL3dlMS9WcTFFM2dSSmptVS5jcmwwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEA
+dwBEwr0M6RQOZKXJSgGTClqhuzWXDgDuERaJaCocRNe1ZgAAAaEpgQ/oAAAEAwBI
+MEYCIQDfN1Nj0zs+t70DAgcYMyWDCGCfyP6xPYsQGxU800dVJgIhAJqp5ArBnvlK
+eZm8daF8e0WQ6EklMr4Kx7CzFMq8aJWnAHYAABpdGhwtk3W2SFV4+C9xoa5u7zl9
+KXyK4xV7yt7hoB4AAAGhKYEPvwAABAMARzBFAiAs7v3BbLr2cj28a7SFfZBNqRCa
+kl+bbH54cvHdUW0D5QIhAJaGrAn9mO6xTF6Uy4p8hu83hpaoJ47mQ3lbvUJlBkQj
+MAoGCCqGSM49BAMCA0cAMEQCIELRz6KR0+zOXRuiyXaijPYbA+vgUtTgZZUhAiWi
+Lhe5AiARucoM/cboYSgMfwhXbT817e3UMfySZkH8AxFfXtbkzQ==
+-----END CERTIFICATE-----
+subject=CN=economist.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 3877 bytes and written 1582 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

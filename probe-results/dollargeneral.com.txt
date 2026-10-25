@@ -1,0 +1,73 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=www.dollargeneral.com
+   i:C=US, O=Let's Encrypt, CN=YR1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct 22 18:38:41 2026 GMT; NotAfter: Jan 20 18:38:40 2027 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=YR1
+   i:C=US, O=ISRG, CN=Root YR
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
+ 2 s:C=US, O=ISRG, CN=Root YR
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: RSA, 4096 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFuDCCBKCgAwIBAgISBc/rSV5RfUCZg2QHjLKAzaGIMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNZUjEwHhcNMjYxMDIyMTgzODQxWhcNMjcwMTIwMTgzODQwWjAgMR4wHAYDVQQD
+ExV3d3cuZG9sbGFyZ2VuZXJhbC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQC3JekQhYwLuiMqxraFTEPHeTl+Gs8QXXGDDrzJu/u70cKRvgK8Tnty
+JA7n+7NGfE9gYO+oEriowVJma/egKVBNV7LvhMvy1l116qsicqcf5mUKvfbKePQa
+Cll7Eo0QktbxgczxGdLtlR5VUt2VE+yM2BB0q6aSsMc2FIM34MVZoGW5HN1+KbDn
+RtEN4Zma9PmkOHoLCV9GolW6zGuQCu/lbilHOCFNYUMS+5yU0g7z3tng+5fUOEXZ
+/9uyTVraNY/4rcmYR61r/hn7snGX53WsnvXJMIjfIUMOIleN/gHB2t0LQ6qjcOeL
+j8qTYHp9wgL1FMzSIAQRgAF6WAFpZA5TAgMBAAGjggLXMIIC0zAOBgNVHQ8BAf8E
+BAMCBaAwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4E
+FgQU6oVi7+IfRjcLnBURdRbgV72s2pAwHwYDVR0jBBgwFoAUHy81vkYUgs1Asa55
+LFV4+vfUaPswMwYIKwYBBQUHAQEEJzAlMCMGCCsGAQUFBzAChhdodHRwOi8veXIx
+LmkubGVuY3Iub3JnLzCB1AYDVR0RBIHMMIHJghpjb21tZXJjZS5kb2xsYXJnZW5l
+cmFsLmNvbYIZY291cG9ucy5kb2xsYXJnZW5lcmFsLmNvbYIGZGcuY29tgg9kZ3dl
+bGxiZWluZy5jb22CEWRvbGxhcmdlbmVyYWwuY29tghZoZXJlZm9yd2hhdG1hdHRl
+cnMuY29tghhzdG9yZXMuZG9sbGFyZ2VuZXJhbC5jb22CG3dlZWtseWFkcy5kb2xs
+YXJnZW5lcmFsLmNvbYIVd3d3LmRvbGxhcmdlbmVyYWwuY29tMBMGA1UdIAQMMAow
+CAYGZ4EMAQIBMC0GA1UdHwQmMCQwIqAgoB6GHGh0dHA6Ly95cjEuYy5sZW5jci5v
+cmcvOS5jcmwwggEMBgorBgEEAdZ5AgQCBIH9BIH6APgAdgAcn2gs6frwRWlQ+BuW
+iofd2zIQ2EzmyLLjglJKxM9ZnwAAAaFlHhJOAAAEAwBHMEUCIQD9Xi9ra7iWMYr+
+dsYbTZCzkKAZcfG77MMu0ZvF9P5P4gIgE0Xrn3sEKV8veU1f2NMFRybAiTMngjg6
+VumTNhSJc38AfgBE6CL8K6sOku7Q6frWlmRgJ3bQF2DgiQUJySOhsD/DfwAAAaFl
+HgTcAAgAAAUADlNGugQDAEcwRQIgUf/ZtNjlV6DWvj019ioP1laNaIqIK7V5RnWh
+65BMRCQCIQDOgIu0EGVXqWXYG65PzgKaAv08gSKUhfLPGlL7lIH8KDANBgkqhkiG
+9w0BAQsFAAOCAQEAKew5tPZ+V79rqdEzT35ZwQUJlhpkreqWiT3t7xNVRb7VJT0C
+g7vY2x61W5G2+zVQRI3LCk+SXWMNk8UvFXQPCDAdJ4DUroyHR9IB9Ki4IyUm1ez6
+Dd/m75EBkNst3CyYz2ozcKsVt3rhOhhqiChnK37Dk/jYSiJVgN28myMleH+fzefe
+XwiUiMuKYndfvuxQW+kuF3ofpaOLF/xXhAPS2Ergb0cSFcwQXoGd0qSnksKsS2cK
+2Z/acG+wdghR3QXrUmiX8sa2uagVrsxzF2SdSQvw33sd01A1/i4aqVtNmp+5Tv88
+k+ljYFX2lkA7+8lQh1Z7VNctXth/1Tz+062dZw==
+-----END CERTIFICATE-----
+subject=CN=www.dollargeneral.com
+issuer=C=US, O=Let's Encrypt, CN=YR1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 5901 bytes and written 1586 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

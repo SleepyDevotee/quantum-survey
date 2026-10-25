@@ -1,0 +1,111 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=*.eater.com
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2026 Q2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jun 26 15:25:44 2026 GMT; NotAfter: Jan 11 14:25:44 2027 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2026 Q2
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jan 21 02:59:53 2026 GMT; NotAfter: Jan 21 00:00:00 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHsDCCBpigAwIBAgIQAV43+btdIcYe/pgl+5A/JDANBgkqhkiG9w0BAQsFADBY
+MQswCQYDVQQGEwJCRTEZMBcGA1UEChMQR2xvYmFsU2lnbiBudi1zYTEuMCwGA1UE
+AxMlR2xvYmFsU2lnbiBBdGxhcyBSMyBEViBUTFMgQ0EgMjAyNiBRMjAeFw0yNjA2
+MjYxNTI1NDRaFw0yNzAxMTExNDI1NDRaMBYxFDASBgNVBAMMCyouZWF0ZXIuY29t
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtkxz0conRt5QOwaMc8jr
+L8/PMOLRr6D0prtnyNIOuuTxL3ab4NN9qb1m0deqk4vFeG3bVS57zVuH32d4OKr0
+V/HTF1oMwzcamfH5de5XvgLxhH5AtEKhdUagyGpmXcXlNNgis9nvQ5TKfefElOOM
+6cUQTQmqDJPxc2Atxk/Mcu5xCvsVXUNC/uba3pPKydoWNm798kTF4zZcfzBGxnO9
+WpSgMJlZGBGvBNGsb/ZiWrUAFxHMEiPT+L+QiFCSqUbswN1UJRiV8Za8j5coJZ0u
+eloFBJQLPVVMYmytPSb3UOnCZS2fnsTY5aCu6gd1ICBpmDd7tDeaisaZsBMALb7J
+BQIDAQABo4IEtjCCBLIwggFkBgNVHREEggFbMIIBV4ILKi5lYXRlci5jb22CDiou
+bWVyaWRpYW4ubmV0ggwqLnJlY29kZS5uZXSCESoudm94Y3JlYXRpdmUuY29tghMq
+LnZveGZpZWxkZ3VpZGUuY29tggwqLnZveG9wcy5uZXSCD2Nkbi5jc3RhdGljLm5l
+dIIJZWF0ZXIuY29tggxtZXJpZGlhbi5uZXSCCnJhY2tlZC5jb22CCnJlY29kZS5u
+ZXSCDHNibmF0aW9uLmNvbYILdm94LWNkbi5jb22CD3ZveGNyZWF0aXZlLmNvbYIR
+dm94ZmllbGRndWlkZS5jb22CCnZveG9wcy5uZXSCDioudGhldmVyZ2UuY29tgg4q
+LnZveG1lZGlhLmNvbYIMdGhldmVyZ2UuY29tggx2b3htZWRpYS5jb22CDCoucmFj
+a2VkLmNvbYIOKi5zYm5hdGlvbi5jb22CDSoudm94LWNkbi5jb20wDgYDVR0PAQH/
+BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAdBgNVHQ4EFgQU
+2H/l9dsCXsrnkJADAeypgnwY0TEwVwYDVR0gBFAwTjAIBgZngQwBAgEwQgYKKwYB
+BAGgMgoBAzA0MDIGCCsGAQUFBwIBFiZodHRwczovL3d3dy5nbG9iYWxzaWduLmNv
+bS9yZXBvc2l0b3J5LzAMBgNVHRMBAf8EAjAAMIGeBggrBgEFBQcBAQSBkTCBjjBA
+BggrBgEFBQcwAYY0aHR0cDovL29jc3AuZ2xvYmFsc2lnbi5jb20vY2EvZ3NhdGxh
+c3IzZHZ0bHNjYTIwMjZxMjBKBggrBgEFBQcwAoY+aHR0cDovL3NlY3VyZS5nbG9i
+YWxzaWduLmNvbS9jYWNlcnQvZ3NhdGxhc3IzZHZ0bHNjYTIwMjZxMi5jcnQwHwYD
+VR0jBBgwFoAU1GYLnwJwTvdECCf66fO9yOtXcXAwSAYDVR0fBEEwPzA9oDugOYY3
+aHR0cDovL2NybC5nbG9iYWxzaWduLmNvbS9jYS9nc2F0bGFzcjNkdnRsc2NhMjAy
+NnEyLmNybDCCAYUGCisGAQQB1nkCBAIEggF1BIIBcQFvAHcAYEyar3p/d18B1Ab8
+kg3ImesLHH34yVIb+voXdzuXi8kAAAGfBIl8ygAABAMASDBGAiEAk+ku+YscQmT9
+No4gFILs7VaqHC90K7bC3Aic3KzstyECIQDokmgsR431Ffin5OW+TwjTzZcEHx4b
+bupLLFiYWqLrNgB1AExj3JjlnB2riPYeij3ero+rRKM3e1+blMP7oZz8wb4mAAAB
+nwSJfOYAAAQDAEYwRAIgdINgMBfGomAawIc4rMaEI8P5wWWYydodl1n1dA1+JLYC
+IC4VXAwjULAZ6kKW5VGfJpzhOdTuquGXS+0m0NvIoK9yAH0AjspHC6zeavOiBrCk
+eoS3Rv4fxr+VPiXmm07kAkjzxugAAAGfBIl+rgAIAAAFAASXFMEEAwBGMEQCIFZP
+hQYWdlwNstDVMxva+MLhgcesLu9KL7K//i0IFgZzAiBuRgK0C5So4UCIJHK922a6
+goesfskS/4dXFdk+d2RdDTANBgkqhkiG9w0BAQsFAAOCAQEAroF4+DfvJC3NLtQt
+QEtqRUx+JHuBshPn3ix8XGUG4/jzRmkAWiMa3gliw2uG12Yo4Xla975eweL8gCvE
+Pr6oVVthSPVjv2xntttda+yeFMUbd5haBajKj4pxoA02f0O9I0vqCd7Dghnsoukb
+d3e4J4QOdI0tB7YGJY5fxy2Vvp7V3fwOFIrRQeF2IbjdUIAzw72Yt7lHsTHJ3pHb
+KZYSx/riAg/1Pbgm/0IHIQQDecUAH1kY8FsBTmIqmdy0nQw4nDthxEtJDjGOZvXb
+0177l8+ENuGyJAa3MawHONnIc0nOJ9ZAPJIRs4BiyXut2RW9m+t1qQhs9v51Bos1
+FwRWiw==
+-----END CERTIFICATE-----
+subject=CN=*.eater.com
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2026 Q2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 4781 bytes and written 1565 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 7E0B7BBF03BACD5FAD4A2E17473529D94FFB487791D18186F2478ECD8529BB0D
+    Session-ID-ctx: 
+    Resumption PSK: 199CEAA193FEBA922905BA745348B2EC1EC893A4CF2DD14EC6A83270D4636CD3
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
+    0010 - 64 20 3d 7a ec 0e 89 6f-c7 6b 65 39 7c 63 d0 b1   d =z...o.ke9|c..
+    0020 - 9b da 88 18 c7 60 a7 de-fb ba c2 c4 99 1f 8b 3d   .....`.........=
+    0030 - 55 4e 6b 30 e1 9c eb 52-c4 fc 99 e8 e8 bb 14 29   UNk0...R.......)
+    0040 - 04 d4 47 6e 11 41 fe 96-92 fe 77 39 98 45 3c bc   ..Gn.A....w9.E<.
+    0050 - e2 1c d7 7c 4e 20 45 c7-f3 7a e6 c3 d3 fa 76 20   ...|N E..z....v 
+    0060 - 06 06 3e 4a 43 72 01 a8-ee 7a 9b 2d 2c d7 0f 87   ..>JCr...z.-,...
+    0070 - 1c 5c 34 84 27 06 f6 21-89 3e 44 3a c2 3d d8 8e   .\4.'..!.>D:.=..
+    0080 - de bf f8 ca dc d8 8c 68-c6 33 08 d4 ce 9d e3 42   .......h.3.....B
+    0090 - 1c 33 17 67 10 46 96 d3-15 9d 57 e3 5b c7 e7 f2   .3.g.F....W.[...
+
+    Start Time: 1792921706
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 8192
+---
+read R BLOCK

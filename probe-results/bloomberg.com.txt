@@ -1,0 +1,95 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=New York, L=New York, O=Bloomberg LP, CN=wmkt1.cirrus.bloomberg.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct 20 00:00:00 2026 GMT; NotAfter: Jan 29 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIKkTCCCXmgAwIBAgIQAv8DrAFK3pfTPW3EUO5VETANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjYx
+MDIwMDAwMDAwWhcNMjcwMTI5MjM1OTU5WjBvMQswCQYDVQQGEwJVUzERMA8GA1UE
+CBMITmV3IFlvcmsxETAPBgNVBAcTCE5ldyBZb3JrMRUwEwYDVQQKEwxCbG9vbWJl
+cmcgTFAxIzAhBgNVBAMTGndta3QxLmNpcnJ1cy5ibG9vbWJlcmcuY29tMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAztAqpTyOhMWkOYqZOFg978SVEDgm
+CgL/aAJrA2r2aR5y/42Mz4ZMcag3fugjpCHIM2Pl0DUXvQstP0thvv6x9Cfn0IKK
+qz9iJSwFB0Y2f3yTt6Z7xcL9kvhhE6767eBxeZ5J5AFn8guYvnVi7i7l5ewicn6K
+QW3/Fh+ky/O87+1rDS27HKHImq+HU5GquJJIoFWdbIH75KBdoBjqTIy9vRQowINC
+HrTkwULWzC+olMh/iKhbw7aLwB0IHH0TQQ0ZTprDJ28lttcKnWmlnNhgULc8k/Zt
+AlTbJO/8wyCgULFudw2NDBIYj9qbu+zYYZTVpsaOXhrBMylCAmKbvmfDdQIDAQAB
+o4IHPTCCBzkwHwYDVR0jBBgwFoAUdIWAwGbH3zfez70pN6oDHb7tzRcwHQYDVR0O
+BBYEFJadkrNdtrL51oeg+XRlDd3BdRmMMIIDyAYDVR0RBIIDvzCCA7uCGndta3Qx
+LmNpcnJ1cy5ibG9vbWJlcmcuY29tghNhYm91dC5ibG9vbWJlcmcuY29tghxhYm91
+dC5ibG9vbWJlcmdpbnN0aXR1dGUuY29tgg9hc3NldHMuYmJodWIuaW+CGWIyMC1j
+YXJib24tZXhjZWxsZW5jZS5vcmeCDGJhdHNjb3JlLmNvbYIIYmJodWIuaW+CCmJi
+dGhhdC5jb22CFWJldGEtZWUuYmxvb21iZXJnLmNvbYILYmdvdjIwMC5jb22CEmJs
+b2cuYmxvb21iZXJnLmNvbYIWYmxvbWJlcmdnb3Zlcm5tZW50LmNvbYIIYmxvb20u
+YmeCDGJsb29tYmVyZy5jboIPYmxvb21iZXJnLmNvLmpwgg9ibG9vbWJlcmcuY28u
+a3KCD2Jsb29tYmVyZy5jby51a4INYmxvb21iZXJnLmNvbYIQYmxvb21iZXJnLmNv
+bS5icoIQYmxvb21iZXJnLmNvbS5teIIQYmxvb21iZXJnLmNvbS50coIMYmxvb21i
+ZXJnLmRlggxibG9vbWJlcmcuZnKCDGJsb29tYmVyZy5pboIMYmxvb21iZXJnLml0
+gg1ibG9vbWJlcmcubmV0ggxibG9vbWJlcmcudHaCEWJsb29tYmVyZzQwMWsuY29t
+ghZibG9vbWJlcmdhZmZpbGlhdGUuY29tghBibG9vbWJlcmdhcGEubmV0ghFibG9v
+bWJlcmdhcGFlLm5ldIIRYmxvb21iZXJnYXBwcy5jb22CFWJsb29tYmVyZ2FyY2Fk
+ZS5jby51a4ITYmxvb21iZXJnYXJjYWRlLmNvbYIQYmxvb21iZXJnYXJtLm5ldIIR
+Ymxvb21iZXJnYmV0YS5jb22CEGJsb29tYmVyZ2JuYS5jb22CEmJsb29tYmVyZ2Jy
+aWVmLmNvbYITYmxvb21iZXJnYnJpZWZzLmNvbYIRYmxvb21iZXJnYnRicy5jb22C
+EWJsb29tYmVyZ2J0YnMubmV0ghBibG9vbWJlcmdidGJzLnNnghJibG9vbWJlcmdi
+dGJzZy5jb22CEmJsb29tYmVyZ2J0YnNnLm5ldIIRYmxvb21iZXJnYnRic2cuc2eC
+FWJsb29tYmVyZ2J1c2luZXNzLmNvbYITYmxvb21iZXJnY2FyZWVyLmNvbYISYmxv
+b21iZXJnY2hpbmEuY29tghBibG9vbWJlcmdjbXMuY29tghRibG9vbWJlcmdjb21w
+YW55LmNvbYIbYmxvb21iZXJnY29udGVudHNlcnZpY2UuY29tMD4GA1UdIAQ3MDUw
+MwYGZ4EMAQICMCkwJwYIKwYBBQUHAgEWG2h0dHA6Ly93d3cuZGlnaWNlcnQuY29t
+L0NQUzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMIGhBgNVHR8EgZkwgZYwSaBHoEWGQ2h0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNv
+bS9EaWdpQ2VydEdsb2JhbEcyVExTUlNBU0hBMjU2MjAyMENBMS0xMS5jcmwwSaBH
+oEWGQ2h0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2JhbEcyVExT
+UlNBU0hBMjU2MjAyMENBMS0xMS5jcmwwgYcGCCsGAQUFBwEBBHsweTAkBggrBgEF
+BQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tMFEGCCsGAQUFBzAChkVodHRw
+Oi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRHbG9iYWxHMlRMU1JTQVNI
+QTI1NjIwMjBDQTEtMS5jcnQwDAYDVR0TAQH/BAIwADCCAX4GCisGAQQB1nkCBAIE
+ggFuBIIBagFoAHYATGPcmOWcHauI9h6KPd6uj6tEozd7X5uUw/uhnPzBviYAAAGh
+WWorrQAABAMARzBFAiAMk7+Xs/ISKWMvqL+DXETb4C78/oPe+Wg8DjPWu1z/lgIh
+AJ6Wqu1+Gb7zbKfQ7FfsPoSoS+AQ06toFf8aT2HRNSaHAHYARMK9DOkUDmSlyUoB
+kwpaobs1lw4A7hEWiWgqHETXtWYAAAGhWWor3gAABAMARzBFAiBQ+Wysw0RYzuEf
+nW+03urgFhucTkINenEtLPzXh5MDyAIhAOrp7HQj3Vmv4jT9dtZnShvKoHnDGitJ
+wkFuWrBF4aoNAHYAHJ9oLOn68EVpUPgbloqH3dsyENhM5siy44JSSsTPWZ8AAAGh
+WWor+gAABAMARzBFAiEAitDCySrMunnb5j7EclbEVdXHh0buaTHEh5obcGI/J34C
+ICE/Ihj67w+YOVeVyTrhG+t5Wg7WolmxHuodaNBbJMAAMA0GCSqGSIb3DQEBCwUA
+A4IBAQBursvXLHxlPSVG83MGtayQcCOh79ft0trLo/aNbuOHWWNgxyfmTsMNqJSy
+EcvUbDz+dDOgB+FaQBZOoyOPRI0ylEGygH6WFxK4dPCOEFL0cJ6P7NXEPOfr1NIg
+f8c1IZCTsDlQjxkW2Jhr+rZ59Dm92hfsfGmjbivpH9SmYsJ7h3ae+BHFmfKngDso
+63AbZSPeqeGIc4ZregD8SKK9Jkf7cB3hTMn78JLOo+mEOJ73EJkA1QnpFnS24NGC
+tsHody61Sd3sBmUMg+uZM4/YSZ8ujyVi+61bDWHUQspxG12+Goyid3sZv1zM/iAu
+gjc0kUKgie1WnMHO4QeCQwcYndru
+-----END CERTIFICATE-----
+subject=C=US, ST=New York, L=New York, O=Bloomberg LP, CN=wmkt1.cirrus.bloomberg.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4579 bytes and written 1884 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

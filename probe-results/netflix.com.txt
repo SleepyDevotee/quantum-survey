@@ -1,0 +1,73 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=California, L=Los Gatos, O=Netflix, CN=www.netflix.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Feb 18 00:00:00 2026 GMT; NotAfter: Feb 18 21:41:48 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G3
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Apr 14 00:00:00 2021 GMT; NotAfter: Apr 13 23:59:59 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGgjCCBgigAwIBAgIQBbIvhM4q0OUtcYiQwpByqzAKBggqhkjOPQQDAzBZMQsw
+CQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypEaWdp
+Q2VydCBHbG9iYWwgRzMgVExTIEVDQyBTSEEzODQgMjAyMCBDQTEwHhcNMjYwMjE4
+MDAwMDAwWhcNMjcwMjE4MjE0MTQ4WjBiMQswCQYDVQQGEwJVUzETMBEGA1UECBMK
+Q2FsaWZvcm5pYTESMBAGA1UEBxMJTG9zIEdhdG9zMRAwDgYDVQQKEwdOZXRmbGl4
+MRgwFgYDVQQDEw93d3cubmV0ZmxpeC5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMB
+BwNCAASPqB0c/7hCFnvUoDLEwAZx7/ld9dx44KSUX8tjBdUGC+fF5XszdKF8IwP/
+J2BKyVcRbTGjeByJ5Aon+r0ao4nMo4IEpzCCBKMwHwYDVR0jBBgwFoAUiiPrnmvX
++Tdd+W0hOXaaoWfeEKgwHQYDVR0OBBYEFP23KEvCgYbmm00UANVmMT76blGlMIIB
+PgYDVR0RBIIBNTCCATGCE2FjY291bnQubmV0ZmxpeC5jb22CDmNhLm5ldGZsaXgu
+Y29tghlkZXZlbG9wLXN0YWdlLm5ldGZsaXguY29tgh9lbWJlZC5kZXZlbG9wLXN0
+YWdlLm5ldGZsaXguY29tgh9lbWJlZC5yZWxlYXNlLXN0YWdlLm5ldGZsaXguY29t
+ggpuZXRmbGl4LmNhggtuZXRmbGl4LmNvbYIZcmVsZWFzZS1zdGFnZS5uZXRmbGl4
+LmNvbYISc2lnbnVwLm5ldGZsaXguY29tgg50di5uZXRmbGl4LmNvbYIOd3d3Lm5l
+dGZsaXguY2GCD3d3dy5uZXRmbGl4LmNvbYIQd3d3MS5uZXRmbGl4LmNvbYIQd3d3
+Mi5uZXRmbGl4LmNvbYIQd3d3My5uZXRmbGl4LmNvbTA+BgNVHSAENzA1MDMGBmeB
+DAECAjApMCcGCCsGAQUFBwIBFhtodHRwOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMw
+DgYDVR0PAQH/BAQDAgOIMBMGA1UdJQQMMAoGCCsGAQUFBwMBMIGfBgNVHR8EgZcw
+gZQwSKBGoESGQmh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2Jh
+bEczVExTRUNDU0hBMzg0MjAyMENBMS0yLmNybDBIoEagRIZCaHR0cDovL2NybDQu
+ZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzNUTFNFQ0NTSEEzODQyMDIwQ0Ex
+LTIuY3JsMIGHBggrBgEFBQcBAQR7MHkwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3Nw
+LmRpZ2ljZXJ0LmNvbTBRBggrBgEFBQcwAoZFaHR0cDovL2NhY2VydHMuZGlnaWNl
+cnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzNUTFNFQ0NTSEEzODQyMDIwQ0ExLTIuY3J0
+MAwGA1UdEwEB/wQCMAAwggF+BgorBgEEAdZ5AgQCBIIBbgSCAWoBaAB1AExj3Jjl
+nB2riPYeij3ero+rRKM3e1+blMP7oZz8wb4mAAABnHKzztoAAAQDAEYwRAIgXICn
+Lbri99t5KOicRc8hGa1o22zY5egmJ2GKmV4W2MACIGee2aKHzD9yph32WllJ4mz8
+M3oyIE7uYLYj9RUtcwQvAHcA1tWNqdAXU/NqSqDHV0kCr+vH3CzTjNn3ZMgMiRke
+nwIAAAGccrPPYAAABAMASDBGAiEA32iAeYFAO7gChjPJHv++kJBUN92+ob9Z9I6D
+VpVHW6cCIQC/0Gt1Q//fEy6t5tguWxRk+fYzawhfzdVvn3CyCvECTQB2AETCvQzp
+FA5kpclKAZMKWqG7NZcOAO4RFoloKhxE17VmAAABnHKzzv8AAAQDAEcwRQIgVgjq
+c2krijVvMk5ID08KPfvL/hyjY0MpIsho8O0UBIwCIQCH/CLaVa201IsVzjvpElCp
+P29HZ9oTMVDQErfajiVM5zAKBggqhkjOPQQDAwNoADBlAjEAglcA2XP2+KZKfFAD
+StsEJ/E7lgEwewCNkwbTo5oN60leGDYaDTZxFfCeWvyJWMV8AjA52qSA/kjrtRvL
+u7EFizBnmlNSX4Nv3+3AN4JJvoOgNY+QuX6Z02O4pJWJQlYIfww=
+-----END CERTIFICATE-----
+subject=C=US, ST=California, L=Los Gatos, O=Netflix, CN=www.netflix.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2971 bytes and written 1896 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---

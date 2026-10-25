@@ -1,0 +1,99 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=District of Columbia, L=Washington, O=United States Department of Homeland Security, CN=www.dhs.gov
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct  7 00:00:00 2026 GMT; NotAfter: Apr 23 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Nov  2 12:23:37 2017 GMT; NotAfter: Nov  2 12:23:37 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIILQjCCCiqgAwIBAgIQDB4D507gYlmkVT3yq2PSpDANBgkqhkiG9w0BAQsFADBg
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR8wHQYDVQQDExZHZW9UcnVzdCBUTFMgUlNBIENBIEcx
+MB4XDTI2MTAwNzAwMDAwMFoXDTI3MDQyMzIzNTk1OVowgY8xCzAJBgNVBAYTAlVT
+MR0wGwYDVQQIExREaXN0cmljdCBvZiBDb2x1bWJpYTETMBEGA1UEBxMKV2FzaGlu
+Z3RvbjE2MDQGA1UEChMtVW5pdGVkIFN0YXRlcyBEZXBhcnRtZW50IG9mIEhvbWVs
+YW5kIFNlY3VyaXR5MRQwEgYDVQQDEwt3d3cuZGhzLmdvdjCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAMyZwdS6QapKgBSY6W8KIR1Z+b2SIrycXwPAiCvJ
+P4Yt6FUaAnsaQKpEXVwf+UDVhCJELvQG5N849gFls38vda5E1oxfxzI3oFwZoViJ
+SiLyVNbIYuEeoGaZLtue+jM5bpDrpnzpCHYovcsmsdirznwYNVWLCWKp/rmRFU9F
+iDacgPhRgN9y3AxSoVwPUpPPkj38HpCpb9F+TYD5fCJkoF385ODZbMOWXPjWdUSE
+i6rjwa2KO5X2NMfg0n2owN7fPiHzfVZV9/GnUVzs/+jPxGv7KQuNiEUWkQ6jrJpn
+fhcS32wbRq62pgYozB6UQ7TlcUJ22cA76RoFFOn5iwCEETUCAwEAAaOCB8YwggfC
+MB8GA1UdIwQYMBaAFJRP1F2L5KTipoD+/dj5AO+jvgJXMB0GA1UdDgQWBBRqTW9J
+wnAKX24Sc8SrhaVbJSLcoTCCBM8GA1UdEQSCBMYwggTCggt3d3cuZGhzLmdvdoId
+YWNlYWNjb3VudHJldmlldy1zYXQyLmNicC5nb3aCDGJsb2cudHNhLmdvdoIhYnNy
+Y29tcGxpYW5jZS5jb250cmFjdGluZy5jYnAuZ292ghRjYnB3b3JrZm9yY2UuY2Jw
+LmdvdoIOY2lzb21iLmRocy5nb3aCE2NvbnRyYWN0aW5nLmNicC5nb3aCB2Rocy5n
+b3aCEmUtc2FmZS5jYnAuZGhzLmdvdoIPZW1pbG1zLmZlbWEuZ292ghllbnJvbGwu
+cmVjcnVpdGluZy5jYnAuZ292ghBlcnVsaW5ncy5jYnAuZ292ggtnby5mZW1hLmdv
+doIMaGVscC5jYnAuZ292ghNoZWxwc3BhbmlzaC5jYnAuZ292ghRob21lbGFuZHNl
+Y3VyaXR5LmdvdoIPaTk0LmNicC5kaHMuZ292ghhsZWdhY3kuc2VjcmV0c2Vydmlj
+ZS5nb3aCDWxvZ2luLmNicC5nb3aCCm0uZmVtYS5nb3aCCW0uaWNlLmdvdoIPbS51
+c2ZhLmZlbWEuZ292gg1tZWRpYS5kaHMuZ292gg9tb2JpbGUuZmVtYS5nb3aCDm1v
+YmlsZS50c2EuZ292ghNteWFjY291bnQudXNjaXMuZ292ghVteWFwcGxpY2F0aW9u
+LmNicC5nb3aCE215ZXZlcmlmeS51c2Npcy5nb3aCDm5pY2NzLmNpc2EuZ292ggxv
+cHNnLmNicC5nb3aCEG91dHJlYWNoLmNicC5nb3aCEnBhcnRuZXJzLmZsZXRjLmdv
+doIScHJldmlldy1tLmZlbWEuZ292ghNwcmV2aWV3LW9pZy5kaHMuZ292ghtwcmV2
+aWV3LmRoc3ByZWNoZWNrLmRocy5nb3aCFnByZXZpZXcubW9iaWxlLnRzYS5nb3aC
+GXByZXZpZXcuc2VjcmV0c2VydmljZS5nb3aCEnFhLWFwaS5jYnAuZGhzLmdvdoIO
+c2F2ZS51c2Npcy5nb3aCDXNhdmVyLmRocy5nb3aCE3NlbGZjaGVjay51c2Npcy5n
+b3aCFHN0YWdlLnNhdmUudXNjaXMuZ292ghNzdGFnaW5nLWdvLmZlbWEuZ292ghhz
+dHVkeWludGhlc3RhdGVzLmRocy5nb3aCDXRyYWRlLmNicC5nb3aCD3R0cC5jYnAu
+ZGhzLmdvdoILdHRwLmRocy5nb3aCDXVzZmEuZmVtYS5nb3aCC3d3dy5jYnAuZ292
+ghp3d3cuZGlzYXN0ZXJhc3Npc3RhbmNlLmdvdoIMd3d3LmZlbWEuZ292gg13d3cu
+ZmxldGEuZ292gg13d3cuZmxldGMuZ292ghh3d3cuaG9tZWxhbmRzZWN1cml0eS5n
+b3aCC3d3dy5pY2UuZ292gg13d3cubGlzdG8uZ292ghJ3d3cubmljY3MuY2lzYS5n
+b3aCD3d3dy5vaWcuZGhzLmdvdoINd3d3LnJlYWR5LmdvdoIVd3d3LnJlYWR5YnVz
+aW5lc3MuZ292ghV3d3cuc2VjcmV0c2VydmljZS5nb3aCD3d3dy50c2EuZGhzLmdv
+doILd3d3LnRzYS5nb3aCEHd3dy51c2ZhLmRocy5nb3aCEXd3dy51c2ZhLmZlbWEu
+Z292MD4GA1UdIAQ3MDUwMwYGZ4EMAQICMCkwJwYIKwYBBQUHAgEWG2h0dHA6Ly93
+d3cuZGlnaWNlcnQuY29tL0NQUzAOBgNVHQ8BAf8EBAMCBaAwEwYDVR0lBAwwCgYI
+KwYBBQUHAwEwPwYDVR0fBDgwNjA0oDKgMIYuaHR0cDovL2NkcC5nZW90cnVzdC5j
+b20vR2VvVHJ1c3RUTFNSU0FDQUcxLmNybDB2BggrBgEFBQcBAQRqMGgwJgYIKwYB
+BQUHMAGGGmh0dHA6Ly9zdGF0dXMuZ2VvdHJ1c3QuY29tMD4GCCsGAQUFBzAChjJo
+dHRwOi8vY2FjZXJ0cy5nZW90cnVzdC5jb20vR2VvVHJ1c3RUTFNSU0FDQUcxLmNy
+dDAMBgNVHRMBAf8EAjAAMIIBfwYKKwYBBAHWeQIEAgSCAW8EggFrAWkAdgBMY9yY
+5Zwdq4j2Hoo93q6Pq0SjN3tfm5TD+6Gc/MG+JgAAAaEWvM8+AAAEAwBHMEUCID4K
+XfkFBSTN0cdwFthCpWau53xX9ZBIg7fg1HMxQNt3AiEA+k6lWolFNwenQ48Hefxk
+9PuZ7yZqa3nzX7j3QVTQWXsAdgDW1Y2p0BdT82pKoMdXSQKv68fcLNOM2fdkyAyJ
+GR6fAgAAAaEWvM9hAAAEAwBHMEUCIDjKbSWfSn22to9xTcnUwQhmMVAbYi3SG8yH
+nFR7cFeXAiEAyRX1JCOKYyJbgSV0ybnZtRkN64RsDltW6YPqQGuWAAUAdwAcn2gs
+6frwRWlQ+BuWiofd2zIQ2EzmyLLjglJKxM9ZnwAAAaEWvM+PAAAEAwBIMEYCIQCI
+N7eZWE/IRKxSvcgwcs+spsvPwzDd3TxTg1bZTQHF6gIhANkQ3JbN1LcWnZSiLmez
+1R7I0t4/Zru4OnRMqskb0jteMA0GCSqGSIb3DQEBCwUAA4IBAQAqQfQy8iM7WAgR
+7lsmqZmKJwfDKczcefq50kGDsACfVBq6shcar7oCotG3aLuEJYLu2rhWrw/84GQo
+/aAlot5Idpv71bCLA0FfGFkgAyYiyp0/mQR7axaCtNi/JuMtvWTv0FcbAanBCN/w
+Nu1+eQJVszG4ptvUKrOjsPC6gjZNuB0xCjW7tSd/TPV83Dy1SZGPH4HK0eYgcwbB
+gPczopL7e9fxmGROOA5Ofj5Y94+bH70k0Jc6XctyFLCC1/0N9sbk1s48hI0qqiMD
+fbSxcsGw9oABTjPGXq8nMmdPC81cTM6zDuqjs2cOArIhJjJLmrtmDephYb+soA3o
+HuRhglCT
+-----END CERTIFICATE-----
+subject=C=US, ST=District of Columbia, L=Washington, O=United States Department of Homeland Security, CN=www.dhs.gov
+issuer=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
+---
+SSL handshake has read 5708 bytes and written 1576 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ECH: NOT CONFIGURED: -103
+---
