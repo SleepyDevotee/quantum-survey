@@ -1,4 +1,4 @@
-CONNECTED(00000006)
+CONNECTED(00000005)
 ---
 Certificate chain
  0 s:CN=*.wish.com

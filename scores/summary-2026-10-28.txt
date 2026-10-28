@@ -1,0 +1,42 @@
+
+BANKING: 35 websites 
+Safe: 23 
+Security Percentage: 65.7 
+Average Risk: 9.8 
+Readiness: 90.2
+
+EDUCATION: 35 websites 
+Safe: 13 
+Security Percentage: 37.1 
+Average Risk: 15.6 
+Readiness: 84.4
+
+GOVERNMENT: 33 websites 
+Safe: 16 
+Security Percentage: 48.5 
+Average Risk: 12.9 
+Readiness: 87.1
+
+HEALTHCARE: 34 websites 
+Safe: 20 
+Security Percentage: 58.8 
+Average Risk: 11.4 
+Readiness: 88.6
+
+NEWS: 35 websites 
+Safe: 21 
+Security Percentage: 60.0 
+Average Risk: 11.7 
+Readiness: 88.3
+
+RETAIL: 36 websites 
+Safe: 27 
+Security Percentage: 75.0 
+Average Risk: 8.6 
+Readiness: 91.4
+
+TECHNOLOGY: 36 websites 
+Safe: 25 
+Security Percentage: 69.4 
+Average Risk: 9.0 
+Readiness: 91.0

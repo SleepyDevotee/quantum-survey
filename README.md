@@ -24,9 +24,10 @@ Paper 3 is the source of the risk score below.
 | `tranco-top1m-GQ32K.csv` | The full Tranco list we downloaded |
 | `tranco-top250-raw.csv` | First 250 rows of Tranco, kept to show why the raw list was not used |
 | `probe-sites.py` | Probes every site with OpenSSL and saves one `.txt` per site |
-| `probe-results/` | Raw OpenSSL output, one `.txt` per site |
+| `probe-results/` | Raw OpenSSL output, one `.txt` per site (latest probe; older runs are in git history) |
 | `probe-results-key-readings.py` | Reads each `.txt`, assigns a tier and risk score, prints CSV rows |
-| `scores/` | Scored results, one CSV per probe, named by date |
+| `scores/tiers-YYYY-MM-DD.csv` | Scored results for each probe, named by date |
+| `scores/summary-YYYY-MM-DD.txt` | Saved sector summary for each probe |
 | `probe-result-count-tiers.py` | Summary per sector: count, % safe, average risk, readiness |
 
 ---
@@ -49,6 +50,7 @@ Paper 3 is the source of the risk score below.
 - **INSTEAD:** 250 well-known websites hand-picked across 7 sectors, 35 to 36 per sector (250 ÷ 7 does not divide evenly).
 - **CHECKED:** every domain is on Tranco list GQ32K, with its rank in the `tranco_rank` column.
 - **SORTED:** by Tranco rank within each sector.
+- **SCOPE:** mostly US-based websites, probed from the US. Results reflect what a US user sees. A global sample is future work.
 
 | SECTOR | SITES |
 |---|---|
@@ -168,7 +170,7 @@ readiness = 100 − average score per sector
 |---|---|---|
 | 1. Probe | `python3 probe-sites.py` | `probe-results/` (one .txt per site) |
 | 2. Score | `python3 probe-results-key-readings.py > scores/tiers-YYYY-MM-DD.csv` | Dated CSV in `scores/` |
-| 3. Summary | `python3 probe-result-count-tiers.py` | Results per sector (set the CSV date inside the script) |
+| 3. Summary | `python3 probe-result-count-tiers.py \| tee scores/summary-YYYY-MM-DD.txt` | Results per sector (set the CSV date inside the script) |
 
 ---
 
@@ -177,6 +179,8 @@ readiness = 100 − average score per sector
 | PROBE | DATE | SCORES FILE | SITES SCORED | NOTES |
 |---|---|---|---|---|
 | 1 | October 24, 2026 | `scores/tiers-2026-10-24.csv` | 242 of 250 | 1 no connection, 7 unclear. Raw `.txt` files were accidentally deleted. |
-| 1 (re-probe) | October 25, 2026 | `scores/tiers-2026-10-25.csv` | 245 of 250 | Re-probe to rebuild the raw files; current `probe-results/` is from this run. |
+| 1 (re-probe) | October 25, 2026 | `scores/tiers-2026-10-25.csv` | 245 of 250 | Re-probe to rebuild the raw files. |
+| 2 | October 28, 2026 | `scores/tiers-2026-10-28.csv` | 244 of 250 | state.gov, ssa.gov, humana.com hung (no connection). vs Oct 25: nps.gov, mychart.com, spotify.com, homedepot.com moved to hybrid; etrade.com moved off RSA; fidelity.com dropped to classical. Current `probe-results/` is from this run. |
 
-- **CONSISTENCY:** 3 more sites answered on Oct 25 than on Oct 24, and irs.gov switched between TLS 1.3 and TLS 1.2 across runs. Sites do not always respond the same way, which is why each site is probed more than once.
+- **CONSISTENCY:** results shift slightly between runs (irs.gov switched TLS versions; spotify.com and fidelity.com flipped between hybrid and classical). Big sites run many servers that are not all upgraded at once, which is why each site is probed more than once.
+- **HANGS:** ssa.gov and humana.com were "Unclear" on Oct 24 and hung on Oct 28. Some servers may stall on the larger post-quantum ClientHello (the ML-KEM key share makes the first message bigger).

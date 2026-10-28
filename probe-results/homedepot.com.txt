@@ -60,9 +60,9 @@ issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
 No client certificate CA names sent
 Peer signing digest: SHA256
 Peer signature type: rsa_pss_rsae_sha256
-Peer Temp Key: X25519, 253 bits
+Negotiated TLS1.3 group: X25519MLKEM768
 ---
-SSL handshake has read 4483 bytes and written 1900 bytes
+SSL handshake has read 5478 bytes and written 1582 bytes
 Verification: OK
 ---
 New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384

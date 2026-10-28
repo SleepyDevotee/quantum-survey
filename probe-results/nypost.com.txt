@@ -49,7 +49,7 @@ Peer signing digest: SHA256
 Peer signature type: ecdsa_secp256r1_sha256
 Peer Temp Key: X25519, 253 bits
 ---
-SSL handshake has read 3861 bytes and written 1878 bytes
+SSL handshake has read 3862 bytes and written 1878 bytes
 Verification: OK
 ---
 New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256

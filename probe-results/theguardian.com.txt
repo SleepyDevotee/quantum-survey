@@ -1,4 +1,4 @@
-CONNECTED(00000006)
+CONNECTED(00000005)
 ---
 Certificate chain
  0 s:CN=theguardian.com
@@ -99,26 +99,26 @@ Post-Handshake New Session Ticket arrived:
 SSL-Session:
     Protocol  : TLSv1.3
     Cipher    : TLS_AES_128_GCM_SHA256
-    Session-ID: DFAE044C0E6C5DCEA050AEA5FEB28D0C434AB94D5D10B77F061F3274815FCD3F
+    Session-ID: 3526BD4EB860753CCA9357CD2DF1F2118657F761FE246D8CC9070F60FE267839
     Session-ID-ctx: 
-    Resumption PSK: BD662996E5A5CDC0F0B5893ADD29E6FBC7DF02BA22419FB7DA21B0177877E85B
+    Resumption PSK: 4501CB0EFEC6229F401BFE032CE62317A426EDC9E03F4DE4D78A2267556C507A
     PSK identity: None
     PSK identity hint: None
     SRP username: None
     TLS session ticket lifetime hint: 86400 (seconds)
     TLS session ticket:
-    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
-    0010 - 6e 66 41 c2 4f 10 47 e1-fc b2 3a 49 66 81 9f b2   nfA.O.G...:If...
-    0020 - 8c 32 cc ee 2b 9b bd 78-45 11 41 6b e1 45 bc 9f   .2..+..xE.Ak.E..
-    0030 - b1 bc 58 00 0b 2e 0e 78-98 3a 70 1c 2d 4f 91 9c   ..X....x.:p.-O..
-    0040 - f4 d2 db 2d 04 31 fb a6-78 c6 47 fe 32 5d 44 a3   ...-.1..x.G.2]D.
-    0050 - 30 1a 0f f0 cd 3a 75 fa-be 44 d4 f4 d1 d7 99 0a   0....:u..D......
-    0060 - 55 68 0b b2 4b 7d ee b4-a3 ed f4 56 aa a1 8f 71   Uh..K}.....V...q
-    0070 - 9b de bd 6d fd 7d 29 ac-17 8b 89 82 98 c1 dc 65   ...m.})........e
-    0080 - 12 e4 43 39 50 1b 30 2e-68 28 cd 66 40 ef c5 5d   ..C9P.0.h(.f@..]
-    0090 - 6f fa 74 0f 9d 4a 39 60-6b 40 29 e5 b8 05 43 8c   o.t..J9`k@)...C.
+    0000 - be 7b a6 f0 81 b5 ff 0d-1d 2c c3 8d 60 c6 ab 19   .{.......,..`...
+    0010 - cc dd 5e 63 12 c1 a2 e5-32 a6 7c 50 eb bf bd 15   ..^c....2.|P....
+    0020 - 6a a7 37 89 6b 21 16 65-78 8d 69 c6 6d 93 d3 20   j.7.k!.ex.i.m.. 
+    0030 - 2c a2 87 93 1a 3e 0d d4-b4 5c 3b 37 1f 10 93 5f   ,....>...\;7..._
+    0040 - b3 85 a0 00 58 4b a7 00-b1 6a d5 f6 30 52 37 0f   ....XK...j..0R7.
+    0050 - 1d 2c d8 6a 6e 50 92 ec-73 37 02 8b d6 a4 82 e5   .,.jnP..s7......
+    0060 - 25 e0 cc 6c 87 a0 4f 8e-bb d1 89 c4 d2 2c e3 ff   %..l..O......,..
+    0070 - 97 03 13 d2 da 28 4a 68-5e 2e da 4f 36 3e fd 80   .....(Jh^..O6>..
+    0080 - 08 8f 50 f4 f9 f8 78 4d-9c 3a fb 22 e9 7b ba c3   ..P...xM.:.".{..
+    0090 - ae 84 cf 93 68 c2 d2 72-a1 1b 72 35 b9 6b 3b 0b   ....h..r..r5.k;.
 
-    Start Time: 1792921698
+    Start Time: 1793213235
     Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
     Extended master secret: no

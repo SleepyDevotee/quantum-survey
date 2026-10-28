@@ -4,7 +4,7 @@ Certificate chain
  0 s:CN=foxnews.com
    i:C=US, O=Let's Encrypt, CN=YR2
    a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
-   v:NotBefore: Aug 28 22:08:18 2026 GMT; NotAfter: Nov 26 22:08:17 2026 GMT
+   v:NotBefore: Oct 27 21:23:15 2026 GMT; NotAfter: Jan 25 21:23:14 2027 GMT
  1 s:C=US, O=Let's Encrypt, CN=YR2
    i:C=US, O=ISRG, CN=Root YR
    a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
@@ -16,33 +16,33 @@ Certificate chain
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-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
+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
-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
+EwNZUjIwHhcNMjYxMDI3MjEyMzE1WhcNMjcwMTI1MjEyMzE0WjAWMRQwEgYDVQQD
+Ewtmb3huZXdzLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAN1B
+/q8DWvnE/1RDBNONPGaSqHQ4OjeK1q6f6gb1e74+WlujEZd5yYLFC0c4QX0HdJyI
+oYMLyx/7p8j0zbrM6x/+1KXkdEoCFV2/d6t5CAenA0G66A1CuK50Kcs5y+UHOHCt
+/JZ5ECRMlmd6kCAivOZD68i9IfE2gK4OUFJsMSk/wnnH6RJ69lO7SBte/6ahwRDU
+BO0FzgrgoPUPy7kcIDwPDIJneD06Hd6E6UP+/dvr68GTNs2LkEZc2ROuMNTCOuiS
+w/0tVhvFVnzmfeKfNgdxHCLUZEnulV0g4Hr+NCTF/cIW/X3miSqAtuG5Wmo+cdaM
+b9Cf/3EP5IxenOt0BTECAwEAAaOCAhcwggITMA4GA1UdDwEB/wQEAwIFoDATBgNV
+HSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQj/vkbgcGK
+7FVm1TQ935ho+WnlkDAfBgNVHSMEGDAWgBRAFS0mee0yIJ7fmnId1jIfgQyBDDAz
 BggrBgEFBQcBAQQnMCUwIwYIKwYBBQUHMAKGF2h0dHA6Ly95cjIuaS5sZW5jci5v
 cmcvMBYGA1UdEQQPMA2CC2ZveG5ld3MuY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIB
-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
-FAZxtds4m9glMEBab30UukAGNXAq
+MC4GA1UdHwQnMCUwI6AhoB+GHWh0dHA6Ly95cjIuYy5sZW5jci5vcmcvNDUuY3Js
+MIIBCgYKKwYBBAHWeQIEAgSB+wSB+AD2AHQATGPcmOWcHauI9h6KPd6uj6tEozd7
+X5uUw/uhnPzBviYAAAGhf3SILgAABAMARTBDAh9vfKu3jAh3EiRl9whLgnE4HQbR
+R/Az7qvcBsvliFY2AiAekdY+oqLyuzJhl622xED57vMtoZEataqqlrEN3LSLVQB+
+AFlubDOGlLJZcqJWyKDo3ZBKdugIPdqHOwEIOCgUPO5ZAAABoX90iCgACAAABQAW
+XaTmBAMARzBFAiEAzuY1/Hn7pQOlgTo/y4pjQGC8Vp9vZWKlC5h95uCJU0ECIGgR
+UEdsHMbq/9P/kEu97z0lNjp/jgYyCVL8fKRH+HN7MA0GCSqGSIb3DQEBCwUAA4IB
+AQBLm1xNIPiVEf/LuSY1NOFnSLl+SlrfL1U0TbLGorLMyXuLgbXuf4Hrnz6HsaJo
+u0MQM/IIcLqiZZJ7/Xtkd/puhtHQ8d+rGQvFgoEg+Gy+CB/+zhrVEA5b2C5qnLl/
+oTsH2db4jzaFLmoe1h17ahOUeV8rJzZSpCmxYRMtOQ3qZ80EuYYQ6K5LS/+9uMDP
+dA/aWCzbg/n5OpDx6yVpQ2t+hfEDsfJnV6dtOZ2ISHzNgwS/k8C8w9HCGGRAKXxw
+ion2HMZz+wEd+AROgkXy/vwTU41bULZTAB+jjEk4szpsCItr9hcPyYEewYwwRYJs
+MBi9XoCIaoVx/o3PQDXg5DXt
 -----END CERTIFICATE-----
 subject=CN=foxnews.com
 issuer=C=US, O=Let's Encrypt, CN=YR2
@@ -52,7 +52,7 @@ Peer signing digest: SHA256
 Peer signature type: rsa_pss_rsae_sha256
 Negotiated TLS1.3 group: X25519MLKEM768
 ---
-SSL handshake has read 5685 bytes and written 1564 bytes
+SSL handshake has read 5682 bytes and written 1564 bytes
 Verification: OK
 ---
 New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
@@ -72,26 +72,26 @@ Post-Handshake New Session Ticket arrived:
 SSL-Session:
     Protocol  : TLSv1.3
     Cipher    : TLS_AES_128_GCM_SHA256
-    Session-ID: 78D6F17D101AE58D65E22CA9768A0394FFEECEA5BC7E1EDF88E569FF2C9E9344
+    Session-ID: C75C916F9F0485A5ADEE7C8C24E460067D10960E0879292363FAE53BEBF89184
     Session-ID-ctx: 
-    Resumption PSK: 7462279E87C6E139A59469D52535737B623DC13C1ED422D924020462305DDBFA
+    Resumption PSK: 839C0355CFCCA3272458A7A8659DAFC40B69963EE10BFFE5496BC07040EC79AD
     PSK identity: None
     PSK identity hint: None
     SRP username: None
     TLS session ticket lifetime hint: 86400 (seconds)
     TLS session ticket:
-    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
-    0010 - 72 07 c3 fa 59 3f a9 12-33 90 58 c0 70 80 18 b6   r...Y?..3.X.p...
-    0020 - 81 8c 08 8c ee 7e 83 dd-13 02 ba 54 6c 7b 7a 7a   .....~.....Tl{zz
-    0030 - bb 40 db 51 9a 66 ca 1c-4a f2 2e ef 76 57 8a 96   .@.Q.f..J...vW..
-    0040 - 11 ee f3 c4 dc d7 22 20-b9 f5 99 5a 3a c1 55 99   ......" ...Z:.U.
-    0050 - 2f 3b 54 18 5f a6 bc 36-36 47 47 d4 d5 9a 90 d0   /;T._..66GG.....
-    0060 - b0 fc c8 65 b1 4e 26 29-d2 c8 6c 2e 4f cb 23 d8   ...e.N&)..l.O.#.
-    0070 - e9 c5 aa c0 24 33 5d 1b-b0 c2 95 81 6d 78 84 da   ....$3].....mx..
-    0080 - b9 f6 58 96 45 e9 43 91-bb b7 98 93 3b 74 13 f1   ..X.E.C.....;t..
-    0090 - 2d bc f1 09 db c4 fd 81-16 27 1f bf 3c 6e 4f be   -........'..<nO.
+    0000 - be 7b a6 f0 81 b5 ff 0d-1d 2c c3 8d 60 c6 ab 19   .{.......,..`...
+    0010 - 49 5d e7 42 56 11 1a 4d-b1 7d bb 16 c6 44 6e 06   I].BV..M.}...Dn.
+    0020 - 7c 6b ea a6 a7 ce 77 08-f5 d8 3b 5b 94 0d 6c c5   |k....w...;[..l.
+    0030 - 14 1d 68 00 8e c7 11 c6-c3 96 d5 2b 6c be 17 81   ..h........+l...
+    0040 - 02 e4 36 57 36 0b ab 69-15 90 0d 6f d4 13 92 27   ..6W6..i...o...'
+    0050 - 93 b9 77 bc b8 e9 3b 63-59 9c a3 c3 4f ae 73 24   ..w...;cY...O.s$
+    0060 - 42 34 65 ac fa 21 50 79-24 e2 39 8e bb 73 c2 b5   B4e..!Py$.9..s..
+    0070 - 10 6c fe f6 2f 53 65 e0-a5 b4 d9 8b 7c ef f4 ea   .l../Se.....|...
+    0080 - 28 96 72 e8 f9 30 24 93-27 cc dc 6f 45 58 16 85   (.r..0$.'..oEX..
+    0090 - ac 9b b7 e2 6b e5 c7 4f-2f 5a 48 af 10 ff 39 33   ....k..O/ZH...93
 
-    Start Time: 1792921702
+    Start Time: 1793213251
     Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
     Extended master secret: no

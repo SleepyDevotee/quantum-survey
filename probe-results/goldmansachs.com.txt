@@ -70,7 +70,7 @@ Peer signing digest: SHA256
 Peer signature type: ecdsa_secp256r1_sha256
 Negotiated TLS1.3 group: X25519MLKEM768
 ---
-SSL handshake has read 4696 bytes and written 1585 bytes
+SSL handshake has read 4697 bytes and written 1585 bytes
 Verification: OK
 ---
 New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384

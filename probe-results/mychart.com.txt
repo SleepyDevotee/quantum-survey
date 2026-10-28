@@ -52,9 +52,9 @@ issuer=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
 No client certificate CA names sent
 Peer signing digest: SHA256
 Peer signature type: rsa_pss_rsae_sha256
-Peer Temp Key: ECDH, prime256v1, 256 bits
+Negotiated TLS1.3 group: X25519MLKEM768
 ---
-SSL handshake has read 3352 bytes and written 1929 bytes
+SSL handshake has read 4314 bytes and written 1580 bytes
 Verification: OK
 ---
 New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384

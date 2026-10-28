@@ -1,4 +1,4 @@
-CONNECTED(00000006)
+CONNECTED(00000005)
 ---
 Certificate chain
  0 s:C=US, ST=New York, L=New York, O=Warner Bros. Discovery, Inc., CN=cnn.com
@@ -74,26 +74,26 @@ Post-Handshake New Session Ticket arrived:
 SSL-Session:
     Protocol  : TLSv1.3
     Cipher    : TLS_AES_128_GCM_SHA256
-    Session-ID: E8BE15B2273F29D187981FDB1452E6D4F73734CE44C662E278500E50735B86A4
+    Session-ID: C79B43EFFA65DB2F434E96F9196EFDB14F10F65675F676AFE1CAFD4810A08AF1
     Session-ID-ctx: 
-    Resumption PSK: AB9F3338C51AD528BC82ADDFFDDF379D8D7CF4B7251D29259A2D003A66C06F2D
+    Resumption PSK: 3F74CF49132BED7A2501F4B689A42D5E1447D97337892200E325A1DAAD443195
     PSK identity: None
     PSK identity hint: None
     SRP username: None
     TLS session ticket lifetime hint: 86400 (seconds)
     TLS session ticket:
-    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
-    0010 - 2a 12 e5 09 96 a6 59 5f-f1 63 3e 8c 2a cc 03 48   *.....Y_.c>.*..H
-    0020 - cb ef 2b 66 60 db 23 e5-a0 20 ac 89 d7 43 6e 01   ..+f`.#.. ...Cn.
-    0030 - 88 37 c1 25 34 96 91 65-90 6b 2c 1f 17 91 1f 6c   .7.%4..e.k,....l
-    0040 - 0d 97 37 49 3e 6d 78 6f-ee 2d 4e d9 29 36 13 fc   ..7I>mxo.-N.)6..
-    0050 - 4e fc 32 fc aa f4 ec 9d-f7 5f 5d ac a9 5d 1f f9   N.2......_]..]..
-    0060 - c4 17 2f 0c c0 9b 2b ea-5a 82 18 4c 8a 34 34 1c   ../...+.Z..L.44.
-    0070 - e1 e1 c5 5e ad 2b 19 11-ea ae e9 b7 29 43 5b af   ...^.+......)C[.
-    0080 - e5 2f 63 60 b6 5a b5 1f-82 dd 6f b2 f7 c5 02 62   ./c`.Z....o....b
-    0090 - 9e fc 5c 26 95 d2 2b a0-64 41 b5 95 e7 bd a3 1e   ..\&..+.dA......
+    0000 - be 7b a6 f0 81 b5 ff 0d-1d 2c c3 8d 60 c6 ab 19   .{.......,..`...
+    0010 - 22 3f 31 ff 42 2d 78 01-df ef 5a 3b 71 0a 21 92   "?1.B-x...Z;q.!.
+    0020 - 63 2c 74 e9 dd 9b f0 c1-61 42 62 81 0f 94 45 cd   c,t.....aBb...E.
+    0030 - 97 38 40 79 5a e6 a6 c3-06 5f 23 e9 99 a7 e3 28   .8@yZ...._#....(
+    0040 - 9b a0 28 40 26 e1 0c 76-81 53 88 82 d4 85 c0 5c   ..(@&..v.S.....\
+    0050 - 5b 99 40 c0 aa 92 04 75-b5 4b c1 91 01 01 f2 99   [.@....u.K......
+    0060 - ff f6 e3 b5 34 09 ef e9-46 31 47 21 89 e0 92 0b   ....4...F1G!....
+    0070 - 92 c1 ce 63 b6 33 6e f9-e1 2d 3b b4 b9 ef 2e b0   ...c.3n..-;.....
+    0080 - ef 82 d2 86 bd 9a 0c 4b-47 a1 31 67 e0 ca c4 66   .......KG.1g...f
+    0090 - 42 33 70 b2 3d 0b ac f5-a6 75 61 22 88 bb cc 37   B3p.=....ua"...7
 
-    Start Time: 1792921698
+    Start Time: 1793213236
     Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
     Extended master secret: no

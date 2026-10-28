@@ -1,4 +1,4 @@
-CONNECTED(00000006)
+CONNECTED(00000005)
 ---
 Certificate chain
  0 s:C=US, ST=California, L=San Francisco, O=Reddit, Inc., CN=*.reddit.com
@@ -78,26 +78,26 @@ Post-Handshake New Session Ticket arrived:
 SSL-Session:
     Protocol  : TLSv1.3
     Cipher    : TLS_AES_128_GCM_SHA256
-    Session-ID: 4AFA026705D2559B465D8AC35A6AB94B4903244C72725F28C3BE920C3A91189D
+    Session-ID: F980FC926235792F8B6DB279B0B0AA2680263F270C660191306CB64E32C5AEB6
     Session-ID-ctx: 
-    Resumption PSK: 5773396537AC5B4DA47E0B65942243877DFDF1F44FD5BF4054212A7C000EFCE4
+    Resumption PSK: E2CC9FDCCAEF9B856FAE7B8EFB62367C1A181115543B43D74F3BCA5FAA3C8294
     PSK identity: None
     PSK identity hint: None
     SRP username: None
     TLS session ticket lifetime hint: 86400 (seconds)
     TLS session ticket:
-    0000 - d8 af be a4 e5 62 f6 c9-51 bb b2 09 a9 4d 65 34   .....b..Q....Me4
-    0010 - 21 7f 44 c9 04 a1 71 af-bf ca 95 0b 76 72 25 3a   !.D...q.....vr%:
-    0020 - 14 d3 b1 c1 b6 a7 dd 92-5f ca e9 ee 61 9f c1 f2   ........_...a...
-    0030 - b6 b1 bf 69 b6 0a 93 1b-a1 08 d6 13 d3 2f a5 bb   ...i........./..
-    0040 - 73 c7 a5 82 71 0c c7 8c-b3 9e 9c 39 30 81 a9 27   s...q......90..'
-    0050 - 2f 68 fd 32 74 30 58 0d-b5 b8 63 6e 8e d6 6f b0   /h.2t0X...cn..o.
-    0060 - 8f 6f 0f 32 c3 37 c8 a7-c8 d3 bb a9 1d b4 92 d5   .o.2.7..........
-    0070 - a4 b6 54 b5 b1 cb 05 b3-35 ad c1 2e f0 97 27 f6   ..T.....5.....'.
-    0080 - bf 2b 71 84 2e 2c 89 40-11 43 9f 7b 9d 12 43 12   .+q..,.@.C.{..C.
-    0090 - 2a 09 5d 4f 3a b4 e6 cc-b6 64 bb ca c8 52 aa 53   *.]O:....d...R.S
+    0000 - be 7b a6 f0 81 b5 ff 0d-1d 2c c3 8d 60 c6 ab 19   .{.......,..`...
+    0010 - cb 91 e5 d2 52 cd 54 72-eb d2 4d f7 28 6c f6 0a   ....R.Tr..M.(l..
+    0020 - 92 ea 4c d8 36 f4 b6 89-be b0 4e d7 3e dd b4 e3   ..L.6.....N.>...
+    0030 - c5 b4 a9 db a1 c9 c4 66-da 16 4a d5 20 11 94 a6   .......f..J. ...
+    0040 - d8 55 14 48 67 7a 8a 36-e0 a6 25 04 ac 1e ec 4d   .U.Hgz.6..%....M
+    0050 - c1 1a 93 c1 7c b0 ae bd-ab a7 d5 60 c0 85 34 94   ....|......`..4.
+    0060 - c2 97 b3 7a f5 ea a9 e6-69 0f 34 18 76 b4 1e b7   ...z....i.4.v...
+    0070 - c4 26 c3 59 19 08 68 f7-a6 79 bb be c9 3f 5e be   .&.Y..h..y...?^.
+    0080 - 8b cd f6 9b 16 33 ae 3c-df e2 fd 8d b1 bf 7a a1   .....3.<......z.
+    0090 - d4 92 cf d6 47 29 a1 89-46 e9 52 80 2e 40 88 fd   ....G)..F.R..@..
 
-    Start Time: 1792921673
+    Start Time: 1793213151
     Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
     Extended master secret: no

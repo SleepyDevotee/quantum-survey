@@ -1,4 +1,4 @@
-CONNECTED(00000006)
+CONNECTED(00000005)
 ---
 Certificate chain
  0 s:C=US, ST=Illinois, L=Aurora, O=Kohl's, Inc., CN=kohls.com
@@ -66,7 +66,7 @@ Peer signing digest: SHA256
 Peer signature type: ecdsa_secp256r1_sha256
 Negotiated TLS1.3 group: X25519MLKEM768
 ---
-SSL handshake has read 4489 bytes and written 1578 bytes
+SSL handshake has read 4490 bytes and written 1578 bytes
 Verification: OK
 ---
 New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
