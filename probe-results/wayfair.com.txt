@@ -50,7 +50,7 @@ Peer signing digest: SHA256
 Peer signature type: ecdsa_secp256r1_sha256
 Negotiated TLS1.3 group: X25519MLKEM768
 ---
-SSL handshake has read 4909 bytes and written 1564 bytes
+SSL handshake has read 4910 bytes and written 1564 bytes
 Verification: OK
 ---
 New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
@@ -70,26 +70,26 @@ Post-Handshake New Session Ticket arrived:
 SSL-Session:
     Protocol  : TLSv1.3
     Cipher    : TLS_AES_128_GCM_SHA256
-    Session-ID: 493AE3FE400380E7C6EA7D5D1DE0432133D56DA7E62F8BF66441FB72CF8CDB29
+    Session-ID: 0FE58DDBE5AF1178FC35ECFE77F0F329930D58378A8157BAE20E38BCFEC55B0B
     Session-ID-ctx: 
-    Resumption PSK: 9CD42597D467C362909B72604586B9DFD5224C7A7A3B7CC0EF464DB3BAD9DDA4
+    Resumption PSK: 72182DA81C0DBBBB20A474C2BF15AE04C8B138E1BF63CE6FD30065DD6C15F7A4
     PSK identity: None
     PSK identity hint: None
     SRP username: None
     TLS session ticket lifetime hint: 86400 (seconds)
     TLS session ticket:
-    0000 - be 7b a6 f0 81 b5 ff 0d-1d 2c c3 8d 60 c6 ab 19   .{.......,..`...
-    0010 - ae ea 30 cf 05 69 03 2e-53 cb fb 48 f4 4d 47 b5   ..0..i..S..H.MG.
-    0020 - 8d e1 3d c7 23 a1 87 b0-9b cd e5 d4 86 09 e3 a3   ..=.#...........
-    0030 - f4 14 b6 29 8c 91 0c ee-1e 0e d0 62 e1 95 ee f5   ...).......b....
-    0040 - 94 df 0a 8e 15 10 d8 01-49 92 70 86 d2 01 fb 35   ........I.p....5
-    0050 - 3a f9 1d 78 fc f2 f9 8e-32 38 73 c3 3e d6 db 49   :..x....28s.>..I
-    0060 - 0a 10 a5 be ed 20 ea 65-d0 22 78 5b f7 43 ff c8   ..... .e."x[.C..
-    0070 - fb b2 0b 9c 74 f7 ff d0-dc 37 6a 4a 57 17 d9 22   ....t....7jJW.."
-    0080 - 79 81 6f 2d 55 3e ea 16-de 97 d8 ac 93 cf d7 7d   y.o-U>.........}
-    0090 - 5b cc e8 48 66 cd 4c cb-52 6f 30 0d 40 ea 73 e3   [..Hf.L.Ro0.@.s.
+    0000 - 3d ef 27 5f 62 0d 11 52-f5 a9 27 e4 aa ab 07 6a   =.'_b..R..'....j
+    0010 - cc fd e6 23 5f 72 af e9-8a fb ff 67 a2 64 98 c0   ...#_r.....g.d..
+    0020 - e4 6a e3 de 2b d4 b6 7f-24 4d 0e 85 62 9f 3a e7   .j..+...$M..b.:.
+    0030 - 8d a1 4d f7 93 66 3a f5-1c 96 84 b8 1f 59 81 29   ..M..f:......Y.)
+    0040 - aa 11 e6 15 15 d3 fe ee-77 1a 8e bf ad 1a 80 10   ........w.......
+    0050 - 5f 00 a3 f8 77 95 4d ab-77 8e d6 7e b2 e7 a0 b0   _...w.M.w..~....
+    0060 - 44 f3 d8 56 32 c0 56 3b-ac b8 50 a8 bd 0d f1 d4   D..V2.V;..P.....
+    0070 - ef 04 08 2a 7d 10 23 db-70 6b 0a 10 e1 fe 8e df   ...*}.#.pk......
+    0080 - 17 af 54 b3 77 c5 ac 7b-3d 35 d2 5f cb ce 11 27   ..T.w..{=5._...'
+    0090 - 82 22 ce 77 b0 87 a6 0b-56 41 41 1c 30 73 ed 2a   .".w....VAA.0s.*
 
-    Start Time: 1793213210
+    Start Time: 1793648085
     Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
     Extended master secret: no

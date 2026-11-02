@@ -4,7 +4,7 @@ Certificate chain
  0 s:CN=www.costco.com
    i:C=US, O=Certainly, CN=Certainly Intermediate R1
    a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
-   v:NotBefore: Oct 12 19:58:02 2026 GMT; NotAfter: Nov 11 19:58:01 2026 GMT
+   v:NotBefore: Nov  1 19:02:25 2026 GMT; NotAfter: Dec  1 19:02:24 2026 GMT
  1 s:C=US, O=Certainly, CN=Certainly Intermediate R1
    i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Root Certificate Authority - G2
    a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
@@ -12,18 +12,18 @@ Certificate chain
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIHDDCCBfSgAwIBAgISeGPKuwQ4QLd+gaZ75Y33AGOKMA0GCSqGSIb3DQEBCwUA
+MIIHCDCCBfCgAwIBAgISeWlUEXuz3ESv9uUURWjbEkMOMA0GCSqGSIb3DQEBCwUA
 MEUxCzAJBgNVBAYTAlVTMRIwEAYDVQQKEwlDZXJ0YWlubHkxIjAgBgNVBAMTGUNl
-cnRhaW5seSBJbnRlcm1lZGlhdGUgUjEwHhcNMjYxMDEyMTk1ODAyWhcNMjYxMTEx
-MTk1ODAxWjAZMRcwFQYDVQQDEw53d3cuY29zdGNvLmNvbTCCASIwDQYJKoZIhvcN
-AQEBBQADggEPADCCAQoCggEBAMr5VTZCoLrxY0pL6qlt1arBzLFxPIdP4ZzYEsrc
-ygCiY3DqoUM8p5ozPEgD1hiiktjqJX4jxRfU8pBRuMTggQGXQOArM+MDLFOo0k2l
-X0xpGVKHr8/rtwElF9PZ31S8GkpV8p5xKBNFCvJoegWcZxhoKt+N/PXvKc1rim/1
-9gK3lhbXFd9fh80RZNVM3DW6DePz5cR9IFDjvSQmwLshErLnW4/7Gw2PLR7Fdfq8
-yZ7JVTILhuFp2Y2KQoXCJZtUbd7rzzIkADcFouPOGkoXGK7xYyQORhIcnZsr03ew
-UcztskeTGj79wQ+N1q1n/4Gs4XAQm7h1mykElgPjAd2/IB8CAwEAAaOCBCAwggQc
+cnRhaW5seSBJbnRlcm1lZGlhdGUgUjEwHhcNMjYxMTAxMTkwMjI1WhcNMjYxMjAx
+MTkwMjI0WjAZMRcwFQYDVQQDEw53d3cuY29zdGNvLmNvbTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBALncF60yDTCBbByY3gq9fT7tjhQOjFmWIcrO/N/X
+WP1HKJyiLE/B8bHKeg+lm2pEIpFb35z6Gxbp6suHgjFxFqaenDCLahTcvydyxBBV
+Ly5EQwl7HIIPOfa7841pod2nGM0WYB4aSXRQ0idwWtHIQD9vpx9fvg5if/h3dwFC
+8so8UJzdQIwlO7kSO3IT7hl9DcsqvS0LxvrGvMsWrAN6D7NuIbj7AdkcW+wASZsu
+fVolBw1UMCd0/gOx+OACyanow+mnpjGt9E1TNVKzUSQGM3AJfDy6tAu0tFQaDRWk
+th708GIs+Iv/A4BHnFBUjwnD5xcNadR+2hDUAtLkqi41Q3ECAwEAAaOCBBwwggQY
 MA4GA1UdDwEB/wQEAwIFoDATBgNVHSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8E
-AjAAMB0GA1UdDgQWBBTNCV/ShrE+v/lkvWgPuLsTqZ0xozAfBgNVHSMEGDAWgBS9
+AjAAMB0GA1UdDgQWBBQyg3I041OCffZ1k/0+gNxdnK02xzAfBgNVHSMEGDAWgBS9
 l53fodgbJZnjDAQGiWQS12UkxzA3BggrBgEFBQcBAQQrMCkwJwYIKwYBBQUHMAKG
 G2h0dHA6Ly9pbnQtcjEuY2VydGFpbmx5LmNvbTCCAgkGA1UdEQSCAgAwggH8ggpj
 b3N0Y28uY29tgg9jb3N0Y28ucGhhcm1hY3mCGmNvc3Rjb2J1c2luZXNzcHJpbnRp
@@ -38,18 +38,18 @@ Y29zdGNvZ2Fzc3RhdGlvbi5uZXSCFnd3dy5jb3N0Y29waGFybWFjeS5jb22CG3d3
 dy5jb3N0Y293YXRlcmRlbGl2ZXJ5LmNvbYIXd3d3LmNvc3Rjb3dob2xlc2FsZS5j
 b22CFXd3dy5rczh1c2VycG9ydGFsLmNvbTATBgNVHSAEDDAKMAgGBmeBDAECATBC
 BgNVHR8EOzA5MDegNaAzhjFodHRwOi8vY3Jscy5jZXJ0YWlubHkuY29tLzE3MTgy
-MjYyNDUzMDAyNTE0LzkuY3JsMIIBBgYKKwYBBAHWeQIEAgSB9wSB9ADyAHcAlE5D
-h/rswe+B8xkkJqgYZQHH0184AgE/cmd9VTcuGdgAAAGhMecd0gAABAMASDBGAiEA
-jmhKxvyLZvrfxWrEk8/50mWf7P7Eeb9hgUQHYON2pd0CIQC9dvle5fdvPqW1qapk
-DNgQz6Rwkn4Qx7w1sQ3DCEOwBQB3ANdtfRDRp/V3wsfpX9cAv/mCyTNaZeHQswFz
-F8DIxWl3AAABoTHnHd0AAAQDAEgwRgIhANPfbvdjvyX3gXfncmb45s9OqSFDr3/H
-8Sux8PijSxU5AiEAn63lOjrUTb1B59nChFLKCci0kb0gWeFVnqTL3UxWRMswDQYJ
-KoZIhvcNAQELBQADggEBAA04Qu8IeTSxObp6x/R6ASAnohAkXZFyafmW9e5aqdBQ
-RLsy7gbJJuOI6TaiWZopRcCuwup4aoDAbndiwyDOCEnduyOjHQi6gIjA7s1Q8Pyc
-bhIzNohn/TuX0CyuYP2qUkN9ZSkHGm3tXWnReGfoPGMAYqb4QkL9zXlWb8xbnk5z
-2OcZRnd5IyL0Qb3ZF9ggf8a9IMMuCy4N81uWdSYoB+vxlgLyclv2iHiHmodMd4B5
-xDYIr9hROH9YbL0nQsYaGl9EvyANZASHBv1tOL7hc3ogKZxlFzoERA0nt3alIl1W
-d4XKoZr4zEyJy78WYSZOFQm/TmQB46jJ6MkoUW/FY6U=
+MjYyNDUzMDAyNTE0LzkuY3JsMIIBAgYKKwYBBAHWeQIEAgSB8wSB8ADuAHUA1219
+ENGn9XfCx+lf1wC/+YLJM1pl4dCzAXMXwMjFaXcAAAGhmLNhLQAABAMARjBEAiBl
+eHjBODU98Je8IIk+v20GtASsSgyif8lH6SDRW/TxnwIgMfPovFSdlUZlhM/pgfxI
+g2mQOd8klZwZLeqPkELU2fUAdQDCMX5XRRmjRe5/ON6ykEHrx8IhWiK/f9W1rXaa
+2Q5SzQAAAaGYs2MhAAAEAwBGMEQCIEeLx6qPm+QhvDurBY/LxmaL83x1USPsqUfo
++WxWrTB1AiBYfQZCvYaMK0VS52XlPYkBR1dA60OrTH/AXmlVDt23XTANBgkqhkiG
+9w0BAQsFAAOCAQEAbeWTzkuw2dKUNIlmw7uZaogjciIf4YlNLk0MfBnCxh3a1ffl
+7t4JiSuJyOyJpwmIsTJpdm3MeHmJZTlW5U0TNDlaEjXc77qH+ky2is17RmsgDu0D
+cC+t1wD588s3bFlBc9A3bx2vzQEMgetLN1wpgCGQ5PQL7FGQC7l5cC2wbRbCEUco
+x5h2T3tMM72sORwY1/pQmpbpK5ueQNmCzlErVCP/jyEectc2L+XuZdxZqIUEwMVT
+Zn6QaF+wj/YBS/CFuETJ4h9Ugg7DQRO/ZUwz/p99O1COj6WOIF1aB1Z7fULKHRYz
+mAskDVDTigPL7FmViWrQ7q9FbFBF+m7mNkM5WA==
 -----END CERTIFICATE-----
 subject=CN=www.costco.com
 issuer=C=US, O=Certainly, CN=Certainly Intermediate R1
@@ -59,7 +59,7 @@ Peer signing digest: SHA256
 Peer signature type: rsa_pss_rsae_sha256
 Negotiated TLS1.3 group: X25519MLKEM768
 ---
-SSL handshake has read 4633 bytes and written 1563 bytes
+SSL handshake has read 4629 bytes and written 1563 bytes
 Verification: OK
 ---
 New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
@@ -79,26 +79,26 @@ Post-Handshake New Session Ticket arrived:
 SSL-Session:
     Protocol  : TLSv1.3
     Cipher    : TLS_AES_128_GCM_SHA256
-    Session-ID: BF2E975D358AF20FF2C9EA7760928CE669AD368CFC718B63C67210B79C2348E3
+    Session-ID: 6A04ABC859EEEA2BAFC1713D990016C76D75E098AC98147B8C7C567141701C0C
     Session-ID-ctx: 
-    Resumption PSK: 6EBFDA23AEF2AC8D2C9F7ECC38367D8AE4710CF56079564FDA3D09FEEB8C5BAF
+    Resumption PSK: 3B45274333BBAFE52123840B819B934674338C5DDFE95FADE46FB9E2F7F598D9
     PSK identity: None
     PSK identity hint: None
     SRP username: None
     TLS session ticket lifetime hint: 86400 (seconds)
     TLS session ticket:
-    0000 - be 7b a6 f0 81 b5 ff 0d-1d 2c c3 8d 60 c6 ab 19   .{.......,..`...
-    0010 - 69 ba eb 64 db b9 ee 94-6c 99 0a 46 75 1a 72 d0   i..d....l..Fu.r.
-    0020 - a4 e0 5e a5 01 ff 2a d6-cb 4c 1a 17 5d 21 67 3e   ..^...*..L..]!g>
-    0030 - 64 d4 d6 dc 97 9f 3d ca-dd 64 33 51 ff ac d4 c2   d.....=..d3Q....
-    0040 - 41 1d 3b fb 1d 7e 8d 75-c3 45 31 b3 67 a3 de 5d   A.;..~.u.E1.g..]
-    0050 - e4 57 2f 8b 82 5c d0 e7-be 92 49 2b 31 29 b9 44   .W/..\....I+1).D
-    0060 - ce 31 26 9e ce 86 02 d5-7e d5 05 58 b0 0f b5 0d   .1&.....~..X....
-    0070 - 3c cb 58 6b 80 1f b5 23-33 ed ef ba 24 04 b3 88   <.Xk...#3...$...
-    0080 - e0 8b 3f 2a 27 6d f3 19-ad 72 81 8a 15 36 aa a1   ..?*'m...r...6..
-    0090 - 71 7b 71 f9 32 90 e3 d5-f8 ec 7b ee be 12 af a7   q{q.2.....{.....
+    0000 - 3d ef 27 5f 62 0d 11 52-f5 a9 27 e4 aa ab 07 6a   =.'_b..R..'....j
+    0010 - ba ff 2c a6 45 5a 02 a8-bc 2e 39 25 96 ce 69 d0   ..,.EZ....9%..i.
+    0020 - 28 fb 56 ec 35 74 ab 95-8d b1 2e 96 ba 4e d5 70   (.V.5t.......N.p
+    0030 - 78 8c 52 29 b0 08 24 64-5c 5b a9 93 7f 49 8e b1   x.R)..$d\[...I..
+    0040 - ad a0 fd 3e 62 a7 9b 2f-0a 86 18 05 18 8d 67 6b   ...>b../......gk
+    0050 - c8 9a 4d 03 e1 e9 d1 a5-46 56 78 9f 95 88 df ac   ..M.....FVx.....
+    0060 - 0e 1a fd d0 bf d7 54 84-09 8e c6 25 ba 73 e6 4a   ......T....%.s.J
+    0070 - a9 7c e6 3a 6c e4 43 11-17 de 08 43 30 df 2b 5a   .|.:l.C....C0.+Z
+    0080 - 8f 44 74 c1 2d 5e 03 68-09 12 3c 47 84 73 21 b6   .Dt.-^.h..<G.s!.
+    0090 - 36 93 f1 22 a0 2c 05 a8-a0 78 41 e5 df 27 36 bf   6..".,...xA..'6.
 
-    Start Time: 1793213206
+    Start Time: 1793648084
     Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
     Extended master secret: no

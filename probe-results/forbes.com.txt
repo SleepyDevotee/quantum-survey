@@ -2,60 +2,70 @@ CONNECTED(00000006)
 ---
 Certificate chain
  0 s:CN=forbes.com
-   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2025 Q4
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R46 DV TLS CA 2026 Q4
    a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
-   v:NotBefore: Nov 10 19:01:53 2025 GMT; NotAfter: Dec 12 19:01:52 2026 GMT
- 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2025 Q4
+   v:NotBefore: Oct 28 19:06:34 2026 GMT; NotAfter: May 15 18:06:34 2027 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R46 DV TLS CA 2026 Q4
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Root R46
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Jul 22 03:27:05 2026 GMT; NotAfter: Jul 21 12:00:00 2028 GMT
+ 2 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Root R46
    i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
-   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
-   v:NotBefore: Jul 16 03:06:35 2025 GMT; NotAfter: Jul 16 00:00:00 2027 GMT
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Nov 20 00:00:00 2019 GMT; NotAfter: Mar 18 00:00:00 2029 GMT
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIGVzCCBT+gAwIBAgIQAVhW/iBb8BdKicwOv02hZjANBgkqhkiG9w0BAQsFADBY
-MQswCQYDVQQGEwJCRTEZMBcGA1UEChMQR2xvYmFsU2lnbiBudi1zYTEuMCwGA1UE
-AxMlR2xvYmFsU2lnbiBBdGxhcyBSMyBEViBUTFMgQ0EgMjAyNSBRNDAeFw0yNTEx
-MTAxOTAxNTNaFw0yNjEyMTIxOTAxNTJaMBUxEzARBgNVBAMMCmZvcmJlcy5jb20w
-ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDGkQAqi7bFa3QwljotzO09
-NZybmgOx7zqEkGgkjoeF1ezwYOyTEPUsRqaQdct0iarmqQzmso6xdUlmXS9PNkXT
-/CJYl++RepysqcQY1Za8h0NGQQUs8g6MU8ur2RTjzXoU2waNkozn4aAX0+1h+F7G
-I2LALoQgQmzTiBvGxhlByJS+LY295yBkJbIsEAw+CVLUKn8+646uJt//RemJnpUD
-HbMBvTXp4VBU01d2nM+Hh1DLQ95eNXrWZ78KZZtzXwpptP/TXhen/LI2EWDCWNSX
-gXgJ1P/SlqLl7R0gilKYOKqIHCKstAwoCwj2Ygpc9uU28wUnv5Zuqz29yeZNokY7
-AgMBAAGjggNeMIIDWjAVBgNVHREEDjAMggpmb3JiZXMuY29tMA4GA1UdDwEB/wQE
-AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHQYDVR0OBBYEFPHi
-pFOLachyhg/BHVmE/QNaKHnjMFcGA1UdIARQME4wCAYGZ4EMAQIBMEIGCisGAQQB
-oDIKAQMwNDAyBggrBgEFBQcCARYmaHR0cHM6Ly93d3cuZ2xvYmFsc2lnbi5jb20v
-cmVwb3NpdG9yeS8wDAYDVR0TAQH/BAIwADCBngYIKwYBBQUHAQEEgZEwgY4wQAYI
-KwYBBQUHMAGGNGh0dHA6Ly9vY3NwLmdsb2JhbHNpZ24uY29tL2NhL2dzYXRsYXNy
-M2R2dGxzY2EyMDI1cTQwSgYIKwYBBQUHMAKGPmh0dHA6Ly9zZWN1cmUuZ2xvYmFs
-c2lnbi5jb20vY2FjZXJ0L2dzYXRsYXNyM2R2dGxzY2EyMDI1cTQuY3J0MB8GA1Ud
-IwQYMBaAFLBDnjBw9t79VB4SOh3g92HL+yDHMEgGA1UdHwRBMD8wPaA7oDmGN2h0
-dHA6Ly9jcmwuZ2xvYmFsc2lnbi5jb20vY2EvZ3NhdGxhc3IzZHZ0bHNjYTIwMjVx
-NC5jcmwwggF+BgorBgEEAdZ5AgQCBIIBbgSCAWoBaAB2AMIxfldFGaNF7n843rKQ
-QevHwiFaIr9/1bWtdprZDlLNAAABmm8la7QAAAQDAEcwRQIhAJHyRBKQOXkFrRdi
-GG3g6P74nHz0yc3mta6dSVlUqUDoAiAenlwYkuXlRoeF3uK981IP2MibZSKfVvBr
-wWLZfj/JPAB3ANgJVTuUT3r/yBYZb5RPhauw+Pxeh1UmDxXRLnK7RUsUAAABmm8l
-a7cAAAQDAEgwRgIhAP7qXYTQV0IPm1ejbAX2Q1YkhmH4aX/jE3p2wLYjob/MAiEA
-kRs9eq2vryRIWnY0VZaOFVURaf4rJ8Et+kV0gbgujZAAdQCsqzBwbOvshDH0E9L0
-kV8RHkIkQ7HypoxPPCs7px4CwwAAAZpvJWxXAAAEAwBGMEQCIE9g/mSlDClo5e3W
-AoowmzqkkyP+I5J2h0IcZHYTVyYrAiBNW9t+s11zz6vre209UoDYtW4txTIyAKlN
-S0ji39prqzANBgkqhkiG9w0BAQsFAAOCAQEAsiAul5QUfPOyLYu4StK1ZhzBAEZ9
-xEcwM1bqf1vlIdexHB4pCswgQhifdX1qw31cCnONiZZ6H8AhbnXBMBsZXTtrgRNs
-JlDF7MmbMSDmBNn6tlUSnAzO06a+/8JODlm/VTwSgQbl2fK3a0czH38GTJtp3opY
-NsBE9U2Fvo63MZ9f3l7LQ19Hbd68BA3xMAH9oci6Pi4epBLZWKtXkrm1q0ovbXND
-KtRJzR5eZKbL6mWmhZL++ntPSdK77wJsIDA9s1KO/j3aXqJNeaIDiS8bkey/GkI/
-4ch/SSzx3EqLsASX2Wl9s03V/FCNhGFcdTPZFBMXQmxGLM76WW4pPd7bRw==
+MIIHUTCCBTmgAwIBAgIQAQuNzkxn4XHNsMxl7DrdnDANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJCRTEZMBcGA1UEChMQR2xvYmFsU2lnbiBudi1zYTEvMC0GA1UE
+AxMmR2xvYmFsU2lnbiBBdGxhcyBSNDYgRFYgVExTIENBIDIwMjYgUTQwHhcNMjYx
+MDI4MTkwNjM0WhcNMjcwNTE1MTgwNjM0WjAVMRMwEQYDVQQDDApmb3JiZXMuY29t
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArnNoiRQDMJS6I2zJzFst
+kAZNLzjzFOLBqMQqH4Dts/SJmITv3fBzA0ZjemYpoR49A5PsXyZZjsgDZnNYOSxQ
+4+0DbM9+fMoCwRLw+OF8MKP+F3+H+XrB2/HUKa/+ZIrRXpxi1FS+3OI0PUDBF/rm
+h5YU/22Q7/AMv4t9SnhDIic0yjmn2k/TEklqU4QnbvP8I5LhFKVTE5g2DEjj8jWj
+y0vI+05V+bh9TqIih10gMocBMFVaEyMfLNSJKPvDKqWWRwuicTXwqrNburi1gY6Z
+p2NUxcxqdz56xwD4QAs1HQl9gFjpKyMiPmEqI5JaxlI6CRQlvZ9V5FCZR/s6LBLE
+SQIDAQABo4IDVzCCA1MwFQYDVR0RBA4wDIIKZm9yYmVzLmNvbTAOBgNVHQ8BAf8E
+BAMCBaAwEwYDVR0lBAwwCgYIKwYBBQUHAwEwHQYDVR0OBBYEFPslAn+lt1xu09TD
+gDEz0FXXEDCUMFcGA1UdIARQME4wCAYGZ4EMAQIBMEIGCisGAQQBoDIKAQMwNDAy
+BggrBgEFBQcCARYmaHR0cHM6Ly93d3cuZ2xvYmFsc2lnbi5jb20vcmVwb3NpdG9y
+eS8wDAYDVR0TAQH/BAIwADCBoAYIKwYBBQUHAQEEgZMwgZAwQQYIKwYBBQUHMAGG
+NWh0dHA6Ly9vY3NwLmdsb2JhbHNpZ24uY29tL2NhL2dzYXRsYXNyNDZkdnRsc2Nh
+MjAyNnE0MEsGCCsGAQUFBzAChj9odHRwOi8vc2VjdXJlLmdsb2JhbHNpZ24uY29t
+L2NhY2VydC9nc2F0bGFzcjQ2ZHZ0bHNjYTIwMjZxNC5jcnQwHwYDVR0jBBgwFoAU
+z+XHuVTAXHseprvcn2JXNNbWrIswSQYDVR0fBEIwQDA+oDygOoY4aHR0cDovL2Ny
+bC5nbG9iYWxzaWduLmNvbS9jYS9nc2F0bGFzcjQ2ZHZ0bHNjYTIwMjZxNC5jcmww
+ggF+BgorBgEEAdZ5AgQCBIIBbgSCAWoBaAB2AExj3JjlnB2riPYeij3ero+rRKM3
+e1+blMP7oZz8wb4mAAABoYPoNd8AAAQDAEcwRQIgKWmKJR0RDqQtFF0BFg1+Xr2j
+5R8AxfExZgcUsQ0u0eACIQC51CjVo/s7GkHlRSrbh0a/rRCjQcPA2J9oKroaW/GJ
+TQB2AByfaCzp+vBFaVD4G5aKh93bMhDYTObIsuOCUkrEz1mfAAABoYPoN1MAAAQD
+AEcwRQIgKYF7kYBLY8WBUphWfhgk7+9/2pnyuJEGGKwOhkXaU2ECIQCzGsiZRaFa
+RFeZw4TTLe9fEANJ6q2nP3Ol7+OX9+yroAB2AGBMmq96f3dfAdQG/JINyJnrCxx9
++MlSG/r6F3c7l4vJAAABoYPoQlQAAAQDAEcwRQIhANclzB5ccgcSBzdykRFlXvUw
+Og4ZkE9xVVIkIOj47EcDAiBhTxG9CEc8UkBEOwYV/GV74j/xLGniTC2gv3UhrAPc
+6DANBgkqhkiG9w0BAQsFAAOCAgEASLQ7DXGZipfLi6vVF/nvugJQyCxycSq2WjqL
+7/n3gzxaewq8XtMFuCR+ZF8qsiEb2uIpBT2cXgxRN5eOf3qXT7sjzCn+4AeNdk0F
+tdDxSnSYrGmmhjdbt6ZrotwXsUwLx4a0QQYF/YDFYOPBgERIq9yfexcHLMgxg4We
+esH1M4a1qtZByTAy1jsRRDttNlrxpdtYSG/4YYXrU64+zQEVeJZLYmqCFSptNEbG
+MTS9T4nPrIgumBgfsKgPlk8IQWlNK/FkN7TKUFQ/TCizUQVMH4BssjYZKAPOjumc
+g9+w5hZu3adekjAypfKFdq5AC+PuZ76yNaZDGWuuuyg6UEZh2llNYKk4EN2YcY/4
+yI1Z7/1YBP7ZeN6TdJNMVrbdK03b/77cu8DTmf5TGMEg9/pmPKoowBWft4jCfKcA
+YKElEhNShHexkG1kN87bNNpHILyIxPJbnkzPXKvi1isqCYwFmXOXJFHmXaH6CNW9
+P97n7bpZczFx316VTq7JXZTsurzAHeYGJ5c5ySb0/WQiLMQQancYw5DzjUT6o+L9
+DsY4BMFqoa9RRJTUq12jepj36dGxeiANYS0x/bXa0oDoXMykCkfGyczaTYQIxXsm
+eoef/Mxh0kkhqlm7jsrXuNeWRx49pFpv/MfbaI3Lfzn3SQrQRo7penbN0JZku8nt
+R+YCLbY=
 -----END CERTIFICATE-----
 subject=CN=forbes.com
-issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2025 Q4
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R46 DV TLS CA 2026 Q4
 ---
 No client certificate CA names sent
 Peer signing digest: SHA256
 Peer signature type: rsa_pss_rsae_sha256
 Peer Temp Key: X25519, 253 bits
 ---
-SSL handshake has read 3453 bytes and written 1584 bytes
+SSL handshake has read 5555 bytes and written 1584 bytes
 Verification: OK
 ---
 New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
@@ -68,28 +78,28 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-CHACHA20-POLY1305
-    Session-ID: 23534A1E94AB57C214BA29FBAC35457FC936B7D9CCDCC3E08894CFCAE81F5AF9
+    Session-ID: B0CC5E49287E6264E92F4698821872C277823693DFFA32DAAB726FA5DC3F5404
     Session-ID-ctx: 
-    Master-Key: A8A104704FA8403961D130F5E1E9C40A92CBD56231E2558E38A7E2DB9DD8ED763BC2BF2084D9D51D13DBD4651E7C09BD
+    Master-Key: 28218A9039915EAB161E865CF5FE93828CDEA0777C731A56C41C166E2FFAB2622DFE9B0C9A7F8A54EDE6BCF5F49F2A66
     PSK identity: None
     PSK identity hint: None
     SRP username: None
     TLS session ticket lifetime hint: 86400 (seconds)
     TLS session ticket:
-    0000 - be 7b a6 f0 81 b5 ff 0d-1d 2c c3 8d 60 c6 ab 19   .{.......,..`...
-    0010 - a7 54 64 72 af 3f ef 8b-64 87 da 9e f6 2f 5b 4f   .Tdr.?..d..../[O
-    0020 - 96 48 6e d0 9b 36 69 e2-3e f8 30 2c c8 b1 e6 ef   .Hn..6i.>.0,....
-    0030 - 8d be b4 0a 6a 0a b9 c2-4d bc bb a4 3d 09 75 a6   ....j...M...=.u.
-    0040 - 9f 47 f9 14 80 b0 8f 91-34 1f 95 8a 23 cd cd 83   .G......4...#...
-    0050 - 24 66 8b 7e 0f a2 59 93-ce 77 cf 1b 9e e1 64 51   $f.~..Y..w....dQ
-    0060 - 4d 6e c9 7e 26 91 5f 52-7e 91 3c 6d 8b ed b1 6d   Mn.~&._R~.<m...m
-    0070 - 1f d7 47 75 f0 75 a7 c5-76 56 98 90 26 c4 7a e1   ..Gu.u..vV..&.z.
-    0080 - e4 7f 62 8f 44 58 18 f0-de 97 10 78 2c a7 97 e1   ..b.DX.....x,...
-    0090 - fe 85 34 06 a8 69 28 18-84 7a f4 0d 01 b0 10 07   ..4..i(..z......
-    00a0 - d4 ae c0 1a bd dc 07 cd-b2 79 04 9c b2 b0 04 cc   .........y......
-    00b0 - 29 45 6e 00 dd 21 d1 34-c6 0c e7 5c f7 f7 d7 f8   )En..!.4...\....
+    0000 - 3d ef 27 5f 62 0d 11 52-f5 a9 27 e4 aa ab 07 6a   =.'_b..R..'....j
+    0010 - 00 65 a3 43 a0 ca 5c ca-89 36 34 dc 40 55 c8 bd   .e.C..\..64.@U..
+    0020 - 31 8b aa 0b 1e 78 31 49-70 85 20 4f 79 2c 9f dc   1....x1Ip. Oy,..
+    0030 - 8a 29 04 30 8b ae 91 f8-ee 21 40 67 d8 37 5b e1   .).0.....!@g.7[.
+    0040 - d7 74 67 fd a2 3e 34 bc-7a a9 17 3a 03 9a f9 de   .tg..>4.z..:....
+    0050 - cf e0 8f c0 81 22 f6 4a-ef bc 5c ce 76 7c 8a f0   .....".J..\.v|..
+    0060 - 07 52 5f 57 65 18 1a 61-db a7 43 cc f9 03 b1 bb   .R_We..a..C.....
+    0070 - bd 2e 52 f0 f3 03 b2 84-bb 48 bc e2 41 58 56 70   ..R......H..AXVp
+    0080 - 42 00 b4 44 d3 31 30 8e-38 15 9a af 33 62 e5 f3   B..D.10.8...3b..
+    0090 - 3a 27 75 91 91 be cd d9-72 dc 2b 50 61 08 81 ff   :'u.....r.+Pa...
+    00a0 - c1 46 7f 04 92 4b 17 29-3c 40 19 3e 7d 22 20 44   .F...K.)<@.>}" D
+    00b0 - 3c f2 70 8c a8 55 da f4-86 36 17 ef 8a ee 02 7f   <.p..U...6......
 
-    Start Time: 1793213238
+    Start Time: 1793648091
     Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
     Extended master secret: yes

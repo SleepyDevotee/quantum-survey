@@ -1,63 +1,84 @@
 CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:CN=foxnews.com
-   i:C=US, O=Let's Encrypt, CN=YR2
-   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
-   v:NotBefore: Oct 27 21:23:15 2026 GMT; NotAfter: Jan 25 21:23:14 2027 GMT
- 1 s:C=US, O=Let's Encrypt, CN=YR2
-   i:C=US, O=ISRG, CN=Root YR
-   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
-   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
- 2 s:C=US, O=ISRG, CN=Root YR
-   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
-   a:PKEY: RSA, 4096 (bit); sigalg: sha256WithRSAEncryption
-   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+ 0 s:C=US, ST=New York, L=New York, O=Fox News Network, LLC, CN=wildcard.foxnews.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Feb 24 00:00:00 2026 GMT; NotAfter: Feb 24 23:59:59 2027 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G3
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Apr 14 00:00:00 2021 GMT; NotAfter: Apr 13 23:59:59 2031 GMT
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIE7jCCA9agAwIBAgISBsucfVnXqJYJbXYkR/Op5G2sMA0GCSqGSIb3DQEBCwUA
-MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
-EwNZUjIwHhcNMjYxMDI3MjEyMzE1WhcNMjcwMTI1MjEyMzE0WjAWMRQwEgYDVQQD
-Ewtmb3huZXdzLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAN1B
-/q8DWvnE/1RDBNONPGaSqHQ4OjeK1q6f6gb1e74+WlujEZd5yYLFC0c4QX0HdJyI
-oYMLyx/7p8j0zbrM6x/+1KXkdEoCFV2/d6t5CAenA0G66A1CuK50Kcs5y+UHOHCt
-/JZ5ECRMlmd6kCAivOZD68i9IfE2gK4OUFJsMSk/wnnH6RJ69lO7SBte/6ahwRDU
-BO0FzgrgoPUPy7kcIDwPDIJneD06Hd6E6UP+/dvr68GTNs2LkEZc2ROuMNTCOuiS
-w/0tVhvFVnzmfeKfNgdxHCLUZEnulV0g4Hr+NCTF/cIW/X3miSqAtuG5Wmo+cdaM
-b9Cf/3EP5IxenOt0BTECAwEAAaOCAhcwggITMA4GA1UdDwEB/wQEAwIFoDATBgNV
-HSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQj/vkbgcGK
-7FVm1TQ935ho+WnlkDAfBgNVHSMEGDAWgBRAFS0mee0yIJ7fmnId1jIfgQyBDDAz
-BggrBgEFBQcBAQQnMCUwIwYIKwYBBQUHMAKGF2h0dHA6Ly95cjIuaS5sZW5jci5v
-cmcvMBYGA1UdEQQPMA2CC2ZveG5ld3MuY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIB
-MC4GA1UdHwQnMCUwI6AhoB+GHWh0dHA6Ly95cjIuYy5sZW5jci5vcmcvNDUuY3Js
-MIIBCgYKKwYBBAHWeQIEAgSB+wSB+AD2AHQATGPcmOWcHauI9h6KPd6uj6tEozd7
-X5uUw/uhnPzBviYAAAGhf3SILgAABAMARTBDAh9vfKu3jAh3EiRl9whLgnE4HQbR
-R/Az7qvcBsvliFY2AiAekdY+oqLyuzJhl622xED57vMtoZEataqqlrEN3LSLVQB+
-AFlubDOGlLJZcqJWyKDo3ZBKdugIPdqHOwEIOCgUPO5ZAAABoX90iCgACAAABQAW
-XaTmBAMARzBFAiEAzuY1/Hn7pQOlgTo/y4pjQGC8Vp9vZWKlC5h95uCJU0ECIGgR
-UEdsHMbq/9P/kEu97z0lNjp/jgYyCVL8fKRH+HN7MA0GCSqGSIb3DQEBCwUAA4IB
-AQBLm1xNIPiVEf/LuSY1NOFnSLl+SlrfL1U0TbLGorLMyXuLgbXuf4Hrnz6HsaJo
-u0MQM/IIcLqiZZJ7/Xtkd/puhtHQ8d+rGQvFgoEg+Gy+CB/+zhrVEA5b2C5qnLl/
-oTsH2db4jzaFLmoe1h17ahOUeV8rJzZSpCmxYRMtOQ3qZ80EuYYQ6K5LS/+9uMDP
-dA/aWCzbg/n5OpDx6yVpQ2t+hfEDsfJnV6dtOZ2ISHzNgwS/k8C8w9HCGGRAKXxw
-ion2HMZz+wEd+AROgkXy/vwTU41bULZTAB+jjEk4szpsCItr9hcPyYEewYwwRYJs
-MBi9XoCIaoVx/o3PQDXg5DXt
+MIIJkDCCCRagAwIBAgIQBefXusSLpflDbgHZOlvvcTAKBggqhkjOPQQDAzBZMQsw
+CQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypEaWdp
+Q2VydCBHbG9iYWwgRzMgVExTIEVDQyBTSEEzODQgMjAyMCBDQTEwHhcNMjYwMjI0
+MDAwMDAwWhcNMjcwMjI0MjM1OTU5WjByMQswCQYDVQQGEwJVUzERMA8GA1UECBMI
+TmV3IFlvcmsxETAPBgNVBAcTCE5ldyBZb3JrMR4wHAYDVQQKExVGb3ggTmV3cyBO
+ZXR3b3JrLCBMTEMxHTAbBgNVBAMTFHdpbGRjYXJkLmZveG5ld3MuY29tMFkwEwYH
+KoZIzj0CAQYIKoZIzj0DAQcDQgAEjP5End5GUfIky2n9OOuOKKgDihgLvIOubJ4p
+n9pZAz6Wibv8WGRcfP5xum8YwPoUdod+gmwNe1+QyzoE2OgAbqOCB6UwggehMB8G
+A1UdIwQYMBaAFIoj655r1/k3XfltITl2mqFn3hCoMB0GA1UdDgQWBBRHrVas1d2A
+HQAEhUfx50F7AEc9VDCCBD0GA1UdEQSCBDQwggQwghR3aWxkY2FyZC5mb3huZXdz
+LmNvbYIaZGV2LXRyeS5uYXRpb24uZm94bmV3cy5jb22CGWRldi12aWRlby5mb3hi
+dXNpbmVzcy5jb22CFWRldi12aWRlby5mb3huZXdzLmNvbYISZXZlbnRzLmZveG5l
+d3MuY29tghVmZWVkcy5mb3hidXNpbmVzcy5jb22CEWZlZWRzLmZveG5ld3MuY29t
+gg9mb3hidXNpbmVzcy5jb22CC2ZveG5ld3MuY29tghJmb3huZXdzaW5zaWRlci5j
+b22CGGZveG5ld3NpbnRlcm5hdGlvbmFsLmNvbYIWaHAtY21zLmZveGJ1c2luZXNz
+LmNvbYISaHAtY21zLmZveG5ld3MuY29tghJocC5jbXMuZm94bmV3cy5jb22CFmhw
+LmRldi1jbXMuZm94bmV3cy5jb22CGmhwLnN0YWdpbmctY21zLmZveG5ld3MuY29t
+ghxsaXZlYmxvZy1jbXMuZm94YnVzaW5lc3MuY29tghhsaXZlYmxvZy1jbXMuZm94
+bmV3cy5jb22CGnByZS10cnkubmF0aW9uLmZveG5ld3MuY29tghhwdWJsaWMubWVk
+aWEuZm94bmV3cy5jb22CF3FhLmdsb2JhbC5mbmNzdGF0aWMuY29tghhzZWN1cmUu
+bWVkaWEuZm94bmV3cy5jb22CIHN0YWdlLXByZS10cnkubmF0aW9uLmZveG5ld3Mu
+Y29tghxzdGFnZS10cnkubmF0aW9uLmZveG5ld3MuY29tghtzdGFnZS12aWRlby5m
+b3hidXNpbmVzcy5jb22CF3N0YWdlLXZpZGVvLmZveG5ld3MuY29tghZ0cnkubmF0
+aW9uLmZveG5ld3MuY29tgiNhay5wb2RjYXN0LXRlc3RpbmcuZm94bmV3c3JhZGlv
+LmNvbYIYYWsuY3V0cy5mb3huZXdzcmFkaW8uY29tghxhZmZpbGlhdGVzLnJhZGlv
+LmZveG5ld3MuY29tghIqLmZveG5ld3NyYWRpby5jb22CGiouZm94bmV3c2ludGVy
+bmF0aW9uYWwuY29tgg0qLmZveG5ld3MuY29tghEqLmZveGJ1c2luZXNzLmNvbYIP
+Ki5mbmNzdGF0aWMuY29tgg8qLmZibnN0YXRpYy5jb22CH2JldGEudmlkZW8ubWFn
+YXppbmUuZm94bmV3cy5jb22CHWJldGEudmlkZW8ubGF0aW5vLmZveG5ld3MuY29t
+gh5iZXRhLnZpZGVvLmluc2lkZXIuZm94bmV3cy5jb22CGmJldGEudmlkZW8uZm94
+YnVzaW5lc3MuY29tghthay5wcmVtaXVtLmZveG5ld3NyYWRpby5jb22CFmJldGEu
+dmlkZW8uZm94bmV3cy5jb22CG2FrLnBvZGNhc3QuZm94bmV3c3JhZGlvLmNvbTA+
+BgNVHSAENzA1MDMGBmeBDAECAjApMCcGCCsGAQUFBwIBFhtodHRwOi8vd3d3LmRp
+Z2ljZXJ0LmNvbS9DUFMwDgYDVR0PAQH/BAQDAgOIMBMGA1UdJQQMMAoGCCsGAQUF
+BwMBMIGfBgNVHR8EgZcwgZQwSKBGoESGQmh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNv
+bS9EaWdpQ2VydEdsb2JhbEczVExTRUNDU0hBMzg0MjAyMENBMS0yLmNybDBIoEag
+RIZCaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzNUTFNF
+Q0NTSEEzODQyMDIwQ0ExLTIuY3JsMIGHBggrBgEFBQcBAQR7MHkwJAYIKwYBBQUH
+MAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBRBggrBgEFBQcwAoZFaHR0cDov
+L2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzNUTFNFQ0NTSEEz
+ODQyMDIwQ0ExLTIuY3J0MAwGA1UdEwEB/wQCMAAwggF9BgorBgEEAdZ5AgQCBIIB
+bQSCAWkBZwB1AExj3JjlnB2riPYeij3ero+rRKM3e1+blMP7oZz8wb4mAAABnJAI
+XZUAAAQDAEYwRAIgQ/LwEgV8Q2s/qzrwolDxkx5WYYYA6z1VKWDeG6vh7aoCIETz
+oDI+8QPXRjSrYCt1ZH5dd4BpjelwpWVyUVuQIkf4AHYA1tWNqdAXU/NqSqDHV0kC
+r+vH3CzTjNn3ZMgMiRkenwIAAAGckAhdZQAABAMARzBFAiB6Zz8wqUqkhlMBoZGM
+2xuK0DRxjYXepTDpWcvmcLuajAIhAPMikM8+wAFhElF+kqxhsYEuWqGBWNFLhXyl
+B98a7/3cAHYARMK9DOkUDmSlyUoBkwpaobs1lw4A7hEWiWgqHETXtWYAAAGckAhd
+wAAABAMARzBFAiEAlLRw74cbAUTQIqoJZfjriba1F1svzoZMuUvBYRM98i0CIF+/
+4hWWGA1jD18uiPsE2FkxGacUBdesmpG97em+B1RRMAoGCCqGSM49BAMDA2gAMGUC
+MQDwvOX8lMRHQUyIRBkwwZRrGmx5nES/v9/rmEzaCgAK7nmNYqYdP2GJF3WZ82y1
+/DcCMDyGuzAfxAESRfDHZd6SrRegFbs49TmL+Wc0AFcLst4Qh+B3LAvgYiP3wrah
+/JObxw==
 -----END CERTIFICATE-----
-subject=CN=foxnews.com
-issuer=C=US, O=Let's Encrypt, CN=YR2
+subject=C=US, ST=New York, L=New York, O=Fox News Network, LLC, CN=wildcard.foxnews.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
 ---
 No client certificate CA names sent
 Peer signing digest: SHA256
-Peer signature type: rsa_pss_rsae_sha256
+Peer signature type: ecdsa_secp256r1_sha256
 Negotiated TLS1.3 group: X25519MLKEM768
 ---
-SSL handshake has read 5682 bytes and written 1564 bytes
+SSL handshake has read 4813 bytes and written 1580 bytes
 Verification: OK
 ---
-New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
 Protocol: TLSv1.3
-Server public key is 2048 bit
+Server public key is 256 bit
 This TLS version forbids renegotiation.
 Compression: NONE
 Expansion: NONE
@@ -67,34 +88,3 @@ Verify return code: 0 (ok)
 ---
 ECH: NOT CONFIGURED: -103
 ---
----
-Post-Handshake New Session Ticket arrived:
-SSL-Session:
-    Protocol  : TLSv1.3
-    Cipher    : TLS_AES_128_GCM_SHA256
-    Session-ID: C75C916F9F0485A5ADEE7C8C24E460067D10960E0879292363FAE53BEBF89184
-    Session-ID-ctx: 
-    Resumption PSK: 839C0355CFCCA3272458A7A8659DAFC40B69963EE10BFFE5496BC07040EC79AD
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 86400 (seconds)
-    TLS session ticket:
-    0000 - be 7b a6 f0 81 b5 ff 0d-1d 2c c3 8d 60 c6 ab 19   .{.......,..`...
-    0010 - 49 5d e7 42 56 11 1a 4d-b1 7d bb 16 c6 44 6e 06   I].BV..M.}...Dn.
-    0020 - 7c 6b ea a6 a7 ce 77 08-f5 d8 3b 5b 94 0d 6c c5   |k....w...;[..l.
-    0030 - 14 1d 68 00 8e c7 11 c6-c3 96 d5 2b 6c be 17 81   ..h........+l...
-    0040 - 02 e4 36 57 36 0b ab 69-15 90 0d 6f d4 13 92 27   ..6W6..i...o...'
-    0050 - 93 b9 77 bc b8 e9 3b 63-59 9c a3 c3 4f ae 73 24   ..w...;cY...O.s$
-    0060 - 42 34 65 ac fa 21 50 79-24 e2 39 8e bb 73 c2 b5   B4e..!Py$.9..s..
-    0070 - 10 6c fe f6 2f 53 65 e0-a5 b4 d9 8b 7c ef f4 ea   .l../Se.....|...
-    0080 - 28 96 72 e8 f9 30 24 93-27 cc dc 6f 45 58 16 85   (.r..0$.'..oEX..
-    0090 - ac 9b b7 e2 6b e5 c7 4f-2f 5a 48 af 10 ff 39 33   ....k..O/ZH...93
-
-    Start Time: 1793213251
-    Timeout   : 7200 (sec)
-    Verify return code: 0 (ok)
-    Extended master secret: no
-    Max Early Data: 0
----
-read R BLOCK

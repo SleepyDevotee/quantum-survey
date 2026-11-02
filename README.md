@@ -180,7 +180,8 @@ readiness = 100 − average score per sector
 |---|---|---|---|---|
 | 1 | October 24, 2026 | `scores/tiers-2026-10-24.csv` | 242 of 250 | 1 no connection, 7 unclear. Raw `.txt` files were accidentally deleted. |
 | 1 (re-probe) | October 25, 2026 | `scores/tiers-2026-10-25.csv` | 245 of 250 | Re-probe to rebuild the raw files. |
-| 2 | October 28, 2026 | `scores/tiers-2026-10-28.csv` | 244 of 250 | state.gov, ssa.gov, humana.com hung (no connection). vs Oct 25: nps.gov, mychart.com, spotify.com, homedepot.com moved to hybrid; etrade.com moved off RSA; fidelity.com dropped to classical. Current `probe-results/` is from this run. |
+| 2 | October 28, 2026 | `scores/tiers-2026-10-28.csv` | 244 of 250 | state.gov, ssa.gov, humana.com hung (no connection). vs Oct 25: nps.gov, mychart.com, spotify.com, homedepot.com moved to hybrid; etrade.com moved off RSA; fidelity.com dropped to classical. |
+| 3 | November 2, 2026 | `scores/tiers-2026-11-02.csv` | 244 of 250 | noaa.gov, state.gov, marcus.com, humana.com hung (no connection). vs Oct 28: ssa.gov answered again (classical); etrade.com flipped back to RSA. Sector percentages unchanged. Current `probe-results/` is from this run. |
 
-- **CONSISTENCY:** results shift slightly between runs (irs.gov switched TLS versions; spotify.com and fidelity.com flipped between hybrid and classical). Big sites run many servers that are not all upgraded at once, which is why each site is probed more than once.
-- **HANGS:** ssa.gov and humana.com were "Unclear" on Oct 24 and hung on Oct 28. Some servers may stall on the larger post-quantum ClientHello (the ML-KEM key share makes the first message bigger).
+- **CONSISTENCY:** results shift slightly between runs (irs.gov switched TLS versions; spotify.com and fidelity.com flipped between hybrid and classical; etrade.com alternates between RSA and ECDHE). Sector percentages were identical on Oct 28 and Nov 2, so the overall pattern is stable. Big sites run many servers that are not all upgraded at once, which is why each site is probed more than once.
+- **HANGS:** state.gov and humana.com hung on both Oct 28 and Nov 2; ssa.gov hung on Oct 28 but answered on Nov 2; noaa.gov and marcus.com hung on Nov 2. Some servers may stall on the larger post-quantum ClientHello (the ML-KEM key share makes the first message bigger).

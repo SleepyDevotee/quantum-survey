@@ -97,32 +97,21 @@ issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R3
 ---
 No client certificate CA names sent
 Peer signing digest: SHA256
-Peer signature type: rsa_pkcs1_sha256
+Peer signature type: rsa_pss_rsae_sha256
 Peer Temp Key: ECDH, prime256v1, 256 bits
 ---
-SSL handshake has read 8706 bytes and written 1635 bytes
+SSL handshake has read 8869 bytes and written 1931 bytes
 Verification: OK
 ---
-New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
-Protocol: TLSv1.2
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
 Server public key is 2048 bit
-Secure Renegotiation IS supported
+This TLS version forbids renegotiation.
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
-SSL-Session:
-    Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 6AC02C9B3F8521FE5289AD1CA5CDC889D67F2D34722BC950054946D9765D1897
-    Session-ID-ctx: 
-    Master-Key: AF543FAF4E0AA71707A1A05FAB829BE22839AD8590838D524CF3ACBC7A50E77B24C4E28004E43E7A4B842D4F386F6C51
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1793212951
-    Timeout   : 7200 (sec)
-    Verify return code: 0 (ok)
-    Extended master secret: yes
+Early data was not sent
+Verify return code: 0 (ok)
 ---
 ECH: NOT CONFIGURED: -103
 ---
