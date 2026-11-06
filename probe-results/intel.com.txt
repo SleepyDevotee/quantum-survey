@@ -4,70 +4,78 @@ Certificate chain
  0 s:C=US, ST=California, O=Intel Corporation, CN=intel.com
    i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
    a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
-   v:NotBefore: Sep  3 00:00:00 2026 GMT; NotAfter: Dec  2 23:59:59 2026 GMT
+   v:NotBefore: Nov  5 00:00:00 2026 GMT; NotAfter: Feb  3 23:59:59 2027 GMT
  1 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
    i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
    a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
    v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Mar 21 23:59:59 2036 GMT
  2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
-   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Certification Authority
    a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
-   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Mar 21 23:59:59 2046 GMT
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+ 3 s:C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 4 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: RSA, 2048 (bit); sigalg: sha1WithRSAEncryption
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIJrTCCCBWgAwIBAgIRAPqqP0FvQjxEWNzQZIzQDP0wDQYJKoZIhvcNAQELBQAw
-YDELMAkGA1UEBhMCR0IxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
-AxMuU2VjdGlnbyBQdWJsaWMgU2VydmVyIEF1dGhlbnRpY2F0aW9uIENBIE9WIFIz
-NjAeFw0yNjA5MDMwMDAwMDBaFw0yNjEyMDIyMzU5NTlaMFIxCzAJBgNVBAYTAlVT
-MRMwEQYDVQQIEwpDYWxpZm9ybmlhMRowGAYDVQQKExFJbnRlbCBDb3Jwb3JhdGlv
-bjESMBAGA1UEAxMJaW50ZWwuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
-CgKCAQEA8Y8DjW8EBj2K39pR33Xv+xG9pnIiXWKCgkCpe3QvHVrZA4+HgaR0baD+
-gI5iIwwGbsKUTxx4Dws7RNjhJ7cT7VXf2tK75Yq40bgJ8ooLiqC9h7XNrbJw442N
-Y8GBUggkXKOGBrYqBOyN+GjKtVj8/tlYodpbDXutlCx5NU8NGHWlKmrcajclyZsz
-HCmzQawSwe5HhTVPbnnWkZwC1F7lxa+NEPN9MzXOeG1l+bQjPpW4itSSMIdSIdWb
-D1FRI/y0c1VPGFapjnclGqix0AInGSjcg40E3EjY7vcGk4ONuc/sbErMgla/Gxge
-Bv+C7gFd+7Wn+co+SpeMJCFpJWLY4QIDAQABo4IF7jCCBeowHwYDVR0jBBgwFoAU
-42Z0u3BojSxdTg6mSo+bNyKcgpIwHQYDVR0OBBYEFAX+T+hV6Xol0li2AA4u4W3u
-KGV/MA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMBMGA1UdJQQMMAoGCCsG
-AQUFBwMBMEoGA1UdIARDMEEwNQYMKwYBBAGyMQECAQMEMCUwIwYIKwYBBQUHAgEW
-F2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECAjBUBgNVHR8ETTBLMEmg
-R6BFhkNodHRwOi8vY3JsLnNlY3RpZ28uY29tL1NlY3RpZ29QdWJsaWNTZXJ2ZXJB
-dXRoZW50aWNhdGlvbkNBT1ZSMzYuY3JsMIGEBggrBgEFBQcBAQR4MHYwTwYIKwYB
-BQUHMAKGQ2h0dHA6Ly9jcnQuc2VjdGlnby5jb20vU2VjdGlnb1B1YmxpY1NlcnZl
-ckF1dGhlbnRpY2F0aW9uQ0FPVlIzNi5jcnQwIwYIKwYBBQUHMAGGF2h0dHA6Ly9v
-Y3NwLnNlY3RpZ28uY29tMIIBDQYKKwYBBAHWeQIEAgSB/gSB+wD5AHYA1219ENGn
-9XfCx+lf1wC/+YLJM1pl4dCzAXMXwMjFaXcAAAGgaBIQ0AAABAMARzBFAiEAxbjn
-vq0uKgqwHSFXSnN7pUuxnQZ8hsHCECwiDtofqaoCIDyUSq+/r495bVBZXLp+L7Kj
-fJytEOt5gKckiqXaIWO5AH8ARq+GPTs+5Z+ld96oJF02sNntIqIj9GF3QSKUUu6V
-UF8AAAGgaBIQ0AAIAAAFACQQJmIEAwBIMEYCIQD8KG7RJpUuIFW5u70+q+/4N0xb
-K1VAMempLjpOE7+KjAIhAMzxrfFV8orOYjXjebmgS5aQgsCJzfkgBQOHLh7cjI8+
-MIIDOQYDVR0RBIIDMDCCAyyCCWludGVsLmNvbYIGMDEub3JnggphY3BpY2Eub3Jn
-ghRiYXJlZm9vdG5ldHdvcmtzLmNvbYINYnV5YWx0ZXJhLmNvbYIMZG1sLWxhbmcu
-b3JnggllYXNpYy5jb22CEGV4cGxvcmVpbnRlbC5jb22CDGdyYW51bGF0ZS5pb4IM
-aW5zaWdodC50ZWNogghpbnRlbC5haYIIaW50ZWwuY2GCCGludGVsLmNuggtpbnRl
-bC5jby5pZIILaW50ZWwuY28uaWyCC2ludGVsLmNvLmpwggtpbnRlbC5jby5rcoIL
-aW50ZWwuY28udWuCC2ludGVsLmNvLnphggxpbnRlbC5jb20uYXWCDGludGVsLmNv
-bS5icoIMaW50ZWwuY29tLnRyggxpbnRlbC5jb20udHeCCGludGVsLmRlgglpbnRl
-bC5kZXaCCGludGVsLmVzgghpbnRlbC5ldYIIaW50ZWwuZnKCCGludGVsLmdngghp
-bnRlbC5pZYIIaW50ZWwuaW6CCGludGVsLml0gghpbnRlbC5sYYIIaW50ZWwubHaC
-CGludGVsLm1lgghpbnRlbC5waIIIaW50ZWwucGyCCGludGVsLnNlgghpbnRlbC5z
-Z4IIaW50ZWwudm6CEGludGVsY2FwaXRhbC5jb22CFmludGVscmVpbWJ1cnNlbWVu
-dC5jb22CEW1lY2NvbnRyb2xsZXIuY29tggxtb3ZpZGl1cy5jb22CDG1vdmlkaXVz
-Lm9yZ4IKb3BlbmNhcy5pb4IPb3BlbmRyb25laWQub3JnggtvcGVudmluby5haYIP
-cGFzc3dvcmRkYXkub3Jnghlwcm9qZWN0Y2lyY3VpdGJyZWFrZXIuY29tghRyZW5k
-ZXJpbmd0b29sa2l0Lm9yZ4IKc2lnb3B0LmNvbYIPc21hcnQtZWRnZS5pbmZvgg1z
-bWFydC1lZGdlLmlvgg5zbWFydC1lZGdlLm5ldIIOc21hcnQtZWRnZS5vcmeCEnNt
-YXJ0LWVkZ2Uuc3lzdGVtc4IOc21hcnRlZGdlLmluZm+CG3RocmVhZGluZ2J1aWxk
-aW5nYmxvY2tzLm9yZzANBgkqhkiG9w0BAQsFAAOCAYEAgv54d4/jWjYtHbJQ7Gls
-ziF19/iAv3EtYnN+D7JwaMTVnd8O1I9VAPwTQAQI1jz0jqWmcrbJLMa1mDscglJ6
-R2WhHbonC2ZYi9WUz73GU4LvzKvHDr/Xdh7DPnQmf1KhN3i6TIAjjFAEt3fuQp0x
-Es3WZ6ox/PO8Geq+mM5iwlQ3iawusKKtDGRR/h5gv6kX0Q6TMyis91ARux+hADAg
-UfLlEjGNCuQqGudOTwxzE69dpDto1eNdqT6mYeu6T1xvunta5OTJJ3RwHx4eui2g
-ab2Z4rnNW18LThJ5+WM+0AMYWH3Tj0o20+ywPlsHFg0hWkjNiQTeLGJzJkG3W9kn
-XoQ3jEqfjN6zxjJzAWsw3f/ZQ8ZEmWJpyXj8oABCYAyMJP81+tALAgSLJhiLlSTb
-8A8Q2nLiW4AYUKDlHQF05wlSIfpIvbxkAVCaswfUnWZMwWK9J9941yEaolqELxzI
-xnSvirrb8J7HWdFfcq33k5pkvEe5f5CkR3xvqNNilNwD
+MIIJrDCCCBSgAwIBAgIQJxmHYrFv+dQU6BZjTxfu5TANBgkqhkiG9w0BAQsFADBg
+MQswCQYDVQQGEwJHQjEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFB1YmxpYyBTZXJ2ZXIgQXV0aGVudGljYXRpb24gQ0EgT1YgUjM2
+MB4XDTI2MTEwNTAwMDAwMFoXDTI3MDIwMzIzNTk1OVowUjELMAkGA1UEBhMCVVMx
+EzARBgNVBAgTCkNhbGlmb3JuaWExGjAYBgNVBAoTEUludGVsIENvcnBvcmF0aW9u
+MRIwEAYDVQQDEwlpbnRlbC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQDKNZLtOHjKdPjWr/1OFjc+STHX5XVTRvk9/geLgHLwAQfhzYIbTLWz5Ylp
+FaooIGay7ap+r9TOCt3cD+cAk5GMl0C1afdBf5QGQlOvn6xqSTD4WApubS0tKBEz
+u32UTWrGTaVj1OJJIe7V9BPURLsk76reyeSWvzF20oBdNSXmkgFeDbqj3fq7cf3i
+9bdI9Ma+IamttAJXyey8LE4v2NaGcBIaCCflCbgQtgr+WUXG8Rd20/BQMhLK7tWf
+6DWIVMLsnkC8/0+u9KV6sJtCxG9w5fZhjuqcueIuGlEGda4M+9SDTlFOgE8e8XCg
+tcIASm+ZhTtwTZosGlMqA/Iyvko5AgMBAAGjggXuMIIF6jAfBgNVHSMEGDAWgBTj
+ZnS7cGiNLF1ODqZKj5s3IpyCkjAdBgNVHQ4EFgQUU5H6v2YT5Q698ixNlsdNEYDW
+gbkwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwEwYDVR0lBAwwCgYIKwYB
+BQUHAwEwSgYDVR0gBEMwQTA1BgwrBgEEAbIxAQIBAwQwJTAjBggrBgEFBQcCARYX
+aHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQICMFQGA1UdHwRNMEswSaBH
+oEWGQ2h0dHA6Ly9jcmwuc2VjdGlnby5jb20vU2VjdGlnb1B1YmxpY1NlcnZlckF1
+dGhlbnRpY2F0aW9uQ0FPVlIzNi5jcmwwgYQGCCsGAQUFBwEBBHgwdjBPBggrBgEF
+BQcwAoZDaHR0cDovL2NydC5zZWN0aWdvLmNvbS9TZWN0aWdvUHVibGljU2VydmVy
+QXV0aGVudGljYXRpb25DQU9WUjM2LmNydDAjBggrBgEFBQcwAYYXaHR0cDovL29j
+c3Auc2VjdGlnby5jb20wggM5BgNVHREEggMwMIIDLIIJaW50ZWwuY29tggYwMS5v
+cmeCCmFjcGljYS5vcmeCFGJhcmVmb290bmV0d29ya3MuY29tgg1idXlhbHRlcmEu
+Y29tggxkbWwtbGFuZy5vcmeCCWVhc2ljLmNvbYIQZXhwbG9yZWludGVsLmNvbYIM
+Z3JhbnVsYXRlLmlvggxpbnNpZ2h0LnRlY2iCCGludGVsLmFpgghpbnRlbC5jYYII
+aW50ZWwuY26CC2ludGVsLmNvLmlkggtpbnRlbC5jby5pbIILaW50ZWwuY28uanCC
+C2ludGVsLmNvLmtyggtpbnRlbC5jby51a4ILaW50ZWwuY28uemGCDGludGVsLmNv
+bS5hdYIMaW50ZWwuY29tLmJyggxpbnRlbC5jb20udHKCDGludGVsLmNvbS50d4II
+aW50ZWwuZGWCCWludGVsLmRldoIIaW50ZWwuZXOCCGludGVsLmV1gghpbnRlbC5m
+coIIaW50ZWwuZ2eCCGludGVsLmllgghpbnRlbC5pboIIaW50ZWwuaXSCCGludGVs
+LmxhgghpbnRlbC5sdoIIaW50ZWwubWWCCGludGVsLnBogghpbnRlbC5wbIIIaW50
+ZWwuc2WCCGludGVsLnNngghpbnRlbC52boIQaW50ZWxjYXBpdGFsLmNvbYIWaW50
+ZWxyZWltYnVyc2VtZW50LmNvbYIRbWVjY29udHJvbGxlci5jb22CDG1vdmlkaXVz
+LmNvbYIMbW92aWRpdXMub3JnggpvcGVuY2FzLmlvgg9vcGVuZHJvbmVpZC5vcmeC
+C29wZW52aW5vLmFpgg9wYXNzd29yZGRheS5vcmeCGXByb2plY3RjaXJjdWl0YnJl
+YWtlci5jb22CFHJlbmRlcmluZ3Rvb2xraXQub3JnggpzaWdvcHQuY29tgg9zbWFy
+dC1lZGdlLmluZm+CDXNtYXJ0LWVkZ2UuaW+CDnNtYXJ0LWVkZ2UubmV0gg5zbWFy
+dC1lZGdlLm9yZ4ISc21hcnQtZWRnZS5zeXN0ZW1zgg5zbWFydGVkZ2UuaW5mb4Ib
+dGhyZWFkaW5nYnVpbGRpbmdibG9ja3Mub3JnMIIBDQYKKwYBBAHWeQIEAgSB/gSB
++wD5AHcARqI5Z8YNtkaHxm89+ZmUdpOmphEghFfVVefj0KHZtkYAAAGhqc1abgAA
+BAMASDBGAiEAxU1Seow91+A0bNPuq/Zw55cl1qeWM89/EM3Iw8amlFMCIQDi8zP4
+wXGDuAsfhSGgRi5N5MXnslbioTM71BWj302bKgB+AFlubDOGlLJZcqJWyKDo3ZBK
+dugIPdqHOwEIOCgUPO5ZAAABoanNXRQACAAABQActQPvBAMARzBFAiBm/DV36siW
+KDOz+/pUma50CTW9qvTdG3gEItj1sy/HsAIhALauwJsslwnhs0b/ScAiVFjvkuSA
+Y58/tCAMSSi0ebf8MA0GCSqGSIb3DQEBCwUAA4IBgQBKoOFqhtJ1RwSQM9dZlsu0
+rP9OWf1q16uf4Vn+YTRWE5z75oJklc38CkJlkOw/e7qWoYJ97qy2y2sUsbgAft1Q
+7fFlpK8UxvUttNFSjKk/dwa9m6j0KFB1XrWwom+wODcrhEytHBSA2yG4PHvwvfAZ
+AhKCRxLrAK/jeWSMDLIlVdTvasKGZWT9GrP8HyDkjBVUtmqHf6+YpOrsQZNSRnyv
+A7+HT/v3b20ifvLGP7m+8UQ+nR0x3VYv1+bQw+eE86wc/2gFGaH/Y/607VUp/XDX
+8KHGIGeYtk2cCFy/amCDAS/xAXspbMmJ6iCtmoezQ2r4Z71ooBIbV4suhC1GrMLz
+AhfKMmvf50uHmYvioKYLZ7H0si7JAV1X/nSPxktu3ikDOjX042nvDOAr8ujV3oE+
+ogOYl2iCfz4ZwbbQwf0gIKpjz+D3kQK3dhUGoomJLM+aMJsSaxRDvU7HpnYULn+P
++uPmlMM85880LvZDMArIJ6qX+TciBKiOEDzE4GXAdkI=
 -----END CERTIFICATE-----
 subject=C=US, ST=California, O=Intel Corporation, CN=intel.com
 issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
@@ -77,7 +85,7 @@ Peer signing digest: SHA256
 Peer signature type: rsa_pss_rsae_sha256
 Peer Temp Key: X25519, 253 bits
 ---
-SSL handshake has read 6182 bytes and written 1892 bytes
+SSL handshake has read 8928 bytes and written 1892 bytes
 Verification: OK
 ---
 New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384

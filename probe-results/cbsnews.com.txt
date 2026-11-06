@@ -48,7 +48,7 @@ Peer signing digest: SHA256
 Peer signature type: ecdsa_secp256r1_sha256
 Negotiated TLS1.3 group: X25519MLKEM768
 ---
-SSL handshake has read 4842 bytes and written 1564 bytes
+SSL handshake has read 4843 bytes and written 1564 bytes
 Verification: OK
 ---
 New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
@@ -68,23 +68,23 @@ Post-Handshake New Session Ticket arrived:
 SSL-Session:
     Protocol  : TLSv1.3
     Cipher    : TLS_AES_128_GCM_SHA256
-    Session-ID: C31309E69145F5896A31B4A1D4DD1E6921A4077AB78242B2F9FF70F57EB76D0B
+    Session-ID: 0A1CC866E25B1EB35603E3A42658839E50E09AC15F73EC959C39228400173A9B
     Session-ID-ctx: 
-    Resumption PSK: A68E74B4E136BF01B6FE677ACAE05EA6C41FC52B945A5FC49605887D1AA0FBBE
+    Resumption PSK: 6D002695EB25682C496E84538A122D61582DDBD6DC2DC2BDBEE2347A2D68F355
     PSK identity: None
     PSK identity hint: None
     SRP username: None
     TLS session ticket lifetime hint: 604800 (seconds)
     TLS session ticket:
-    0000 - 92 3a e2 b0 21 ac ec 42-54 7b 33 06 fa c8 f7 0f   .:..!..BT{3.....
-    0010 - 4c e5 d5 03 40 ca d3 98-47 ab 6a d5 9b 62 39 08   L...@...G.j..b9.
-    0020 - b8 7c 04 f1 f4 65 70 4e-ed 09 72 4e 73 eb 08 05   .|...epN..rNs...
-    0030 - 24 bb 24 b6 f0 df 87 b1-7c 2a 03 de 56 5d df 1f   $.$.....|*..V]..
-    0040 - 4a 81 4f 09 2a 50 34 59-d9 0e 84 5a 66 2c f7 53   J.O.*P4Y...Zf,.S
-    0050 - 1a 0b 46 b2 97 9a e1 44-2d 75 e6 ba 93 3f 71 d9   ..F....D-u...?q.
-    0060 - b5 d6 37 20 6e 75 95 23-64                        ..7 nu.#d
+    0000 - f6 63 11 ab c3 53 08 e4-3f 3d 23 19 fd 88 6d 3e   .c...S..?=#...m>
+    0010 - dc 90 b6 b2 fa 51 37 04-dd 6e 69 4b cb 38 76 4f   .....Q7..niK.8vO
+    0020 - ca 6a 78 f1 be ec f6 e8-12 22 0d 4d da c3 47 6b   .jx......".M..Gk
+    0030 - 42 2e 53 e6 4a cd d5 d6-87 39 5b 2d db 8d af 01   B.S.J....9[-....
+    0040 - 01 0d 34 de d8 6a 67 dc-39 b2 4a 53 2e 0a 21 31   ..4..jg.9.JS..!1
+    0050 - 4e f2 0a 29 77 a0 0c a5-88 cd e6 5f 5a 25 1b c6   N..)w......_Z%..
+    0060 - a0 3b 6c 41 a4 6c 48 c3-5f                        .;lA.lH._
 
-    Start Time: 1793648094
+    Start Time: 1793948026
     Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
     Extended master secret: no

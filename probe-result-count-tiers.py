@@ -8,7 +8,7 @@ for sector in sectors:
     total_score = 0
 
     #READING tiers.csv one line at a time, skipping the header row
-    with open('scores/tiers-2026-11-02.csv') as tiers:
+    with open('scores/tiers-2026-11-05.csv') as tiers:
         next(tiers)
         for lines in tiers:
 

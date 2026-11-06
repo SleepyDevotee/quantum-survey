@@ -54,44 +54,21 @@ issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M04
 ---
 No client certificate CA names sent
 Peer signing digest: SHA256
-Peer signature type: rsa_pkcs1_sha256
-Peer Temp Key: ECDH, prime256v1, 256 bits
+Peer signature type: rsa_pss_rsae_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
 ---
-SSL handshake has read 4497 bytes and written 1626 bytes
+SSL handshake has read 5463 bytes and written 1564 bytes
 Verification: OK
 ---
-New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
-Protocol: TLSv1.2
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
 Server public key is 2048 bit
-Secure Renegotiation IS supported
+This TLS version forbids renegotiation.
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
-SSL-Session:
-    Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 107FFCE4AA82EEDE5F515EF6E77D8FC4312FB32BFFD02EF18C3488D8179961BA
-    Session-ID-ctx: 
-    Master-Key: 8AF0300DD09DBBE0D7B635EB16770C9C904C3D1F5C13D5EE553B297962A656729BA2A761163C56C12AD1FFB54EAD818C
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 49179 (seconds)
-    TLS session ticket:
-    0000 - 01 82 53 f1 7e eb c8 a1-22 6d a5 6e 55 3a 71 45   ..S.~..."m.nU:qE
-    0010 - 2e 32 f7 cb 3e 44 ff c2-26 3a c0 3f 03 fb 47 16   .2..>D..&:.?..G.
-    0020 - 81 48 e6 19 1b 7f d3 4b-a1 f1 47 09 da a5 03 b6   .H.....K..G.....
-    0030 - 7b 42 9e 96 23 57 cf 88-60 27 9c aa 3c 75 67 0c   {B..#W..`'..<ug.
-    0040 - 44 ac bc 15 d1 90 16 8a-18 79 f2 87 a3 d0 64 ad   D........y....d.
-    0050 - ed aa 85 2d 4b 40 cb 5a-5e a8 f2 6f 51 54 a4 f8   ...-K@.Z^..oQT..
-    0060 - c2 d0 a9 fb ae 5d c1 06-11 53 68 6d 16 63 17 ff   .....]...Shm.c..
-    0070 - b7 e1 3a 79 ea 34 12 d6-c9 51 0a fb 76 d7 9e 0c   ..:y.4...Q..v...
-    0080 - ee 17 a7 43 54 c5 8a 20-11 c6                     ...CT.. ..
-
-    Start Time: 1793648095
-    Timeout   : 7200 (sec)
-    Verify return code: 0 (ok)
-    Extended master secret: yes
+Early data was not sent
+Verify return code: 0 (ok)
 ---
 ECH: NOT CONFIGURED: -103
 ---

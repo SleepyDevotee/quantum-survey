@@ -108,11 +108,11 @@ SSL-Session:
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
     Session-ID: 
     Session-ID-ctx: 
-    Master-Key: 8263C09FE0809A34067277E190C995A6CA9BB8D0A315C48782AB6820F867FABB9DBC02378F9B715B61BB7E8C5F80FD74
+    Master-Key: 281F5BEC74226E0B2C2D881CBB7CFB2CB3E83F9BE33949E5E83128086ECBCDC5137BEC4F57101572154C0DC606AB8AF4
     PSK identity: None
     PSK identity hint: None
     SRP username: None
-    Start Time: 1793647981
+    Start Time: 1793947986
     Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
     Extended master secret: yes

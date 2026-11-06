@@ -2,49 +2,54 @@ CONNECTED(00000006)
 ---
 Certificate chain
  0 s:CN=openai.com
-   i:C=US, O=Google Trust Services, CN=WE1
-   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA256
-   v:NotBefore: Sep 16 04:59:57 2026 GMT; NotAfter: Dec 15 05:59:47 2026 GMT
- 1 s:C=US, O=Google Trust Services, CN=WE1
-   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=US, O=Let's Encrypt, CN=YE2
    a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
-   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
- 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
-   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   v:NotBefore: Nov  6 01:41:32 2026 GMT; NotAfter: Feb  4 01:41:31 2027 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=YE2
+   i:C=US, O=ISRG, CN=Root YE
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
+ 2 s:C=US, O=ISRG, CN=Root YE
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X2
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+ 3 s:C=US, O=Internet Security Research Group, CN=ISRG Root X2
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
    a:PKEY: EC, (secp384r1); sigalg: sha256WithRSAEncryption
-   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIDeTCCAx6gAwIBAgIQMIiVwYR8570OcJyapdxCljAKBggqhkjOPQQDAjA7MQsw
-CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
-VQQDEwNXRTEwHhcNMjYwOTE2MDQ1OTU3WhcNMjYxMjE1MDU1OTQ3WjAVMRMwEQYD
-VQQDEwpvcGVuYWkuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtR7oRrCU
-ZgeTTLMGQdLz/e8HSNFr5c6sq5atn5FHLBANnWCM1bgT9wLnd3g+teHma+fc0gsc
-RQtR718G4oA776OCAigwggIkMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggr
-BgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSZoimtctZ1iH1T2Qxu/zuq
-GrRNIjAfBgNVHSMEGDAWgBSQd5I1Z8T/qMyp5nvZgHl7zJP5ODA1BggrBgEFBQcB
-AQQpMCcwJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQwIwYD
-VR0RBBwwGoIKb3BlbmFpLmNvbYIMKi5vcGVuYWkuY29tMBMGA1UdIAQMMAowCAYG
-Z4EMAQIBMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29nL3dlMS9n
-eWY0WXk4cGxrRS5jcmwwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgB0251Y99R+
-nf14ehYqmRwYz2mNp8cpkYyaGLBFDbpEvAAAAaCozO96AAAEAwBHMEUCIHQALPOa
-Miq7KOrOURczEa6iJrzIj1IArt4Kx9+YeJh8AiEAuwk59UoeK+m1LPoeRxanlenL
-et9Bkig7CF2ZZlvUIxcAdgDXbX0Q0af1d8LH6V/XAL/5gskzWmXh0LMBcxfAyMVp
-dwAAAaCozO8lAAAEAwBHMEUCIE0YWoFCrYPL9cbxD6RSJWYg8iL9wl7VYSLwya/K
-sKTUAiEA5zsdW2zRi+/LoQ6PeRID6Q9zO36baP0R1/ueLINjMeIwCgYIKoZIzj0E
-AwIDSQAwRgIhAIcYi342dWnHdEhyGpn+WMMWRd2MLXVy+fHH50CfQdqCAiEAt5Ko
-Rra4pGU3Z6WLHDoAKSiqNzc3n3kTGZYs5+CzUEY=
+MIIDmDCCAx6gAwIBAgISBX1DBNjnD/S4Ao5sofZa67ZvMAoGCCqGSM49BAMDMDMx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNZ
+RTIwHhcNMjYxMTA2MDE0MTMyWhcNMjcwMjA0MDE0MTMxWjAVMRMwEQYDVQQDEwpv
+cGVuYWkuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1C45kiuWkix6FDKA
+0SdrPqk4tYCXblk6+r9nFodGZPJ6OUHTI3os2oGkauWmT0pWawMXCNgXAJyy+G3o
+w/JOxqOCAi4wggIqMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEFBQcD
+ATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBS6P9GL/ICiidSToDM8KZJcAt3XyjAf
+BgNVHSMEGDAWgBS5WfKOzyLwhtM3SP92FBi6gthVhzAzBggrBgEFBQcBAQQnMCUw
+IwYIKwYBBQUHMAKGF2h0dHA6Ly95ZTIuaS5sZW5jci5vcmcvMCkGA1UdEQQiMCCC
+EiouZW1haWwub3BlbmFpLmNvbYIKb3BlbmFpLmNvbTATBgNVHSAEDDAKMAgGBmeB
+DAECATAvBgNVHR8EKDAmMCSgIqAghh5odHRwOi8veWUyLmMubGVuY3Iub3JnLzEx
+Mi5jcmwwggENBgorBgEEAdZ5AgQCBIH+BIH7APkAfgCigQAYc04Xbh1H4JVA84G6
+VGaXzWOoQ1BxbrgJTtrxDQAAAaGuujq+AAgAAAUAOUsaPAQDAEcwRQIhANawmPvd
+l4IR2evFSRuDLFn2rI9ngEsMev7Xm28uX6uuAiBPANC//uXGgrCsBV5FjNWQIMy9
+cyqgrLQ5GfeWZr5TLgB3AGBMmq96f3dfAdQG/JINyJnrCxx9+MlSG/r6F3c7l4vJ
+AAABoa66PMEAAAQDAEgwRgIhAOCkmDkmcVm/GuiE0KB2iOAlleM2r2ph7GjVIg/S
+KLnoAiEApt1ZNW7bUxyVsXBWQUAvX80ecPYQWpRrUiJCYwUMdVswCgYIKoZIzj0E
+AwMDaAAwZQIwL95sOTSgNd/UmEhpfm7BQvcZRz4dqhk7TEflwwFdZX7OZdyCBY6R
+TiOIhRKLSEmyAjEA+yd7YidLQTrrSw+Q8vkbBnVFbT5mBlmz8kmgAvvUBEslXWRN
+Ffdz0ulqUMFEJM96
 -----END CERTIFICATE-----
 subject=CN=openai.com
-issuer=C=US, O=Google Trust Services, CN=WE1
+issuer=C=US, O=Let's Encrypt, CN=YE2
 ---
 No client certificate CA names sent
 Peer signing digest: SHA256
 Peer signature type: ecdsa_secp256r1_sha256
 Negotiated TLS1.3 group: X25519MLKEM768
 ---
-SSL handshake has read 3869 bytes and written 1579 bytes
+SSL handshake has read 4815 bytes and written 1579 bytes
 Verification: OK
 ---
 New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384

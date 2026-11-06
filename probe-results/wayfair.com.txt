@@ -4,7 +4,7 @@ Certificate chain
  0 s:CN=wayfair.com
    i:C=US, O=Let's Encrypt, CN=YE2
    a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
-   v:NotBefore: Sep  5 08:13:59 2026 GMT; NotAfter: Dec  4 08:13:58 2026 GMT
+   v:NotBefore: Nov  3 07:49:54 2026 GMT; NotAfter: Feb  1 07:49:53 2027 GMT
  1 s:C=US, O=Let's Encrypt, CN=YE2
    i:C=US, O=ISRG, CN=Root YE
    a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
@@ -20,27 +20,27 @@ Certificate chain
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIDxTCCA0ugAwIBAgISBbaQ7xyFj58bRFiCvmINWWTXMAoGCCqGSM49BAMDMDMx
+MIIDxzCCA0ygAwIBAgISBSwZtdypVWBRVgIlbrO78eMAMAoGCCqGSM49BAMDMDMx
 CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNZ
-RTIwHhcNMjYwOTA1MDgxMzU5WhcNMjYxMjA0MDgxMzU4WjAWMRQwEgYDVQQDEwt3
-YXlmYWlyLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABPpZMPmsPrHTW5F5
-KrVtLA2pv5vnLj6nFQDtMDBNRx68Ns4xhXPFGfpA6dPBGGuKlsenTHH8G0FYvd3H
-bdaRzIyjggJaMIICVjAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYIKwYBBQUH
-AwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUvP4jcD5yr2zJ5LsH7V1UcAwDqoIw
+RTIwHhcNMjYxMTAzMDc0OTU0WhcNMjcwMjAxMDc0OTUzWjAWMRQwEgYDVQQDEwt3
+YXlmYWlyLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABCtOYAQalM7W6O8c
+U/njTO1vDlfbPVcWXecUNw3UEF9JLkG1HsUdDGi8269dMp8z+cd6AMgfgqvmeeVG
+vls42UujggJbMIICVzAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYIKwYBBQUH
+AwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUG+CGMlYN7l7HBYRSNQNb753QhkUw
 HwYDVR0jBBgwFoAUuVnyjs8i8IbTN0j/dhQYuoLYVYcwMwYIKwYBBQUHAQEEJzAl
 MCMGCCsGAQUFBzAChhdodHRwOi8veWUyLmkubGVuY3Iub3JnLzBZBgNVHREEUjBQ
 gg1zLndheWZhaXIuY29tghJzZWN1cmUud2F5ZmFpci5jb22CDXQud2F5ZmFpci5j
 b22CC3dheWZhaXIuY29tgg93d3cud2F5ZmFpci5jb20wEwYDVR0gBAwwCjAIBgZn
-gQwBAgEwLgYDVR0fBCcwJTAjoCGgH4YdaHR0cDovL3llMi5jLmxlbmNyLm9yZy84
-OC5jcmwwggEKBgorBgEEAdZ5AgQCBIH7BIH4APYAdQDXbX0Q0af1d8LH6V/XAL/5
-gskzWmXh0LMBcxfAyMVpdwAAAaBw1z/ZAAAEAwBGMEQCICoBCo4LFKZ1/re2ao/N
-JMNE8O2O1cuPftt9eiOFtu5pAiBY4t11ZJvQL2Hw1a8MEXFyFTh2opqygNPdQpu+
-fSNqawB9AGz+UBlDqF6pFrxS0TPk3Mke8UEcfSWEINFzgJ4YGOs6AAABoHDXQFAA
-CAAABQAuBbFCBAMARjBEAiBHFdbl31gU2JQ/NOqfttSJsSanBCGHtqo1uykIfAks
-zQIgLPpdGt0QbuZpxZMzwpi4KZbQaDPoP8P+3oakyAZkKkowCgYIKoZIzj0EAwMD
-aAAwZQIwacfT57sGNOZHcnM+UW0Mzw30lecibxEl/1OnastksUwBO7F2TVaagtM/
-j2VNJLw4AjEA6tGsPV043fF9dFnXS7zbSeOOzJcBIj9RIvyn1lQCKOtH6huINwI7
-EmYt8pjF8orO
+gQwBAgEwLQYDVR0fBCYwJDAioCCgHoYcaHR0cDovL3llMi5jLmxlbmNyLm9yZy8x
+LmNybDCCAQwGCisGAQQB1nkCBAIEgf0EgfoA+AB2AEaiOWfGDbZGh8ZvPfmZlHaT
+pqYRIIRX1VXn49Ch2bZGAAABoaCYZ5MAAAQDAEcwRQIgYclso8OZ5SQ4XOM36X49
+loAO5xP0S2hRLcp/Z2CGimACIQD2/IeGzTOhYx7d0fAJbKwKao+FpUeiH0YPBFrO
+fD5gsgB+AKKBABhzThduHUfglUDzgbpUZpfNY6hDUHFuuAlO2vENAAABoaCYapYA
+CAAABQA2QbvaBAMARzBFAiEAtC6Hx+wkAKElH9wVGFdD6IXPVJtPM0RP4evrvD+W
+guACIDTaoEP4RNhJS8efemOiQcv8VBEThd7rlAdlAQT1FF99MAoGCCqGSM49BAMD
+A2kAMGYCMQDBj4R8qpQ17JW90nneWoseZe+mTIxE+tfevg7hgSxq6uI3ftSqJOAA
+T3L2dJGl0JoCMQDAM3GlD8XwvhcwyYW1AqHHRVtZh59+Yc49yVUy37k4V0WfO0rh
+NNC3y9yX2pbCWA0=
 -----END CERTIFICATE-----
 subject=CN=wayfair.com
 issuer=C=US, O=Let's Encrypt, CN=YE2
@@ -50,7 +50,7 @@ Peer signing digest: SHA256
 Peer signature type: ecdsa_secp256r1_sha256
 Negotiated TLS1.3 group: X25519MLKEM768
 ---
-SSL handshake has read 4910 bytes and written 1564 bytes
+SSL handshake has read 4911 bytes and written 1564 bytes
 Verification: OK
 ---
 New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
@@ -70,26 +70,26 @@ Post-Handshake New Session Ticket arrived:
 SSL-Session:
     Protocol  : TLSv1.3
     Cipher    : TLS_AES_128_GCM_SHA256
-    Session-ID: 0FE58DDBE5AF1178FC35ECFE77F0F329930D58378A8157BAE20E38BCFEC55B0B
+    Session-ID: C5768E5F4A14390C855B1684BE5A6426C9102D419B6CD3905FBD0AA2C3D4D557
     Session-ID-ctx: 
-    Resumption PSK: 72182DA81C0DBBBB20A474C2BF15AE04C8B138E1BF63CE6FD30065DD6C15F7A4
+    Resumption PSK: 8975B985E5A8D5C74AE25AE2D40ADE4825ACF226D199A7FEBAFA7620192130B2
     PSK identity: None
     PSK identity hint: None
     SRP username: None
     TLS session ticket lifetime hint: 86400 (seconds)
     TLS session ticket:
-    0000 - 3d ef 27 5f 62 0d 11 52-f5 a9 27 e4 aa ab 07 6a   =.'_b..R..'....j
-    0010 - cc fd e6 23 5f 72 af e9-8a fb ff 67 a2 64 98 c0   ...#_r.....g.d..
-    0020 - e4 6a e3 de 2b d4 b6 7f-24 4d 0e 85 62 9f 3a e7   .j..+...$M..b.:.
-    0030 - 8d a1 4d f7 93 66 3a f5-1c 96 84 b8 1f 59 81 29   ..M..f:......Y.)
-    0040 - aa 11 e6 15 15 d3 fe ee-77 1a 8e bf ad 1a 80 10   ........w.......
-    0050 - 5f 00 a3 f8 77 95 4d ab-77 8e d6 7e b2 e7 a0 b0   _...w.M.w..~....
-    0060 - 44 f3 d8 56 32 c0 56 3b-ac b8 50 a8 bd 0d f1 d4   D..V2.V;..P.....
-    0070 - ef 04 08 2a 7d 10 23 db-70 6b 0a 10 e1 fe 8e df   ...*}.#.pk......
-    0080 - 17 af 54 b3 77 c5 ac 7b-3d 35 d2 5f cb ce 11 27   ..T.w..{=5._...'
-    0090 - 82 22 ce 77 b0 87 a6 0b-56 41 41 1c 30 73 ed 2a   .".w....VAA.0s.*
+    0000 - 0a 90 cb c4 d3 1b b8 07-16 a4 8e b7 b7 61 6e 24   .............an$
+    0010 - 3c ca 68 4f cc e6 f3 ae-db 8a 8d d5 f7 ac f0 48   <.hO...........H
+    0020 - b3 f2 f1 33 21 fd 00 b5-70 d7 65 78 df b4 f5 b7   ...3!...p.ex....
+    0030 - fe 06 45 28 52 5a 22 69-c5 41 eb 06 b9 30 48 b0   ..E(RZ"i.A...0H.
+    0040 - 59 7e 11 5f e0 d3 ec 9e-b4 e8 e0 33 de de 41 8a   Y~._.......3..A.
+    0050 - 17 a4 4d d3 a9 22 01 60-34 33 76 1b 79 f0 0d fe   ..M..".`43v.y...
+    0060 - c2 b6 8d 2c d9 8c 4a c5-1b e0 52 1d 81 f2 12 61   ...,..J...R....a
+    0070 - 0f 36 1e d4 dd 29 7b 06-2b 64 22 0d 61 74 a6 32   .6...){.+d".at.2
+    0080 - 70 ab 48 89 19 0a cf 4c-c0 52 0e 9b 59 f0 14 8c   p.H....L.R..Y...
+    0090 - 0f 3e 3d 70 99 70 54 14-94 0e 94 54 74 68 0e 62   .>=p.pT....Tth.b
 
-    Start Time: 1793648085
+    Start Time: 1793948015
     Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
     Extended master secret: no

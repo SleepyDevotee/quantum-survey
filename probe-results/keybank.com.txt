@@ -5,18 +5,6 @@ Certificate chain
    i:C=US, O=DigiCert, Inc., CN=DigiCert G5 TLS RSA4096 SHA384 2021 CA1
    a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
    v:NotBefore: Oct 21 00:00:00 2026 GMT; NotAfter: Mar  7 23:59:59 2027 GMT
- 1 s:C=US, O=DigiCert, Inc., CN=DigiCert G5 TLS RSA4096 SHA384 2021 CA1
-   i:C=US, O=DigiCert, Inc., CN=DigiCert TLS RSA4096 Root G5
-   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
-   v:NotBefore: Apr 14 00:00:00 2021 GMT; NotAfter: Apr 13 23:59:59 2031 GMT
- 2 s:C=US, O=DigiCert, Inc., CN=DigiCert TLS RSA4096 Root G5
-   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
-   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
-   v:NotBefore: Mar 31 00:00:00 2026 GMT; NotAfter: Mar 30 23:59:59 2036 GMT
- 3 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
-   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
-   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
-   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
@@ -102,8 +90,8 @@ Peer signing digest: SHA256
 Peer signature type: rsa_pkcs1_sha256
 Peer Temp Key: ECDH, prime256v1, 256 bits
 ---
-SSL handshake has read 8068 bytes and written 1626 bytes
-Verification: OK
+SSL handshake has read 3993 bytes and written 1626 bytes
+Verification error: unable to verify the first certificate
 ---
 New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Protocol: TLSv1.2
@@ -115,15 +103,15 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 32E83402862CA8E61AB1E302ED75506D2A94D1416909ABA58EB24471BE05A07F
+    Session-ID: 18970BE0CDBBDFA4C01FD0B5F6C346E87A039CE36AE6EDA74BA82F5344D3167D
     Session-ID-ctx: 
-    Master-Key: 728F40D4CA9E6633134904121FC7C3EC9D7B7C2616E802F94C54C1526655590346438B59C895061DEBD1DC216BBD2B31
+    Master-Key: 1B0E6435F3E5AD66B851CA63DB5B7613DEE50BB3880979891699203C451382CB0D5835C5A30CE1864C88D6B7D3265162
     PSK identity: None
     PSK identity hint: None
     SRP username: None
-    Start Time: 1793647956
+    Start Time: 1793947979
     Timeout   : 7200 (sec)
-    Verify return code: 0 (ok)
+    Verify return code: 21 (unable to verify the first certificate)
     Extended master secret: yes
 ---
 ECH: NOT CONFIGURED: -103
