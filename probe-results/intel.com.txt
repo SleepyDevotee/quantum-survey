@@ -4,40 +4,32 @@ Certificate chain
  0 s:C=US, ST=California, O=Intel Corporation, CN=intel.com
    i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
    a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
-   v:NotBefore: Nov  5 00:00:00 2026 GMT; NotAfter: Feb  3 23:59:59 2027 GMT
+   v:NotBefore: Nov  6 00:00:00 2026 GMT; NotAfter: Feb  4 23:59:59 2027 GMT
  1 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
    i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
    a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
    v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Mar 21 23:59:59 2036 GMT
  2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
-   i:C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Certification Authority
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
    a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
-   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
- 3 s:C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Certification Authority
-   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
-   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
-   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
- 4 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
-   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
-   a:PKEY: RSA, 2048 (bit); sigalg: sha1WithRSAEncryption
-   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Mar 21 23:59:59 2046 GMT
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIJrDCCCBSgAwIBAgIQJxmHYrFv+dQU6BZjTxfu5TANBgkqhkiG9w0BAQsFADBg
+MIIJrDCCCBSgAwIBAgIQRp7JpMcwP9ZP4JSiJZPVzDANBgkqhkiG9w0BAQsFADBg
 MQswCQYDVQQGEwJHQjEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
 Ey5TZWN0aWdvIFB1YmxpYyBTZXJ2ZXIgQXV0aGVudGljYXRpb24gQ0EgT1YgUjM2
-MB4XDTI2MTEwNTAwMDAwMFoXDTI3MDIwMzIzNTk1OVowUjELMAkGA1UEBhMCVVMx
+MB4XDTI2MTEwNjAwMDAwMFoXDTI3MDIwNDIzNTk1OVowUjELMAkGA1UEBhMCVVMx
 EzARBgNVBAgTCkNhbGlmb3JuaWExGjAYBgNVBAoTEUludGVsIENvcnBvcmF0aW9u
 MRIwEAYDVQQDEwlpbnRlbC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
-AoIBAQDKNZLtOHjKdPjWr/1OFjc+STHX5XVTRvk9/geLgHLwAQfhzYIbTLWz5Ylp
-FaooIGay7ap+r9TOCt3cD+cAk5GMl0C1afdBf5QGQlOvn6xqSTD4WApubS0tKBEz
-u32UTWrGTaVj1OJJIe7V9BPURLsk76reyeSWvzF20oBdNSXmkgFeDbqj3fq7cf3i
-9bdI9Ma+IamttAJXyey8LE4v2NaGcBIaCCflCbgQtgr+WUXG8Rd20/BQMhLK7tWf
-6DWIVMLsnkC8/0+u9KV6sJtCxG9w5fZhjuqcueIuGlEGda4M+9SDTlFOgE8e8XCg
-tcIASm+ZhTtwTZosGlMqA/Iyvko5AgMBAAGjggXuMIIF6jAfBgNVHSMEGDAWgBTj
-ZnS7cGiNLF1ODqZKj5s3IpyCkjAdBgNVHQ4EFgQUU5H6v2YT5Q698ixNlsdNEYDW
-gbkwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwEwYDVR0lBAwwCgYIKwYB
+AoIBAQDOt2NUk3mZKKjLRHQVXVgBmVgBna9aHk2Of7rGyGNZbdfV1ALBHCKeWtzb
+vKY3eO11Iy0oc9J6uUaKOWmvHnY2wi2Z4XQcueCn/kQCNaWZqksdUfnnVepIUKQt
+8H7B/9WhJGg9WBXbPGWDvPJq+nB6o/WPX8wI9v0yI0t82z3CQz3Av/2qalYtIgQW
+OfPSdFx1F7hkmkXWMKkW18gDJuLs0rblnxhGCBGDYm+ZZ6XrxIyP+bOQ+55guUFk
+9dL3lu3hYvqB89qK9w0l/g7n96wmkiNSGihtnJYBn/JgcV1rfZSyt+F+dy0w+jPY
+7PQSFqwW752usAoOHzHeDyqPlOmhAgMBAAGjggXuMIIF6jAfBgNVHSMEGDAWgBTj
+ZnS7cGiNLF1ODqZKj5s3IpyCkjAdBgNVHQ4EFgQUNrxkHXR2hiYDSuc/+axeBfmm
+Zc8wDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwEwYDVR0lBAwwCgYIKwYB
 BQUHAwEwSgYDVR0gBEMwQTA1BgwrBgEEAbIxAQIBAwQwJTAjBggrBgEFBQcCARYX
 aHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQICMFQGA1UdHwRNMEswSaBH
 oEWGQ2h0dHA6Ly9jcmwuc2VjdGlnby5jb20vU2VjdGlnb1B1YmxpY1NlcnZlckF1
@@ -62,20 +54,20 @@ YWtlci5jb22CFHJlbmRlcmluZ3Rvb2xraXQub3JnggpzaWdvcHQuY29tgg9zbWFy
 dC1lZGdlLmluZm+CDXNtYXJ0LWVkZ2UuaW+CDnNtYXJ0LWVkZ2UubmV0gg5zbWFy
 dC1lZGdlLm9yZ4ISc21hcnQtZWRnZS5zeXN0ZW1zgg5zbWFydGVkZ2UuaW5mb4Ib
 dGhyZWFkaW5nYnVpbGRpbmdibG9ja3Mub3JnMIIBDQYKKwYBBAHWeQIEAgSB/gSB
-+wD5AHcARqI5Z8YNtkaHxm89+ZmUdpOmphEghFfVVefj0KHZtkYAAAGhqc1abgAA
-BAMASDBGAiEAxU1Seow91+A0bNPuq/Zw55cl1qeWM89/EM3Iw8amlFMCIQDi8zP4
-wXGDuAsfhSGgRi5N5MXnslbioTM71BWj302bKgB+AFlubDOGlLJZcqJWyKDo3ZBK
-dugIPdqHOwEIOCgUPO5ZAAABoanNXRQACAAABQActQPvBAMARzBFAiBm/DV36siW
-KDOz+/pUma50CTW9qvTdG3gEItj1sy/HsAIhALauwJsslwnhs0b/ScAiVFjvkuSA
-Y58/tCAMSSi0ebf8MA0GCSqGSIb3DQEBCwUAA4IBgQBKoOFqhtJ1RwSQM9dZlsu0
-rP9OWf1q16uf4Vn+YTRWE5z75oJklc38CkJlkOw/e7qWoYJ97qy2y2sUsbgAft1Q
-7fFlpK8UxvUttNFSjKk/dwa9m6j0KFB1XrWwom+wODcrhEytHBSA2yG4PHvwvfAZ
-AhKCRxLrAK/jeWSMDLIlVdTvasKGZWT9GrP8HyDkjBVUtmqHf6+YpOrsQZNSRnyv
-A7+HT/v3b20ifvLGP7m+8UQ+nR0x3VYv1+bQw+eE86wc/2gFGaH/Y/607VUp/XDX
-8KHGIGeYtk2cCFy/amCDAS/xAXspbMmJ6iCtmoezQ2r4Z71ooBIbV4suhC1GrMLz
-AhfKMmvf50uHmYvioKYLZ7H0si7JAV1X/nSPxktu3ikDOjX042nvDOAr8ujV3oE+
-ogOYl2iCfz4ZwbbQwf0gIKpjz+D3kQK3dhUGoomJLM+aMJsSaxRDvU7HpnYULn+P
-+uPmlMM85880LvZDMArIJ6qX+TciBKiOEDzE4GXAdkI=
++wD5AHYATGPcmOWcHauI9h6KPd6uj6tEozd7X5uUw/uhnPzBviYAAAGhr3CIDQAA
+BAMARzBFAiEAmH9L/MrloRtN12KRaaMyg8/7Y7gDoPRej7/6RL2fhlMCIEATQ8Yo
+S8POSPiqD684L2XtDR95dN1ZgTsZPkLKbelkAH8AWW5sM4aUsllyolbIoOjdkEp2
+6Ag92oc7AQg4KBQ87lkAAAGhr3CKNAAIAAAFAB2brlkEAwBIMEYCIQDW0HByzqDh
+14tA9dMTiiJX/UOKfQ7vUCj5FaE6IV/P9wIhAIEpJezp85lv7p8BbochhQplyavH
+4W5pE1kCCLH2pcGlMA0GCSqGSIb3DQEBCwUAA4IBgQCcrEmLY7t64HRx5PyMzO0d
+3B3fvav5nZ5ifxd2qUSQHdRAL8JofFQfAca17JYET470NoRZpBsbw05GpZAYGSfK
+7+Rq0CeYNuMyApgjk3uu2csEz1foQTl/oNE1pGIdnGC6upC9Fld606CRtVjW8BIz
+RHpHVzgLCxC+tGdfrkczD/qD16t6DE+L8uLZ7Su3PFtnM2zHZ1ihxqaBMM2tcZod
+rO+HV3LojwYBxXos+MVmvN7QziEG9QEjGfYznPUkidrrIxl+nxGQyVxzZZFOmfjR
+MVK9uioHxmgKcrVr55qbPmvpN76bS2qYSpkxBMt2Vah2AtxFI2xY8ROaeUiC4zKD
+oDyXW7UO12CjcLzeR/qiBA+16r0jKnljGRavO/Dam/qOZAaccf+HE5btU6jD429r
+2yt9KWdSSCH+ufpboUbGgobUeqPAtjd7p/DlTPeJzgCe/zPyopKr1NnKU4s7d4mV
+S9CbCbkEjLSwetP/lJE2tv7nYQxa4nWMB4GtJFkPF3Y=
 -----END CERTIFICATE-----
 subject=C=US, ST=California, O=Intel Corporation, CN=intel.com
 issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
@@ -85,7 +77,7 @@ Peer signing digest: SHA256
 Peer signature type: rsa_pss_rsae_sha256
 Peer Temp Key: X25519, 253 bits
 ---
-SSL handshake has read 8928 bytes and written 1892 bytes
+SSL handshake has read 6181 bytes and written 1892 bytes
 Verification: OK
 ---
 New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384

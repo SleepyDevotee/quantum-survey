@@ -83,25 +83,25 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: D09FC8CE68E77030255EDDC602EC0AEBB0E955A41118DAE90AE6F07F775787AD
+    Session-ID: 8F0B8A82339DB3AD6B956921BF135BC5A00616F5054BF23B25110ABACF83E7B8
     Session-ID-ctx: 
-    Master-Key: B8B4005A2B58BFB0A71431CB63D5C4252733C3B0719028D23E6CC5ECD9984C425663A8E0E320E47A9E72FA9862F7CA85
+    Master-Key: 63355F2C3FC82A9A07B15B27655ECDAECCB58F6EFC283E5EC3EAECB743F281367588A9CA79B04DBCAF15D10959A49B0E
     PSK identity: None
     PSK identity hint: None
     SRP username: None
-    TLS session ticket lifetime hint: 60788 (seconds)
+    TLS session ticket lifetime hint: 43669 (seconds)
     TLS session ticket:
-    0000 - 01 51 ba 63 40 60 92 b2-c2 3d 3c f3 6d 1a e6 c7   .Q.c@`...=<.m...
-    0010 - 93 dc d5 de 52 37 56 81-0c 6a f4 07 52 44 0e 05   ....R7V..j..RD..
-    0020 - d6 20 72 79 8d e4 22 be-d9 36 8c c3 2f c5 ec f0   . ry.."..6../...
-    0030 - 47 32 35 db 2b 82 b2 d0-cd 58 fe 21 8d 4b f5 08   G25.+....X.!.K..
-    0040 - 10 10 19 af 55 68 7a 27-df f5 1d fa ff ca 1e 26   ....Uhz'.......&
-    0050 - fa 52 ca ec de 01 20 34-0b a0 53 25 81 39 7a e5   .R.... 4..S%.9z.
-    0060 - 2a 40 a8 2f 92 a6 cd 73-2c 62 d2 f8 36 d5 d0 2b   *@./...s,b..6..+
-    0070 - 74 8b 61 0f 44 06 6a 4e-64 c7 ce 9c a0 3a ec 0a   t.a.D.jNd....:..
-    0080 - 5e 15 0c 50 f2 1b a4 db-7c 79                     ^..P....|y
+    0000 - 01 dd f4 1c 7b 8d 5f 7f-f6 f2 6c 62 a2 d0 7c 1f   ....{._...lb..|.
+    0010 - 69 0e 18 60 31 0b 2c 74-34 40 1d 17 32 bb 5d 9f   i..`1.,t4@..2.].
+    0020 - dc b3 c6 ae 5f 6a a3 3c-bb 79 05 4a 9e 6c 94 fa   ...._j.<.y.J.l..
+    0030 - 11 c8 af f6 5f 6f d6 ab-30 61 d3 57 18 d1 29 57   ...._o..0a.W..)W
+    0040 - 1e 72 52 db d4 1e de b9-2b 42 cd 36 fb 21 97 de   .rR.....+B.6.!..
+    0050 - f3 92 97 56 c3 48 bb 7c-de 74 7c d1 62 8c 86 f7   ...V.H.|.t|.b...
+    0060 - ce 79 e4 85 8c 27 13 17-19 d5 89 a7 61 5d d1 53   .y...'......a].S
+    0070 - b5 e2 bd 00 df cc 36 60-04 56 ec f1 d1 e8 0b 66   ......6`.V.....f
+    0080 - c2 10 66 ef 62 c2 5a 36-2d 2e                     ..f.b.Z6-.
 
-    Start Time: 1793947930
+    Start Time: 1794205930
     Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
     Extended master secret: yes

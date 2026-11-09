@@ -1,67 +1,59 @@
-CONNECTED(00000006)
+CONNECTED(00000005)
 ---
 Certificate chain
  0 s:CN=cnbc.com
-   i:C=US, O=Amazon, CN=Amazon RSA 2048 M01
-   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
-   v:NotBefore: Jul 28 00:00:00 2026 GMT; NotAfter: Feb 10 23:59:59 2027 GMT
- 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M01
-   i:C=US, O=Amazon, CN=Amazon Root CA 1
-   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
-   v:NotBefore: Aug 23 22:21:28 2022 GMT; NotAfter: Aug 23 22:21:28 2030 GMT
- 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
-   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
-   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
-   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+   i:C=US, O=Let's Encrypt, CN=YE1
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Nov  7 17:34:54 2026 GMT; NotAfter: Feb  5 17:34:53 2027 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=YE1
+   i:C=US, O=ISRG, CN=Root YE
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
+ 2 s:C=US, O=ISRG, CN=Root YE
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X2
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+ 3 s:C=US, O=Internet Security Research Group, CN=ISRG Root X2
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: EC, (secp384r1); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFvTCCBKWgAwIBAgIQA2w42ae/w2z3Mt5iQC3kyDANBgkqhkiG9w0BAQsFADA8
-MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
-UlNBIDIwNDggTTAxMB4XDTI2MDcyODAwMDAwMFoXDTI3MDIxMDIzNTk1OVowEzER
-MA8GA1UEAxMIY25iYy5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
-AQC/zLyNu9bm9A9LUEWrATaK8GVaY6k2HIqLUVDM/20h6ouwwu6fBTIhiyKTxaja
-WHIp6cDNH5h7t6L2oPdnzUODW1OkSVZy3oDn912zZXpydqXnEirpO2SdefPnhl9C
-0+EzvwRPrVJpplwwTEoGOj41XN0Tdmit8f872rSHakHgCwDkRK0xG2ANsgmNQNKo
-ppIfNQFWJbS9FDB4i8L2E3Bgk2y1r/sZQXsUtltfAJg7qmxUcVZMrdEip//MC5tR
-Ca+RG9qDUrTz+d0mu3JcT1jundmTcQaUd/TG1g6sxeli0rClQjS6yn11PEIVUVTm
-KtP+qyQtBv6eaOEbaD5xbeOvAgMBAAGjggLiMIIC3jAfBgNVHSMEGDAWgBSBuA5j
-iokSGOX6OztQlZ/m5ZAThTAdBgNVHQ4EFgQUY0Qw8tnMYIFidO583EoKfGRuu3ww
-HwYDVR0RBBgwFoIIY25iYy5jb22CCiouY25iYy5jb20wEwYDVR0gBAwwCjAIBgZn
-gQwBAgEwDgYDVR0PAQH/BAQDAgWgMBMGA1UdJQQMMAoGCCsGAQUFBwMBMDsGA1Ud
-HwQ0MDIwMKAuoCyGKmh0dHA6Ly9jcmwucjJtMDEuYW1hem9udHJ1c3QuY29tL3Iy
-bTAxLmNybDB1BggrBgEFBQcBAQRpMGcwLQYIKwYBBQUHMAGGIWh0dHA6Ly9vY3Nw
-LnIybTAxLmFtYXpvbnRydXN0LmNvbTA2BggrBgEFBQcwAoYqaHR0cDovL2NydC5y
-Mm0wMS5hbWF6b250cnVzdC5jb20vcjJtMDEuY2VyMAwGA1UdEwEB/wQCMAAwggF9
-BgorBgEEAdZ5AgQCBIIBbQSCAWkBZwB2AExj3JjlnB2riPYeij3ero+rRKM3e1+b
-lMP7oZz8wb4mAAABn6cN6iYAAAQDAEcwRQIgL2cz1BtVZ3EqHiOhlOjgCAwmXSur
-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
+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
 -----END CERTIFICATE-----
 subject=CN=cnbc.com
-issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M01
+issuer=C=US, O=Let's Encrypt, CN=YE1
 ---
 No client certificate CA names sent
 Peer signing digest: SHA256
-Peer signature type: rsa_pss_rsae_sha256
-Peer Temp Key: X25519, 253 bits
+Peer signature type: ecdsa_secp256r1_sha256
+Negotiated TLS1.3 group: X25519MLKEM768
 ---
-SSL handshake has read 4416 bytes and written 1874 bytes
+SSL handshake has read 4838 bytes and written 1561 bytes
 Verification: OK
 ---
 New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
 Protocol: TLSv1.3
-Server public key is 2048 bit
+Server public key is 256 bit
 This TLS version forbids renegotiation.
 Compression: NONE
 Expansion: NONE
@@ -71,3 +63,31 @@ Verify return code: 0 (ok)
 ---
 ECH: NOT CONFIGURED: -103
 ---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: DC76A77433B463111A1CF95ED214B018C11365E944ABD0A39DEDD5D77B87F355
+    Session-ID-ctx: 
+    Resumption PSK: DA603ADFD85FA26EDA0DD1499C93CC9489AAC734BB364DB8A87FC580676F7555
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 604800 (seconds)
+    TLS session ticket:
+    0000 - e2 dd 10 f2 58 54 42 f1-68 a8 6b fc d9 b5 7f 22   ....XTB.h.k...."
+    0010 - 90 e6 dc b3 80 43 ee 30-ec 8c 8e 35 ad f6 f6 f0   .....C.0...5....
+    0020 - ce 65 e4 70 6f 18 93 44-b5 52 98 9a 0c 44 ec 78   .e.po..D.R...D.x
+    0030 - c3 8c 0c 0c df 6b 08 4c-b6 f3 6c 1c 8f dd 33 15   .....k.L..l...3.
+    0040 - 71 e9 38 a0 71 f2 26 87-30 62 98 ba bb e0 23 3f   q.8.q.&.0b....#?
+    0050 - 15 00 6c cc d0 71 d1 ac-4a c8 14 16 d2 8d c0 7a   ..l..q..J......z
+    0060 - 46 2c b3 80 ba fd 28 4b-c9                        F,....(K.
+
+    Start Time: 1794206071
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

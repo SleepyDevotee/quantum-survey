@@ -95,26 +95,26 @@ Post-Handshake New Session Ticket arrived:
 SSL-Session:
     Protocol  : TLSv1.3
     Cipher    : TLS_AES_128_GCM_SHA256
-    Session-ID: 9F8570ABD2ABDA034130097801ED889CC4CD2EE3823FA9D656C7E902619C022A
+    Session-ID: DA125DEA0A581A63EDBC894D5B6EF552B325390931BBB24DE8F5621563FA96FA
     Session-ID-ctx: 
-    Resumption PSK: DB60C51BB523D1E37B9D7B23BD1573E3B38E78A24C07228CAB7CFBA001D7F723
+    Resumption PSK: A74AB920BA596D787C6AF7D84077CD75107C2CC18D599DC66BC3F12B2229277C
     PSK identity: None
     PSK identity hint: None
     SRP username: None
     TLS session ticket lifetime hint: 86400 (seconds)
     TLS session ticket:
-    0000 - 0a 90 cb c4 d3 1b b8 07-16 a4 8e b7 b7 61 6e 24   .............an$
-    0010 - 52 6f 06 88 95 88 80 97-f2 30 61 0c 05 b8 b8 f2   Ro.......0a.....
-    0020 - 91 82 2f 8d 80 d3 dc bc-f5 ff 71 39 66 2d 0d fa   ../.......q9f-..
-    0030 - 5a dd 4d 55 07 34 56 2a-17 25 df 00 b2 07 c5 8d   Z.MU.4V*.%......
-    0040 - a0 a0 0b df bc 3e 15 67-e7 36 0d 7f 04 c3 05 c7   .....>.g.6......
-    0050 - ff 1a 52 fc 38 46 f2 90-c3 db 4f 0c da 40 7c 3f   ..R.8F....O..@|?
-    0060 - b1 67 fc 45 aa 76 17 61-5b cc 82 da 14 39 22 61   .g.E.v.a[....9"a
-    0070 - 2c ee 3e 5e 3a ae 10 07-db f1 6c eb 39 11 ae 53   ,.>^:.....l.9..S
-    0080 - 02 80 cb fd f1 c2 c1 c3-40 f7 1a a8 11 65 21 6d   ........@....e!m
-    0090 - 2f 30 00 df 0b 54 a2 3f-91 b3 fe f6 c8 41 76 85   /0...T.?.....Av.
+    0000 - cb e7 16 ac 22 25 76 d3-6a c7 67 ed dd 01 14 eb   ...."%v.j.g.....
+    0010 - 56 bb b0 c3 13 ac 84 27-3c 73 3c 1f 53 29 f3 d9   V......'<s<.S)..
+    0020 - 7c a4 36 ef 4f 63 36 2f-d6 09 43 42 85 b7 eb b3   |.6.Oc6/..CB....
+    0030 - 06 04 e2 41 40 90 2e c3-34 83 80 07 27 9d b2 a1   ...A@...4...'...
+    0040 - ef e2 ba fb de 21 83 70-e8 1f d4 5b 23 eb e3 df   .....!.p...[#...
+    0050 - e1 17 20 41 82 cb a8 0b-75 64 27 98 c8 fb 5b bd   .. A....ud'...[.
+    0060 - f6 9c 36 fc 4e da 03 b0-1b 1a 75 78 f0 b0 79 9a   ..6.N.....ux..y.
+    0070 - 18 db 37 fe f9 bd 2d dc-ef c0 7d 8d 02 78 91 40   ..7...-...}..x.@
+    0080 - 9c 00 16 9a 8a 07 2e 56-a0 d9 b9 b8 41 90 47 11   .......V....A.G.
+    0090 - 8a 30 0d cb 63 ac b1 85-3b 56 f3 7b b2 42 e9 28   .0..c...;V.{.B.(
 
-    Start Time: 1793947997
+    Start Time: 1794206045
     Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
     Extended master secret: no
