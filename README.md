@@ -183,8 +183,23 @@ readiness = 100 − average score per sector
 | 2 | October 28, 2026 | `scores/tiers-2026-10-28.csv` | 244 of 250 | state.gov, ssa.gov, humana.com hung (no connection). vs Oct 25: nps.gov, mychart.com, spotify.com, homedepot.com moved to hybrid; etrade.com moved off RSA; fidelity.com dropped to classical. |
 | 3 | November 2, 2026 | `scores/tiers-2026-11-02.csv` | 244 of 250 | noaa.gov, state.gov, marcus.com, humana.com hung (no connection). vs Oct 28: ssa.gov answered again (classical); etrade.com flipped back to RSA. Sector percentages unchanged. |
 | 4 | November 5, 2026 | `scores/tiers-2026-11-05.csv` | 243 of 250 | noaa.gov, state.gov, hsbc.com, marcus.com, humana.com hung; jhu.edu and usgs.gov not scored. vs Nov 2: latimes.com moved to hybrid (News 60.0% to 62.9%); Banking rose to 67.6% only because hsbc.com dropped out. |
-| 5 | November 8, 2026 | `scores/tiers-2026-11-08.csv` | 243 of 250 | noaa.gov, state.gov, hsbc.com, marcus.com, humana.com hung; jhu.edu handshake failed; usgs.gov no response. Retries used a 15-second timeout. vs Nov 5: cnbc.com moved to hybrid (News 62.9% to 65.7%). Current `probe-results/` is from this run. |
+| 5 | November 8, 2026 | `scores/tiers-2026-11-08.csv` | 243 of 250 | noaa.gov, state.gov, hsbc.com, marcus.com, humana.com hung; jhu.edu handshake failed; usgs.gov no response. Retries used a 15-second timeout. vs Nov 5: cnbc.com moved to hybrid (News 62.9% to 65.7%). |
+| 6 | November 15, 2026 | `scores/tiers-2026-11-15.csv` | 243 of 250 | state.gov, ssa.gov, hsbc.com, marcus.com, humana.com did not respond; jhu.edu and usgs.gov not scored. vs Nov 8: noaa.gov responded and ssa.gov dropped out; etrade.com moved from Tier 1a to 1b; intel.com moved from Tier 1b to Tier 2 (Technology 69.4% to 72.2%). Other sites shifted slightly within their tier. |
 
 - **CONSISTENCY:** results shift slightly between runs (irs.gov switched TLS versions; spotify.com and fidelity.com flipped between hybrid and classical; etrade.com alternates between RSA and ECDHE). Big sites run many servers that are not all upgraded at once, which is why each site is probed more than once. Even so, sector percentages barely moved from Oct 28 to Nov 8 (News rose as latimes.com and cnbc.com moved to hybrid; Banking shifted only because hsbc.com dropped out), so the overall pattern is stable.
 
-- **HANGS:** state.gov and humana.com hung on Oct 28, Nov 2, Nov 5 and Nov 8; noaa.gov and marcus.com hung on Nov 2, Nov 5 and Nov 8; hsbc.com hung on Nov 5 and Nov 8; ssa.gov hung on Oct 28 but has answered since. Some servers may stall on the larger post-quantum ClientHello (the ML-KEM key share makes the first message bigger).
+## HANGS
+
+Sites that did not respond during a probe. "hung" = no response, "ok" = answered.
+
+| SITE | OCT 28 | NOV 2 | NOV 5 | NOV 8 | NOV 15 | TIMES HUNG |
+|---|---|---|---|---|---|---|
+| state.gov | hung | hung | hung | hung | hung | 5 of 5 |
+| humana.com | hung | hung | hung | hung | hung | 5 of 5 |
+| marcus.com | ok | hung | hung | hung | hung | 4 of 5 |
+| hsbc.com | ok | ok | hung | hung | hung | 3 of 5 |
+| noaa.gov | ok | hung | hung | hung | ok | 3 of 5 |
+| ssa.gov | hung | ok | ok | ok | hung | 2 of 5 |
+
+- **NOT SCORED (other):** jhu.edu and usgs.gov were not scored in probes 4, 5 and 6 (jhu.edu handshake failed, usgs.gov no response).
+- **POSSIBLE CAUSE:** unknown. We re-tested with a smaller message on Nov 15. state.gov, ssa.gov, marcus.com, humana.com and usgs.gov still did not answer, and hsbc.com answered both the small and the big message. So message size is not the reason. These sites may be blocking or ignoring our probe.

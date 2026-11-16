@@ -57,28 +57,28 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-ECDSA-CHACHA20-POLY1305
-    Session-ID: 4DC0EAD1C9B6C36027F0EEEE1D7AED164FFEDE10E9E277EACBE8D0BF50376C7D
+    Session-ID: 806E70BCC30E5A4ECD34A35CAEF47676FB9626140FB27B462AA72902A52D79F5
     Session-ID-ctx: 
-    Master-Key: 95D6883D1F4FB5B0AB4B76A48AF698319E340E9A7EA798EE82D4522D0B47C55A259B4E99627AA79B9CBBB97DEFB03178
+    Master-Key: 77BA98DE7FFAB07EDFFFB35799A87CE7617F55F3B938DFC1B558024BB228A9BDBEED77FA117366982A8EF40EB992D56C
     PSK identity: None
     PSK identity hint: None
     SRP username: None
     TLS session ticket lifetime hint: 64800 (seconds)
     TLS session ticket:
-    0000 - 69 46 f2 37 9c 06 ec 79-6a 51 fe 58 6d 20 d6 09   iF.7...yjQ.Xm ..
-    0010 - f2 2d 3b fd b3 b4 df 12-68 7d 05 87 85 16 12 4b   .-;.....h}.....K
-    0020 - 80 09 11 8b 33 5a 1f ca-2e ef 3f 35 74 5c bc 9f   ....3Z....?5t\..
-    0030 - a1 69 67 75 e6 cf d2 82-5d 76 71 4e 77 4d 13 49   .igu....]vqNwM.I
-    0040 - bc d6 fc 5b 1a 35 9c b3-79 3e 5f 10 0e 6f 31 fc   ...[.5..y>_..o1.
-    0050 - 9d 07 52 eb 4e f7 46 71-ae 2b 68 f5 31 8c da a6   ..R.N.Fq.+h.1...
-    0060 - 8a 2d 72 29 4f c5 7c 7f-a2 f0 be c6 20 8e d2 8b   .-r)O.|..... ...
-    0070 - 18 36 49 7f 58 d1 34 8a-dd ea 7a e3 1b 45 61 3c   .6I.X.4...z..Ea<
-    0080 - d2 2b 62 7c 4f 19 32 da-18 f4 24 36 0b 5c 50 42   .+b|O.2...$6.\PB
-    0090 - db 5b e1 13 84 49 d8 f7-2d 8f 3b 31 b6 8e 94 8e   .[...I..-.;1....
-    00a0 - b8 02 16 37 3d 79 60 87-5b 3c 11 d0 da 0c 16 17   ...7=y`.[<......
-    00b0 - fd 8e 84 90 17 b8 58 ae-2e 45 20 a3 db f4 4e a5   ......X..E ...N.
+    0000 - b4 9d fb b8 f6 40 90 2a-ce eb 58 cc 1d 52 8f 04   .....@.*..X..R..
+    0010 - 9a 4a f4 6b a5 51 49 a7-bd 52 e5 45 a6 d2 10 0a   .J.k.QI..R.E....
+    0020 - 9b a2 4d a3 71 86 e0 66-e7 04 2c c7 c2 27 0c f4   ..M.q..f..,..'..
+    0030 - 82 e3 77 46 4a 7f cb dd-fb 36 af 1f 35 b1 f0 eb   ..wFJ....6..5...
+    0040 - 65 92 28 4b 53 e8 ee ea-80 33 61 ab 49 f0 d9 db   e.(KS....3a.I...
+    0050 - b6 02 a0 0e 09 26 33 9d-cf 5b ae ea ec a4 49 41   .....&3..[....IA
+    0060 - 1b 0f 89 87 ff 5c 3f 96-a4 a9 3d 42 a8 21 cb f8   .....\?...=B.!..
+    0070 - a5 6d 10 e2 e3 d0 8c a0-d8 5c c1 d2 4e 9c e0 10   .m.......\..N...
+    0080 - c7 09 91 42 1d 26 30 ac-4a f4 1c 06 fe ff 3c 65   ...B.&0.J.....<e
+    0090 - 46 c3 a4 f1 52 bd 7d 22-b3 be 73 6b a5 a7 3c 99   F...R.}"..sk..<.
+    00a0 - ee ed c6 64 93 8b 2e b1-27 7e fe e0 ca 79 09 24   ...d....'~...y.$
+    00b0 - 2b ee d9 26 c8 56 26 af-19 97 17 25 51 6d 4e 13   +..&.V&....%QmN.
 
-    Start Time: 1794205946
+    Start Time: 1794808059
     Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
     Extended master secret: yes

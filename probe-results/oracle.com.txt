@@ -86,29 +86,18 @@ Peer signing digest: SHA256
 Peer signature type: rsa_pss_rsae_sha256
 Peer Temp Key: X25519, 253 bits
 ---
-SSL handshake has read 4869 bytes and written 1592 bytes
+SSL handshake has read 5026 bytes and written 1878 bytes
 Verification: OK
 ---
-New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
-Protocol: TLSv1.2
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
 Server public key is 2048 bit
-Secure Renegotiation IS supported
+This TLS version forbids renegotiation.
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
-SSL-Session:
-    Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: B625D4B18147886FB01E0CCF52061510F6FF31DCF5764E3414775DBA5FF7D100
-    Session-ID-ctx: 
-    Master-Key: 65390EAE0A06B5D0EBAF526D81E6805DADCB145510B7A27D7D5738A3329B7D9DEAA38D90338C60E1FE4161021DB45033
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1794206052
-    Timeout   : 7200 (sec)
-    Verify return code: 0 (ok)
-    Extended master secret: yes
+Early data was not sent
+Verify return code: 0 (ok)
 ---
 ECH: NOT CONFIGURED: -103
 ---

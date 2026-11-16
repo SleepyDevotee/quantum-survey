@@ -62,11 +62,14 @@ subject=serialNumber=923632, jurisdictionC=US, jurisdictionST=Delaware, business
 issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA EV R36
 ---
 No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: rsa_pkcs1_sha512
+Peer Temp Key: ECDH, prime256v1, 256 bits
 ---
-SSL handshake has read 5450 bytes and written 1841 bytes
+SSL handshake has read 5770 bytes and written 1625 bytes
 Verification: OK
 ---
-New, SSLv3, Cipher is AES256-SHA
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Protocol: TLSv1.2
 Server public key is 2048 bit
 Secure Renegotiation IS supported
@@ -75,14 +78,14 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : AES256-SHA
-    Session-ID: 62FB67D6D32E728B7BF8518264A7D267E896DCE3470E4AE27D6DFF07707CDE15
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 5030D34E9C1E58E7C84E529074EDC9C9C61FD18BCA998D7633D0810AE27CA201
     Session-ID-ctx: 
-    Master-Key: 839B5612558A65A12A6377211549109C0E15ED7DD42F1F5714977922C0C21ACC1EDFF6160C0F1833DCA4AB23DFD421BE
+    Master-Key: B0A24CD30FA70888BA42556C4C421EAF34044DA4E60EF7665B1790C53570116D9BBCF2958340F21D83269CD638B83FE9
     PSK identity: None
     PSK identity hint: None
     SRP username: None
-    Start Time: 1794206012
+    Start Time: 1794808112
     Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
     Extended master secret: no

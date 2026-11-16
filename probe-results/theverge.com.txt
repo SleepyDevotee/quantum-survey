@@ -83,26 +83,26 @@ Post-Handshake New Session Ticket arrived:
 SSL-Session:
     Protocol  : TLSv1.3
     Cipher    : TLS_AES_128_GCM_SHA256
-    Session-ID: 3F9673793F488BF25866293B93E6133ABBD67F985CFD86A1B9630136C8967D36
+    Session-ID: A51F4522FB151317DB9A0CAE52F88C1C0C33DDB3A78C28457B938AE97A5526D7
     Session-ID-ctx: 
-    Resumption PSK: B90109FAF7E9707AA242DB22993D4D327F6205641F2C4F66AFEFD2AB166C7CFD
+    Resumption PSK: 559AFA894A3B11BF7F1D026B71A9A096999AA8F9E97F49A21625905E9144ED0A
     PSK identity: None
     PSK identity hint: None
     SRP username: None
     TLS session ticket lifetime hint: 86400 (seconds)
     TLS session ticket:
-    0000 - cb e7 16 ac 22 25 76 d3-6a c7 67 ed dd 01 14 eb   ...."%v.j.g.....
-    0010 - 45 49 7d 41 a8 2f 7e 2b-c2 6d eb 3f 5b b0 9b 8d   EI}A./~+.m.?[...
-    0020 - f6 6b e0 ec 2e 4e 6c 0f-4b 37 c4 36 33 c1 80 af   .k...Nl.K7.63...
-    0030 - 6a b4 03 a0 0a 53 5b 28-e6 9c cb 24 54 8f 92 96   j....S[(...$T...
-    0040 - 1e ea 38 e7 ea 1b b7 ea-80 4f d4 87 2d 99 9f 57   ..8......O..-..W
-    0050 - 45 b2 9b 5a 4f 42 2e 4a-ac bd 50 d1 06 24 cb 03   E..ZOB.J..P..$..
-    0060 - 3f ed a0 4c 56 d9 2f 89-ad 03 01 72 bd 7b 30 ce   ?..LV./....r.{0.
-    0070 - 60 3e b0 f4 f9 70 b3 d0-54 6f 99 ad bf 3e 91 d5   `>...p..To...>..
-    0080 - bb 14 7a 1f 8f 07 49 aa-3c 4c c5 5d 07 2a 3e b4   ..z...I.<L.].*>.
-    0090 - fe 5f ee 80 9a d2 55 a0-cb c5 56 26 be 29 19 ff   ._....U...V&.)..
+    0000 - 99 8a d3 89 60 85 30 87-f4 37 f1 8e d2 4e da 1f   ....`.0..7...N..
+    0010 - 70 a5 5d 3b 23 f2 7e cd-fd e1 bf 47 03 5f 5d c0   p.];#.~....G._].
+    0020 - 3b d8 a2 cd ad 89 47 4f-74 d8 ea df 5c 68 cc 9d   ;.....GOt...\h..
+    0030 - 8b 7b 47 dc b3 19 e7 a3-c1 aa 4a 83 ac 7d 59 e8   .{G.......J..}Y.
+    0040 - b0 4f 3b 91 c4 03 cc 6f-9d c2 b6 8b 42 6f 73 d8   .O;....o....Bos.
+    0050 - b5 57 34 b8 87 d1 b4 01-f1 ae 12 34 af 8e 78 2f   .W4........4..x/
+    0060 - 89 fd 29 b2 64 e7 de 4b-e2 7b 82 b0 10 d1 f0 60   ..).d..K.{.....`
+    0070 - f9 57 3e 7b a0 c2 6d fa-1e 33 8b a2 3f be af b2   .W>{..m..3..?...
+    0080 - 68 52 e1 28 f0 af 72 37-20 8d 3d 5f a0 6c 69 49   hR.(..r7 .=_.liI
+    0090 - 09 f9 50 36 c4 11 3b 67-55 bb 96 e2 3a 3b ba 6a   ..P6..;gU...:;.j
 
-    Start Time: 1794206073
+    Start Time: 1794808181
     Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
     Extended master secret: no

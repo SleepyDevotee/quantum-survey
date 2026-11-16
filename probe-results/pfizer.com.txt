@@ -2,49 +2,54 @@ CONNECTED(00000006)
 ---
 Certificate chain
  0 s:CN=pfizer.com
-   i:C=US, O=Google Trust Services, CN=WE1
-   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA256
-   v:NotBefore: Nov  8 05:47:41 2026 GMT; NotAfter: Feb  6 06:46:39 2027 GMT
- 1 s:C=US, O=Google Trust Services, CN=WE1
-   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=US, O=Let's Encrypt, CN=YE2
    a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
-   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
- 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
-   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   v:NotBefore: Nov 14 02:33:22 2026 GMT; NotAfter: Feb 12 02:33:21 2027 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=YE2
+   i:C=US, O=ISRG, CN=Root YE
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
+ 2 s:C=US, O=ISRG, CN=Root YE
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X2
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+ 3 s:C=US, O=Internet Security Research Group, CN=ISRG Root X2
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
    a:PKEY: EC, (secp384r1); sigalg: sha256WithRSAEncryption
-   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-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
+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
+ohnbtGutozY+gpwtJDo5/xk=
 -----END CERTIFICATE-----
 subject=CN=pfizer.com
-issuer=C=US, O=Google Trust Services, CN=WE1
+issuer=C=US, O=Let's Encrypt, CN=YE2
 ---
 No client certificate CA names sent
 Peer signing digest: SHA256
 Peer signature type: ecdsa_secp256r1_sha256
 Negotiated TLS1.3 group: X25519MLKEM768
 ---
-SSL handshake has read 3882 bytes and written 1579 bytes
+SSL handshake has read 4819 bytes and written 1579 bytes
 Verification: OK
 ---
 New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384

@@ -4,7 +4,7 @@ Certificate chain
  0 s:CN=*.time.com
    i:C=US, O=Certainly, CN=Certainly Intermediate R1
    a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
-   v:NotBefore: Oct 22 14:36:51 2026 GMT; NotAfter: Nov 21 14:36:50 2026 GMT
+   v:NotBefore: Nov 11 13:43:34 2026 GMT; NotAfter: Dec 11 13:43:33 2026 GMT
  1 s:C=US, O=Certainly, CN=Certainly Intermediate R1
    i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Root Certificate Authority - G2
    a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
@@ -12,34 +12,34 @@ Certificate chain
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFGzCCBAOgAwIBAgISeONDcRrgmBs7KdGpnbdqOWvBMA0GCSqGSIb3DQEBCwUA
+MIIFGjCCBAKgAwIBAgISeWRGePNJ4E0qZRSDWHTR5FYdMA0GCSqGSIb3DQEBCwUA
 MEUxCzAJBgNVBAYTAlVTMRIwEAYDVQQKEwlDZXJ0YWlubHkxIjAgBgNVBAMTGUNl
-cnRhaW5seSBJbnRlcm1lZGlhdGUgUjEwHhcNMjYxMDIyMTQzNjUxWhcNMjYxMTIx
-MTQzNjUwWjAVMRMwEQYDVQQDDAoqLnRpbWUuY29tMIIBIjANBgkqhkiG9w0BAQEF
-AAOCAQ8AMIIBCgKCAQEArC8gudGD3IPJYYpc8T3eOHypqCMRPDLhATSxKhH0zI2q
-gRqiTqyd7L3lFRXGJy1m28ViMDs9NvokLyArl46RtYuCBfQwNfTeYxgTRd3YhWEs
-fuiLESRIA3ngmEW5kyfXDcffeMbFNNtG34MHaMBpLVVIlKYyRwjP5yPXDUVnTW7G
-b9Q9HdiIq4TyTe7pBDozWFZxop2y9aGsei9vpw/ZKybOfMVdv2suAbcmk2jsQizS
-yr42GroSHw+x4SPcHGSPlUaFOD69SZdyGPokOcXotmwBcKd1yklRgwYN7Z6sRGfm
-xBgcJSzvt28JeZ9Hz8/rcJDgvjjp0Q4abLrXOczj4QIDAQABo4ICMzCCAi8wDgYD
+cnRhaW5seSBJbnRlcm1lZGlhdGUgUjEwHhcNMjYxMTExMTM0MzM0WhcNMjYxMjEx
+MTM0MzMzWjAVMRMwEQYDVQQDDAoqLnRpbWUuY29tMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAwi7K+dL6k86x5Aoggde5mMr3fo8z+LxjDyVz6F3jFryv
+pcEGb0yRS5LC98wkckB2rIDHZQj7kLhTTOoSzcykXQuf/T7nvhHqVWLmCz2pVeUk
+zFgLzQmhDvIeD81xK3BW+C8BwWvf1kodMZFOSB57r2zOhq8SL8Jlr8UR7Th95F5l
+R/HpFigty4oxggvLg4Si7zLaI0WDpt/RG1yIY1gjsEcWu2Ps3GkBn/he5GZiQdAr
+fIs1bGOteGpJNGGsOLIGXlmxcbE1/ae3UxVgcmqpzT+ZFx+2VM9fugdzR+nlqY51
+BdPBNPhFIVJeLZHrHNh4IY1TDxPKo4Hv/UQ3u3LvEQIDAQABo4ICMjCCAi4wDgYD
 VR0PAQH/BAQDAgWgMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAw
-HQYDVR0OBBYEFJGDwie0+EZGwaoV+dCSXk9VuHqdMB8GA1UdIwQYMBaAFL2Xnd+h
+HQYDVR0OBBYEFKO914XnmBPvL2C03M9dkArHLUz7MB8GA1UdIwQYMBaAFL2Xnd+h
 2BslmeMMBAaJZBLXZSTHMDcGCCsGAQUFBwEBBCswKTAnBggrBgEFBQcwAoYbaHR0
 cDovL2ludC1yMS5jZXJ0YWlubHkuY29tMB8GA1UdEQQYMBaCCioudGltZS5jb22C
 CHRpbWUuY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIBMEIGA1UdHwQ7MDkwN6A1oDOG
-MWh0dHA6Ly9jcmxzLmNlcnRhaW5seS5jb20vMTcxODIyNjI0NTMwMDI1MTQvOC5j
-cmwwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwCUTkOH+uzB74HzGSQmqBhlAcfT
-XzgCAT9yZ31VNy4Z2AAAAaFkQKevAAAEAwBIMEYCIQC4ozZs8i64xdbqIOuSrOsN
-a+ixzntEzE9igNVAtVLpXwIhAKnRphO4ucMiOqcqLG0FkN3KhHgVBV0zH9EMsafi
-ITTkAHYAr2eIO1ewTt2Pptl+9i6o64EKx3Fg8CReVdYML+eFhzoAAAGhZECodgAA
-BAMARzBFAiEAhweNWQb6DC7FNw2VxWRS4/vFNvOPq6Fy+SuKs3A9CvICIDPW//Cv
-1N0DyTOQQs4cXFbOTHs/uMPoDE4D9JjocIWaMA0GCSqGSIb3DQEBCwUAA4IBAQAW
-OnD9pzbEn16LFRUwnJ+tiu8NXAb3FxEIt4N6N/zunnMj+uJEa/81K7Es7akqHVj9
-kHasacxPTZFN5VwrZ+HY9wHMnPTpnZvlOjEAOG/0ND6gimNxtX19TOqE+YCYaj/U
-O8sKDfxBW6mWscLz7mSBm4987ErJ0A+WaxQiulkeCbkbuUKTIuLnGkIzXFBq3YdZ
-rtjKAcLlegryPi3oOVT9GGYHKVUKrhUgXWsZZHcOCOMp6oRNnu7t76XI5p948cj/
-xmfZiKpN6yC7OE/BDdB1/FQLxDsRFzRHOpDyv0Piaxx85u2g0goRwxqOAdLIVNmm
-BnZHA6A26sJ5NcDarn1F
+MWh0dHA6Ly9jcmxzLmNlcnRhaW5seS5jb20vMTcxODIyNjI0NTMwMDI1MTQvNC5j
+cmwwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdQCvZ4g7V7BO3Y+m2X72LqjrgQrH
+cWDwJF5V1gwv54WHOgAAAaHLDxEXAAAEAwBGMEQCICJrz/iLgxmdGTjU0egx2+Hh
+y731MJzrFYrHZvRy7QKCAiAtX4YQB+ftIdf4Q6WdrLcQJOe/T1b7ResUJ9ZHNmzw
+zAB3AJROQ4f67MHvgfMZJCaoGGUBx9NfOAIBP3JnfVU3LhnYAAABocsPEj8AAAQD
+AEgwRgIhAKlfmtmmRt2avcfI5cyh7C7nGlDvUvcWxy3jb5IBHeZSAiEAyaetLbxs
+Xy5lDpPw73G/+vSwBLDHEitfMgDx6PM24nwwDQYJKoZIhvcNAQELBQADggEBABG8
+txhkvPyHHHcLT9UmPh5zJkarXhYpcUhfoUfy6aIuKrJCh1nBBjc8+06NTL2baGrs
+cmvvjOmQiHdVVLXoGbflfSkr2YsgZMlnAwSD0+CzNKg/8vK9SPu1a+4WTinjB3SQ
+6F0idGTt8tiHLx5eAc2tZpow/bC+BcReVqYBjwwEkKY0tnZzCZ7RmC/nPUZ3wQ1w
+Xpo3PZajhISOttvASS4HOsJuj6bxcW56AQidJVnlF1IisdKgO0v3qpQWjVaxZbgN
+OC/AEfopmrxw/gmc8lxadyfnwvVGgDpfy2DEh7tZIp/S6nbWcgInjaR8lfk2nON4
+Eyt2vH31JWj+cJI6Lds=
 -----END CERTIFICATE-----
 subject=CN=*.time.com
 issuer=C=US, O=Certainly, CN=Certainly Intermediate R1
@@ -49,7 +49,7 @@ Peer signing digest: SHA256
 Peer signature type: rsa_pss_rsae_sha256
 Negotiated TLS1.3 group: X25519MLKEM768
 ---
-SSL handshake has read 4136 bytes and written 1561 bytes
+SSL handshake has read 4135 bytes and written 1561 bytes
 Verification: OK
 ---
 New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
@@ -69,26 +69,26 @@ Post-Handshake New Session Ticket arrived:
 SSL-Session:
     Protocol  : TLSv1.3
     Cipher    : TLS_AES_128_GCM_SHA256
-    Session-ID: 1D74D73A9A9E2C85E633FFF978DDC32446773D5FB03533055BF6BF0936DF6844
+    Session-ID: 7175E587CF51C2D5BB703B08B098C235957900DFE2105915CBEFADFBC5D511D5
     Session-ID-ctx: 
-    Resumption PSK: 99F84644BC3E67067A060443F4C3906C148FC3EE36E8E55F7FD3E056E929906E
+    Resumption PSK: 32375FD981B2AA0449933142843DDFA56598643CD747001A11ACEC5F544AB868
     PSK identity: None
     PSK identity hint: None
     SRP username: None
     TLS session ticket lifetime hint: 86400 (seconds)
     TLS session ticket:
-    0000 - cb e7 16 ac 22 25 76 d3-6a c7 67 ed dd 01 14 eb   ...."%v.j.g.....
-    0010 - fc 71 f5 a1 b3 31 60 6c-e7 80 a9 37 f8 ce 24 d1   .q...1`l...7..$.
-    0020 - 53 1d 07 be 00 83 02 ee-89 9e 8a 55 a0 df 08 4e   S..........U...N
-    0030 - d4 9d d4 77 76 2f c2 2b-5d 46 28 ec f9 78 89 a1   ...wv/.+]F(..x..
-    0040 - 88 ee e4 f0 7b 7b fb 04-91 0d f6 66 dd 6e 93 15   ....{{.....f.n..
-    0050 - 78 ee 43 f5 37 9e 05 19-53 e6 84 a9 cb b3 97 d6   x.C.7...S.......
-    0060 - d6 a0 c5 87 38 69 23 28-a9 72 e3 86 10 ba 6f 9a   ....8i#(.r....o.
-    0070 - 83 40 b8 6d 56 56 c5 50-d8 f4 7c ee 5f 09 96 55   .@.mVV.P..|._..U
-    0080 - 3c 56 76 5a 6e 86 e2 d2-46 e9 fd 78 45 67 9d bb   <VvZn...F..xEg..
-    0090 - 10 08 a6 9a a5 9b 35 66-fc b3 94 48 a7 1d a6 d2   ......5f...H....
+    0000 - 99 8a d3 89 60 85 30 87-f4 37 f1 8e d2 4e da 1f   ....`.0..7...N..
+    0010 - c0 69 28 0e d9 11 d8 2e-65 79 cc c9 7c cb d1 03   .i(.....ey..|...
+    0020 - da 4d 9e 4d 10 73 be 77-10 d5 29 2f da 15 de da   .M.M.s.w..)/....
+    0030 - 90 ef cc cc 8b b9 4c 8f-21 88 ef b0 87 c5 27 67   ......L.!.....'g
+    0040 - ad 1e 30 4a 9f c4 16 c7-d9 da ca 68 9f fe 6a 28   ..0J.......h..j(
+    0050 - f1 46 b9 70 e7 19 84 ed-3d 29 df 48 07 1f d8 71   .F.p....=).H...q
+    0060 - 01 1a 35 da 58 ba b3 a8-7b bd 14 47 6d c3 fa 69   ..5.X...{..Gm..i
+    0070 - cb a6 3d 58 d4 31 90 13-16 1c 24 83 58 a8 fa bb   ..=X.1....$.X...
+    0080 - d3 38 56 7d 77 0e 27 7f-fe ec 90 a8 a8 07 8c 91   .8V}w.'.........
+    0090 - e3 9b e2 46 b2 a4 10 52-e9 09 80 28 e6 dc 00 76   ...F...R...(...v
 
-    Start Time: 1794206072
+    Start Time: 1794808179
     Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
     Extended master secret: no

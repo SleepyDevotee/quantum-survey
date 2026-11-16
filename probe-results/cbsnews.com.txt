@@ -68,23 +68,23 @@ Post-Handshake New Session Ticket arrived:
 SSL-Session:
     Protocol  : TLSv1.3
     Cipher    : TLS_AES_128_GCM_SHA256
-    Session-ID: 3AE0167597A25C3AEA135BBB8565C3FB2901F5EA61AE28AE1C5EAC4BEA4E4CEC
+    Session-ID: ADF76A9BED64C43E0F9762A35A18C2ACC7A0AC66A1819FBF4839E77A9A073C5A
     Session-ID-ctx: 
-    Resumption PSK: 37EA3D828B07982FAA0EE381E37E65669C2E58BBB7CCDA4414BDB4547F654741
+    Resumption PSK: 0CB008726E0C1EF63C91BEC63AD22C3E2140EABC6DCAC75ACF7BF05D4F495DA2
     PSK identity: None
     PSK identity hint: None
     SRP username: None
     TLS session ticket lifetime hint: 604800 (seconds)
     TLS session ticket:
-    0000 - e2 77 c8 49 5a 2b d5 c5-18 0a c3 7c f4 72 95 ea   .w.IZ+.....|.r..
-    0010 - a1 ec 2f 76 5c 1a b0 f7-d4 79 cc 31 c1 97 b9 a9   ../v\....y.1....
-    0020 - 0d 2b 19 04 32 d2 49 80-a3 04 53 7c b0 e5 2c b1   .+..2.I...S|..,.
-    0030 - 92 e5 1e 77 d8 b1 ae c3-c4 ca 1d 11 ed 5b 70 61   ...w.........[pa
-    0040 - 20 22 5c 3d 73 27 dd 10-67 27 23 66 57 76 fd e2    "\=s'..g'#fWv..
-    0050 - ed b2 1d 7b 81 f0 d5 b6-fc 06 b1 4e 49 60 07 5c   ...{.......NI`.\
-    0060 - 78 05 58 ff 56 3b bf 6c-e6                        x.X.V;.l.
+    0000 - 5f 42 cf 12 11 30 d9 7a-6f 21 ed 6f 96 6b 70 97   _B...0.zo!.o.kp.
+    0010 - ed e3 41 ea b7 40 ef 73-d9 e5 d5 05 a5 37 88 3a   ..A..@.s.....7.:
+    0020 - 16 ed 23 ed 77 78 d3 da-ac 7e a1 71 2f 38 02 4d   ..#.wx...~.q/8.M
+    0030 - 79 7a 28 9e cb 8e f2 c5-b3 43 71 56 2f 31 f0 65   yz(......CqV/1.e
+    0040 - 8e a5 3e de 8c 6e 0b a3-9b ba fc 4e ca 73 56 5f   ..>..n.....N.sV_
+    0050 - a8 79 dd 9f 4c d3 a8 0e-25 5c 1b 01 dc 50 2a b6   .y..L...%\...P*.
+    0060 - 8e 90 ca ef 1e 01 62 bf-19                        ......b..
 
-    Start Time: 1794206073
+    Start Time: 1794808180
     Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
     Extended master secret: no

@@ -4,7 +4,7 @@ Certificate chain
  0 s:CN=newsweek.com
    i:C=US, O=Certainly, CN=Certainly Intermediate R1
    a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
-   v:NotBefore: Oct 25 13:31:58 2026 GMT; NotAfter: Nov 24 13:31:57 2026 GMT
+   v:NotBefore: Nov 14 12:37:43 2026 GMT; NotAfter: Dec 14 12:37:42 2026 GMT
  1 s:C=US, O=Certainly, CN=Certainly Intermediate R1
    i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Root Certificate Authority - G2
    a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
@@ -12,34 +12,34 @@ Certificate chain
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFEzCCA/ugAwIBAgISeNIW4B69cv2qQzAyxANJXKg7MA0GCSqGSIb3DQEBCwUA
+MIIFHDCCBASgAwIBAgISefmd9wi8XzSqOiNrT4b8xFhBMA0GCSqGSIb3DQEBCwUA
 MEUxCzAJBgNVBAYTAlVTMRIwEAYDVQQKEwlDZXJ0YWlubHkxIjAgBgNVBAMTGUNl
-cnRhaW5seSBJbnRlcm1lZGlhdGUgUjEwHhcNMjYxMDI1MTMzMTU4WhcNMjYxMTI0
-MTMzMTU3WjAXMRUwEwYDVQQDEwxuZXdzd2Vlay5jb20wggEiMA0GCSqGSIb3DQEB
-AQUAA4IBDwAwggEKAoIBAQCnHqAdNGdVowggohZ9KY2tqShyXMnhtbDjr27oDQr5
-xRLfuICizq/u7bzs8/TWpDsCny8d43uMFd/TQi5FpFbQgJMHWv2r/9svkbyc10kb
-3GH2ycFoQJh0KtyL9/+Kwh3uiSZ8adzjqX0aV/NnzM/WrMU3e5YbbFCp8KAuO51v
-n/DRsdvgEpvt3AfsmVHC70qk4qifuApPIFPEtlhzngLT6NrXe7ILVuHKagksJHa6
-CitDqSp4CWdZw9VTCp9x50TCBm2abSxnctalgNcaBs8+mz2OMT7QSxmKXK6CZ/5A
-CXU2AytYFiSu+FcoenKBmGZO/JBMyjV9gtlF2f0M4xh5AgMBAAGjggIpMIICJTAO
+cnRhaW5seSBJbnRlcm1lZGlhdGUgUjEwHhcNMjYxMTE0MTIzNzQzWhcNMjYxMjE0
+MTIzNzQyWjAXMRUwEwYDVQQDEwxuZXdzd2Vlay5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDXMs4Jizd+wY+XPcL5cAEvl6i0CUiCUYkDpR8YNZkI
+X3uM5y/Qd195VYEfD2BKy0Iu9NGzc67BLFsnvx6Io4N9PhY55VyBxsyKTaDN8VSo
+aY1TrbyOft2rmpronpBrgI8VEt/F36nu94bo9/egcMnqT8LL2fwmc2t3/NSkb+HC
+zHmKxpotpgLecCse1hJDQTQNOcfNi1pvHIluJYrzXnu8BlMWsrfM6N8M4UQk+7Mi
+I4XnPCd4NMm7Rq6nJE6OjIoGqhrnyx8ya7xjfLypMr2jjhep3dkplu4yY7U8RMbG
+QTre/ipQ8lsQisirkWuJLyIFRVpeQ/1loqaCDwqZ7pvBAgMBAAGjggIyMIICLjAO
 BgNVHQ8BAf8EBAMCBaAwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIw
-ADAdBgNVHQ4EFgQUZAKeV0VBGo3TOhi4TNtyl117l1QwHwYDVR0jBBgwFoAUvZed
+ADAdBgNVHQ4EFgQUR5LlWZHf7ZpdrItQmoylSxLwzY0wHwYDVR0jBBgwFoAUvZed
 36HYGyWZ4wwEBolkEtdlJMcwNwYIKwYBBQUHAQEEKzApMCcGCCsGAQUFBzAChhto
 dHRwOi8vaW50LXIxLmNlcnRhaW5seS5jb20wFwYDVR0RBBAwDoIMbmV3c3dlZWsu
 Y29tMBMGA1UdIAQMMAowCAYGZ4EMAQIBMEIGA1UdHwQ7MDkwN6A1oDOGMWh0dHA6
-Ly9jcmxzLmNlcnRhaW5seS5jb20vMTcxODIyNjI0NTMwMDI1MTQvNC5jcmwwggED
-BgorBgEEAdZ5AgQCBIH0BIHxAO8AdQCUTkOH+uzB74HzGSQmqBhlAcfTXzgCAT9y
-Z31VNy4Z2AAAAaFzeFXzAAAEAwBGMEQCIG3f/WcDTO8VU35brbGFqR7PW89MJzR9
-Wype//sZLFhkAiA77FpAHk61GMSV8POrCuZHWhZQRaJrCIjUPV/ghv7wpwB2ANgJ
-VTuUT3r/yBYZb5RPhauw+Pxeh1UmDxXRLnK7RUsUAAABoXN4WC0AAAQDAEcwRQIg
-M+2ZBU2ZpK2s8/u2YSUtTGKQCngfINFH/ePlxQ5HDxUCIQDPhihlmwNfxufAAJXT
-9ji7Z04oQiiunWHp9GcNsbcyOTANBgkqhkiG9w0BAQsFAAOCAQEAOX9GFYQWpAhm
-djIR4aUl7/9F17268kEKs2e/3yTC1UB2Am5sZ/SJVrJO2rGkdgnAfcHWjUEOFFRy
-AXWvTAFDNTPkIhEDjabuzZqWlZz4mR7HPo4EfOrS2CMLGse4OkUyMlBDMo1XoMa2
-mxYG2FmGnTXpNxhRwUQM9kjHzKn1BZGgAnNZccDdxINDJXbxt9ed+KLj2j1FwbJ/
-agwnSyVV52E++UHgMW4ibhvI5dB3TLOKBx8+3hS0FCbJrYcHmZLf6TZHS9jvV/sz
-DQE3oalC3D3Sfh3nvlTF/MNBNZWtaJcOPF3sY622f/mccNg9CY4l6olg1JauQUDb
-KY6Inz7JqA==
+Ly9jcmxzLmNlcnRhaW5seS5jb20vMTcxODIyNjI0NTMwMDI1MTQvMi5jcmwwggEM
+BgorBgEEAdZ5AgQCBIH9BIH6APgAdgDCMX5XRRmjRe5/ON6ykEHrx8IhWiK/f9W1
+rXaa2Q5SzQAAAaHaRdx5AAAEAwBHMEUCIQDpfo0w3RwYznh6RiNTPyChF454IWbN
+GOusaZoMO8PgHwIgDS91vXFJqZ+1O6O1t7hnltxWumW1f40l3ZXc7mxF3iEAfgBG
+r4Y9Oz7ln6V33qgkXTaw2e0ioiP0YXdBIpRS7pVQXwAAAaHaRd6kAAgAAAUAPwun
+AwQDAEcwRQIhAOY0PlP3EYGpLWPIuAQdxbFKWECI60pVWCaWbxBltcImAiAvxBr6
+P2z7uuODzqoG+C/ybjqwZKpqvnJTYe4t46MfITANBgkqhkiG9w0BAQsFAAOCAQEA
+NDZCGdjBeGkmegsjqDEqLM2Xgv/Zy4kZriGz2stnEqqMzNxTDBjHiEj0blJXcbj2
+O4+n7aum+HYbt2492hDRefS/LAxYoEUmyrxvL4uC6ZWqH83QBARH35AZgSS5/h2Z
+bp6IM0DwBdeS4W8uuJ4PX3V/6zDoKlKQaNIe7ocma1bQVXQBuZNnfFbxRt9gq1OQ
+rXkJf93seF5KHRI0D7CAsjJjwxOuPmrJ+FYO0fMxj+g9hjoB3QBZfsglqtkSFST1
+lHprNNSUp1QQli8vztBxAVdW/6ZctwQQxKoLK38qWWc8LvIVEpAuskGQ88Y/Qw+V
+fjqNQbhD0CjA07zne88zTw==
 -----END CERTIFICATE-----
 subject=CN=newsweek.com
 issuer=C=US, O=Certainly, CN=Certainly Intermediate R1
@@ -49,7 +49,7 @@ Peer signing digest: SHA256
 Peer signature type: rsa_pss_rsae_sha256
 Negotiated TLS1.3 group: X25519MLKEM768
 ---
-SSL handshake has read 4128 bytes and written 1565 bytes
+SSL handshake has read 4137 bytes and written 1565 bytes
 Verification: OK
 ---
 New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
@@ -69,26 +69,26 @@ Post-Handshake New Session Ticket arrived:
 SSL-Session:
     Protocol  : TLSv1.3
     Cipher    : TLS_AES_128_GCM_SHA256
-    Session-ID: 49B879BD073276F92358AA13FA9FE00588810A2E6AE1D2B128399770ECA39124
+    Session-ID: 35CE1E5675DF9EDE2384384AB6EB6F33D37A71AAF9BC072701982A6BD5AEB18B
     Session-ID-ctx: 
-    Resumption PSK: 641F458944BD2CAD0D3D23B77D18DB5F4426D96A8C8CE8B675BF1CBBF906AC64
+    Resumption PSK: CE3CF450E70FB533D8DA1B9133AFB1CAD0365BDF8D6127839DFFC0A7B1E41BF6
     PSK identity: None
     PSK identity hint: None
     SRP username: None
     TLS session ticket lifetime hint: 86400 (seconds)
     TLS session ticket:
-    0000 - cb e7 16 ac 22 25 76 d3-6a c7 67 ed dd 01 14 eb   ...."%v.j.g.....
-    0010 - 20 5d a4 6d 5d 48 6a 83-5a 6b 18 91 22 70 ac 1e    ].m]Hj.Zk.."p..
-    0020 - 5a 4e a5 97 a2 9b d3 6f-d7 7a a6 f4 0a cb df 6d   ZN.....o.z.....m
-    0030 - e9 50 fd 48 22 52 98 60-bd 23 c0 3a 0e 34 06 a9   .P.H"R.`.#.:.4..
-    0040 - 73 54 74 f5 3f b0 3f 2f-85 c3 23 5b 82 54 d7 32   sTt.?.?/..#[.T.2
-    0050 - 24 87 fe a5 cf c3 e3 66-de 6a 9c 56 ab ec db c1   $......f.j.V....
-    0060 - 6f b6 0e cb 08 91 be 66-82 30 9b 75 da c1 94 c0   o......f.0.u....
-    0070 - 75 5c a7 f3 78 fc 24 cc-6f c7 28 70 77 8a 04 d7   u\..x.$.o.(pw...
-    0080 - 77 69 b8 4a 8a c3 fd bc-a2 76 22 00 04 d4 97 e7   wi.J.....v".....
-    0090 - df 72 79 cc 80 c5 d4 bd-49 b9 0f 86 e2 21 54 26   .ry.....I....!T&
+    0000 - 99 8a d3 89 60 85 30 87-f4 37 f1 8e d2 4e da 1f   ....`.0..7...N..
+    0010 - f5 0d a3 ec a0 2c df 11-d0 3d 48 0f 0a 4a 5a 8f   .....,...=H..JZ.
+    0020 - 9b 97 22 29 0b 8f 83 23-f9 5a cb 27 d2 5c f3 6d   ..")...#.Z.'.\.m
+    0030 - 4f 7a 77 e0 3e 92 fa af-ab 9e 3d 94 42 40 de b5   Ozw.>.....=.B@..
+    0040 - 1a b5 dd 38 34 a2 44 12-20 9c b5 11 6c 3d be a8   ...84.D. ...l=..
+    0050 - 53 c6 f6 75 7d f4 98 ef-5f 9b 30 7c 2e 45 c7 e3   S..u}..._.0|.E..
+    0060 - f6 65 f4 d0 b9 f6 67 34-5f fd d6 73 e6 0c 97 0c   .e....g4_..s....
+    0070 - 78 7b be 5f 18 99 ca 6e-76 27 a9 fe 57 8a c9 5e   x{._...nv'..W..^
+    0080 - c8 96 8c 30 dd 92 97 93-2e e1 e9 44 35 41 1d 71   ...0.......D5A.q
+    0090 - ad 25 e3 04 52 a1 9f a1-1a 5c 1a ad d5 64 45 f2   .%..R....\...dE.
 
-    Start Time: 1794206076
+    Start Time: 1794808183
     Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
     Extended master secret: no

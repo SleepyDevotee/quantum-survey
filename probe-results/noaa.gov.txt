@@ -1,0 +1,100 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=noaa.gov
+   i:C=US, O=Let's Encrypt, CN=YR1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep  1 03:02:27 2026 GMT; NotAfter: Nov 30 03:02:26 2026 GMT
+ 1 s:CN=noaa.gov
+   i:C=US, O=Let's Encrypt, CN=YR1
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep  1 03:02:27 2026 GMT; NotAfter: Nov 30 03:02:26 2026 GMT
+ 2 s:C=US, O=Let's Encrypt, CN=YR1
+   i:C=US, O=ISRG, CN=Root YR
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
+ 3 s:C=US, O=ISRG, CN=Root YR
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: RSA, 4096 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE6jCCA9KgAwIBAgISBSyjTYB1vODklla3qpAM6wdUMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNZUjEwHhcNMjYwOTAxMDMwMjI3WhcNMjYxMTMwMDMwMjI2WjATMREwDwYDVQQD
+Ewhub2FhLmdvdjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMiN4AT9
+PxtBdku+Vt7pLr10/9WZZjg9Kwbsxfu0sHHJMK+C5U38Vd1on01mWZ3EEC7bERH3
+gXnqRRgbijxG04PhEgBoiWWDOHLnIi+U/rbbOYDo1S+cK2QH1h+WfEMwQrn6Gai+
+/bnD+LgrDwW3AD7MJqH2OuN86ntUSfdutCJR8IcsyXNtFZm5YmT3KuvDzJYwomqR
+QuBkSgVh/1GuQz9rH80cuXQHwkdWrSzBot9TZ/cgVnQLdMiLFK3PpJJwWk6N5bY/
+JADhZAZhq0yGUrflx4q+dWeL0+gZuL6JagyNuVbSIbPFAAWPefrcyE8L+0vIjEj0
+F5Ar10QCQb159JcCAwEAAaOCAhYwggISMA4GA1UdDwEB/wQEAwIFoDATBgNVHSUE
+DDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQLcP4PtwiqFF7B
+nzq/pO8u5sdVETAfBgNVHSMEGDAWgBQfLzW+RhSCzUCxrnksVXj699Ro+zAzBggr
+BgEFBQcBAQQnMCUwIwYIKwYBBQUHMAKGF2h0dHA6Ly95cjEuaS5sZW5jci5vcmcv
+MBMGA1UdEQQMMAqCCG5vYWEuZ292MBMGA1UdIAQMMAowCAYGZ4EMAQIBMC4GA1Ud
+HwQnMCUwI6AhoB+GHWh0dHA6Ly95cjEuYy5sZW5jci5vcmcvODUuY3JsMIIBDAYK
+KwYBBAHWeQIEAgSB/QSB+gD4AH0AbP5QGUOoXqkWvFLRM+TcyR7xQRx9JYQg0XOA
+nhgY6zoAAAGgWyCYsQAIAAAFACtPPFkEAwBGMEQCIH407Xht/MtkcI+DCUQZdNvt
+aqssCvYmi7PRD9w4icBGAiAR11VD/cU/kSFOUYGlIilSUI/dwc1zJiGKAr0eB02C
+JwB3ANgJVTuUT3r/yBYZb5RPhauw+Pxeh1UmDxXRLnK7RUsUAAABoFsgqFYAAAQD
+AEgwRgIhANKVDWh95W1lZK8H8Pu6qnSp0JPCIG7mxCwfnRbyjpX7AiEA1F3qUFjA
+eQQJaNcIJcXfOtdbMJMC4qPjA0w/kOPJgwswDQYJKoZIhvcNAQELBQADggEBAEl/
+KBRXimTd+tbC0N5eMB+oiS4zI2E+CpLUvsZ/pI2TRXHTfrPiI8rGfP7or+iNyqJb
+bh35LI9F9WHZYIgxoPhobDfP8cm+Ub60B+DGblAlREQZhXjlHpVRZDeldVV+yUHU
+XWlBl7APy8UYCjUEW5l1Qvln7m1E0rvOsz2D/icRWZgGB5VEcp3Mi3aAvdssnIP3
+6LVI7tCMnjFTaCXCWxDcK9zloIMH7y/M0WAhT1AO3jVVFXsKw6d7vgzV0aVlzxHl
+KRKcAoGyXbFdagxbK3IsoojQr7403/lXKyfdUp8eu1p4+2aHf3l/69BmPHKfq62U
+ugiv9zIgdc+mhFoN860=
+-----END CERTIFICATE-----
+subject=CN=noaa.gov
+issuer=C=US, O=Let's Encrypt, CN=YR1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5985 bytes and written 1590 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 5AB73E731C971E5C15D2FE6FE9118606FE77F79B29E0A407FDB0FD094B604DD2
+    Session-ID-ctx: 
+    Master-Key: 705E867A2A70570A3A63D722F804311BDF455C0458D530E5AA19B5ADD2C0E4F4E6DB3736512DECF7B003445D4A6F6EE9
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 04 ac e5 9c 1d 34 6c 02-50 dd 13 88 35 93 02 51   .....4l.P...5..Q
+    0010 - e4 3a b1 f1 40 0f 2a 43-d0 0d 66 b2 d9 94 52 61   .:..@.*C..f...Ra
+    0020 - 71 c6 66 63 4c 53 bf b3-3f 37 0e b2 6c ec 5b 56   q.fcLS..?7..l.[V
+    0030 - ce d5 99 dc 64 60 1b 56-c4 02 ee ab 7a a7 86 56   ....d`.V....z..V
+    0040 - e8 4f d3 00 28 df 13 4c-b3 6e 53 82 de 0c 92 0b   .O..(..L.nS.....
+    0050 - d4 19 0c 0f e9 78 63 7e-5f d2 1e 8e 1f 16 85 d7   .....xc~_.......
+    0060 - 53 79 44 0a da a5 73 02-db b6 cb ba bb 61 e9 10   SyD...s......a..
+    0070 - 33 9c e3 64 1e 2b e6 12-ca 4d 79 73 06 10 63 c5   3..d.+...Mys..c.
+    0080 - b8 8a 6f 0b 6c d8 66 02-2f d5 d4 5c fd 32 75 99   ..o.l.f./..\.2u.
+    0090 - 8a 02 11 9b fa 20 8b df-40 fb 70 cf ee 25 aa f7   ..... ..@.p..%..
+    00a0 - 4a b6 a7 5c a5 83 23 80-85 d4 c8 30 e8 45 df a6   J..\..#....0.E..
+    00b0 - 1d 70 6e 7b f5 95 c2 0c-e6 d6 93 36 88 c5 32 8c   .pn{.......6..2.
+    00c0 - 32 f1 0a 07 13 4e 72 6f-63 ab 32 0e d6 7d f3 0a   2....Nroc.2..}..
+
+    Start Time: 1794808057
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+ECH: NOT CONFIGURED: -103
+---
