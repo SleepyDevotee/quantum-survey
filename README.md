@@ -67,7 +67,7 @@ Paper 3 is the source of the risk score below.
 ## FIXED SITE LIST
 
 - `sites-for-probing.csv` is frozen as of October 24, 2026.
-- The same 250 sites are used for every probe through December 2026.
+- The same 250 sites were used for all 7 probes (October 24 to November 18, 2026). Probing ended on November 18, 2026.
 - Sites that fail are kept in the list and reported as "No connection", not replaced.
 
 ---
