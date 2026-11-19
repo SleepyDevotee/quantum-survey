@@ -1,59 +1,74 @@
-CONNECTED(00000005)
+CONNECTED(00000006)
 ---
 Certificate chain
- 0 s:CN=cbsnews.com
-   i:C=US, O=Let's Encrypt, CN=YE2
-   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
-   v:NotBefore: Oct 26 15:23:59 2026 GMT; NotAfter: Jan 24 15:23:58 2027 GMT
- 1 s:C=US, O=Let's Encrypt, CN=YE2
-   i:C=US, O=ISRG, CN=Root YE
-   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
-   v:NotBefore: Sep  3 00:00:00 2025 GMT; NotAfter: Sep  2 23:59:59 2028 GMT
- 2 s:C=US, O=ISRG, CN=Root YE
-   i:C=US, O=Internet Security Research Group, CN=ISRG Root X2
-   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
-   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
- 3 s:C=US, O=Internet Security Research Group, CN=ISRG Root X2
-   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
-   a:PKEY: EC, (secp384r1); sigalg: sha256WithRSAEncryption
-   v:NotBefore: May 13 00:00:00 2026 GMT; NotAfter: Sep  2 23:59:59 2032 GMT
+ 0 s:C=US, ST=New York, O=CBS Corporation, CN=*.cbsnews.com
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Oct  5 00:00:00 2026 GMT; NotAfter: Apr 21 23:59:59 2027 GMT
+ 1 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+   i:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   a:PKEY: RSA, 3072 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Mar 21 23:59:59 2036 GMT
+ 2 s:C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: RSA, 4096 (bit); sigalg: sha384WithRSAEncryption
+   v:NotBefore: Mar 22 00:00:00 2021 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIDgjCCAwmgAwIBAgISBbAzepuxqo6EsG4pGzkSyhfEMAoGCCqGSM49BAMDMDMx
-CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNZ
-RTIwHhcNMjYxMDI2MTUyMzU5WhcNMjcwMTI0MTUyMzU4WjAWMRQwEgYDVQQDEwtj
-YnNuZXdzLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABMzBKbANtfxpQ1di
-YHxa58j1CtOWrbYacRbxIC6jI52INCkfK7Gjf1zwH3FTWRAzQQMZDSEN9dCE/9Si
-oTdH1KmjggIYMIICFDAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYIKwYBBQUH
-AwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUzALra0FY6sErfgcwtts4IVSxuyow
-HwYDVR0jBBgwFoAUuVnyjs8i8IbTN0j/dhQYuoLYVYcwMwYIKwYBBQUHAQEEJzAl
-MCMGCCsGAQUFBzAChhdodHRwOi8veWUyLmkubGVuY3Iub3JnLzAWBgNVHREEDzAN
-ggtjYnNuZXdzLmNvbTATBgNVHSAEDDAKMAgGBmeBDAECATAuBgNVHR8EJzAlMCOg
-IaAfhh1odHRwOi8veWUyLmMubGVuY3Iub3JnLzY5LmNybDCCAQsGCisGAQQB1nkC
-BAIEgfwEgfkA9wB2AByfaCzp+vBFaVD4G5aKh93bMhDYTObIsuOCUkrEz1mfAAAB
-oXkFQT4AAAQDAEcwRQIhAKzho8K7Km97mhq2it42eQj32nQBrEIPjf5NdARe/ZM8
-AiBQ9JuI+MSUabfspE2iOShDybbPLAZZogyiD53ICN/fGwB9ABqLnWuN15HRzQVJ
-7bYDVdYGtk+tMNtx/niPD8fI+8SxAAABoXkFSDwACAAABQAN0OjgBAMARjBEAiAX
-a1xF3KdVmW/Zx0IUusV/4MuTZKmC/1BfL7emprlP8AIgKCUtkQDAU1XXazSoiBF6
-UKTxmyJA7oSvj65WkGP/iq8wCgYIKoZIzj0EAwMDZwAwZAIwCW9GqhDxTUDrakBf
-nNXW6u6gfeSg3w8d4vzaKen3bhUcZkreShkF5H0DsxPZWL5UAjBxO0xX4YcVIDE7
-VapueJXpdtzwt8FCoc8xchtQ7i3juvM5YbXqeqawyMvqSyZ7sLE=
+MIIHGjCCBYKgAwIBAgIRAPGE1un64SXERWE+T2FLRmIwDQYJKoZIhvcNAQELBQAw
+YDELMAkGA1UEBhMCR0IxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBQdWJsaWMgU2VydmVyIEF1dGhlbnRpY2F0aW9uIENBIE9WIFIz
+NjAeFw0yNjEwMDUwMDAwMDBaFw0yNzA0MjEyMzU5NTlaMFIxCzAJBgNVBAYTAlVT
+MREwDwYDVQQIEwhOZXcgWW9yazEYMBYGA1UEChMPQ0JTIENvcnBvcmF0aW9uMRYw
+FAYDVQQDDA0qLmNic25ld3MuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAzNbPeJ2KG/OtwOJrR9ccoPXgUrMGvXjCQzSTr2hDXbZELcjx66Yr43N4
+cwsp0jlb9tdzYLBOVhoLFzaJ4QofKoQtx1u+TKTy+o1T3/stwjCBdc67KTeOH7ME
+bd2+7xgoCZtdLiCpdQ+gMx6boxye52dpM5xXzrIzfg7PbxDKjMj2ovdItjHYHxAZ
+PzHqM2EsJx3Ods9XDoEupVfI1UzoTqk0X5y2T0djX3tRhKDeCSlQDEcn0hv+nZQK
+t6nCoa5gPEAnjebLUXV6Na3IB7URT2zV29ooaE1T5Ao67f8N3bcR3m9o9W0BmxbI
+EW/VnJzyoLEQvbIjv93qin6VnhBgBQIDAQABo4IDWzCCA1cwHwYDVR0jBBgwFoAU
+42Z0u3BojSxdTg6mSo+bNyKcgpIwHQYDVR0OBBYEFB3bRlgiv/ophmrWpXrmtNFm
+3JF0MA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsG
+AQUFBwMBBggrBgEFBQcDAjBKBgNVHSAEQzBBMDUGDCsGAQQBsjEBAgEDBDAlMCMG
+CCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwBAgIwVAYD
+VR0fBE0wSzBJoEegRYZDaHR0cDovL2NybC5zZWN0aWdvLmNvbS9TZWN0aWdvUHVi
+bGljU2VydmVyQXV0aGVudGljYXRpb25DQU9WUjM2LmNybDCBhAYIKwYBBQUHAQEE
+eDB2ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LnNlY3RpZ28uY29tL1NlY3RpZ29Q
+dWJsaWNTZXJ2ZXJBdXRoZW50aWNhdGlvbkNBT1ZSMzYuY3J0MCMGCCsGAQUFBzAB
+hhdodHRwOi8vb2NzcC5zZWN0aWdvLmNvbTAlBgNVHREEHjAcgg0qLmNic25ld3Mu
+Y29tggtjYnNuZXdzLmNvbTCCAYYGCisGAQQB1nkCBAIEggF2BIIBcgFwAH4AWW5s
+M4aUsllyolbIoOjdkEp26Ag92oc7AQg4KBQ87lkAAAGhCVxJWwAIAAAFAAdfnQME
+AwBHMEUCIQCivbefkFZxDg2KXbIM5uDtgi9jcVaZt59omtBIWp6oFAIgcSPNYUO2
+h3H7bVXhwLUM5db6KfRaUIeSsmpm3OZ3m3IAdgDt2uuBXGMhNEm0e+UHeQWr0Nkx
+R8J6xRRrO8WOQ+m2xwAAAaEJXEkmAAAEAwBHMEUCIAjMFgZJVOTmuE5X7OFAF17n
+FTYA6HqqWjtWaxDezqGHAiEA6D6pVJKz5U3rWQw7EoBwIxcD/BMYQc3UkC2WmRO+
+AHYAdgDW1Y2p0BdT82pKoMdXSQKv68fcLNOM2fdkyAyJGR6fAgAAAaEJXEqxAAAE
+AwBHMEUCIQDXqeQo1pRY7K4EEydZF2ZUbLUo0ex7Y1TyN2YCf+4WHwIgZv9Q3e9B
+AeqKNNCOZ0JZXo56lMyI5h0WSFK/f3BpVjQwDQYJKoZIhvcNAQELBQADggGBAKS2
+vd62OJpY9/lps0hXw/eIjVzvmkAo1pOBEW5jhmTB/AuHV3/jWCPMKtaw0QfbicVX
+KMQ1Y3Vn3imfNz96dQ++L6g262G3m1KBtsrvR4BcRipSo4BY6BY/fUzy6CbQaRA+
+39MKfIFZBo8Wodqlf4J+jmGIok1IDhDV59j0ZPSZ9G+oARqAiilrj5V6OmL4qLNC
+QO/pJ1QbkKtNZr3jR+uFbxN8Btv4rFgLX5rfrlQTKvKGW+OH9SVxDL4JMN6ssWMz
+qUH1QwEwC2IOpsLWYC4ueJtM4GrS0C+k0XlzSGzB9fZDTYSNVe0N+SBf/q+Yt3BJ
+VHxu/TcTA6OVWj1ikeHMerJZlGXjVjubz5ni8XLQN96S+r+ItM0MyMRUb4ZxvRmt
+fHUbjQveuoZ7RnUdxTGM//e/RYTp+3CPJlxo+lISpE5T3WzfiMugka2lBaIBcgH4
+kKjXdZvYPUKE3+EKeINeOF/o1uN/aZX3+o+8rQzfetOrmHnuHz+Ausp/UK52jg==
 -----END CERTIFICATE-----
-subject=CN=cbsnews.com
-issuer=C=US, O=Let's Encrypt, CN=YE2
+subject=C=US, ST=New York, O=CBS Corporation, CN=*.cbsnews.com
+issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
 ---
 No client certificate CA names sent
 Peer signing digest: SHA256
-Peer signature type: ecdsa_secp256r1_sha256
+Peer signature type: rsa_pss_rsae_sha256
 Negotiated TLS1.3 group: X25519MLKEM768
 ---
-SSL handshake has read 4842 bytes and written 1564 bytes
+SSL handshake has read 6769 bytes and written 1564 bytes
 Verification: OK
 ---
 New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
 Protocol: TLSv1.3
-Server public key is 256 bit
+Server public key is 2048 bit
 This TLS version forbids renegotiation.
 Compression: NONE
 Expansion: NONE
@@ -68,23 +83,26 @@ Post-Handshake New Session Ticket arrived:
 SSL-Session:
     Protocol  : TLSv1.3
     Cipher    : TLS_AES_128_GCM_SHA256
-    Session-ID: ADF76A9BED64C43E0F9762A35A18C2ACC7A0AC66A1819FBF4839E77A9A073C5A
+    Session-ID: 3DAE5E455B792107CC0A0C80C11AEA6D5A014393F748ABF0875B96649AD98BC3
     Session-ID-ctx: 
-    Resumption PSK: 0CB008726E0C1EF63C91BEC63AD22C3E2140EABC6DCAC75ACF7BF05D4F495DA2
+    Resumption PSK: 8E1BCA7FFB257FC9E8BC8F730AB29E7BA6CCEF1AACD295BF2FEF8D80EB27BF1E
     PSK identity: None
     PSK identity hint: None
     SRP username: None
-    TLS session ticket lifetime hint: 604800 (seconds)
+    TLS session ticket lifetime hint: 86400 (seconds)
     TLS session ticket:
-    0000 - 5f 42 cf 12 11 30 d9 7a-6f 21 ed 6f 96 6b 70 97   _B...0.zo!.o.kp.
-    0010 - ed e3 41 ea b7 40 ef 73-d9 e5 d5 05 a5 37 88 3a   ..A..@.s.....7.:
-    0020 - 16 ed 23 ed 77 78 d3 da-ac 7e a1 71 2f 38 02 4d   ..#.wx...~.q/8.M
-    0030 - 79 7a 28 9e cb 8e f2 c5-b3 43 71 56 2f 31 f0 65   yz(......CqV/1.e
-    0040 - 8e a5 3e de 8c 6e 0b a3-9b ba fc 4e ca 73 56 5f   ..>..n.....N.sV_
-    0050 - a8 79 dd 9f 4c d3 a8 0e-25 5c 1b 01 dc 50 2a b6   .y..L...%\...P*.
-    0060 - 8e 90 ca ef 1e 01 62 bf-19                        ......b..
+    0000 - df c7 72 52 90 66 9d c6-60 0c b9 0a 11 26 23 09   ..rR.f..`....&#.
+    0010 - bd 40 c8 fc 04 81 5c f7-58 8c 18 db d4 69 57 c7   .@....\.X....iW.
+    0020 - 75 3e 35 ed 25 0e c2 97-6b f1 ad b3 21 50 bb f1   u>5.%...k...!P..
+    0030 - 40 49 d2 73 c5 62 ee 03-4d 98 cd 01 b4 44 36 42   @I.s.b..M....D6B
+    0040 - 20 33 72 4a 92 23 a7 27-46 9a 11 64 89 b1 77 e0    3rJ.#.'F..d..w.
+    0050 - 74 99 a6 73 ea e1 33 a3-c6 2e ae 66 5d e1 30 85   t..s..3....f].0.
+    0060 - 6b eb df da 9d 47 94 ee-18 16 20 43 8e e1 42 42   k....G.... C..BB
+    0070 - 16 b8 43 74 da 87 5a 8b-40 5e 97 73 ac 17 3e 11   ..Ct..Z.@^.s..>.
+    0080 - e0 23 89 95 fc 41 f0 6d-0b d7 57 d5 4f af aa 1d   .#...A.m..W.O...
+    0090 - 80 6a 19 b8 9f 11 7f 37-e7 94 f1 d9 5b 94 d7 6d   .j.....7....[..m
 
-    Start Time: 1794808180
+    Start Time: 1795053584
     Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
     Extended master secret: no

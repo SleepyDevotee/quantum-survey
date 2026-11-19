@@ -85,26 +85,26 @@ Post-Handshake New Session Ticket arrived:
 SSL-Session:
     Protocol  : TLSv1.3
     Cipher    : TLS_AES_128_GCM_SHA256
-    Session-ID: 3AEAD0D8DDCE42E29E7C4CC1290B3AB32487EF6D8272BBE534EF889432A867DC
+    Session-ID: E7645E5A2D28904DDFA9874D0D3AF37210B9E0E52854723528985E11F0A9F88B
     Session-ID-ctx: 
-    Resumption PSK: 85FD090351165D78099CE2B1F17F36407ADDD34B133F0996A23026187DE2D710
+    Resumption PSK: 1CE337A2165493C97C6806C874877DBC2DBA8F74BB4E82AD18A22248F750A3DE
     PSK identity: None
     PSK identity hint: None
     SRP username: None
     TLS session ticket lifetime hint: 86400 (seconds)
     TLS session ticket:
-    0000 - 99 8a d3 89 60 85 30 87-f4 37 f1 8e d2 4e da 1f   ....`.0..7...N..
-    0010 - c8 2a 7d e5 32 4f c2 45-dd 5b b5 f6 4b 5b e4 3f   .*}.2O.E.[..K[.?
-    0020 - 39 c3 cc b9 84 b2 e2 2a-ba 74 e4 a4 ac 02 5c 0f   9......*.t....\.
-    0030 - 4b 9b b5 f9 50 da 88 99-39 22 7a 00 f5 10 55 01   K...P...9"z...U.
-    0040 - a6 c8 3d 06 a4 0c e8 e6-d3 91 0a a3 26 34 63 ad   ..=.........&4c.
-    0050 - d0 42 d3 4e 27 93 e4 4e-6f 8c aa cf 0f 2c 75 ef   .B.N'..No....,u.
-    0060 - b6 62 93 91 f8 94 a7 87-18 67 f0 04 30 c5 4a c3   .b.......g..0.J.
-    0070 - e5 92 aa 11 47 7a 92 6b-9d e2 85 c7 5e 7e d6 48   ....Gz.k....^~.H
-    0080 - fa 44 13 a3 3e ec 5f 21-69 ab ca 1b 25 59 26 57   .D..>._!i...%Y&W
-    0090 - 61 d1 f5 16 e8 58 31 2c-34 f0 a9 1c ae e2 c8 6d   a....X1,4......m
+    0000 - df c7 72 52 90 66 9d c6-60 0c b9 0a 11 26 23 09   ..rR.f..`....&#.
+    0010 - 99 a1 5b f0 03 91 17 51-74 53 82 12 60 c8 a8 6b   ..[....QtS..`..k
+    0020 - aa b6 1a 5d 74 34 45 f7-03 fa df 17 06 67 19 6f   ...]t4E......g.o
+    0030 - 73 1b 0a 3f d7 9e dd ce-f6 7b f7 30 d5 0e 4d 92   s..?.....{.0..M.
+    0040 - 4c a6 f5 0f 4c 12 58 f2-a5 6e e1 c9 6b 78 20 0a   L...L.X..n..kx .
+    0050 - 8d 40 68 39 5f 97 c1 30-eb 0f 94 5b 0a c1 f6 ac   .@h9_..0...[....
+    0060 - e2 ee bf f2 b9 7c 4c 0f-3f 48 97 ed 44 ff 0d 9c   .....|L.?H..D...
+    0070 - 57 55 9c 94 9c 66 42 cd-b1 7c 76 f2 db 27 7b ce   WU...fB..|v..'{.
+    0080 - 51 2a 72 e2 7a 56 90 d9-d0 7e 4c 32 f0 6c 91 b6   Q*r.zV...~L2.l..
+    0090 - bd 20 83 81 9a fb b0 0e-e4 a6 30 4c 43 21 ed 30   . ........0LC!.0
 
-    Start Time: 1794808176
+    Start Time: 1795053579
     Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
     Extended master secret: no

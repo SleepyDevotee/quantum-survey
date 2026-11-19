@@ -78,26 +78,26 @@ Post-Handshake New Session Ticket arrived:
 SSL-Session:
     Protocol  : TLSv1.3
     Cipher    : TLS_AES_128_GCM_SHA256
-    Session-ID: 65A5F52FB3B1B4806B43186701282404DB3D4AD60E21FE947C0D1EE36C08F681
+    Session-ID: 31EACDD59EBF758852E99630C374A6E471A5295F307CBEEB39B34C0CE94FC62B
     Session-ID-ctx: 
-    Resumption PSK: F975E415F4E0DB7CC2DCCFC0403D934CD5985365830274781E27F4172C64BD1B
+    Resumption PSK: 95CF0C9ABEA0DF740CD0669C1C66F55FAA9606DD9628E7C4ACF843DD4C12974A
     PSK identity: None
     PSK identity hint: None
     SRP username: None
     TLS session ticket lifetime hint: 86400 (seconds)
     TLS session ticket:
-    0000 - 99 8a d3 89 60 85 30 87-f4 37 f1 8e d2 4e da 1f   ....`.0..7...N..
-    0010 - 92 12 0b 0e d0 9f cd 4e-2b 79 0c 88 e4 cd 19 97   .......N+y......
-    0020 - af a5 c5 9e 55 65 ab 2b-53 de 46 56 ff 99 87 05   ....Ue.+S.FV....
-    0030 - 76 59 af 86 0f bb ef dc-3a 0a f0 df ff 67 05 aa   vY......:....g..
-    0040 - 62 b4 7e 6d a8 eb f3 c1-26 9f fc b0 e5 a7 91 4e   b.~m....&......N
-    0050 - f8 2d 19 ed f7 1b 4c 65-32 07 06 6b 7e 8b 4f e0   .-....Le2..k~.O.
-    0060 - c3 52 f5 1b 9d ad 6a 89-1c 50 50 4f 5a 7c 46 8b   .R....j..PPOZ|F.
-    0070 - c1 13 73 c1 0d c1 65 e7-37 71 62 6d 95 77 70 f8   ..s...e.7qbm.wp.
-    0080 - fc 10 fe 2d 35 26 31 8a-2a b0 2e 7f 62 bd fd 1f   ...-5&1.*...b...
-    0090 - 40 c2 02 61 7b 9b b1 9f-6d e6 0b e6 7f 9c 2a 65   @..a{...m.....*e
+    0000 - df c7 72 52 90 66 9d c6-60 0c b9 0a 11 26 23 09   ..rR.f..`....&#.
+    0010 - 23 b4 e8 71 59 d8 a9 24-ca 07 2a df 15 dc 1c 16   #..qY..$..*.....
+    0020 - de 80 02 5e bb 62 d6 ab-47 51 8b 04 b0 17 af c8   ...^.b..GQ......
+    0030 - 18 42 eb 95 1a a3 fb db-2a 3e ad d7 86 ba 56 c3   .B......*>....V.
+    0040 - e8 e2 08 8d 74 10 56 cf-86 75 f1 68 5c 99 1b 26   ....t.V..u.h\..&
+    0050 - 77 cd a3 66 13 28 3b 69-57 88 16 b0 78 a9 e4 9f   w..f.(;iW...x...
+    0060 - e0 6e 7d 49 e3 a0 5e 94-c2 0a 88 b1 d4 28 96 8b   .n}I..^......(..
+    0070 - 71 33 a6 39 24 bf 9b f1-ee cc c6 e3 61 ee b5 ab   q3.9$.......a...
+    0080 - 90 7a 25 f5 20 eb 03 4d-4d fa 9f 49 21 ed 17 23   .z%. ..MM..I!..#
+    0090 - 3d 6f 2c f6 74 94 47 3e-e4 57 40 fb 50 19 0e 53   =o,.t.G>.W@.P..S
 
-    Start Time: 1794808156
+    Start Time: 1795053558
     Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
     Extended master secret: no

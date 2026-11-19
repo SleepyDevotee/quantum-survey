@@ -8,11 +8,11 @@ Certificate chain
  1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
    i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
    a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
-   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+   v:NotBefore: Sep 24 00:00:00 2020 GMT; NotAfter: Sep 23 23:59:59 2030 GMT
  2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
-   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root CA
    a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
-   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+   v:NotBefore: Jan 18 00:00:00 2024 GMT; NotAfter: Nov  9 23:59:59 2031 GMT
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
@@ -62,10 +62,10 @@ Peer signing digest: SHA256
 Peer signature type: rsa_pss_rsae_sha256
 Negotiated TLS1.3 group: X25519MLKEM768
 ---
-SSL handshake has read 5535 bytes and written 1560 bytes
+SSL handshake has read 5769 bytes and written 1576 bytes
 Verification: OK
 ---
-New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
 Protocol: TLSv1.3
 Server public key is 2048 bit
 This TLS version forbids renegotiation.

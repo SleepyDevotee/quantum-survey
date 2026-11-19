@@ -4,7 +4,7 @@ Certificate chain
  0 s:CN=maricopa.gov
    i:C=US, O=Google Trust Services, CN=WE1
    a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA256
-   v:NotBefore: Sep 20 03:17:08 2026 GMT; NotAfter: Dec 19 04:17:04 2026 GMT
+   v:NotBefore: Nov 18 04:39:19 2026 GMT; NotAfter: Feb 16 05:39:16 2027 GMT
  1 s:C=US, O=Google Trust Services, CN=WE1
    i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
    a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
@@ -16,25 +16,25 @@ Certificate chain
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIDbzCCAxSgAwIBAgIQAwm1Kef0YlATx/btdp1LKzAKBggqhkjOPQQDAjA7MQsw
-CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
-VQQDEwNXRTEwHhcNMjYwOTIwMDMxNzA4WhcNMjYxMjE5MDQxNzA0WjAXMRUwEwYD
-VQQDEwxtYXJpY29wYS5nb3YwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARbYwJl
-/GE8Zgwgxxrf7YhOztnuej9IppAV+Qkt3ws82cgaLAVqbx1Vq/cP+6rnlISgTNcs
-QKBvMfcpTrnAnNDwo4ICHDCCAhgwDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQMMAoG
-CCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFHuMoHnXDKXssntL4GGt
-8CfIRpg1MB8GA1UdIwQYMBaAFJB3kjVnxP+ozKnme9mAeXvMk/k4MDUGCCsGAQUF
-BwEBBCkwJzAlBggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd2UxLmNydDAX
-BgNVHREEEDAOggxtYXJpY29wYS5nb3YwEwYDVR0gBAwwCjAIBgZngQwBAgEwNgYD
-VR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd2UxLzBTbEpmVWl2UzFv
-LmNybDCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB1ANdtfRDRp/V3wsfpX9cAv/mC
-yTNaZeHQswFzF8DIxWl3AAABoL0IPw8AAAQDAEYwRAIgR32Nf1aZ+riW6dN2gb28
-0i22tf/OGeLDI3LYLbNKNMgCICP0hqnwe/1zWqVlWdwNZOzHVeS82/dIeZgpbQDM
-gKBJAHcAJbfv3qETAZPtkweXcKoyKiZiDeNayKp8dRl94LGp4GUAAAGgvQg/3AAA
-BAMASDBGAiEA1MsyjePC6+xbc9VgzsLliEYn6dx2fMfCZ4Kte4nnC2YCIQCDSbah
-faxO662KGBX8ANOjXA52d7IQJQ0knaGnLYKJVzAKBggqhkjOPQQDAgNJADBGAiEA
-xlj7eaYG/nRS2syPMIWvyRWg35AlLlZ1ohMSPtnzUfACIQDD7IWYUQ86+bJenTLG
-vgfe9olcV2akVwLAYg1GEy+ryg==
+MIIDeTCCAx6gAwIBAgIRAJBUtq8dZ+qODrpOlXHRYvUwCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI2MTExODA0MzkxOVoXDTI3MDIxNjA1MzkxNlowFzEVMBMG
+A1UEAxMMbWFyaWNvcGEuZ292MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAERdng
+KrlRskvX76wayqr1EJOmzG3hsKcY5XkIagixt3IBRRYoBuAvMo16tLUkkmX+Panx
+sH/3Uto7ql5D9uZwaqOCAiUwggIhMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAK
+BggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBT00gEALVrgTj3ZDe+O
+hz3Lqu3hojAfBgNVHSMEGDAWgBSQd5I1Z8T/qMyp5nvZgHl7zJP5ODA1BggrBgEF
+BQcBAQQpMCcwJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQw
+FwYDVR0RBBAwDoIMbWFyaWNvcGEuZ292MBMGA1UdIAQMMAowCAYGZ4EMAQIBMDYG
+A1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29nL3dlMS9Vbjc5TG00LUtf
+cy5jcmwwggENBgorBgEEAdZ5AgQCBIH+BIH7APkAdwAAGl0aHC2TdbZIVXj4L3Gh
+rm7vOX0pfIrjFXvK3uGgHgAAAaHtKq/pAAAEAwBIMEYCIQCaBCnvfcyDTrwUNeX0
+YFd4WNjHY9z1AFxhO92sMBQiYAIhAIVEY32fJc47KLiVNSPQSiblK8GKiKMfxOsZ
+zbEeXfWYAH4AjspHC6zeavOiBrCkeoS3Rv4fxr+VPiXmm07kAkjzxugAAAGh7Sqy
+3AAIAAAFAEyuvyMEAwBHMEUCIQCvO9574VmyUqNKPyJs27V0KQkK2U9ND/dASQ18
+iTOQnAIgKb1pQArGF+xGr39XWuntwKZXVx6LCYhEWq5fn24HgwowCgYIKoZIzj0E
+AwIDSQAwRgIhAP6Hc/AfM3uoeA9lLA8fazxzRWZBjMXHjQh6b3eOobS2AiEA/E+q
+0T332g9sXIa9SKmQNRKXQNOn2UEEucYibO7DR7Y=
 -----END CERTIFICATE-----
 subject=CN=maricopa.gov
 issuer=C=US, O=Google Trust Services, CN=WE1
@@ -44,7 +44,7 @@ Peer signing digest: SHA256
 Peer signature type: ecdsa_secp256r1_sha256
 Peer Temp Key: X25519, 253 bits
 ---
-SSL handshake has read 2924 bytes and written 1586 bytes
+SSL handshake has read 2934 bytes and written 1586 bytes
 Verification: OK
 ---
 New, TLSv1.2, Cipher is ECDHE-ECDSA-CHACHA20-POLY1305
@@ -57,28 +57,28 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-ECDSA-CHACHA20-POLY1305
-    Session-ID: 806E70BCC30E5A4ECD34A35CAEF47676FB9626140FB27B462AA72902A52D79F5
+    Session-ID: B105D110D917E5C82A5FECA9B187F5D01ECC67008255F29581A6BD7CBF3B80DF
     Session-ID-ctx: 
-    Master-Key: 77BA98DE7FFAB07EDFFFB35799A87CE7617F55F3B938DFC1B558024BB228A9BDBEED77FA117366982A8EF40EB992D56C
+    Master-Key: 7283D680CB42BFEC395D722551A1955B13864F384A618DD7565814D855E1B8C31556E88101C3F673C6B3D4BCA7536D65
     PSK identity: None
     PSK identity hint: None
     SRP username: None
     TLS session ticket lifetime hint: 64800 (seconds)
     TLS session ticket:
-    0000 - b4 9d fb b8 f6 40 90 2a-ce eb 58 cc 1d 52 8f 04   .....@.*..X..R..
-    0010 - 9a 4a f4 6b a5 51 49 a7-bd 52 e5 45 a6 d2 10 0a   .J.k.QI..R.E....
-    0020 - 9b a2 4d a3 71 86 e0 66-e7 04 2c c7 c2 27 0c f4   ..M.q..f..,..'..
-    0030 - 82 e3 77 46 4a 7f cb dd-fb 36 af 1f 35 b1 f0 eb   ..wFJ....6..5...
-    0040 - 65 92 28 4b 53 e8 ee ea-80 33 61 ab 49 f0 d9 db   e.(KS....3a.I...
-    0050 - b6 02 a0 0e 09 26 33 9d-cf 5b ae ea ec a4 49 41   .....&3..[....IA
-    0060 - 1b 0f 89 87 ff 5c 3f 96-a4 a9 3d 42 a8 21 cb f8   .....\?...=B.!..
-    0070 - a5 6d 10 e2 e3 d0 8c a0-d8 5c c1 d2 4e 9c e0 10   .m.......\..N...
-    0080 - c7 09 91 42 1d 26 30 ac-4a f4 1c 06 fe ff 3c 65   ...B.&0.J.....<e
-    0090 - 46 c3 a4 f1 52 bd 7d 22-b3 be 73 6b a5 a7 3c 99   F...R.}"..sk..<.
-    00a0 - ee ed c6 64 93 8b 2e b1-27 7e fe e0 ca 79 09 24   ...d....'~...y.$
-    00b0 - 2b ee d9 26 c8 56 26 af-19 97 17 25 51 6d 4e 13   +..&.V&....%QmN.
+    0000 - 2e 05 3c 2f 56 d4 a6 e1-cd a1 7d 18 96 03 22 31   ..</V.....}..."1
+    0010 - 2f 2c f3 44 69 02 4d 64-cd b5 6e de 82 e7 f6 78   /,.Di.Md..n....x
+    0020 - 93 87 a7 23 24 b3 06 31-df c3 bd 0e 10 a4 92 96   ...#$..1........
+    0030 - b9 f3 72 8f 19 f3 5d 11-e2 34 a0 d0 8c 31 37 a2   ..r...]..4...17.
+    0040 - b9 7f bb 9c f5 5c 4e fb-0a b7 58 53 f1 56 f7 53   .....\N...XS.V.S
+    0050 - 26 0c 1a 08 f2 21 3e b1-ce 53 19 21 51 24 3d e3   &....!>..S.!Q$=.
+    0060 - f5 c7 f2 6d d5 74 97 02-4d 23 ae eb 94 ba f1 d9   ...m.t..M#......
+    0070 - fd 78 93 3f 22 04 19 95-6d 32 65 1c de 71 bd 62   .x.?"...m2e..q.b
+    0080 - 0e c8 a7 5c 36 5c 67 6f-5e 7d 9f 3f 5b 3f 1e a0   ...\6\go^}.?[?..
+    0090 - ce d0 3e 61 c9 bd b6 37-d8 26 89 a9 6b 74 8c 7c   ..>a...7.&..kt.|
+    00a0 - ba 20 8f e2 99 b1 e9 80-35 ed a7 c6 18 a9 bc 63   . ......5......c
+    00b0 - 90 2b a5 9a 07 0c fe d3-07 d1 ab a8 1f 1c 1f e8   .+..............
 
-    Start Time: 1794808059
+    Start Time: 1795053449
     Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
     Extended master secret: yes
